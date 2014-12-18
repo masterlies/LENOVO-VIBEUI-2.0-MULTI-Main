@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurasi hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+keselamatan:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID tidak boleh lebih panjang daripada 32 aksara</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Keselamatan: %2$s
+Kata laluan: %3$s"</string>
+    <string name="wifi_cancel">Batal</string>
+    <string name="wifi_save">Simpan</string>
+    <string name="wifi_ssid">SSID Rangkaian</string>
+    <string name="wifi_security">Keselamatan</string>
+    <string name="wifi_password">Kata laluan</string>
+    <string name="wifi_show_password">Tunjukkan kata laluan</string>
+    <string name="credentials_password_too_short">Kata laluan mesti mengandungi sekurang-kurangnya 8 aksara.</string>
+    <string name="wifi_channel">Saluran Pilihan</string>
+    <string name="wifi_channel_width">Lebar Saluran</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Hotspot dimulakan</string>
+    <string name="tethered_notification_message">Sentuh untuk mengkonfigurasi</string>
+    <string name="tether_about_title">Penerangan Fungsi</string>
+    <string name="wlan_connection_title">hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Perkongsian rangkaian Bluetooth</string>
+    <string name="usb_share_title">Perkongsian rangkaian USB</string>
+    <string name="about_wlan">Dengan menetapkan hotspot WLAN pada peranti ini, akan membolehkan peranti WLAN lain untuk disambungkan kepada rangkaian mudah alih peranti untuk pelayaran Web</string>
+    <string name="about_usb">Dengan mendayakan perkongsian rangkaian USB pada peranti ini, akan membolehkan peranti yang disambungkan untuk menggunakan rangkaian mudah alih peranti ini untuk pelayaran Web</string>
+    <string name="about_bt">Dengan mendayakan perkongsian rangkaian Bluetooth pada peranti ini, akan membolehkan peranti Bluetooth lain untuk menggunakan rangkaian mudah alih peranti ini untuk pelayaran Web</string>
+    <string name="about_usb_other">"Nota lain: 
+ 1. Semasa penyambungan USB, anda tidak boleh memasang kad SD peranti pada komputer
+ 2. Sambungan hanya dikenakan kepada Windows Vista, Windows 7, Windows 8 dan Linux"</string>
+    <string name="wifi_tether_settings_title">Maklumat konfigurasi WLAN</string>
+    <string name="wifi_ap_client_block_title">Halang</string>
+    <string name="wifi_ap_client_unblock_title">Nyahsekat</string>
+    <string name="wifi_ap_connected_title">Pengguna yang disambungkan</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d disambungkan, %2$d disekat</string>
+    <string name="open_title">Dayakan petua</string>
+    <string name="open_mess">Untuk menggunakan %1$s, anda perlu mendayakan fungsi sambungan data</string>
+    <string name="open_mess_all">Untuk menggunakan %1$s, anda perlu mendayakan WLAN atau fungsi sambungan data</string>
+    <string name="cancel">Batal</string>
+    <string name="go_settings">Pergi ke seting</string>
+    <string name="open_mess_alert">Rangkaian mudah alih telah didayakan. Menggunakan fungsi %1$s mungkin menghasilkan lebih banyak trafik data dan bayaran. Anda mahu mendayakannya?</string>
+    <string name="open">Dayakan</string>
+</resources>

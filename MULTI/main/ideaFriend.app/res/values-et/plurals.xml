@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d telefoninumbriga kontakti</item>
+        <item quantity="one">1 telefoninumbriga kontakt</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontakti</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Leidsin %d kontakti</item>
+        <item quantity="one">Leidsin 1 kontakti</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 leitud</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Ühendati %0$d allikast</item>
+        <item quantity="one">Ei ole ühendatud</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d gruppi</item>
+        <item quantity="one">1 grupp</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d inimest: %2$s</item>
+        <item quantity="one">%1$d kontakti: %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d inimest</item>
+        <item quantity="one">%1$d inimest</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d kõneposti</item>
+        <item quantity="one">Kõnepost</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">leiti %d kõnelogi</item>
+        <item quantity="one">leiti 1 kõnelogi</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Otsi kontaktide hulgast | Kokku %d kontakti</item>
+        <item quantity="one">Otsi kontaktide hulgast | Kokku 1 kontakt</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s vestlust kustutatakse.</item>
+        <item quantity="one">Süsteem kustutab 1 vestluse</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d lugemata sõnumit.</item>
+        <item quantity="one">%d lugemata sõnumit.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekund(it)</item>
+        <item quantity="one">%s sekund(it)</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s otsingutulemused: %2$s</item>
+        <item quantity="one">%1$s otsingutulemused: %2$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s inimest</item>
+        <item quantity="one">%1$s inimest</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">saadan %d lugemisaruannet</item>
+        <item quantity="one">saadan %d lugemisaruannet</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d valitud</item>
+        <item quantity="one">%d valitud</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Märgi %1$s vestlust loetuks</item>
+        <item quantity="one">Märgi 1 vestlus loetuks</item>
+    </plurals>
+</resources>

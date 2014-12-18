@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdeaFriendSecreteCode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">การตั้งค่า</string>
+    <string name="meid_activity_title">เวอร์ชัน PRL</string>
+    <string name="disable_dfn_activity_title">การตั้งค่า FDN</string>
+    <string name="tv_text">"การตั้งค่า Startup FDN
+(เปิด/ปิดใช้งาน)"</string>
+    <string name="btn_post">เปิดใช้งาน</string>
+    <string name="btn_neg">ปิดใช้งาน</string>
+    <string name="enable">เปิดใช้งาน</string>
+    <string name="disable">ปิดใช้งาน</string>
+    <string name="reboot_device_title">รีสตาร์ทอุปกรณ์</string>
+    <string name="reboot_device_message_pre_on">เปิดใช้งานบริการ SS</string>
+    <string name="reboot_device_message_pre_off">ปิดใช้งานบริการ SS</string>
+    <string name="reboot_device_message_post">(ต้องรีสตาร์ท!!!)</string>
+    <string name="reboot">รีสตาร์ท</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="default_state">ข้อผิดพลาด</string>
+    <string name="cur_state">สถานะของบริการ SS ปัจจุบัน:</string>
+</resources>

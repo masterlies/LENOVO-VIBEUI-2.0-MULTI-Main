@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Delete the selected content?</item>
+        <item quantity="one">Delete the selected content?</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d items scanned</item>
+        <item quantity="zero">%1$d items scanned</item>
+        <item quantity="one">%1$d item scanned</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Allow offline viewing an album.</item>
+        <item quantity="one">Allow offline viewing an album.</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d albums are selected</item>
+        <item quantity="zero">%1$d albums are selected</item>
+        <item quantity="one">%1$d albums are selected</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d groups are selected</item>
+        <item quantity="zero">%1$d groups are selected</item>
+        <item quantity="one">%1$d groups are selected</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d items selected</item>
+        <item quantity="zero">%1$d items selected</item>
+        <item quantity="one">%1$d items selected</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+</resources>

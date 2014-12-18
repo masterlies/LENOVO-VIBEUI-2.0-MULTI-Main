@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Tetapkan kepada bandar lalai</item>
+        <item>Padam bandar ini</item>
+    </string-array>
+</resources>

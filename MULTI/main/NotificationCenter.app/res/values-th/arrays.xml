@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 วินาที</item>
+        <item>6 วินาที</item>
+        <item>9 วินาที</item>
+    </string-array>
+    <string-array name="network_speed_refresh_time_interval_value">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>"ความแรงของสัญญาณ
+แย่"</item>
+        <item>"ความแรงของสัญญาณ
+อ่อน"</item>
+        <item>"ความแรงของสัญญาณ
+ปานกลาง"</item>
+        <item>"ความแรงของสัญญาณ
+ดี"</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>กราฟฟิค</item>
+        <item>เปอร์เซ็นต์</item>
+    </string-array>
+    <string-array name="battery_style_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <array name="locale_carrier_names" />
+    <array name="origin_carrier_names" />
+</resources>

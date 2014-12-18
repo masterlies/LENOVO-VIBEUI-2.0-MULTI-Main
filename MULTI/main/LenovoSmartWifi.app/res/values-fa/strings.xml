@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_activity">WLAN وابسته به مکان</string>
+    <string name="dialog_title">تغییر اتصال دیتا</string>
+    <string name="dialog_text">اتصال داده فعال شده است. هزینه‌های داده ممکن است اعمال شوند. آیا مایلید که به WLAN در دسترس متصل شوید؟</string>
+    <string name="disable_dialog_title">WLAN غیرفعال شود؟</string>
+    <string name="disable_dialog_text">مکان کنونی از محدوده نقطه دستیابی متصل شده خارج می‌شود، آیا مایلید WLAN متوقف شود؟</string>
+    <string name="show_dialog">به من یادآوری نشود</string>
+    <string name="disable_show_dialog">به من یادآوری نشود</string>
+    <string name="wifi_enable_text">گزینه‌های نقطه دستیابی</string>
+    <string name="wifi_enable_summary">انتخاب کنید که اگر گوشی به داده 3G متصل شده باشد به صورت خودکار به WLAN در دسترس وصل شود یا اعلان کند.</string>
+    <string name="wifi_disable_text">گزینه‌های خارج از محدوده</string>
+    <string name="wifi_disable_summary">انتخاب کنید که اگر نقطه دستیابی خارج از محدوده بود می‌خواهید به شما اعلان شود یا اتصال WLAN به طور خودکار قطع گردد.</string>
+    <string name="wifi_setting_summary">این ویژگی را برای اولویت دادن اتصال WLAN به جای اتصال 3G به طور خودکار فعال می‌کند.</string>
+    <string name="wifi_popup_tip">پیام بازشو</string>
+    <string name="wifi_auto_enable">اتصال خودکار WLAN</string>
+    <string name="wifi_auto_disable">قطع اتصال خودکار WLAN</string>
+    <string name="wifi_popup_0">نقطه دستیابی متصل شده را مرتبط کنید و دفعه بعد که به این منطقه وارد شدید یک پنجره اعلان ظاهر می‌شود</string>
+    <string name="wifi_popup_1">نقطه دستیابی متصل شده را مرتبط کنید و دفعه بعد که به این منطقه وارد شدید به صورت خودکار فعال می‌شود</string>
+    <string name="wifi_popup_2">به من یادآوری نشود</string>
+    <string name="confirm_yes">بله</string>
+    <string name="confirm_no">خیر</string>
+    <string name="enable_wifi_hint">با استفاده از اتصال GPRS مشخص شد که شما به شبکه دسترسی دارید. برای ذخیره ترافیک داده، می‌توانید با WLAN وابسته به مکان، به شبکه بی‌سیم دسترسی داشته باشید</string>
+    <string name="disable_wifi_hint">WLAN وابسته به منطقه در حالت آماده به کار شناسایی شده است و به صورت خودکار برای حفظ باتری خاموش خواهد شد</string>
+</resources>

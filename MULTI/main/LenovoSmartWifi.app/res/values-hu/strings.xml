@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Helyhez kötődő WLAN használat</string>
+    <string name="dialog_title">WLAN engedélyezése?</string>
+    <string name="dialog_text">Ezt a helyet csatlakoztatták a hozzáférési ponthoz，WLAN engedélyezése？</string>
+    <string name="disable_dialog_title">WLAN letiltása?</string>
+    <string name="disable_dialog_text">Ez a hely távol esik a csatlakoztatott hozzáférési pont helyétől，WLAN letiltása？</string>
+    <string name="show_dialog">Ne figyelmeztessen újra</string>
+    <string name="disable_show_dialog">Ne figyelmeztessen újra</string>
+    <string name="wifi_enable_text">Hely megadása, felugró üzenet</string>
+    <string name="wifi_enable_summary">A 3-as vagy erősebb jellel rendelkező csatlakoztatott hozzáférési pont helyének megadásakor és GPRS adatokkal rendelkezés esetén，WLAN engedélyezése</string>
+    <string name="wifi_disable_text">Távol eső hely, felugró üzenet</string>
+    <string name="wifi_disable_summary">Ha a csatlakoztatott hozzáférési pont távol van，WLAN letiltása</string>
+    <string name="wifi_setting_summary">Csatlakoztatott WLAN hálózat hozzárendelése, és amennyiben később 3G/2G GPRS adatszolgáltatást használ annak lefedettségi területén, emlékeztetőt fog kapni, hogy ehhez a WLAN hálózathoz csatlakozzon, vagy automatikusan fog csatlakozni ehhez a hálózathoz</string>
+    <string name="wifi_popup_tip">Felugró üzenet</string>
+    <string name="wifi_auto_enable">Automatikus csatlakoztatás</string>
+    <string name="wifi_auto_disable">Automatikus letiltás</string>
+    <string name="wifi_popup_0">Csatlakoztatott hozzáférési pont hozzárendelése.E helynek a megadásakor felugró üzenet jelenik meg</string>
+    <string name="wifi_popup_1">Csatlakoztatott hozzáférési pont hozzárendelése.E helynek a megadásakor automatikus engedélyezés</string>
+    <string name="wifi_popup_2">Ne figyelmeztessen újra</string>
+    <string name="confirm_yes">Igen</string>
+    <string name="confirm_no">Nem</string>
+    <string name="enable_wifi_hint">WLAN Felvétel csatlakozik a WLAN hálózathoz, hogy elmentse az adatfolyamot</string>
+    <string name="disable_wifi_hint">WLAN Felvétel kikapcsolja a WLAN-t energiatakarékosság céljából</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Záznam zvuku</string>
+    <string name="left_timer_format" formatted="false">Zostávajúci čas: %02d h %02dmin.</string>
+    <string name="recording">Záznam %1$s</string>
+    <string name="label_quality">Vybrať kvalitu záznamu</string>
+    <string name="remain_time">Zostávajúci čas</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Zrušiť</string>
+    <string name="audio_db_artist_name">Vaše záznamy</string>
+    <string name="audio_db_album_name">Zvukové záznamy</string>
+    <string name="audio_db_playlist_name">Moje záznamy</string>
+    <string name="exit_tip">Naozaj chcete ukončiť záznamník?</string>
+    <string name="error_zero_audio">Nemožno zaznamenať zvuk kratší ako 0 sekúnd</string>
+    <string name="error_busy_in_call">Zaveste a potom použite záznamník.</string>
+    <string name="error_no_space">Nedostatok voľného miesta, nemožno zaznamenávať.</string>
+    <string name="error_sdcard_access">Prístup na kartu SD nemožný.</string>
+    <string name="error_internal">Záznamník je spustený, najskôr ho zatvorte.</string>
+    <string name="error_mediadb_new_record">Zaznamenaný zvuk sa nepodarilo uložiť.</string>
+    <string name="error_app_unsupported">Nepodporovaný formát</string>
+    <string name="error_insert_sd_card">Vložte kartu SD</string>
+    <string name="error_storage_is_full">Ukladací priestor je plný</string>
+    <string name="error_max_length">Bola dosiahnutá maximálna povolená dĺžka</string>
+    <string name="contextmenu_item_delete">Odstrániť</string>
+    <string name="contextmenu_item_rename">Premenovať</string>
+    <string name="contextmenu_item_send_title">Odoslať</string>
+    <string name="contextmenu_item_setasringtone">Vyzváňací tón</string>
+    <string name="label_setringtone_success">Záznam %1$s bol úspešne nastavený ako tón zvonenia</string>
+    <string name="setringtone_fail">V tichom a vibračnom režime zariadenia nie je nutné nastaviť tón zvonenia</string>
+    <string name="del_selfile_tip">Naozaj chcete odstrániť zaznamenaný zvukový súbor?</string>
+    <string name="label_delete_success">Úspešne odstránené.</string>
+    <string name="input_toolong">Zadaných príliš veľa znakov</string>
+    <string name="file_name_exist">Ľutujeme, názov súboru nemožno opakovať</string>
+    <string name="empty_len">Názov súboru nemôže byť prázdny.</string>
+    <string name="namebad">Názov súboru obsahuje neplatné znaky: \\ : ? * > \" | / atď.</string>
+    <string name="delete_tip">Odstrániť záznam</string>
+    <string name="not_select">Nevybrali ste žiadnu možnosť</string>
+    <string name="am_file">%1$s:%2$s dop.</string>
+    <string name="pm_file">%1$s:%2$s pop.</string>
+    <string name="selected_number_of">Vybrané: %1$s</string>
+    <string name="saved_file_reminder">Súbor je uložený ako %1$s</string>
+    <string name="delete_recorded">Odstrániť zaznamenaný zvukový súbor</string>
+    <string name="delete_muti_msg">Čakajte, odstraňuje sa...</string>
+    <string name="rename_record_file">Premenovať zaznamenaný súbor</string>
+    <string name="soundrecorder_list">Zoznam záznamníka zvuku</string>
+    <string name="callrecorder_list">Zoznam záznamníka hovorov</string>
+    <string name="mediarecorder_list">Zoznam záznamníka médií</string>
+    <string name="high_quality">Režim interview (vysoké)</string>
+    <string name="medium_quality">Režim konverzácie (stredné)</string>
+    <string name="low_quality">Režim interakcie (nízke)</string>
+    <string name="exit_record_play">Pred prehrávaním zastavte zaznamenávanie</string>
+    <string name="exit_play_edit">Pred úpravou záznamu zastavte prehrávanie</string>
+    <string name="exit_playOrRecord_delete">Pred prechodom do režimu odstraňovania v dávkach zastavte prehrávanie alebo zaznamenávanie</string>
+    <string name="exit_toast">Opätovným kliknutím ukončite záznamník zvuku</string>
+    <string name="playlist_text">Zoznam záznamov</string>
+    <string name="fileDir_not_exist">Cesta vybratá pre zvukový súbor neexistuje!</string>
+</resources>

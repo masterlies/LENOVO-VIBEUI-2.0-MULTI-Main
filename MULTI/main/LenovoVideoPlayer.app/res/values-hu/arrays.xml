@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Hírek</item>
+        <item>Sportok</item>
+        <item>Dráma</item>
+        <item>Zenei videó</item>
+        <item>Film</item>
+        <item>Vígjáték</item>
+        <item>Akció</item>
+        <item>Musical</item>
+        <item>Animáció</item>
+        <item>Varieté</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Lejátszás</item>
+        <item>Átnevezés</item>
+        <item>Törlés</item>
+        <item>Információ</item>
+        <item>Megosztás</item>
+        <item>Több kiválasztása</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Lejátszás</item>
+        <item>Átnevezés</item>
+        <item>Törlés</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Lejátszás</item>
+        <item>Törlés</item>
+        <item>Lista törlése</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Lejátszás</item>
+        <item>Videó hozzáadása</item>
+    </string-array>
+</resources>

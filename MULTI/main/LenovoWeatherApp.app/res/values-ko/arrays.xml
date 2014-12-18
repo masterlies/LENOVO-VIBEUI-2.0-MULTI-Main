@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>기본 도시로 설정</item>
+        <item>이 도시 삭제</item>
+    </string-array>
+</resources>

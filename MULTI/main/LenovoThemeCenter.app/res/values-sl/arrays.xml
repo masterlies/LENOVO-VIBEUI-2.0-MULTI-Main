@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>zaklenjen zaslon</item>
+        <item>zaganjalnik</item>
+        <item>ikone</item>
+        <item>ozadje</item>
+        <item>uporabniški vmesnik sistema</item>
+        <item>ideafriend</item>
+        <item>zaslon med klicem</item>
+        <item>sistemski pripomoček</item>
+        <item>tema zagona in zaustavitve</item>
+        <item>pisava</item>
+    </string-array>
+</resources>

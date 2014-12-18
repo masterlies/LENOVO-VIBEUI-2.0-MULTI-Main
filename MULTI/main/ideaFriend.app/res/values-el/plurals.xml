@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d επαφές με αριθμούς τηλεφώνου</item>
+        <item quantity="one">1 επαφή με αριθμό τηλεφώνου</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d επαφές</item>
+        <item quantity="one">1 επαφή</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Βρέθηκαν %d</item>
+        <item quantity="one">Βρέθηκε 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Βρέθηκαν %d</item>
+        <item quantity="one">Βρέθηκε 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">συγχωνεύτηκαν από %0$d πηγές</item>
+        <item quantity="one">μη συγχωνευμένα</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ομάδες</item>
+        <item quantity="one">1 ομάδα</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d άτομα από %2$s</item>
+        <item quantity="one">%1$d άτομο από %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d άτομα</item>
+        <item quantity="one">%1$d άτομο</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d μηνύματα τηλεφωνητή</item>
+        <item quantity="one">Τηλεφωνητής</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d αρχεία καταγραφής κλήσεων</item>
+        <item quantity="one">1 αρχείο καταγραφής κλήσεων</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Αναζ. επαφών | Συνολ. %d επαφές</item>
+        <item quantity="one">Αναζ. επαφών | Συνολ. 1 επαφή</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s συζητήσεις θα διαγραφούν</item>
+        <item quantity="one">1 συζήτηση θα διαγραφεί</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d μη αναγνωσμένα μηνύματα.</item>
+        <item quantity="one">%d μη αναγνωσμένο μήνυμα.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s δευτερόλεπτα</item>
+        <item quantity="one">%s δευτερόλεπτο</item>
+        <item quantity="few">%s δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s αποτελέσματα για \"%2$s\"</item>
+        <item quantity="one">%1$s αποτέλεσμα για \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s άτομα</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">αποστολή %d αναφορών ανάγνωσης</item>
+        <item quantity="one">αποστολή %d αναφοράς ανάγνωσης</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Επιλέχθηκε το %d</item>
+        <item quantity="one">Επιλέχθηκε το %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Σήμανση %1$s συζητήσεων ως αναγνωσμένων</item>
+        <item quantity="one">Σήμανση 1 συζήτησης ως αναγνωσμένης</item>
+    </plurals>
+</resources>

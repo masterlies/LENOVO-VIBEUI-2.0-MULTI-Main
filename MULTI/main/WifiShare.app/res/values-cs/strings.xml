@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Nastavení</string>
+    <string name="app_name">Sdílet účet sítě WLAN</string>
+    <string name="prompt">Přibližte telefony a sdílejte síť WLAN s přáteli!</string>
+    <string name="current_wifi">Aktuální připojení sítě WLAN:</string>
+    <string name="hotknot_help">Postup sdílení: V aktuálním rozhraní přidržte horní zadní část obou telefonů u sebe (přenos přes rozhraní NFC). Postupujte podle pokynů na obrazovce a sdílejte připojený účet sítě WLAN.</string>
+    <string name="title_receive">Probíhá příjem</string>
+    <string name="wlan_connecting">Probíhá příjem účtu sítě WLAN...</string>
+    <string name="title_finish">Úspěšně přijato</string>
+    <string name="wlan_finish">Účet sítě WLAN byl úspěšně přijat. Připojte se k %1$s a jste online!</string>
+    <string name="send_ap_no_connected">Nelze sdílet (připojený účet sítě WLAN nenalezen)</string>
+    <string name="hotknot_help_note">Poznámka: Přijímající telefon musí podporovat sdílení účtů sítěWLAN (se zadáváním funkcí)</string>
+    <string name="wifi_share">Sdílení přes síť WLAN</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Індикатор</string>
+    <string name="breath_settings">Налаштування дихання</string>
+    <string name="breath_delay">Цикл дихання</string>
+    <string name="breath_delay_info">Зменшення затримка, буде споживатися більше енергії</string>
+    <string name="light_switch_settings">Параметри освітлення</string>
+    <string name="coming_call">Вхідний виклик</string>
+    <string name="miss_call">Пропущений виклик</string>
+    <string name="unread_msg">Непрочитані повідомлення</string>
+    <string name="battery_low_msg">Повідомлення про низький заряд акумулятора</string>
+    <string name="other_app_notify">Інше</string>
+    <string name="music_play">Музика</string>
+    <string name="screen_on">Екран увімкнений</string>
+    <string name="screen_off">Екран вимкнений</string>
+    <string name="power_on_off">Живлення вимк/увімк</string>
+    <string name="charging">Заряджання</string>
+    <string name="low_battery">Низький заряд акумулятора</string>
+    <string name="color_settings">Налаштування кольору</string>
+    <string name="color_settings_info">Налаштування кольору для кожного режиму</string>
+    <string name="color_coming_call">Колір освітлення для виклику</string>
+    <string name="color_miss_call">Колір освітлення для пропущеного виклику</string>
+    <string name="color_unread_msg">Колір освітлення для непрочитаних повідомлень</string>
+    <string name="color_music">Колір освітлення для музики</string>
+    <string name="color_screen_on">Колір освітлення для увімкнення екрану</string>
+    <string name="color_screen_off">Колір освітлення для вимкнення екрану</string>
+    <string name="light_show">Показати індикатор</string>
+    <string name="light_show_info">Зараз витворюється світлове шоу</string>
+    <string name="stop">Зупинити</string>
+    <string name="closed">Закрито</string>
+    <string name="open">Увімкнути індикацію</string>
+    <string name="multiselect_alert_info">Потрібно вибрати щонайменше один колір!</string>
+</resources>

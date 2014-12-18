@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Vklop je nastavljen na manj kot 1 minuto od zdaj.</item>
+        <item>Vklop je nastavljen na %1$s od zdaj.</item>
+        <item>Vklop je nastavljen na %2$s od zdaj.</item>
+        <item>Vklop je nastavljen na %1$s in %2$s od zdaj.</item>
+        <item>Vklop je nastavljen na %3$s od zdaj.</item>
+        <item>Vklop je nastavljen na %1$s in %3$s od zdaj.</item>
+        <item>Vklop je nastavljen na %2$s in %3$s od zdaj.</item>
+        <item>Vklop je nastavljen na %1$s, %2$s in %3$s od zdaj.</item>
+        <item>Izklop je nastavljen na manj kot 1 minuto od zdaj.</item>
+        <item>Izklop je nastavljen na %1$s od zdaj.</item>
+        <item>Izklop je nastavljen na %2$s od zdaj.</item>
+        <item>Izklop je nastavljen na %1$s in %2$s od zdaj.</item>
+        <item>Izklop je nastavljen na %3$s od zdaj.</item>
+        <item>Izklop je nastavljen na %1$s in %3$s od zdaj.</item>
+        <item>Izklop je nastavljen na %2$s in %3$s od zdaj.</item>
+        <item>Izklop je nastavljen na %1$s, %2$s in %3$s od zdaj.</item>
+    </string-array>
+</resources>

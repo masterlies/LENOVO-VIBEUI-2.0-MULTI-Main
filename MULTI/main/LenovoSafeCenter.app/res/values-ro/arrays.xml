@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Import din Istoric apeluri</item>
+        <item>Import din Istoric SMS</item>
+        <item>Import din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Nicio alertă</item>
+        <item>Alertă bară de notificare</item>
+        <item>Alertă bară de notificare + ton de alertă</item>
+        <item>Alertă bară de notificare + vibraţii</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Răspuns</item>
+        <item>Respingere</item>
+        <item>Respingere apel cu SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Nicio notificare</item>
+        <item>Notificare bară de notificare</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Editare casetă e-mail</item>
+        <item>Efectuare backup acum</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Ştergere</item>
+        <item>Modificare</item>
+        <item>Trimitere mesaj</item>
+        <item>Apel</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Mesaje şi apeluri</item>
+        <item>Apel primit</item>
+        <item>Mesaj</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Numai contacte</item>
+        <item>Numai Listă albă</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Import din Istoric apeluri</item>
+        <item>Import din Istoric SMS</item>
+        <item>Import din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Blocare numai Listă neagră</item>
+        <item>Permitere numai Contacte</item>
+        <item>Permitere numai Listă albă</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Import din Istoric apeluri</item>
+        <item>Import din Istoric SMS</item>
+        <item>Import din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Dezactivare Listă neagră.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Adăugare din Istoric apeluri</item>
+        <item>Adăugare din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Adăugare din istoric SMS</item>
+        <item>Adăugare din Contacte</item>
+        <item>Adăugare manuală</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Dezactivare Listă neagră</item>
+        <item>Raport</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Apel</item>
+        <item>Trimitere SMS</item>
+        <item>Dezactivare Listă albă</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Actualizare manuală</item>
+        <item>În fiecare zi</item>
+        <item>Săptămânal</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Numele mamei mele?</item>
+        <item>Fructul meu preferat?</item>
+        <item>Ziua de naştere a tatălui meu?</item>
+        <item>Melodia mea preferată?</item>
+        <item>Numele animalului meu de companie?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>O dată la 10 minute</item>
+        <item>O dată la 20 minute</item>
+        <item>O dată la 30 minute</item>
+        <item>O dată la 1 oră</item>
+        <item>O dată la 2 ore</item>
+        <item>O dată la 3 ore</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Răspuns ton ocupat</item>
+        <item>Răspuns telefon descărcat</item>
+        <item>Răspuns telefon oprit</item>
+        <item>Răspuns număr vacant</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Setări</item>
+        <item>Actualizare</item>
+        <item>Despre</item>
+    </string-array>
+</resources>

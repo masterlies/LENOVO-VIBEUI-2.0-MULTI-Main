@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trình quản lý Nguồn</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="power_consume_app_freeze">Đóng băng</string>
+    <string name="power_consume_app_unfreeze">Hủy đóng băng</string>
+    <string name="power_consume_app_uninstall">Gỡ cài đặt</string>
+    <string name="power_consume_app_details">Chi tiết</string>
+    <string name="battery_usage_use">Pin đã dùng: %s</string>
+    <string name="consumption_call">Cuộc gọi Thoại</string>
+    <string name="consumption_screen">Màn hình</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Radio</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">HĐH Android</string>
+    <string name="power_media">Phương tiện</string>
+    <string name="power_battery">Nguồn điện</string>
+    <string name="power_charge">Sạc pin</string>
+    <string name="power_consume">Sử dụng</string>
+    <string name="power_settings">Cài đặt</string>
+    <string name="power_mode">Chế độ</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Tổng thời gian tiêu thụ CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Canh thức</string>
+    <string name="usage_type_alarm">Hệ thống đánh thức</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi đang hoạt động</string>
+    <string name="usage_type_data_send">Đã gửi dữ liệu</string>
+    <string name="usage_type_data_recv">Đã nhận dữ liệu</string>
+    <string name="usage_type_audio">Âm thanh</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Thời gian chạy</string>
+    <string name="usage_type_no_coverage">Không có thời gian tín hiệu</string>
+    <string name="battery_history_days" formatted="false">%d ngày %d giờ %d phút %d giây</string>
+    <string name="battery_history_hours" formatted="false">%d giờ %d phút %d giây</string>
+    <string name="battery_history_minutes" formatted="false">%d phút %d giây</string>
+    <string name="battery_history_seconds">%d giây</string>
+    <string name="battery_hour_minute" formatted="false">%dgiờ %dphút</string>
+    <string name="battery_hour">%d giờ</string>
+    <string name="battery_minute">%d phút</string>
+    <string name="battery_wakelock" formatted="false">%dlần cho %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dngày %dgiờ %dphút %sgiây</string>
+    <string name="battery_wakelock_hours" formatted="false">%dgiờ %dphút %sgiây</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dphút %sgiây</string>
+    <string name="battery_wakelock_seconds">%sgiây</string>
+    <string name="battery_alarm_time">%dlần</string>
+    <string name="battery_screen_time">Kể từ lần sạc đầy cuối</string>
+    <string name="usage_type_wakelock_screen">Ngăn màn hình ngủ</string>
+    <string name="usage_type_wakelock_cpu">Ngăn CPU ngủ</string>
+    <string name="usage_type_sensor">Sử dụng cảm biến</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Khác</string>
+    <string name="battery_screen_on_time">Đang sử dụng: %s</string>
+    <string name="battery_screen_off_time">Đang ở chế độ chờ: %s</string>
+    <string name="enter_setting">Cài đặt Khởi chạy</string>
+    <string name="battery_tab_title_consume">Tiêu thụ pin</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d ngày, %d giờ và %d phút</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d giờ và %d phút</string>
+    <string name="battery_history_minutes_without_seconds">%d phút</string>
+    <string name="battery_sensor_info" formatted="false">%d lần cho tổng cộng %s</string>
+    <string name="hour">giờ</string>
+    <string name="minute">phút</string>
+    <string name="second"> giây</string>
+    <string name="application_not_found">Không tìm cài đặt chi tiết ứng dụng được</string>
+    <string name="mode_turnOff">Tắt</string>
+    <string name="mode_turnOn">Bật</string>
+    <string name="main_switch_dialog_super">Chỉ bật chức năng gọi điện thoại và nhắn tin đồng thời tắt tất cả chức năng khác trong thời gian chờ nhiều ngày</string>
+    <string name="deep_clear_result_to_white_list_new">Các Ứng dụng đã chọn sẽ không bị ảnh hưởng</string>
+    <string name="temporary_no_app">Không có ứng dụng</string>
+    <string name="progress_loading">Vui lòng chờ…</string>
+    <string name="failed_switch_app_state">Rất tiếc, thao tác không thực hiện được, bạn thật tích cực. Vui lòng thử lại sau</string>
+    <string name="package_manger_list_type_third">Ứng dụng người dùng</string>
+    <string name="package_manger_list_type_system">Ứng dụng hệ thống</string>
+    <string name="btn_return">Trở về</string>
+    <string name="main_switcher">Công tắc hẹn giờ</string>
+    <string name="switcher_detail">Tự động bật chế độ quy định trong thời hạn quy định</string>
+    <string name="switcher">Công tắc hẹn giờ</string>
+    <string name="switcher_start_time">Thời gian bắt đầu</string>
+    <string name="switcher_end_time">Thời gian kết thúc</string>
+    <string name="switcher_tag">Được bật cho thời gian này</string>
+    <string name="switcher_target_custom">Tùy chỉnh</string>
+    <string name="mode_changed_dialog">Chuyển chế độ</string>
+    <string name="no_remind">Không nhắc</string>
+    <string name="new_sim">SIM mới</string>
+    <string name="application_not_found_activity">Không tìm thấy ứ.dụng này</string>
+    <string name="classicmode_lable_phone">ĐT</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Danh bạ</string>
+    <string name="failed_get_safecenter_whitelist">Không đồng bộ danh sách trắng của LenovoSafeCenter được. Vui lòng cài đặt lại LenovoSafeCenter mới nhất</string>
+    <string name="application_not_support_be_launched">Các ứng dụng khác không thể bật ứng dụng này do cài đặt bảo mật</string>
+    <string name="classic_phone_dialog_entering">Đang khởi tạo dữ liệu. Vui lòng chờ…</string>
+    <string name="classic_phone_dialog_existing">Đang khôi phục dữ liệu. Vui lòng chờ…</string>
+    <string name="consumption_app_button">Phần mềm</string>
+    <string name="consumption_hardware_button">Phần cứng</string>
+    <string name="power_setting_menu_classic_phone">Chế độ Tiết kiệm Pin Tối đa</string>
+    <string name="power_setting_menu_smart">Tiết kiệm pin màn hình, CPU và GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Vô hiệu ứng dụng khi tắt màn hình</string>
+    <string name="power_setting_menu_consumption">Chi tiết tiêu thụ pin</string>
+    <string name="statistic_assist_title">Tính năng thống kê phụ</string>
+    <string name="power_consumption_title">Tính năng tiết kiệm pin</string>
+    <string name="fragment_tab_deepclear">Vô hiệu ứng dụng khi tắt màn hình</string>
+    <string name="deep_clear_detail">Sau khi bị vô hiệu, ứng dụng sẽ không thể làm gián đoạn chế độ ngủ của điện thoại ở chế độ nền</string>
+    <string name="dialog_timing_text">Chuyển sang chế độ Tiết kiệm Pin Tối đa?</string>
+    <string name="switcher_summery">Tự động chuyển sang chế độ Tiết kiệm Pin Tối đa cho các khoảng thời gian chỉ định</string>
+    <string name="switcher_summery_close">Sau khi được bật, ứng dụng tự động chuyển sang chế độ Tiết kiệm Pin Tối đa cho các khoảng thời gian chỉ định</string>
+    <string name="classicmode_hit_text">Tiết kiệm Pin Tối đa</string>
+    <string name="classic_phone_desktop_shortcut">Tiết kiệm Pin Tối đa</string>
+    <string name="classic_phone_dialog_title">Nhắc nhở của chế độ Tiết kiệm Pin Tối đa</string>
+    <string name="classic_phone_dialog_enter">Bạn có chắc chắn muốn vào chế độ Tiết kiệm Pin Tối đa không?Bạn quá cẩn trọng. Hãy nhớ nghỉ giải lao</string>
+    <string name="classic_phone_dialog_exist">Bạn có chắc chắn muốn thoát chế độ Tiết kiệm Pin Tối đa không?</string>
+    <string name="classic_phone_failed_to_start_service">Không khởi chạy Tiết kiệm Pin Tối đa được. Rất tiếc, chúng tôi đã cố gắng hết sức</string>
+    <string name="create_classicmode_desktop_shortcut">Tạo phím tắt màn hình Tiết kiệm Pin Tối đa</string>
+    <string name="classicmode_exit_hint_text">Để thoát Tiết kiệm Pin Tối đa, vui lòng chạm vào nút đóng</string>
+    <string name="setttings_screen_smart_brightness2">Công cụ hiển thị tiết kiệm pin</string>
+    <string name="setttings_screen_smart_brightness_detail">Sử dụng công nghệ điều chỉnh độ sáng sóng sin để giảm 5–20% mức tiêu thụ pin</string>
+    <string name="power_engine_vmx_title">Công cụ điện toán tiết kiệm pin</string>
+    <string name="power_engine_vmx_detail">Điều chỉnh thông minh CPU để giảm mức tiêu thụ pin từ 10–25%</string>
+    <string name="power_engine_fps_title">Công cụ đồ họa tiết kiệm pin</string>
+    <string name="power_engine_fps_detail">Tối ưu hóa GPU để giảm mức tiêu thụ pin từ 10–25%</string>
+    <string name="power_engine_summery_close">Sau khi được bật, mức tiêu thụ pin màn hình, CPU và GPU sẽ được giảm một cách thông minh</string>
+    <string name="power_engine_summery_close2">Sau khi được bật, mức tiêu thụ pin màn hình và GPU sẽ được giảm một cách thông minh</string>
+    <string name="power_engine_summery_close3">Sau khi được bật, mức tiêu thụ pin màn hình sẽ được giảm một cách thông minh</string>
+    <string name="power_engine_summery_close4">Sau khi được bật, mức tiêu thụ pin màn hình và CPU sẽ được giảm một cách thông minh</string>
+    <string name="power_setting_menu_smart2">Tiết kiệm pin màn hình</string>
+    <string name="power_setting_menu_smart3">Tiết kiệm pin màn hình, CPU và GPU</string>
+    <string name="power_setting_menu_smart4">Tiết kiệm pin màn hình và GPU</string>
+    <string name="power_setting_menu_smart5">Tiết kiệm pin màn hình và CPU</string>
+    <string name="power_setting_current_battery" formatted="false">Mức sạc Hiện tại: %s%s</string>
+    <string name="classicmode_lable_clock">Đồng hồ</string>
+</resources>

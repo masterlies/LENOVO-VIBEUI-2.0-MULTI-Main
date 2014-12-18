@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>ecrã de bloqueio</item>
+        <item>iniciador</item>
+        <item>ícones</item>
+        <item>imagem de fundo</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>callscreen</item>
+        <item>systemwidget</item>
+        <item>bootshut</item>
+        <item>tipo de letra</item>
+    </string-array>
+</resources>

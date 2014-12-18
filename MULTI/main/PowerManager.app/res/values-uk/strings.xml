@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Енергозбереження</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Скасувати</string>
+    <string name="power_consume_app_freeze">Заморозити</string>
+    <string name="power_consume_app_unfreeze">Розморозити</string>
+    <string name="power_consume_app_uninstall">Видалити</string>
+    <string name="power_consume_app_details">Деталі</string>
+    <string name="battery_usage_use">Використання батареї: %s</string>
+    <string name="consumption_call">Голосові дзвінки</string>
+    <string name="consumption_screen">Екран</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">Процесор</string>
+    <string name="consumption_radio">Радіо</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">ОС Android</string>
+    <string name="power_media">Мультимедіа</string>
+    <string name="power_battery">Живлення</string>
+    <string name="power_charge">Заряджання</string>
+    <string name="power_consume">Використання</string>
+    <string name="power_settings">Параметри</string>
+    <string name="power_mode">Режим</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Загальний час використання процесора</string>
+    <string name="usage_type_cpu_foreground">Процесор</string>
+    <string name="usage_type_wake_lock">Не переходити в режим сну</string>
+    <string name="usage_type_alarm">Пробудження системи</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi працює</string>
+    <string name="usage_type_data_send">Надіслані дані</string>
+    <string name="usage_type_data_recv">Отримані дані</string>
+    <string name="usage_type_audio">Звук</string>
+    <string name="usage_type_video">Відео</string>
+    <string name="usage_type_on_time">Час роботи</string>
+    <string name="usage_type_no_coverage">Час відсутності сигналу</string>
+    <string name="battery_history_days" formatted="false">%dд %dгод %dхв. %dсек.</string>
+    <string name="battery_history_hours" formatted="false">%dгод %dхв. %dсек.</string>
+    <string name="battery_history_minutes" formatted="false">%dхв. %dсек.</string>
+    <string name="battery_history_seconds">%dсек.</string>
+    <string name="battery_hour_minute" formatted="false">%dгод %dхв.</string>
+    <string name="battery_hour">%d год</string>
+    <string name="battery_minute">%d хв.</string>
+    <string name="battery_wakelock" formatted="false">%d р. для %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dд %dг %dх %sс</string>
+    <string name="battery_wakelock_hours" formatted="false">%dг %dх %sс</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dх %sс</string>
+    <string name="battery_wakelock_seconds">%sс</string>
+    <string name="battery_alarm_time">%d р.</string>
+    <string name="battery_screen_time">З моменту останнього повного заряджання</string>
+    <string name="usage_type_wakelock_screen">Заборонити перехід екрана в режим сну</string>
+    <string name="usage_type_wakelock_cpu">Заборонити перехід ЦП у режим сну</string>
+    <string name="usage_type_sensor">Датчик використання</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Інші</string>
+    <string name="battery_screen_on_time">Використовується: %s</string>
+    <string name="battery_screen_off_time">У режимі очікування: %s</string>
+    <string name="enter_setting">Параметри запуску</string>
+    <string name="battery_tab_title_consume">Споживання енергії</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d дн., %d год. і %d хв.</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d год. і %d хв.</string>
+    <string name="battery_history_minutes_without_seconds">%d хв.</string>
+    <string name="battery_sensor_info" formatted="false">%d із загальної кількості — %s</string>
+    <string name="hour">год.</string>
+    <string name="minute">хв.</string>
+    <string name="second">сек.</string>
+    <string name="application_not_found">Параметри даних про програму не знайдено</string>
+    <string name="mode_turnOff">Вимк.</string>
+    <string name="mode_turnOn">Увімк.</string>
+    <string name="main_switch_dialog_super">В цьому режимі вимикаються всі функції крім голосових викликів та обміну повідомлень. Цей режим дозволяє значно збільшити час роботи.</string>
+    <string name="deep_clear_result_to_white_list_new">Це не вплине на вибрану програму.</string>
+    <string name="temporary_no_app">Програм немає</string>
+    <string name="progress_loading">Зачекайте…</string>
+    <string name="failed_switch_app_state">Сталася помилка операції. Повторіть спробу пізніше</string>
+    <string name="package_manger_list_type_third">Користувацькі програми</string>
+    <string name="package_manger_list_type_system">Системні програми</string>
+    <string name="btn_return">Назад</string>
+    <string name="main_switcher">Заплановане перемикання</string>
+    <string name="switcher_detail">Автоматичний перехід у визначений режим через указаний період часу</string>
+    <string name="switcher">Заплановане перемикання</string>
+    <string name="switcher_start_time">Час початку</string>
+    <string name="switcher_end_time">Час завершення</string>
+    <string name="switcher_tag">Увімкн.на період:</string>
+    <string name="switcher_target_custom">Налаштування</string>
+    <string name="mode_changed_dialog">Перемикання режиму</string>
+    <string name="no_remind">Не повідомляти</string>
+    <string name="new_sim">Нова SIM-карта</string>
+    <string name="application_not_found_activity">Програму не знайдено</string>
+    <string name="classicmode_lable_phone">Телефон</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Контакти</string>
+    <string name="failed_get_safecenter_whitelist">Не вдалося синхронізувати білий список LenovoSafeCenter. Установіть останню версію LenovoSafeCenter.</string>
+    <string name="application_not_support_be_launched">Інші програми не можуть вмикати цю програму через настройки безпеки.</string>
+    <string name="classic_phone_dialog_entering">Ініціалізація даних. Зачекайте…</string>
+    <string name="classic_phone_dialog_existing">Відновлення даних. Зачекайте…</string>
+    <string name="consumption_app_button">Програмне забезпечення</string>
+    <string name="consumption_hardware_button">Апаратне забезпечення</string>
+    <string name="power_setting_menu_classic_phone">Енергозберігаючий режим</string>
+    <string name="power_setting_menu_smart">Енергозбереження екрана, ЦП та графічного процесора</string>
+    <string name="power_setting_menu_app_deep_clear">Закривати програми при вимкненні екрану</string>
+    <string name="power_setting_menu_consumption">Дані про споживання енергії</string>
+    <string name="statistic_assist_title">Додаткові функції</string>
+    <string name="power_consumption_title">Функції енергозбереження</string>
+    <string name="fragment_tab_deepclear">Закривати програми при вимкненні екрану</string>
+    <string name="deep_clear_detail">Після вимкнення програми не переривають режим сну телефону у фоновому режимі.</string>
+    <string name="dialog_timing_text">Перейти в режим максимального енергозбереження?</string>
+    <string name="switcher_summery">Відбувається автоматичний перехід у режим максимального енергозбереження в указані проміжки часу.</string>
+    <string name="switcher_summery_close">Після ввімкнення функції відбувається автоматичний перехід у режим максимального енергозбереження в указані проміжки часу.</string>
+    <string name="classicmode_hit_text">Максимальне енергозбереження</string>
+    <string name="classic_phone_desktop_shortcut">Максимальне енергозбереження</string>
+    <string name="classic_phone_dialog_title">Повідомлення про максимальне енергозбереження</string>
+    <string name="classic_phone_dialog_enter">Увімкнути режим максимального енергозбереження? Ви надто старанні. Не забувайте робити перерви.</string>
+    <string name="classic_phone_dialog_exist">Вимкнути режим максимального енергозбереження?</string>
+    <string name="classic_phone_failed_to_start_service">Не вдалося запустити режим максимального енергозбереження. Ми зробили все можливе.</string>
+    <string name="create_classicmode_desktop_shortcut">Створити ярлик на робочому столі для режиму максимального енергозбереження</string>
+    <string name="classicmode_exit_hint_text">Щоб вийти з режиму максимального енергозбереження, натисніть кнопку \"Закрити\".</string>
+    <string name="setttings_screen_smart_brightness2">Енергозберігаючий процесор для сканування</string>
+    <string name="setttings_screen_smart_brightness_detail">Використовує синусоїдальну технологію налаштування яскравості, скорочуючи таким чином споживання електроенергії на 5–20 %.</string>
+    <string name="power_engine_vmx_title">Енергозберігаючий обчислювальний процесор</string>
+    <string name="power_engine_vmx_detail">Інтелектуально керує ЦП задля зменшення енергоспоживання на 10–25 %.</string>
+    <string name="power_engine_fps_title">Енергозберігаючий графічний процесор</string>
+    <string name="power_engine_fps_detail">Оптимізує роботу графічного процесора задля зменшення енергоспоживання на 10–25 %.</string>
+    <string name="power_engine_summery_close">Після ввімкнення цеєї функції процесор інтелектуально зменшує енергоспоживання екрана, ЦП та графічного процесора.</string>
+    <string name="power_engine_summery_close2">При активації цього режиму центральний процесор, графічне ядро та екран зменшують власне енергоспоживання.</string>
+    <string name="power_engine_summery_close3">Після ввімкнення цеєї функції процесор інтелектуально зменшує енергоспоживання екрана.</string>
+    <string name="power_engine_summery_close4">Після ввімкнення цеєї функції процесор інтелектуально зменшує енергоспоживання екрана та ЦП.</string>
+    <string name="power_setting_menu_smart2">Енергозбереження екрана</string>
+    <string name="power_setting_menu_smart3">Енергозбереження екрана, ЦП та графічного процесора</string>
+    <string name="power_setting_menu_smart4">Економічний режим роботи процесора та екрана</string>
+    <string name="power_setting_menu_smart5">Енергозбереження екрана та ЦП</string>
+    <string name="power_setting_current_battery" formatted="false">Поточний рівень заряду: %s%s</string>
+    <string name="classicmode_lable_clock">Годинник</string>
+</resources>

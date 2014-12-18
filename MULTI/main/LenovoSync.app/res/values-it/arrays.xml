@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>In attesa</item>
+        <item>Backup in esecuzione</item>
+        <item>Sottoposto a backup</item>
+        <item>Errore</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Annullato</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>In attesa</item>
+        <item>Download in corso</item>
+        <item>Disinstalla</item>
+        <item>Errore</item>
+        <item>Aggiorna</item>
+        <item>Installato</item>
+        <item>Annullato</item>
+        <item>Installazione in corso...</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Cambia nome album</item>
+        <item>Elimina album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"Password predefinita: dopo la registrazione, riceverai un SMS da Lenovo contenente la password. Se non la ricevi, controlla che le app di protezione (come 360 Safe Guard) non abbia bloccato l'SMS. Se continui a non ricevere l'SMS o se l'hai smarrito, consulta Recupera password.  
+
+ Per cambiare la password: cambia la password dopo l'accesso a http://cloud.lenovo.com dal PC.  
+
+ Per recuperare la password: tocca il pulsante Altro in alto a sinistra per accedere a [Impostazioni account]. Se hai già eseguito l'accesso, disconnettiti. Quando appare [Password dimenticata], seguire le indicazioni sullo schermo."</item>
+        <item>"SYNCit è un'app mobile gratuita, ma l'operatore telefonico potrebbe addebitare costi di traffico dovuto al download e al suo utilizzo."</item>
+        <item>"Il backup e il ripristino intelligente consentono l'allineamento a livello locale e sul cloud evitando la perdita dei dati."</item>
+        <item>Nel processo di sincronizzazione dei contatti, SYNCit unisce i contatti con lo stesso nome e numero di telefono. Non preoccuparti: i contatti non saranno persi.</item>
+        <item>Accedi a http://cloud.lenovo.com dal PC per eliminare, modificare e aggiungere i dati di backup.</item>
+        <item>Nella trasmissione e archiviazione dei dati, SYNCit applica la crittografia di livello bancario per evitare la perdita di informazioni personali.</item>
+        <item>Hai eliminato i contatti per errore. Se hai già eseguito la sincronizzazione dei contatti, puoi recuperarli dal [Cestino] di SYNCit. Dopo il recupero dal cestino, sincronizzare i contatti per evitare perdite di dati.</item>
+        <item>Le versioni applicabili sono disponibili per i cellulari con Android 2.2, iOS5 o Symbian o se supportano Java.</item>
+        <item>"SYNCit supporta l'uso multi-piattaforma applicabile a telefoni Android, Symbian, iPhone e a quelli che supportano java."</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>"Che cos'è la password predefinita dell'account? Come posso modificare la password? Come recupero una password dimenticata?"</item>
+        <item>SYNCit è gratis?</item>
+        <item>"Che cos'è la sincronizzazione dei contatti?"</item>
+        <item>Perché dopo la sincronizzazione il numero dei contatti locali è inferiore?</item>
+        <item>Come posso eseguire le operazioni di gestione (ad es.: eliminare) dei dati sottoposti a backup?</item>
+        <item>SYNCit è sicura? I dati sottoposti a backup e il mio account possono essere perduti?</item>
+        <item>Se per errore elimino i contatti, come posso recuperarli?</item>
+        <item>SYNCit è destinata solo a Lenovo Mobile?</item>
+        <item>"SYNCit supporta l'uso multi-piattaforma?"</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Contatti</item>
+        <item>Messaggi</item>
+        <item>Registri chiamata</item>
+    </string-array>
+</resources>

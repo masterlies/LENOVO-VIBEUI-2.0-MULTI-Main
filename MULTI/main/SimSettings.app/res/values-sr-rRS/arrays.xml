@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_show_type_array">
+        <item>Prve 4 cifre</item>
+        <item>Poslednje 4 cifre</item>
+        <item>Ne prikazuj</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>Jednom</item>
+        <item>Uvek</item>
+        <item>Nikad</item>
+    </string-array>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">電話番号が記載されている連絡先が %d 件あります</item>
+        <item quantity="one">電話番号が記載されている連絡先が 1 件あります</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d 件の連絡先</item>
+        <item quantity="one">1 件の連絡先</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d 件見つかりました</item>
+        <item quantity="one">1 件見つかりました</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d 件見つかりました</item>
+        <item quantity="one">1 件見つかりました</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d 件のソースからマージしました</item>
+        <item quantity="one">マージされていません</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d のグループ</item>
+        <item quantity="one">1 つのグループ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s の %1$d 人の人</item>
+        <item quantity="one">%2$s の %1$d 件の連絡先</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d 人</item>
+        <item quantity="one">%1$d 人</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d 件のボイスメール</item>
+        <item quantity="one">ボイスメール</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d 件の通話記録が見つかりました</item>
+        <item quantity="one">1 件の通話記録が見つかりました</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">連絡先の検索 | 合計 %d 件の連絡先</item>
+        <item quantity="one">連絡先の検索 | 合計 1 件の連絡先</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s の会話が削除されます。</item>
+        <item quantity="one">1 つの会話が削除されます</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d 件の未読メッセージ。</item>
+        <item quantity="one">%d 件の未読メッセージ。</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s 秒</item>
+        <item quantity="one">%s 秒</item>
+        <item quantity="few">%s 秒</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\" の %1$s 件の検索結果</item>
+        <item quantity="one">\"%2$s\" の %1$s 件の検索結果</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s 人</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d 個の開封確認レポートの送信中</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d 件のメッセージが選択済みです</item>
+        <item quantity="one">%d 件のメッセージが選択済みです</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">%1$s つの会話を既読としてマーク</item>
+        <item quantity="one">1 つの会話を既読としてマーク</item>
+    </plurals>
+</resources>

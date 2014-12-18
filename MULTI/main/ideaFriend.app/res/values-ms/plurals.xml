@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kenalan dengan nombor telefon</item>
+        <item quantity="one">1 kenalan dengan nombor telefon</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kenalan</item>
+        <item quantity="one">1 kenalan</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d ditemui</item>
+        <item quantity="one">1 ditemui</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ditemui</item>
+        <item quantity="one">1 ditemui</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">dicantum daripada %0$d sumber</item>
+        <item quantity="one">tidak dicantum</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d kumpulan</item>
+        <item quantity="one">1 kumpulan</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d orang daripada %2$s</item>
+        <item quantity="one">%1$d orang daripada %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d orang</item>
+        <item quantity="one">%1$d orang</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Mel suara</item>
+        <item quantity="one">Mel suara</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d log panggilan</item>
+        <item quantity="one">1 log panggilan</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Cari kenalan | Jumlah %d kenalan</item>
+        <item quantity="one">Cari kenalan | Jumlah 1 kenalan</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s perbualan akan dipadamkan</item>
+        <item quantity="one">Satu perbualan akan dipadamkan</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d mesej belum dibaca.</item>
+        <item quantity="one">%d mesej belum dibaca.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+        <item quantity="few">%s saat</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s hasil untuk \"%2$s\"</item>
+        <item quantity="one">%1$s hasil untuk \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s orang</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">menghantar %d laporan dibaca</item>
+        <item quantity="one">menghantar %d laporan dibaca</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">%d dipilih</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Tandakan %1$s perbualan sebagai dibaca</item>
+        <item quantity="one">Tandakan 1 perbualan sebagai dibaca</item>
+    </plurals>
+</resources>

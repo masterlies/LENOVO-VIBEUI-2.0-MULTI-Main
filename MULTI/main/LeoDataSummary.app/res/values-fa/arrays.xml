@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>نرم</item>
+        <item>پیش‌فرض</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>پیش‌فرض</item>
+        <item>بلند</item>
+    </string-array>
+    <string-array name="hue">
+        <item>سرد</item>
+        <item>پیش‌فرض</item>
+        <item>گرم</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>پیش‌فرض</item>
+        <item>واضح</item>
+    </string-array>
+</resources>

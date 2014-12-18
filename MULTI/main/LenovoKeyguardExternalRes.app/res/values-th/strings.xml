@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">ระบบล็อคหน้าจอล้มเหลว หน้าจอจะเข้าสู่โหมดรักษาความปลอดภัย โปรดรอให้ระบบล็อคหน้าจอรีบูต...</string>
+</resources>

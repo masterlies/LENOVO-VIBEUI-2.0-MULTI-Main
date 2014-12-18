@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_use_ipo_confirm">Gyors rendszerindítás</string>
+    <string name="dlg_ipo_confirm_warning">Ha ebben a módban van, jegyezze meg, hogy a készülék nincs teljesen áramtalanítva. Ilyenkor nem szabad a memóriakártyát vagy az SD kártyát kivenni vagy betenni, mert sérülhet vagy károsodhat. A memóriakártya vagy az SD kártya kivételéhez vagy betételéhez ki kell kapcsolni ezt a módot.</string>
+    <string name="storage_sd_card">Külső tárolás</string>
+    <string name="storage_usb">USB tároló</string>
+    <string name="storage_phone">Beépített tároló</string>
+    <string name="storage_external_usb">Külső USB tárolás</string>
+    <string name="ext_storage_internal_notification_title">Belső tárolás előkészítése</string>
+    <string name="ext_storage_external_notification_title">Külső tárolás előkészítése</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Biztos, hogy aktiválja a repülőgépes módot?</string>
+    <string name="usb_notification_title">USB-csatlakozási beállítások</string>
+    <string name="usb_notification_content">Válassza az USB csatolási módot és az ADB hibakeresést</string>
+    <string name="default_string">Alapértelmezett</string>
+    <string name="capital_on">BE</string>
+    <string name="capital_off">KI</string>
+    <string name="kg_forgot_password_button_text">Elfelejtett jelszó</string>
+    <string name="msg_shutdown_habit_guess">"Nemrég háromszor leállította a készüléket ez idő alatt. 
+Szeretne a be- és kikapcsolás ütemezésének beállításaihoz lépni?"</string>
+    <string name="global_action_reboot">Újraindítás</string>
+    <string name="reboot_confirm_title">Újraindítás</string>
+    <string name="reboot_confirm_msg">Az Ön cellatelefonja újraindul</string>
+    <string name="reboot_dialog_msg">Ha a főkapcsoló gombot ^1 másodpercig nyomja, a mobiltelefon kikapcsol, ha újra 2 másodpercig nyomja, akkor a mobiltelefon újraindul.</string>
+    <string name="silent_mode_silent">Csendes</string>
+    <string name="silent_mode_vibrate">Rezgés</string>
+    <string name="silent_mode_normal">Általános</string>
+    <string name="silent_mode_outdoor">Kültéri használat</string>
+    <string name="powerOnWarning_alarm_msg">Következő ébresztő: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Következő bekapcsolás: %1$s</string>
+    <string name="qreboot_confirm_title">Gyors újraindítás</string>
+    <string name="qreboot_confirm_msg">Gyors újraindítás végrehajtásával csak az alkalmazásfolyamat áll vissza. Ha problémát észlel a rendszerrel kapcsolatban, normál újraindítás végrehajtását javasoljuk.</string>
+    <string name="long_back_exit_info">kilépés</string>
+    <string name="prevent_misoperation_title">Hibás működést megakadályozó mód</string>
+    <string name="prevent_misoperation_message">Ne takarja le a képernyő felső részét</string>
+    <string name="prevent_misoperation_quit_hint">Kilépés kényszerítése: a \"Vissza\" + \"Hangerő fel\" gombok lenyomásával</string>
+    <string name="captive_portal_dialog_title">Bejelentkezés a WLAN hálózatba</string>
+    <string name="captive_portal_dialog_message">Az internethez való hozzáférés előtt be kell jelentkezni az aktuális WLAN hálózatba. Kérjük, először jelentkezzen be</string>
+    <string name="captive_portal_dialog_button">Bejelentkezés</string>
+    <string name="volume_icon_description_ringer">Csengőhang és üzenet</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Hívás</string>
+    <string name="volume_alarm">Ébresztő</string>
+    <string name="volume_fm">FM</string>
+    <string name="volume_matv">Mobil TV</string>
+    <string name="volume_icon_description_media">Média</string>
+    <string name="volume_icon_description_notification">Értesítés</string>
+    <string name="not_support_too_long_string">Túl hosszú sorok keresése nem támogatott</string>
+    <string name="turn_on_mobile_data_warning">"Adatkapcsolat bekapcsolása, a mobiltelefon GPRS adatokat fog használni. 
+A konkrét díjterhelések szolgáltatófüggőek. Biztosan megnyitja:"</string>
+    <string name="next_time_no_warning">Ne figyelmeztessen legközelebb.</string>
+    <string name="turn_on_data">Bekapcsolás</string>
+    <string name="turn_off_data">Kikapcsolás</string>
+    <string name="keyguard_password_waring_dlg_title">Hibás jelszó</string>
+    <string name="keyguard_password_attempts_warning" formatted="false">A telefon zárolásának feloldását %d alkalommal kísérelte meg helytelenül. Újabb %d sikertelen próbálkozás után visszaállnak a telefon gyári beállításai, és minden felhasználói adat elvész.</string>
+    <string name="keyguard_password_waring_dlg_remind">Írja be: lenovo, majd kattintson az OK-ra a folytatáshoz.</string>
+    <string name="keyguard_password_dlg_input_err">Beviteli hibák, próbálja újra.</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">A Bluetooth kikapcsol a vezeték nélküli kijelző bekapcsolásakor Folytatja?</string>
+    <string name="invalid_wlan_dialog_title">WLAN</string>
+    <string name="invalid_wlan_dialog_message">Probléma van az internetkapcsolattal. Kérjük, ellenőrizze az aktuális WLAN hálózatot, vagy csatlakozzon másik WLAN hálózathoz</string>
+    <string name="invalid_wlan_dialog_button">Csatlakozás másik WLAN hálózathoz</string>
+    <string name="popup_menu_find">Keresés</string>
+    <string name="confirm_dialog_title">Jóváhagyás</string>
+    <string name="wifi_display_and_wifi_are_turned_on">A vezeték nélküli kijelző és a WLAN be van kapcsolva.</string>
+</resources>

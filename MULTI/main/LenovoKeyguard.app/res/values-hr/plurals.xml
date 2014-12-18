@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Zaporka mora sadržavati barem ovoliko slova: %d.</item>
+        <item quantity="one">Zaporka mora sadržavati barem jedno slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Zaporka mora sadržavati barem ovoliko malih slova: %d.</item>
+        <item quantity="one">Zaporka mora sadržavati barem jedno malo slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Zaporka mora sadržavati barem ovoliko velikih slova: %d.</item>
+        <item quantity="one">Zaporka mora sadržavati barem jedno veliko slovo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Zaporka mora sadržavati barem ovoliko brojčanih znamenki: %d.</item>
+        <item quantity="one">Zaporka mora sadržavati barem jednu brojčanu znamenku.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Zaporka mora sadržavati barem ovoliko posebnih znakova: %d.</item>
+        <item quantity="one">Zaporka mora sadržavati barem jedan posebni simbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Zaporka mora sadržavati barem ovoliko znakova koji nisu slova: %d.</item>
+        <item quantity="one">Zaporka mora sadržavati barem jedan znak koji nije slovo.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Netočan PIN kôd %1$s kartice; imate još ovoliko preostalih pokušaja: %2$d.</item>
+        <item quantity="one">Netočan PIN kôd %1$s kartice; imate još %2$d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Netočan PUK kôd %1$s kartice; imate još nekoliko preostalih pokušaja (%2$d) prije nego što %1$s kartica postane trajno neupotrebljiva.</item>
+        <item quantity="one">Netočan PUK kôd %1$s kartice; imate još %2$d pokušaj prije nego što %1$s kartica postane trajno neupotrebljiva.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Netočan PIN kôd SIM kartice; imate još ovoliko preostalih pokušaja: %d.</item>
+        <item quantity="one">Netočan PIN kôd SIM kartice; imate još %d pokušaj prije nego što budete morali kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Netočan PUK kôd SIM kartice; imate još nekoliko preostalih pokušaja (%d) prije nego što SIM kartica postane trajno neupotrebljiva.</item>
+        <item quantity="one">Netočan PUK kôd SIM kartice; imate još %d pokušaj prije nego što SIM kartica postane trajno neupotrebljiva.</item>
+    </plurals>
+</resources>

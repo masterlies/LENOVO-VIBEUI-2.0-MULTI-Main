@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>מיד</item>
+        <item>5 שניות</item>
+        <item>15 שניות</item>
+        <item>30 שניות</item>
+        <item>דקה אחת</item>
+        <item>2 דקות</item>
+        <item>חמש דקות</item>
+        <item>עשר דקות</item>
+        <item>30 דקות</item>
+    </string-array>
+</resources>

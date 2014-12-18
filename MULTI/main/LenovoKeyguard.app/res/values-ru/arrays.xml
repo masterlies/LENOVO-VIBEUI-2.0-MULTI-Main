@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Сразу</item>
+        <item>Через 5 сек.</item>
+        <item>Через 15 сек.</item>
+        <item>Через 30 сек.</item>
+        <item>Через 1 мин.</item>
+        <item>Через 2 мин.</item>
+        <item>Через 5 мин.</item>
+        <item>Через 10 мин.</item>
+        <item>Через 30 мин.</item>
+    </string-array>
+</resources>

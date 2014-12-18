@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacts avec des numéros de téléphone</item>
+        <item quantity="one">1 contact avec numéro de téléphone</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d contact(s) trouvé(s)</item>
+        <item quantity="one">1 contact trouvé</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d contact(s) trouvé(s)</item>
+        <item quantity="one">1 contact trouvé</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">1 contact fusionné à partir de %0$d sources</item>
+        <item quantity="one">1 contact non fusionné</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groupes</item>
+        <item quantity="one">1 groupe</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d contacts dans %2$s</item>
+        <item quantity="one">%1$d contact dans %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d personnes</item>
+        <item quantity="one">%1$d personne</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d messages vocaux</item>
+        <item quantity="one">Message vocal</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">"%d journaux d'appels"</item>
+        <item quantity="one">"1 journal d'appels"</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Rechercher dans vos contacts | Total %d contacts</item>
+        <item quantity="one">Rechercher dans vos contacts | Total 1 contact</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s conversations vont être supprimées</item>
+        <item quantity="one">Une conversation va être supprimée</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d messages non lus.</item>
+        <item quantity="one">%d message non lu.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s résultats pour \"%2$s\"</item>
+        <item quantity="one">%1$s résultat pour \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personnes</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">envoi de %d confirmations de lecture</item>
+        <item quantity="one">envoi de %d confirmation de lecture</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d sélectionnés</item>
+        <item quantity="one">%d sélectionné</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Marquer %1$s conversations comme lues</item>
+        <item quantity="one">Marquer une conversation comme lue</item>
+    </plurals>
+</resources>

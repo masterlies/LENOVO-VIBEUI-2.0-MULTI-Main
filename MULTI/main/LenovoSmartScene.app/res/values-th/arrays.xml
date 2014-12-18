@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_name">
+        <item>การ์ด 1</item>
+        <item>การ์ด 2</item>
+        <item>ปิด</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ажурирања система</string>
+    <string name="meid_activity_title">PRL верзија</string>
+    <string name="btn_post">Омогући</string>
+    <string name="btn_neg">Онемогући</string>
+    <string name="enable_fdn">Омогући</string>
+    <string name="disable_fdn">Онемогући</string>
+    <string name="reboot">Поново покрени</string>
+    <string name="cancel">Откажи</string>
+    <string name="alert_ok">Потврди</string>
+    <string name="alert_no">НЕ</string>
+    <string name="commit_cate">Сачувај</string>
+    <string name="summary_on">УКЉУЧЕНО</string>
+    <string name="summary_off">ИСКЉУЧЕНО</string>
+    <string name="report_log_summary">Пријави</string>
+    <string name="report_log_title">Пријави</string>
+    <string name="yes_exit">Да</string>
+    <string name="no_exit">Не</string>
+    <string name="enable">Омогући</string>
+    <string name="disable">Онемогући</string>
+    <string name="regulatory_information">Регулативне информације</string>
+</resources>

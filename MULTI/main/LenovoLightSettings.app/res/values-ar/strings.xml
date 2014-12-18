@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">إضاءة</string>
+    <string name="breath_settings">إعدادات النفس</string>
+    <string name="breath_delay">دورة النفس</string>
+    <string name="breath_delay_info">تم إعداد مهلة أقل، سيتم استهلاك المزيد من الطاقة</string>
+    <string name="light_switch_settings">إعدادات الإضاءة</string>
+    <string name="coming_call">مكالمة واردة</string>
+    <string name="miss_call">مكالمة فائتة</string>
+    <string name="unread_msg">رسالة غير مقروءة</string>
+    <string name="battery_low_msg">رسالة انخفاض مستوى شحن البطارية</string>
+    <string name="other_app_notify">غير</string>
+    <string name="music_play">موسيقى</string>
+    <string name="screen_on">الشاشة قيد التشغيل</string>
+    <string name="screen_off">إيقاف الشاشة</string>
+    <string name="power_on_off">التشغيل والإيقاف</string>
+    <string name="charging">الشحن</string>
+    <string name="low_battery">البطارية منخفضة</string>
+    <string name="color_settings">إعدادات اللون</string>
+    <string name="color_settings_info">إعدادات لون كل ضوء</string>
+    <string name="color_coming_call">لون فاتح للمكالمة الواردة</string>
+    <string name="color_miss_call">لون فاتح للمكالمة الفائتة</string>
+    <string name="color_unread_msg">لون فائح للرسالة غير المقروءة</string>
+    <string name="color_music">لون فائح للموسيقى</string>
+    <string name="color_screen_on">لون فائح للشاشة قيد التشغيل</string>
+    <string name="color_screen_off">لون فائح للشاشة المتوقفة عن التشغيل</string>
+    <string name="light_show">عرض خفيف</string>
+    <string name="light_show_info">جار تشغيل العرض الخفيف الآن</string>
+    <string name="stop">إيقاف</string>
+    <string name="closed">مغلق</string>
+    <string name="open">فتح</string>
+    <string name="multiselect_alert_info">في حاجة إلى لون واحد على الأقل</string>
+</resources>

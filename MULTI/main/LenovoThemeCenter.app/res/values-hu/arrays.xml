@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>képernyőzár</item>
+        <item>indító</item>
+        <item>ikonok</item>
+        <item>háttérkép</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>hívóképernyő</item>
+        <item>systemwidget</item>
+        <item>bootshut</item>
+        <item>betűtípus</item>
+    </string-array>
+</resources>

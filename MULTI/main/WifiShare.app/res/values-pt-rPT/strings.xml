@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Definições</string>
+    <string name="prompt">%s tentativas para criar uma ligação VPN.</string>
+    <string name="current_wifi">Ligação WLAN atual:</string>
+    <string name="hotknot_help">Como partilhar: Na interface atual, junte as metades superiores de dois telefones, costas com costas (transferência NFC). Siga as instruções apresentadas no ecrã para partilhar a conta da WLAN ligada.</string>
+    <string name="title_receive">A receber</string>
+    <string name="wlan_connecting">A receber conta WLAN...</string>
+    <string name="title_finish">Recebido com êxito</string>
+    <string name="wlan_finish">Conta WLAN recebida com êxito. Ligue a %1$s e está online!</string>
+    <string name="send_ap_no_connected">Não pode ser partilhada (conta WLAN ligada não encontrada)</string>
+    <string name="hotknot_help_note">Nota: O telefone recetor tem de suportar a partilha de contas WLAN (com entrada de função)</string>
+    <string name="wifi_share">Partilha de WLAN</string>
+</resources>

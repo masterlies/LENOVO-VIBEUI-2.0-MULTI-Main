@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d stikov s telefonsko številko</item>
+        <item quantity="one">1 stik s telefonsko številko</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d stikov</item>
+        <item quantity="one">1 stik</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Najdenih %d stikov</item>
+        <item quantity="one">Najden 1 stik</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">" %d najdenih"</item>
+        <item quantity="one">1 najden</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Spojeno iz %0$d virov</item>
+        <item quantity="one">Ni spojeno</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d skupin</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d oseb iz %2$s</item>
+        <item quantity="one">%1$d stikov iz %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d oseb</item>
+        <item quantity="one">%1$d oseb</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d glasovnih sporočil</item>
+        <item quantity="one">Glasovna pošta</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Najdenih %d dnevnikov klicev</item>
+        <item quantity="one">Najden 1 dnevnik klicev</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Iskanje stikov | Skupno %d stikov</item>
+        <item quantity="one">Iskanje stikov | Skupno 1 stik</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s pogovorov bo izbrisanih.</item>
+        <item quantity="one">Sistem bo izbrisal 1 pogovor</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d neprebranih sporočil.</item>
+        <item quantity="one">%d neprebranih sporočil.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekund</item>
+        <item quantity="few">%s sekund</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultatov iskanja za %2$s</item>
+        <item quantity="one">%1$s rezultatov iskanja za %2$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s oseb</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Pošiljanje %d poročil o dostavi</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d izbranih</item>
+        <item quantity="one">%d izbranih</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Označi %1$s pogovor kot prebran</item>
+        <item quantity="one">Označi 1 pogovor kot prebran</item>
+    </plurals>
+</resources>

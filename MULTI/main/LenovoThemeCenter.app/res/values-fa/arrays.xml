@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>صفحه قفل</item>
+        <item>راه‌انداز</item>
+        <item>نمادها</item>
+        <item>تصویر زمینه</item>
+        <item>رابط کاربر سیستم</item>
+        <item>ideafriend</item>
+        <item>صفحه تماس</item>
+        <item>ابزارک سیستمی</item>
+        <item>bootshut</item>
+        <item>قلم</item>
+    </string-array>
+</resources>

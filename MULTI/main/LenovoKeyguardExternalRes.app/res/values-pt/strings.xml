@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Falha do ecrã de bloqueio. O ecrã entrará em modo de segurança. Aguarde o reinício do ecrã de bloqueio...</string>
+</resources>

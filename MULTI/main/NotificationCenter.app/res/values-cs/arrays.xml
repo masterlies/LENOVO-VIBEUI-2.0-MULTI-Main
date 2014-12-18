@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3s</item>
+        <item>6s</item>
+        <item>9s</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>Síla signálu (velmi slabý)</item>
+        <item>Síla signálu (slabý)</item>
+        <item>Síla signálu (střední)</item>
+        <item>Síla signálu (silný)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Styl grafiky</item>
+        <item>Styl číslic</item>
+    </string-array>
+</resources>

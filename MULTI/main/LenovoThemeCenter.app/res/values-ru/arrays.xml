@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>блокировка экрана</item>
+        <item>служба запуска</item>
+        <item>значки</item>
+        <item>фоновый рисунок</item>
+        <item>системный интерфейс</item>
+        <item>ideafriend</item>
+        <item>экран вызовов</item>
+        <item>системный виджет</item>
+        <item>включить/выключить</item>
+        <item>шрифт</item>
+    </string-array>
+</resources>

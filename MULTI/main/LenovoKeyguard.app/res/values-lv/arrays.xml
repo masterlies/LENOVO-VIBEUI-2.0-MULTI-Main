@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Nekavējoties</item>
+        <item>5 sekundes</item>
+        <item>15 sekundes</item>
+        <item>30 sekundes</item>
+        <item>1 minūte</item>
+        <item>2 minūtes</item>
+        <item>5 minūtes</item>
+        <item>10 minūtes</item>
+        <item>30 minūtes</item>
+    </string-array>
+</resources>

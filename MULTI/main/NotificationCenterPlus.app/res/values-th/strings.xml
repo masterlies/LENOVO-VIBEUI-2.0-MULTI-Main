@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">ปิดไฟฉาย</string>
+    <string name="flashlight_notification_text">กด ปิดไฟฉาย</string>
+</resources>

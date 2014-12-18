@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">تم الحصول على تقرير بالأخطاء</string>
+    <string name="bugreport_finished_text">المس لمشاركة تقرير الأخطاء</string>
+    <string name="bugreport_confirm">تحتوي تقارير الأخطاء على بيانات من ملفات السجل المختلفة في النظام، بما في ذلك معلومات شخصية وخاصة. شارك تقارير الأخطاء فقط مع التطبيقات والأشخاص الذين تثق بهم.</string>
+    <string name="bugreport_confirm_repeat">إظهار هذه الرسالة في المرة المقبلة</string>
+</resources>

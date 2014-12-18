@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">テザリング設定</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ホットスポットを構成</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+セキュリティー: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID は、32 文字を超えてはなりません。</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+セキュリティー: %2$s
+パスワード: %3$s"</string>
+    <string name="wifi_cancel">キャンセル</string>
+    <string name="wifi_save">保存</string>
+    <string name="wifi_ssid">ネットワーク SSID</string>
+    <string name="wifi_security">セキュリティ</string>
+    <string name="wifi_password">パスワード</string>
+    <string name="wifi_show_password">パスワードを表示します</string>
+    <string name="credentials_password_too_short">パスワードは 8 文字以上にする必要があります。</string>
+    <string name="wifi_channel">優先チャネル</string>
+    <string name="wifi_channel_width">チャネル幅</string>
+    <string name="wifi_tether_auto_channel_text">自動</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">WLANテザリングを有効にする</string>
+    <string name="tethered_notification_message">タッチして構成する</string>
+    <string name="tether_about_title">機能の紹介</string>
+    <string name="wlan_connection_title">WLAN テザリング</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Bluetooth テザリング</string>
+    <string name="usb_share_title">USB テザリング</string>
+    <string name="about_wlan">このデバイスで WLAN テザリング を設定し、他の WLAN デバイスでこのデバイスのモバイル・ネットワークに接続して Web サーフィンする</string>
+    <string name="about_usb">このデバイスで USB ネットワーク共有を有効にし、接続したデバイスでこのデバイスのモバイル・ネットワークを使用して Web サーフィンする</string>
+    <string name="about_bt">このデバイスで Bluetooth ネットワーク共有を有効にし、他の Bluetooth デバイスでこのデバイスのモバイル・ネットワークを使用して Web サーフィンする</string>
+    <string name="about_usb_other">"備考: 
+ 1. USB 接続中は、コンピューターにデバイスの SD カードを取り付けることができません
+ 2. この接続は Windows Vista、Windows 7、Windows 8、および Linux でのみ使用できます"</string>
+    <string name="wifi_tether_settings_title">WLAN 構成情報</string>
+    <string name="wifi_ap_client_block_title">停止</string>
+    <string name="wifi_ap_client_unblock_title">ブロックを解除</string>
+    <string name="wifi_ap_connected_title">接続しているユーザー</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d接続%2$d解除</string>
+    <string name="open_title">ヒントを有効にする</string>
+    <string name="open_mess">%1$s を使用するには、データ接続機能を有効にする必要があります</string>
+    <string name="open_mess_all">%1$s を使用するには、WLAN またはデータ接続機能を有効にする必要があります</string>
+    <string name="cancel">キャンセル</string>
+    <string name="go_settings">設定に移動</string>
+    <string name="open_mess_alert">モバイル・ネットワークは有効です。%1$s 機能を使用すると、データ・トラフィックおよび料金が発生する場合があります。有効にしますか?</string>
+    <string name="open">有効にする</string>
+</resources>

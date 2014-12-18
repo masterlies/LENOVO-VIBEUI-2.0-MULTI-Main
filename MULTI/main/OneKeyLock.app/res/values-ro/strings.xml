@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blocare cu o tastă</string>
+    <string name="get_screen_lock_admin">Obţ. dr. de admin. pt. bloc. ecr. disp.</string>
+</resources>

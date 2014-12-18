@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Tetapan</string>
+    <string name="app_name">Kongsi akaun WLAN</string>
+    <string name="prompt">Bawa telefon berhampiran bersama untuk berkongsi WLAN dengan rakan-rakan!</string>
+    <string name="current_wifi">Sambungan WLAN semasa:</string>
+    <string name="hotknot_help">Cara berkongsi: Dalam antara muka semasa, tahan bahagian atas dua telefon bersama-sama, membelakangi satu sama lain (pemindahan NFC). Ikut arahan pada skrin untuk berkongsi akaun WLAN yang disambungkan.</string>
+    <string name="title_receive">Menerima</string>
+    <string name="wlan_connecting">Menerima akaun WLAN...</string>
+    <string name="title_finish">Berjaya diterima</string>
+    <string name="wlan_finish">Akaun WLAN berjaya diterima. Sambung ke %1$s dan anda berada dalam talian!</string>
+    <string name="send_ap_no_connected">Tidak dapat dikongsikan (akaun WLAN yang disambungkan tidak ditemui)</string>
+    <string name="hotknot_help_note">Nota: Telefon yang menerima perlu menyokong perkongsian akaunWLAN (dengan entri fungsi)</string>
+    <string name="wifi_share">Perkongsian WLAN</string>
+</resources>

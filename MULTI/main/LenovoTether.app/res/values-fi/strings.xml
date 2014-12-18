@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liitäntäpiste</string>
+    <string name="wifi_tether_configure_ap_text">Määritä WLAN-liitäntäpiste</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Suojaus: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID:n enimmäispituus on 32 merkkiä</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Suojaus: %2$s
+Salasana: %3$s"</string>
+    <string name="wifi_cancel">Peruuta</string>
+    <string name="wifi_save">Tallenna</string>
+    <string name="wifi_ssid">Verkon SSID</string>
+    <string name="wifi_security">Suojaus</string>
+    <string name="wifi_password">Salasana</string>
+    <string name="wifi_show_password">Näytä salasana</string>
+    <string name="credentials_password_too_short">Salasanassa on oltava vähintään 8 merkkiä.</string>
+    <string name="wifi_channel">Ensisijainen kanava</string>
+    <string name="wifi_channel_width">Kanavan leveys</string>
+    <string name="wifi_tether_auto_channel_text">Automaattinen</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Henkilökohtainen liitäntäpiste otettu käyttöön</string>
+    <string name="tethered_notification_message">Määritä koskettamalla</string>
+    <string name="tether_about_title">Toimintojen esittely</string>
+    <string name="wlan_connection_title">WLAN-liitäntäpiste</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Bluetooth-verkon jakaminen</string>
+    <string name="usb_share_title">USB-verkon jakaminen</string>
+    <string name="about_wlan">Määrittämällä WLAN-liitäntäpisteen tässä laitteessa voit sallia muiden WLAN-laitteiden muodostaa yhteyden tämän laitteen mobiiliverkkoon Internetin selaamista varten</string>
+    <string name="about_usb">Ottamalla käyttöön USB-verkon jakamisen tässä laitteessa voit sallia yhdistettyjen laitteiden käyttää tämän laitteen mobiiliverkkoa Internetin selaamista varten</string>
+    <string name="about_bt">Ottamalla käyttöön Bluetooth-verkon jakamisen tässä laitteessa voit sallia muiden Bluetooth-laitteiden käyttää tämän laitteen mobiiliverkkoa Internetin selaamista varten</string>
+    <string name="about_usb_other">"Muut huomautukset:
+ 1. USB-yhteyden aikana ei voi asettaa laitteen SD-korttia tietokoneeseen 
+ 2. Yhteys toimii vain Windows Vista-, Windows 7-, Windows 8- ja Linux-käyttöjärjestelmissä"</string>
+    <string name="wifi_tether_settings_title">WLAN-kokoonpanotiedot</string>
+    <string name="wifi_ap_client_block_title">Estä</string>
+    <string name="wifi_ap_client_unblock_title">Poista esto</string>
+    <string name="wifi_ap_connected_title">Yhteydessä olevat käyttäjät</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d yhteydessä, %2$d estetty</string>
+    <string name="open_title">Ota vihjeet käyttöön</string>
+    <string name="open_mess">Kohteen %1$s käyttö edellyttää, että datayhteys on käytössä</string>
+    <string name="open_mess_all">Kohteen %1$s käyttö edellyttää, että WLAN tai datayhteys on käytössä</string>
+    <string name="cancel">Peruuta</string>
+    <string name="go_settings">Siirry asetuksiin</string>
+    <string name="open_mess_alert">Mobiiliverkko on käytössä. Toiminnon %1$s käyttö voi lisätä tietoliikennettä ja aiheuttaa lisää maksuja. Haluatko ottaa sen käyttöön?</string>
+    <string name="open">Käytössä</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हॉटस्पॉट</string>
+    <string name="wifi_tether_configure_ap_text">WLAN हॉटस्पॉट कॉन्फ़िगर करें</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+सुरक्षा: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID 32 वर्णों से अधिक नहीं हो सकता है</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+सुरक्षा: %2$s
+पासवर्ड: %3$s"</string>
+    <string name="wifi_cancel">रद्द करें</string>
+    <string name="wifi_save">सहेजें</string>
+    <string name="wifi_ssid">नेटवर्क SSID</string>
+    <string name="wifi_security">सुरक्षा</string>
+    <string name="wifi_password">पासवर्ड</string>
+    <string name="wifi_show_password">पासवर्ड दिखाएँ.</string>
+    <string name="credentials_password_too_short">पासवर्ड में कम से कम 8 वर्ण होने चाहिए.</string>
+    <string name="wifi_channel">पसंदीदा चैनल</string>
+    <string name="wifi_channel_width">चैनल विड्थ</string>
+    <string name="wifi_tether_auto_channel_text">ऑटो</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">पर्सनल हॉटस्पॉट सक्षम</string>
+    <string name="tethered_notification_message">कॉन्फ़िगर करने के लिए टच करें</string>
+    <string name="tether_about_title">फ़ंक्शन परिचय</string>
+    <string name="wlan_connection_title">WLAN हॉटस्पॉट</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">ब्लुटूथ</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">ब्लुटूथ नेटवर्क शेयरिंग</string>
+    <string name="usb_share_title">USB नेटवर्क शेयरिंग</string>
+    <string name="about_wlan">इस डिवाइस पर WLAN हॉटस्पॉट सेट करने से, यह अन्य WLAN डिवाइसों को वेब सर्फिंग के लिए इस डिवाइस के मोबाइल नेटवर्क से कनेक्ट करने देता है</string>
+    <string name="about_usb">इस डिवाइस पर USB नेटवर्क शेयरिंग सक्षम करने से, यह कनेक्ट हुए डिवाइसों को वेब सर्फिंग के लिए इस डिवाइस के मोबाइल नेटवर्क का उपयोग करने देता है</string>
+    <string name="about_bt">इस डिवाइस पर ब्लुटूथ नेटवर्क शेयरिंग सक्षम करने से, यह अन्य ब्लुटूथ डिवाइसों को वेब सर्फिंग के लिए इस डिवाइस के मोबाइल नेटवर्क का उपयोग करने देता है</string>
+    <string name="about_usb_other">"अन्य नोट:
+ 1. USB कनेक्शन के दौरान, आप डिवाइस के SD कार्ड को कंप्यूटर पर इंस्टॉल नहीं कर सकते हैं 
+ 2. कनेक्शन केवल Windows Vista, Windows 7, Windows 8 और Linux पर लागू होता है"</string>
+    <string name="wifi_tether_settings_title">WLAN कॉन्फ़िगरेशन जानकारी</string>
+    <string name="wifi_ap_client_block_title">ब्लॉक करें</string>
+    <string name="wifi_ap_client_unblock_title">अनब्लॉक करें</string>
+    <string name="wifi_ap_connected_title">कनेक्टेड यूज़र</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d कनेक्ट किए गए, %2$d ब्लॉक किए गए</string>
+    <string name="open_title">टिप्स सक्षम करें</string>
+    <string name="open_mess">%1$s का उपयोग करने के लिए, आपको डेटा कनेक्शन फ़ंक्शन सक्षम करना होगा</string>
+    <string name="open_mess_all">%1$s का उपयोग करने के लिए, आपको WLAN या डेटा कनेक्शन फ़ंक्शन सक्षम करना होगा</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="go_settings">सेटिंग्स पर जाएँ</string>
+    <string name="cut_line">Cut Line</string>
+    <string name="wlan_figure">Wlan Figure</string>
+    <string name="open_mess_alert">मोबाइल नेटवर्क सक्षम किया गया है. %1$s फ़ंक्शन का उपयोग अधिक डेटा ट्रैफ़िक और शुल्क उत्पन्न कर सकता है. क्या आप इसे सक्षम करना चाहते हैं?</string>
+    <string name="open">सक्षम करें</string>
+</resources>

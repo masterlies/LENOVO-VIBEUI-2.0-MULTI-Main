@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Звукозапис</string>
+    <string name="left_timer_format" formatted="false">Оставащо време: %02d\"ч \"%02dм</string>
+    <string name="recording">Записване %1$s</string>
+    <string name="label_quality">Избери качество на запис</string>
+    <string name="remain_time">Оставащо време</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отказ</string>
+    <string name="audio_db_artist_name">Вашите записи</string>
+    <string name="audio_db_album_name">Записи</string>
+    <string name="audio_db_playlist_name">Моите записи</string>
+    <string name="exit_tip">Наистина ли искате да излезете от записващото устройство?</string>
+    <string name="error_zero_audio">Не може да запише аудио с дължина 0 секунди.</string>
+    <string name="error_busy_in_call">Затворете и след това използвайте записващото устройство!</string>
+    <string name="error_no_space">Няма достатъчно свободно място, не може да записва.</string>
+    <string name="error_sdcard_access">Не може да се осъществи достъп до SD картата</string>
+    <string name="error_internal">Записващо устройство работи, първо го затворете!</string>
+    <string name="error_mediadb_new_record">Неуспешно записване на записаното аудио</string>
+    <string name="error_app_unsupported">Неподдържан формат</string>
+    <string name="error_insert_sd_card">Поставете SD карта</string>
+    <string name="error_storage_is_full">Паметта е пълна</string>
+    <string name="error_max_length">Максималната дължина е достигната</string>
+    <string name="contextmenu_item_delete">Изтриване</string>
+    <string name="contextmenu_item_rename">Преименуване</string>
+    <string name="contextmenu_item_send_title">Изпращане</string>
+    <string name="contextmenu_item_setasringtone">Мелодия</string>
+    <string name="label_setringtone_success">Записът \"%1$s\" успешно е зададен като мелодия</string>
+    <string name="setringtone_fail">Няма нужда да настройвате мелодия в режим на вибрация в тих режим</string>
+    <string name="del_selfile_tip">Наистина ли искате да изтриете записания аудио файл?</string>
+    <string name="label_delete_success">Успешно изтриване!</string>
+    <string name="input_toolong">Въведени са твърде много знаци</string>
+    <string name="file_name_exist">За съжаление името на файла не може да се повтаря</string>
+    <string name="empty_len">Полето за име на файла не може да е празно.</string>
+    <string name="namebad">Името на файла съдържа непозволени знаци: \\ : ? * > \" | / и др.</string>
+    <string name="delete_tip">Изтриване на запис</string>
+    <string name="not_select">Не сте избрали никаква опция</string>
+    <string name="am_file">%1$s:%2$s ч.</string>
+    <string name="pm_file">%1$s:%2$s ч.</string>
+    <string name="selected_number_of">%1$s Избрани</string>
+    <string name="saved_file_reminder">Файлът е записан като \"%1$s\"</string>
+    <string name="delete_recorded">Изтриване на файла със запис</string>
+    <string name="delete_muti_msg">Извършва се изтриване, моля, изчакайте...</string>
+    <string name="rename_record_file">Преименуване на файла</string>
+    <string name="soundrecorder_list">Записи</string>
+    <string name="callrecorder_list">Записи на обаждания</string>
+    <string name="mediarecorder_list">Мултимедийни записи</string>
+    <string name="high_quality">Режим за интервю (високо качество)</string>
+    <string name="medium_quality">Режим за разговор (средно качество)</string>
+    <string name="low_quality">Режим за взаимодействие (ниско качество)</string>
+    <string name="exit_record_play">Спрете записването преди възпроизвеждане</string>
+    <string name="exit_play_edit">Спрете възпроизвеждането преди редактиране</string>
+    <string name="exit_playOrRecord_delete">Прекратете възпроизвеждането или записа, преди да влезете в режим на изтриване като пакет</string>
+    <string name="exit_toast">Щракнете отново за изход от приложението</string>
+    <string name="playlist_text">Списък на записите</string>
+    <string name="fileDir_not_exist">Пътят, избран за аудио файла, не съществува!</string>
+</resources>

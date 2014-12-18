@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Απαλό</item>
+        <item>Προεπιλογή</item>
+        <item>Φωτεινό</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Προεπιλογή</item>
+        <item>Υψηλό</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Άνετος</item>
+        <item>Προεπιλογή</item>
+        <item>Θερμό</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Προεπιλογή</item>
+        <item>Όξυνση</item>
+    </string-array>
+</resources>

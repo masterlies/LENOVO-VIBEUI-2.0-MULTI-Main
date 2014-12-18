@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Άμεσα</item>
+        <item>5 δευτερόλεπτα</item>
+        <item>15 δευτερόλεπτα</item>
+        <item>30 δευτερόλεπτα</item>
+        <item>1 λεπτό</item>
+        <item>2 λεπτά</item>
+        <item>5 λεπτά</item>
+        <item>10 λεπτά</item>
+        <item>30 λεπτά</item>
+    </string-array>
+</resources>

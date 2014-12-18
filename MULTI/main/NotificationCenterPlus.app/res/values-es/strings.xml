@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Cerrar flash</string>
+    <string name="flashlight_notification_text">Hacer clic para cerrar flash</string>
+</resources>

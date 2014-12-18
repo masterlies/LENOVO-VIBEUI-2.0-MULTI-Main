@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Forkert pinkode til %1$s-kort. Du har %2$d forsøg tilbage.</item>
+        <item quantity="one">Forkert pinkode til %1$s-kort. Du har %2$d forsøg tilbage, før du skal kontakte dit mobilselskab for at låse din enhed op.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Forkert PUK-kode til %1$s-kort. Du har %2$d forsøg tilbage, før dit %1$s-kort bliver permanent ubrugeligt.</item>
+        <item quantity="one">Forkert PUK-kode til %1$s-kort. Du har %2$d forsøg tilbage, før %1$s-kortet bliver permanent ubrugeligt.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage.</item>
+        <item quantity="one">Forkert pinkode til SIM-kort. Du har %d forsøg tilbage, før du skal kontakte dit mobilselskab for at låse din enhed op.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Forkert PUK-kode til SIM-kort. Du har %d forsøg tilbage, før dit SIM-kort bliver permanent ubrugeligt.</item>
+        <item quantity="one">Forkert PUK-kode til SIM-kort. Du har %d forsøg tilbage, før SIM-kortet bliver permanent ubrugeligt.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Energiakezelő</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="power_consume_app_freeze">Fagyasztás</string>
+    <string name="power_consume_app_unfreeze">Felengedés</string>
+    <string name="power_consume_app_uninstall">Eltávolítás</string>
+    <string name="power_consume_app_details">Részletek</string>
+    <string name="battery_usage_use">Akkumulátorhasználat: %s</string>
+    <string name="consumption_call">Hangos hívások</string>
+    <string name="consumption_screen">Képernyő</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Rádió</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">Média</string>
+    <string name="power_battery">Tápellátás</string>
+    <string name="power_charge">Töltés</string>
+    <string name="power_consume">Használat</string>
+    <string name="power_settings">Beállítások</string>
+    <string name="power_mode">Üzemmód</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Teljes CPU-használati idő</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Ébrenlét</string>
+    <string name="usage_type_alarm">Rendszer ébresztése</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">A Wi-Fi működik</string>
+    <string name="usage_type_data_send">Elküldött adatok</string>
+    <string name="usage_type_data_recv">Fogadott adatok</string>
+    <string name="usage_type_audio">Hang</string>
+    <string name="usage_type_video">Videó</string>
+    <string name="usage_type_on_time">Futási idő</string>
+    <string name="usage_type_no_coverage">Jelkimaradási idő</string>
+    <string name="battery_history_days" formatted="false">%dnap %dóra %dperc %dmp</string>
+    <string name="battery_history_hours" formatted="false">%dóra %dperc %dmp</string>
+    <string name="battery_history_minutes" formatted="false">%dperc %dmp</string>
+    <string name="battery_history_seconds">%dmp</string>
+    <string name="battery_hour_minute" formatted="false">%dóra %dperc</string>
+    <string name="battery_hour">%d óra</string>
+    <string name="battery_minute">%d perc</string>
+    <string name="battery_wakelock" formatted="false">%dalkalommal ehhez: %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d nap %d óra %d perc %s mp</string>
+    <string name="battery_wakelock_hours" formatted="false">%d óra %d perc %s mp</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d perc %s mp</string>
+    <string name="battery_wakelock_seconds">%s mp</string>
+    <string name="battery_alarm_time">%d alkalommal</string>
+    <string name="battery_screen_time">Az utolsó teljes töltés óta</string>
+    <string name="usage_type_wakelock_screen">Képernyő altatásának megakadályozása</string>
+    <string name="usage_type_wakelock_cpu">CPU altatásának megakadályozása</string>
+    <string name="usage_type_sensor">Használatérzékelő</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Egyebek</string>
+    <string name="battery_screen_on_time">Használatban: %s</string>
+    <string name="battery_screen_off_time">Készenlétben: %s</string>
+    <string name="enter_setting">Indítási beállítások</string>
+    <string name="battery_tab_title_consume">Energiafogyasztás</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dnap %dóra %dperc</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dóra %dperc</string>
+    <string name="battery_history_minutes_without_seconds">%dperc</string>
+    <string name="battery_sensor_info" formatted="false">%d alkalommal az összesen %s alkalomból</string>
+    <string name="hour">óra</string>
+    <string name="minute">perc</string>
+    <string name="second">mp</string>
+    <string name="application_not_found">Nem sikerült megtalálni az alkalmazás részletes beállításait</string>
+    <string name="mode_turnOff">Ki</string>
+    <string name="mode_turnOn">Be</string>
+    <string name="main_switch_dialog_super">Csak a hivást és üzenetküldést engedélyezi, és letilt minden más szolgáltatást. Akár több napig tartó készenléti időt is elérhető.</string>
+    <string name="deep_clear_result_to_white_list_new">A kiválasztott alkalmazást ez nem érinti</string>
+    <string name="temporary_no_app">Nincs alkalmazás</string>
+    <string name="progress_loading">Kérjük, várjon…</string>
+    <string name="failed_switch_app_state">A művelet nem sikerült. Később próbálja meg újra.</string>
+    <string name="package_manger_list_type_third">Felhasználói alkalmazások</string>
+    <string name="package_manger_list_type_system">Rendszeralkalmazások</string>
+    <string name="btn_return">Vissza</string>
+    <string name="main_switcher">Időzített kapcsoló</string>
+    <string name="switcher_detail">Megadott mód automatikus engedélyezése a megadott időn belül</string>
+    <string name="switcher">Időzített kapcsoló</string>
+    <string name="switcher_start_time">Kezdési idő</string>
+    <string name="switcher_end_time">Befejezési idő</string>
+    <string name="switcher_tag">Engedélyezve erre az időre</string>
+    <string name="switcher_target_custom">Személyre szabás</string>
+    <string name="mode_changed_dialog">Üzemmódváltás</string>
+    <string name="no_remind">Ne jelezzen</string>
+    <string name="new_sim">Új SIM</string>
+    <string name="application_not_found_activity">Az alkalmazás nem található</string>
+    <string name="classicmode_lable_phone">Tel.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Névjegyek</string>
+    <string name="failed_get_safecenter_whitelist">Nem sikerült szinkronizálni a Lenovo biztonsági központ engedélyezési listáját. Telepítse újra a Lenovo biztonsági központ legújabb verzióját!</string>
+    <string name="application_not_support_be_launched">A biztonsági beállítások miatt más alkalmazások nem tudják engedélyezni az alkalmazást.</string>
+    <string name="classic_phone_dialog_entering">Adatok inicializálása, Várjon…</string>
+    <string name="classic_phone_dialog_existing">Adatok visszaállítása, Várjon…</string>
+    <string name="consumption_app_button">Szoftver</string>
+    <string name="consumption_hardware_button">Hardver</string>
+    <string name="power_setting_menu_classic_phone">Abszolút energiatakarékos mód</string>
+    <string name="power_setting_menu_smart">Képernyő, CPU és GPU energiatakarékos</string>
+    <string name="power_setting_menu_app_deep_clear">Alkalmazások letiltása kikapcsolt képernyőnél</string>
+    <string name="power_setting_menu_consumption">Energiafogyasztási adatok</string>
+    <string name="statistic_assist_title">Kiegészítő statisztikai funkciók</string>
+    <string name="power_consumption_title">Energiatakarékos funkciók</string>
+    <string name="fragment_tab_deepclear">Alkalmazások letiltása kikapcsolt képernyőnél</string>
+    <string name="deep_clear_detail">A letiltást követően az alkalmazások nem szakítják meg a telefon alvó módját a háttérben.</string>
+    <string name="dialog_timing_text">Átvált az Abszolút energiatakarékos módra?</string>
+    <string name="switcher_summery">A megadott időtartamokra automatikusan átvált az Abszolút energiatakarékos módra</string>
+    <string name="switcher_summery_close">Az engedélyezést követően a megadott időtartamokra automatikusan átvált az Abszolút energiatakarékos módra.</string>
+    <string name="classicmode_hit_text">Abszolút energiatakarékos</string>
+    <string name="classic_phone_desktop_shortcut">Abszolút energiatakarékos</string>
+    <string name="classic_phone_dialog_title">Abszolút energiatakarékos parancs</string>
+    <string name="classic_phone_dialog_enter">Biztosan belép az Abszolút energiatakarékosságba? Túl szorgalmas! Pihenjen egy kicsit.</string>
+    <string name="classic_phone_dialog_exist">Biztosan kilép az Abszolút energiatakarékos?</string>
+    <string name="classic_phone_failed_to_start_service">Az Abszolút energiatakarékos futtatása sikertelen. Sajnáljuk, mi mindent megtettünk.</string>
+    <string name="create_classicmode_desktop_shortcut">Abszolút energiatakarékos asztali parancsikon létrehozása</string>
+    <string name="classicmode_exit_hint_text">Az Abszolút energiatakarékos bezárásához érintse meg a bezárás gombot</string>
+    <string name="setttings_screen_smart_brightness2">Energiatakarékos megjelenítőmotor</string>
+    <string name="setttings_screen_smart_brightness_detail">A szinuszhullámos fényerő-beállítási technológiával 5–20%-kal csökkenthető az energiafogyasztás.</string>
+    <string name="power_engine_vmx_title">Energiatakarékos számítási motor</string>
+    <string name="power_engine_vmx_detail">A CPU intelligens hangolása az energiafogyasztás 10–25%-kal való csökkentéséhez</string>
+    <string name="power_engine_fps_title">Energiatakarékos grafikus motor</string>
+    <string name="power_engine_fps_detail">A GPU optimalizálása az energiafogyasztás 10–25%-kal való csökkentéséhez</string>
+    <string name="power_engine_summery_close">Engedélyezés után intelligens módon csökkenti a képernyő, a CPU és a GPU energiafogyasztását</string>
+    <string name="power_engine_summery_close2">Engedélyezés után intelligens módon csökkenti a képernyő és a GPU energiafogyasztását</string>
+    <string name="power_engine_summery_close3">Engedélyezés után intelligens módon csökkenti a képernyő energiafogyasztását</string>
+    <string name="power_engine_summery_close4">Engedélyezés után intelligens módon csökkenti a képernyő és a CPU energiafogyasztását</string>
+    <string name="power_setting_menu_smart2">Képernyő energiatakarékos</string>
+    <string name="power_setting_menu_smart3">Képernyő, CPU és GPU energiatakarékos</string>
+    <string name="power_setting_menu_smart4">Képernyő és GPU energiatakarékos</string>
+    <string name="power_setting_menu_smart5">Képernyő és CPU energiatakarékos</string>
+    <string name="power_setting_current_battery" formatted="false">Aktuális töltöttség: %s%s</string>
+    <string name="classicmode_lable_clock">Óra</string>
+</resources>

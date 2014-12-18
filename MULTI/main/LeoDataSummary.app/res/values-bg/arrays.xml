@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Меко</item>
+        <item>По подразбиране</item>
+        <item>Ярко</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>По подразбиране</item>
+        <item>Височина</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Студено</item>
+        <item>По подразбиране</item>
+        <item>Топло</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>По подразбиране</item>
+        <item>Изостряне</item>
+    </string-array>
+</resources>

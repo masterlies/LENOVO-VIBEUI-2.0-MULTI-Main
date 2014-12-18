@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengurus Kuasa</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="power_consume_app_freeze">Beku</string>
+    <string name="power_consume_app_unfreeze">Nyahbeku</string>
+    <string name="power_consume_app_uninstall">Nyahpasang</string>
+    <string name="power_consume_app_details">Butiran</string>
+    <string name="battery_usage_use">Bateri yang digunakan %s</string>
+    <string name="consumption_call">Panggilan Suara</string>
+    <string name="consumption_screen">Skrin</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Radio</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">OS Android</string>
+    <string name="power_media">Media</string>
+    <string name="power_battery">Kuasa</string>
+    <string name="power_charge">Mengecas</string>
+    <string name="power_consume">Penggunaan</string>
+    <string name="power_settings">Tetapan</string>
+    <string name="power_mode">Mod</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Jumlah masa penggunaan CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Kekal terbangun</string>
+    <string name="usage_type_alarm">Sistem kejut bangun</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi berfungsi</string>
+    <string name="usage_type_data_send">Data yang dihantar</string>
+    <string name="usage_type_data_recv">Data yang diterima</string>
+    <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Masa berjalan</string>
+    <string name="usage_type_no_coverage">Tiada masa isyarat</string>
+    <string name="battery_history_days" formatted="false">%dh %dj %dm %ds</string>
+    <string name="battery_history_hours" formatted="false">%dj %dm %ds</string>
+    <string name="battery_history_minutes" formatted="false">%dm %ds</string>
+    <string name="battery_history_seconds">%ds</string>
+    <string name="battery_hour_minute" formatted="false">%dj %dm</string>
+    <string name="battery_hour">%d jam</string>
+    <string name="battery_minute">%d minit</string>
+    <string name="battery_wakelock" formatted="false">%dkali untuk %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dh %dj %dm %ss</string>
+    <string name="battery_wakelock_hours" formatted="false">%dj %dm %ss</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dm %ss</string>
+    <string name="battery_wakelock_seconds">%ss</string>
+    <string name="battery_alarm_time">%dkali</string>
+    <string name="battery_screen_time">Sejak terakhir dicas penuh</string>
+    <string name="usage_type_wakelock_screen">Cegah skrin tidur</string>
+    <string name="usage_type_wakelock_cpu">Cegah CPU tidur</string>
+    <string name="usage_type_sensor">Sensor penggunaan</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Lain-lain</string>
+    <string name="battery_screen_on_time">Sedang diguna: %s</string>
+    <string name="battery_screen_off_time">Sedang siap sedia: %s</string>
+    <string name="enter_setting">Lancarkan Seting</string>
+    <string name="battery_tab_title_consume">Penggunaan kuasa</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d h %d j %d min</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d j %d min</string>
+    <string name="battery_history_minutes_without_seconds">%d min</string>
+    <string name="battery_sensor_info" formatted="false">%d kali untuk sejumlah %s</string>
+    <string name="hour">j</string>
+    <string name="minute">m</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Gagal mencari seting butiran aplikasi</string>
+    <string name="mode_turnOff">Mati</string>
+    <string name="mode_turnOn">Hidup</string>
+    <string name="main_switch_dialog_super">Ia hanya mendayakan fungsi memanggil dan pemesejan dan menyahdayakan semua fungsi lain bagi masa siap sedia selama beberapa hari</string>
+    <string name="deep_clear_result_to_white_list_new">Aplikasi yang dipilih tidak akan dipengaruhi</string>
+    <string name="temporary_no_app">Tiada aplikasi</string>
+    <string name="progress_loading">Sila tunggu…</string>
+    <string name="failed_switch_app_state">Maaf, operasi gagal, anda amat gigih bekerja. Sila cuba lagi nanti</string>
+    <string name="package_manger_list_type_third">Aplikasi pengguna</string>
+    <string name="package_manger_list_type_system">Aplikasi sistem</string>
+    <string name="btn_return">Kembali</string>
+    <string name="main_switcher">Suis dimasakan</string>
+    <string name="switcher_detail">Auto-dayakan mod tertentu dalam tempoh tertentu</string>
+    <string name="switcher">Suis dimasakan</string>
+    <string name="switcher_start_time">Masa mula</string>
+    <string name="switcher_end_time">Masa tamat</string>
+    <string name="switcher_tag">Didayakan untuk tempoh ini</string>
+    <string name="switcher_target_custom">Suaikan</string>
+    <string name="mode_changed_dialog">Bertukar mod</string>
+    <string name="no_remind">Jangan ingatkan saya lagi</string>
+    <string name="new_sim">SIM baru</string>
+    <string name="application_not_found_activity">Aplikasi ini tidak ditemui</string>
+    <string name="classicmode_lable_phone">Tel</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Kenalan</string>
+    <string name="failed_get_safecenter_whitelist">Gagal menyegerakkan senarai putih LenovoSafeCenter. Sila pasang semula LenovoSafeCenter terkini.</string>
+    <string name="application_not_support_be_launched">Aplikasi lain tidak boleh mendayakan aplikasi ini disebabkan tetapan keselamatan</string>
+    <string name="classic_phone_dialog_entering">Memulakan data. Sila tunggu…</string>
+    <string name="classic_phone_dialog_existing">Memulihkan data. Sila tunggu…</string>
+    <string name="consumption_app_button">Perisian</string>
+    <string name="consumption_hardware_button">Perkakasan</string>
+    <string name="power_setting_menu_classic_phone">Mod Penjimatan Kuasa Muktamad</string>
+    <string name="power_setting_menu_smart">Penjimat kuasa Skrin, CPU dan GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Nyahdayakan aplikasi apabila skrin dimatikan</string>
+    <string name="power_setting_menu_consumption">Butiran penggunaan kuasa</string>
+    <string name="statistic_assist_title">Ciri statistik tambahan</string>
+    <string name="power_consumption_title">Ciri penjimat kuasa</string>
+    <string name="fragment_tab_deepclear">Nyahdayakan aplikasi apabila skrin dimatikan</string>
+    <string name="deep_clear_detail">Selepas dinyahdayakan, aplikasi tidak akan mengganggu mod tidur telefon di latar belakang</string>
+    <string name="dialog_timing_text">Bertukar kepada mod Penjimatan Kuasa Muktamad?</string>
+    <string name="switcher_summery">Bertukar kepada mod Penjimatan Kuasa Muktamad untuk tempoh masa tertentu</string>
+    <string name="switcher_summery_close">Selepas didayakan, ini akan bertukar kepada mod Penjimatan Kuasa Muktamad untuk tempoh masa tertentu</string>
+    <string name="classicmode_hit_text">Penjimatan Kuasa Muktamad</string>
+    <string name="classic_phone_desktop_shortcut">Penjimatan Kuasa Muktamad</string>
+    <string name="classic_phone_dialog_title">Gesaan Penjimatan Kuasa Muktamad</string>
+    <string name="classic_phone_dialog_enter">Anda pasti ingin memasuki Penjimatan Kuasa Muktamad? Anda terlalu teliti. Jangan lupa untuk berehat</string>
+    <string name="classic_phone_dialog_exist">Anda pasti ingin keluar daripada Penjimatan Kuasa Muktamad?</string>
+    <string name="classic_phone_failed_to_start_service">Gagal melancarkan Penjimatan Kuasa Muktamad. Maaf, kami telah mencuba yang terbaik</string>
+    <string name="create_classicmode_desktop_shortcut">Cipta pintasan desktop Penjimatan Kuasa Muktamad</string>
+    <string name="classicmode_exit_hint_text">Untuk keluar daripada Penjimatan Kuasa Muktamad, sila ketik butang tutup</string>
+    <string name="setttings_screen_smart_brightness2">Enjin penglihatan penjimatan kuasa</string>
+    <string name="setttings_screen_smart_brightness_detail">Gunakan teknologi pelarasan kecerahan gelombang sinus untuk mengurangkan penggunaan kuasa sebanyak 5–20%</string>
+    <string name="power_engine_vmx_title">Enjin perkomputeran penjimatan kuasa</string>
+    <string name="power_engine_vmx_detail">Laraskan CPU secara pintar untuk mengurangkan penggunaan kuasa sebanyak 10–25%</string>
+    <string name="power_engine_fps_title">Enjin grafik penjimatan kuasa</string>
+    <string name="power_engine_fps_detail">Mengoptimumkan GPU untuk mengurangkan penggunaan kuasa sebanyak 10–25%</string>
+    <string name="power_engine_summery_close">Selepas didayakan, ia akan mengurangkan penggunaan kuasa skrin, CPU dan GPU secara pintar</string>
+    <string name="power_engine_summery_close2">Selepas didayakan, ia akan mengurangkan penggunaan kuasa skrin dan GPU secara pintar</string>
+    <string name="power_engine_summery_close3">Selepas didayakan, ia akan mengurangkan penggunaan kuasa skrin secara pintar</string>
+    <string name="power_engine_summery_close4">Selepas didayakan, ia akan mengurangkan penggunaan kuasa skrin dan CPU secara pintar</string>
+    <string name="power_setting_menu_smart2">Penjimat kuasa skrin</string>
+    <string name="power_setting_menu_smart3">Penjimat kuasa Skrin, CPU dan GPU</string>
+    <string name="power_setting_menu_smart4">Penjimat kuasa Skrin dan GPU</string>
+    <string name="power_setting_menu_smart5">Penjimat kuasa Skrin dan CPU</string>
+    <string name="power_setting_current_battery" formatted="false">Cas Semasa: %s %s</string>
+    <string name="classicmode_lable_clock">Jam</string>
+</resources>

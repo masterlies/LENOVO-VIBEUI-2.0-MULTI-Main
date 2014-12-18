@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>skrin kunci</item>
+        <item>pelancar</item>
+        <item>ikon</item>
+        <item>kertas dinding</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>callscreen</item>
+        <item>systemwidget</item>
+        <item>bootshut</item>
+        <item>fon</item>
+    </string-array>
+</resources>

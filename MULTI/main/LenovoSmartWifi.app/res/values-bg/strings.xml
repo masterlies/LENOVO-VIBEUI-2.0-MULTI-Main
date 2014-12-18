@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Свързване на WLAN с местоположението</string>
+    <string name="dialog_title">Активиране на WLAN?</string>
+    <string name="dialog_text">Това местополож. е било свързана AP，вкл. WLAN？</string>
+    <string name="disable_dialog_title">Деактивиране на WLAN?</string>
+    <string name="disable_dialog_text">Това местопол. е далеч от местопол. на свързаната AP，забр. WLAN？</string>
+    <string name="show_dialog">Не ми напомняй</string>
+    <string name="disable_show_dialog">Не ми напомняй</string>
+    <string name="wifi_enable_text">Въвеж. местоп., изск. напом.</string>
+    <string name="wifi_enable_summary">Когато въвеж. местоп. на свързана ТД с ниво на сигнал 3 или повече и имате GPRS данни，вкл. WLAN</string>
+    <string name="wifi_disable_text">Далечно местоп., изск. напом.</string>
+    <string name="wifi_disable_summary">Когато местоп. на свързана AP е далеч，забр. WLAN</string>
+    <string name="wifi_setting_summary">Обвързване на свързана WLAN мрежа и ако по-късно използвате 3G/2G услуги за данни по GPRS в обхвата на покритие, ще ви се напомни да се свържете към тази WLAN мрежа или ще се свърже към нея автоматично</string>
+    <string name="wifi_popup_tip">Изск. напом.</string>
+    <string name="wifi_auto_enable">Автоматично свързване</string>
+    <string name="wifi_auto_disable">Автомат. забраняване</string>
+    <string name="wifi_popup_0">Обвърз. на свърз. AP. Когато във. това местоп., изск. напом.</string>
+    <string name="wifi_popup_1">Обвърз. на свърз. AP. Когато въвеж. това местоп., авт. разр.</string>
+    <string name="wifi_popup_2">Не ми напомняй</string>
+    <string name="confirm_yes">Да</string>
+    <string name="confirm_no">Не</string>
+    <string name="enable_wifi_hint">WLAN записване се свързва с WLAN мрежа за записване на потока от данни</string>
+    <string name="disable_wifi_hint">WLAN записване изключва WLAN за пестене на енергия</string>
+</resources>

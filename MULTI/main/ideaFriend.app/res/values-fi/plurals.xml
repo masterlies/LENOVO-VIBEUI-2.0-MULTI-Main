@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d yhteystietoa, joilla puhelinnumero</item>
+        <item quantity="one">1 yhteystieto, jolla puhelinnumero</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Löytyi %d yhteystietoa</item>
+        <item quantity="one">Löytyi 1 yhteystieto</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d löytyi</item>
+        <item quantity="one">1 löytyi</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Yhdistetty %0$d lähteestä</item>
+        <item quantity="one">Ei yhdistetty</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ryhmää</item>
+        <item quantity="one">1 ryhmä</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä kohteesta %2$s</item>
+        <item quantity="one">%1$d yhteystietoa kohteesta %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d henkilöä</item>
+        <item quantity="one">%1$d henkilöä</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d vastaajaviestiä</item>
+        <item quantity="one">Vastaajaviesti</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d puhelulokia löytyi</item>
+        <item quantity="one">1 puheluloki löytyi</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Etsi yhteystiedoista | %d Tallennettua yhteystietoa</item>
+        <item quantity="one">Etsi yhteystiedoista | 1 Tallennettua yhteystietoa</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s keskustelua poistetaan.</item>
+        <item quantity="one">Järjestelmä poistaa 1 keskustelun</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d lukematonta viestiä.</item>
+        <item quantity="one">%d lukematonta viestiä.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekunti(a)</item>
+        <item quantity="one">%s sekunti(a)</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s hakutulosta haulle %2$s</item>
+        <item quantity="one">%1$s hakutulosta haulle %2$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s henkilöä</item>
+        <item quantity="one">%1$s henkilöä</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">lähetetään %d luettua raporttia</item>
+        <item quantity="one">lähetetään %d luettua raporttia</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d valittu</item>
+        <item quantity="one">%d valittu</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Merkitse %1$s keskustelua luetuiksi</item>
+        <item quantity="one">Merkitse 1 keskustelu luetuksi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Параметры</string>
+    <string name="app_name">Поделиться уч. записью WLAN</string>
+    <string name="prompt">Поднесите телефоны друг к другу, чтобы друзья тоже могли воспользоваться WLAN!</string>
+    <string name="current_wifi">"Текущее WLAN соединение: "</string>
+    <string name="hotknot_help">Как поделиться: Не закрывая это окно прикоснитесь вторым устройством с включенным NFC к этому устройству (тыльными сторонами) и следуйте указаниям на экране. В случае удачи вы поделитесь настройками текущего соединенияWLAN.</string>
+    <string name="title_receive">Получение</string>
+    <string name="wlan_connecting">Получение уч. записи WLAN...</string>
+    <string name="title_finish">Успешно получено</string>
+    <string name="wlan_finish">Уч. запись WLAN успешно получена. Подключитесь к %1$s и вы в Интернете!</string>
+    <string name="send_ap_no_connected">Невозможно поделиться (подключенная уч. запись WLAN не найдена)</string>
+    <string name="hotknot_help_note">Примечание: Принимающее устройство должно поддерживать WLANShare.</string>
+    <string name="wifi_share">WLAN Share</string>
+</resources>

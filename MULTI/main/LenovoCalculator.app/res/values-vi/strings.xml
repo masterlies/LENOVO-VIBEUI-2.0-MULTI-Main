@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="error">Lỗi</string>
+    <string name="advanced">Tính nâng cao</string>
+    <string name="clear_history">Xóa lịch sử</string>
+    <string name="copy">Sao chép</string>
+    <string name="paste">Dán</string>
+    <string name="only_digit">Bạn chỉ có thể dán các số</string>
+    <string name="basic">Phép tính đơn giản</string>
+    <string name="copy_success">Đã sao chép</string>
+    <string name="full_input">Đã nhập giá trị tối đa</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">Xóa</string>
+    <string name="clear">C</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+</resources>

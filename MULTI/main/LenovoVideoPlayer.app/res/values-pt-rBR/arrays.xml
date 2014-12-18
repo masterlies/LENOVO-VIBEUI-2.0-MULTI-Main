@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Notícias</item>
+        <item>Esportes</item>
+        <item>Drama</item>
+        <item>Vídeos musicais</item>
+        <item>Filmes</item>
+        <item>Comédia</item>
+        <item>Ação</item>
+        <item>Musicais</item>
+        <item>Animação</item>
+        <item>Variedades</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Executar</item>
+        <item>Renomear</item>
+        <item>Excluir</item>
+        <item>Informações</item>
+        <item>Compartilhar</item>
+        <item>Multisseleção</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Executar</item>
+        <item>Renomear</item>
+        <item>Excluir</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Executar</item>
+        <item>Excluir</item>
+        <item>Limpar lista</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Executar</item>
+        <item>Adicionar este vídeo</item>
+    </string-array>
+</resources>

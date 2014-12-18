@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="app_name">Partager le compte WLAN</string>
+    <string name="prompt">Rapprochez les téléphones pour partager le WLAN avec vos amis !</string>
+    <string name="current_wifi">Connexion WLAN actuelle :</string>
+    <string name="hotknot_help">"Méthode de partage : dans l'interface actuelle, rapprochez la partie supérieure de chacun des deux téléphones (transfert NFC). Suivez les instructions à l'écran pour partager le compte WLAN connecté."</string>
+    <string name="title_receive">Réception</string>
+    <string name="wlan_connecting">Réception du compte WLAN…</string>
+    <string name="title_finish">Réception confirmée</string>
+    <string name="wlan_finish">Le compte WLAN a été correctement reçu. Connectez-vous à %1$s et vous serez en ligne !</string>
+    <string name="send_ap_no_connected">Partage impossible (compte WLAN connecté introuvable)</string>
+    <string name="hotknot_help_note">Remarque : Le téléphone du destinataire doit prendre en charge le partage de compte WLAN (et être équipé de la fonction)</string>
+    <string name="wifi_share">Partage de réseau local sans fil</string>
+</resources>

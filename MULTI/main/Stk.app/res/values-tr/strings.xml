@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USIM Araç Takımı1</string>
+    <string name="uim_name">UIM Araç Takımı</string>
+    <string name="app_name2">USIM Araç Takımı2</string>
+    <string name="sim_name">USIM Araç Seti</string>
+    <string name="app_name3">USIM Araç Takımı3</string>
+    <string name="sim_name1">USIM Araç Takımı1</string>
+    <string name="sim_name2">USIM Araç Takımı2</string>
+    <string name="menu_end_session">Oturumu sonlandır</string>
+    <string name="help">Yardım</string>
+    <string name="menu_back">Geri</string>
+    <string name="service_name">Hizmet adı</string>
+    <string name="stk_no_service">Kullanılabilir hizmet yok</string>
+    <string name="button_ok">Tamam</string>
+    <string name="button_cancel">İptal</string>
+    <string name="button_yes">Evet</string>
+    <string name="button_no">Hayır</string>
+    <string name="alphabet">Alfabe karakterleri</string>
+    <string name="digits">Rakamlar (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Çağrı sürüyor…</string>
+    <string name="default_setup_call_msg">Arama kuruluyor</string>
+    <string name="stk_app_state">Uygulama durumu</string>
+    <string name="enable_app">Etkin</string>
+    <string name="disable_app">Devre dışı</string>
+    <string name="emptytext">Kart Hazır Değil veya Hizmet Yok</string>
+    <string name="stk_dialog_title">USIM Araç Seti</string>
+    <string name="default_tone_dialog_msg">Çalma Sesi</string>
+    <string name="default_open_channel_msg">Kanal Açılsın mı?</string>
+    <string name="default_send_data_msg">Veri Gönderiliyor</string>
+    <string name="default_receive_data_msg">Veri Alınıyor</string>
+    <string name="default_close_channel_msg">Kanal Kapalı</string>
+    <string name="stk_dialog_accept">EVET</string>
+    <string name="stk_dialog_reject">HAYIR</string>
+    <string name="stk_simstate_wrong">Şu anda SIM %1$d kullanılamıyor!</string>
+</resources>

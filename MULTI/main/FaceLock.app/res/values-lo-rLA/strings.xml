@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ປົດລັອກດ້ວຍໜ້າ</string>
+    <string name="receiver_app_name">Face Unlock Broadcast Receiver</string>
+    <string name="setup_app_name">ຕັ້ງຄ່າການປົດລັອກດ້ວຍໜ້າ</string>
+    <string name="enrollment_continue_label">ດຳເນີນການຕໍ່</string>
+    <string name="enrollment_done_label">ແລ້ວໆ</string>
+    <string name="enrollment_initializing">ກຳລັງເລີ່ມ...</string>
+    <string name="enrollment_start_message">ເອົາໜ້າຂອງທ່ານໄວ້ບ່ອນນີ້.</string>
+    <string name="error_no_face">ສະແດງໜ້າຂອງທ່ານ</string>
+    <string name="enrollment_missing_landmarks">ສະແດງຕາ, ດັງ ແລະປາ.</string>
+    <string name="enrollment_missing_landmarks_status">ບໍ່ສາມາດເບິ່ງເຫັນລັກສະນະໜ້າຕາຂອງທ່ານໄດ້</string>
+    <string name="enrollment_off_center_status">ບໍ່ສາມາດຊອກເຫັນບາງສ່ວນຂອງໜ້າທ່ານໄດ້</string>
+    <string name="enrollment_done">ບັນທຶກຮູບໜ້າແລ້ວ</string>
+    <string name="tutorial_app_name">ກ່ຽວກັບການປົດລັອກດ້ວຍໜ້າ</string>
+    <string name="tutorial_header">ເບິ່ງໜ້າຈໍໂທລະສັບຂອງທ່ານເພື່ອປົດລັອກມັນ.</string>
+    <string name="tutorial_info_text">"ຈື່ໄວ້ສະເໝີວ່າ:
+
+ "<li><ul>"ການປົດລັອກດ້ວຍໜ້າ ຈະປອດໄພໜ້ອຍກວ່າການປົດລັອກດ້ວຍຮູບແບບປົດລັອກ, PIN ຫຼືລະຫັດຜ່ານ.
+
+ "<li>ບາງຄົນທີ່ໜ້າຕາຄ້າຍທ່ານ ອາດສາມາດປົດລັອກແທັບເລັດຂອງທ່ານໄດ້.</li>"
+
+ "<li>ຂໍ້ມູນທີ່ໃຊ້ພິສູດຮູບໜ້າຂອງທ່ານແມ່ນຖືກເກັບໄວ້ໃນໂທລະສັບ.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">ຕັ້ງຄ່າມັນ</string>
+    <string name="intro_header">ເພື່ອຜົນຮັບທີ່ດີທີ່ສຸດ:</string>
+    <string name="intro_info_text">" "<li><ul>"ຊອກຫາຈຸດໃນຮົ່ມ — ທີ່ບໍ່ມືດຫຼືແຈ້ງເກີນໄປ.
+
+ "<li>ຖືໂທລະສັບໄວ້ໃນລະດັບສາຍຕາ.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">ດຳເນີນການຕໍ່</string>
+    <string name="endscreen_header">ແລ້ວໆ!</string>
+    <string name="endscreen_info_text">"ເພື່ອປົດລັອກໂທລະສັບຂອງທ່ານ, ໃຫ້ເບິ່ງໜ້າຈໍໄວ້ .
+
+ເຄັດລັບ: ປັບປຸງການຈັບຄູ່ຮູບໜ້າໂດຍການຖ່າຍພາບໜ້າຂອງທ່ານ ໃນສະພາບທີ່ແຕກຕ່າງກັນ."</string>
+    <string name="endscreen_continue_label">ຕົກລົງ</string>
+    <string name="addtosetup_app_name">ປັບປຸງການຈັບຄູ່ຮູບໜ້າ</string>
+    <string name="addtosetup_header">ຖ່າຍຮູບພາບໜ້າຂອງທ່ານໃນສະພາບທີ່ແຕກຕ່າງກັນ</string>
+    <string name="addtosetup_info_text">"ຕົວຢ່າງ:
+
+ "<li><ul>"ໃນສະພາບແສງທີ່ຕ່າງກັນ
+
+ "<li>ແບບໃສ່ແວ່ນ ແລະບໍ່ໃສ່ແວ່ນ</li>"
+
+ "<li>ມີໜວດ ແລະໂກນໜວດ</li>"
+
+ "</ul></li>"
+ຖືໂທລະສັບໃນລະດັບສາຍຕາ."</string>
+    <string name="addtosetup_continue_label">ດຳເນີນການຕໍ່</string>
+    <string name="service_app_name">Face Unlock Service</string>
+    <string name="service_face_not_found">ບໍ່ສາມາດຊອກຫາໜ້າໄດ້</string>
+    <string name="service_not_a_match">ຂໍອະໄພ, ລະບົບບໍ່ສາມາດຈຳແນກທ່ານໄດ້</string>
+    <string name="service_liveliness_start">ກະພິບຕາດຽວນີ້</string>
+    <string name="service_liveliness_timeout">ບໍ່ສາມາດເຫັນຕອນທ່ານກະພິບຕາ</string>
+    <string name="service_low_ligthing">ແສງໜ້ອຍເກີນໄປ</string>
+    <string name="shared_initialize_error">ບໍ່ສາມາດເປີດການປົດລັອກດ້ວຍໜ້າໄດ້</string>
+    <string name="shared_camera_error">ການເປີດກ້ອງລົ້ມເຫລວ</string>
+    <string name="shared_read_gallery_error">ກະລຸນາຕັ້ງຄ່າຄືນໃໝ່</string>
+    <string name="shared_cancel_label">ຍົກເລີກ</string>
+</resources>

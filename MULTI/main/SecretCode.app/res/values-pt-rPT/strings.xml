@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Código Secreto</string>
+    <string name="meid_activity_title">Versão PRL</string>
+    <string name="btn_post">Habilitar</string>
+    <string name="btn_neg">Desabilitar</string>
+    <string name="enable_fdn">Habilitar</string>
+    <string name="disable_fdn">Desabilitar</string>
+    <string name="reboot">Reiniciar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">Não</string>
+    <string name="framework_inf">Versão Interna</string>
+    <string name="commit_cate">Guardar</string>
+    <string name="summary_on">Activado</string>
+    <string name="summary_off">Desactivar</string>
+    <string name="report_log_summary">Relatório</string>
+    <string name="report_log_title">Relatório</string>
+    <string name="save_success">Salvo com êxito</string>
+    <string name="yes_exit">Sim</string>
+    <string name="no_exit">Não</string>
+    <string name="enable">Habilitar</string>
+    <string name="disable">Desabilitar</string>
+    <string name="regulatory_information">Inform. Regulamentares</string>
+</resources>

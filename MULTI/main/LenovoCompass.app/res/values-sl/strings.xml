@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Informacije</string>
+    <string name="Ok">V redu</string>
+    <string name="Cancel">Prekliči</string>
+    <string name="app_name">Kompas</string>
+    <string name="calibrate">Umerjanje</string>
+    <string name="latitude">Zemljepisna širina</string>
+    <string name="longitude">Zemljepisna dolžina</string>
+    <string name="calibrate_success">Umerjanje končano</string>
+    <string name="ignore">Prezri</string>
+    <string name="cannot_get_location">Lokacije ni mogoče dobiti.</string>
+    <string name="location_north">SL</string>
+    <string name="location_south">JL</string>
+    <string name="location_east">VL</string>
+    <string name="location_west">ZL</string>
+    <string name="direction_north">S</string>
+    <string name="direction_south">J</string>
+    <string name="direction_east">V</string>
+    <string name="direction_west">Z</string>
+    <string name="direction_east_north">SV</string>
+    <string name="direction_east_south">JV</string>
+    <string name="direction_west_north">SZ</string>
+    <string name="direction_west_south">JZ</string>
+    <string name="Tips">Morda so v bližini magnetne motnje. Pridržite in zasukajte telefon, tako da z njim izpišete številko »8«, kot je prikazano na zgornji sliki. To pogovorno okno se bo samodejno zaprlo, če je umerjene uspešno.</string>
+    <string name="Warn">Morda so v bližini magnetne motnje.</string>
+    <string name="click_to_location">Dotaknite se, da pridobite lokacijo GPS.</string>
+    <string name="warn_message">Želite dovoliti pridobivanje trenutne lokacije prek GPS-ja ali iz omrežne lokacije?</string>
+    <string name="no_warn_later">Tega ne kaži več.</string>
+    <string name="start_calibration">Če želite umeriti, zatresite telefon.</string>
+    <string name="no_location_server">Storitev lokacije je izključena</string>
+</resources>

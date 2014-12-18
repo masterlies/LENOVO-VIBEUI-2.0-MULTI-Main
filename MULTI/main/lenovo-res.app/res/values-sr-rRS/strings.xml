@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_use_ipo_confirm">Brzo pokretanje sistema</string>
+    <string name="dlg_ipo_confirm_warning">U režimu brzog pokretanja sistema, sistem se ne isključuje u potpunosti. Nemojte uklanjati SIM karticu ili memorijsku karticu u ovom režimu, da ne bi došlo do oštećenja kartice.</string>
+    <string name="storage_sd_card">SD kartica</string>
+    <string name="storage_usb">USB memorija</string>
+    <string name="storage_phone">ugrađena memorija</string>
+    <string name="storage_external_usb">Spoljni USB uređaj za skladištenje</string>
+    <string name="ext_storage_internal_notification_title">Pripremanje unutrašnje memorije</string>
+    <string name="ext_storage_external_notification_title">Pripremanje spoljne memorije</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Želite li da aktivirate Režim rada u avionu?</string>
+    <string name="usb_notification_title">Postavke USB veze</string>
+    <string name="usb_notification_content">Izaberite režim USB postavljanja i adb otklanjanje grešaka</string>
+    <string name="default_string">Podrazumevano</string>
+    <string name="capital_on">UKLJUČENO</string>
+    <string name="capital_off">ISKLJUČENO</string>
+    <string name="kg_forgot_password_button_text">Zaboravljena lozinka</string>
+    <string name="msg_shutdown_habit_guess">"U poslednje vreme ste tri puta isključili uređaj u ovom periodu. 
+Želite li da pristupite podešavanjima zakazanog uključivanja/isključivanja?"</string>
+    <string name="global_action_reboot">Ponovo pokreni</string>
+    <string name="reboot_confirm_title">Ponovo pokreni</string>
+    <string name="reboot_confirm_msg">Telefon će se ponovo pokrenuti</string>
+    <string name="reboot_dialog_msg">"Pritisnite taster za uključivanje/isključivanje da biste isključili uređaj nakon ^1 sekundi. 
+Nastavite da pritiskate još 2 sekunde da bi se uređaj ponovo pokrenuo nakon isključivanja"</string>
+    <string name="silent_mode_silent">Isključi zvuk</string>
+    <string name="silent_mode_vibrate">Vibracija zvona</string>
+    <string name="silent_mode_normal">Opšte</string>
+    <string name="silent_mode_outdoor">Napolju</string>
+    <string name="powerOnWarning_alarm_msg">Sledeći alarm: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Sledeće zakazano uključivanje: %1$s</string>
+    <string name="qreboot_confirm_title">Brzo ponovno pokretanje sistema</string>
+    <string name="qreboot_confirm_msg">Funkcija Brzo ponovno pokretanje sistema samo resetuje procese aplikacija. U slučaju problema sa sistemom, upotrebite standardno ponovno pokretanje.</string>
+    <string name="long_back_exit_info">izlaz</string>
+    <string name="prevent_misoperation_title">Režim sprečavanja slučajne upotrebe</string>
+    <string name="prevent_misoperation_message">Ne pokrivajte gornji deo ekrana</string>
+    <string name="prevent_misoperation_quit_hint">Prisilno zatvaranje: pritiskom na tastere Nazad + Pojačavanje zvuka</string>
+    <string name="captive_portal_dialog_title">Prijavite se na WLAN mrežu</string>
+    <string name="captive_portal_dialog_message">Da biste pristupili Internetu preko trenutne WLAN mreže, potrebno je da se prijavite</string>
+    <string name="captive_portal_dialog_button">Prijavi me</string>
+    <string name="volume_icon_description_ringer">Zvuk zvona</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Pozovi</string>
+    <string name="volume_alarm">Alarm</string>
+    <string name="volume_fm">Jačina zvuka FM-a</string>
+    <string name="volume_matv">Pretraži</string>
+    <string name="volume_icon_description_media">Mediji</string>
+    <string name="volume_icon_description_notification">Obaveštenje</string>
+    <string name="not_support_too_long_string">Niska za pretragu je predugačka</string>
+    <string name="turn_on_mobile_data_warning">Neke aplikacije mogu dovesti do prenosa podataka preko mreže</string>
+    <string name="next_time_no_warning">Zanemari sledeći put</string>
+    <string name="turn_on_data">Uključi</string>
+    <string name="turn_off_data">Deaktiviraj</string>
+    <string name="keyguard_password_waring_dlg_title">Pogrešna lozinka</string>
+    <string name="keyguard_password_attempts_warning" formatted="false">Neuspešno ste pokušali da otključate telefon %d puta. Nakon još %d neuspešna pokušaja, telefon će se vratiti na fabričke vrednosti i svi korisnički podaci biće izgubljeni.</string>
+    <string name="keyguard_password_waring_dlg_remind">Unesite lenovo i kliknite na OK da biste nastavili.</string>
+    <string name="keyguard_password_dlg_input_err">Greška pri unosu, pokušajte ponovo</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Bluetooth će se isključiti kada uključite bežični ekran. Želite li da nastavite?</string>
+    <string name="invalid_wlan_dialog_title">WLAN</string>
+    <string name="invalid_wlan_dialog_message">Došlo je do problema sa Internet vezom, proverite trenutnu WLAN mrežu ili se povežite na drugu WLAN mrežu</string>
+    <string name="invalid_wlan_dialog_button">Poveži se na drugu WLAN mrežu</string>
+    <string name="popup_menu_find">Pronađi</string>
+    <string name="confirm_dialog_title">Potvrda</string>
+    <string name="wifi_display_and_wifi_are_turned_on">Bežični prikaz i WLAN su uključeni.</string>
+</resources>

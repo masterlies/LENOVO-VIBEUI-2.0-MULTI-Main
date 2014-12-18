@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unlock_message">Digite a senha:</string>
+    <string name="sim_locked_permanantly_message">O slot foi permanentemente travado.</string>
+    <string name="unlock_wrong_password_toast">Palavra-passe incorrecta!</string>
+    <string name="sim_unlock_remained_Attempts">Tempos restantes: %d</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="simlock_check_dialog_message">"Por favor, confirme que você deseja ativar o bloqueio do SIM.
+O telefone irá reiniciar."</string>
+</resources>

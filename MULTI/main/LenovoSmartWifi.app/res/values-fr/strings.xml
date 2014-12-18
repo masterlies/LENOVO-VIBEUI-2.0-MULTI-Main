@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Liaison WLAN vers l'emplacement"</string>
+    <string name="setting_activity">"Liaison WLAN de l'emplacement"</string>
+    <string name="dialog_title">Activer WLAN ?</string>
+    <string name="dialog_text">"L'application a été connectée à ce point d'accès ，activer le WLAN ？"</string>
+    <string name="disable_dialog_title">Désactiver WLAN ?</string>
+    <string name="disable_dialog_text">"Ce point d'accès est éloigné de l'application connectée，désactiver le WLAN ？"</string>
+    <string name="show_dialog">Ne plus me rappeler</string>
+    <string name="disable_show_dialog">Ne plus me rappeler</string>
+    <string name="wifi_enable_text">Entrée dans la zone, invite contextuelle</string>
+    <string name="wifi_enable_summary">"Lorsque vous entrez les données de localisation d'un point d'accès avec un niveau de signal 3 ou supérieur dont vous possédez les données GRPS,activez le WLAN"</string>
+    <string name="wifi_disable_text">Éloignement de la zone, invite contextuelle</string>
+    <string name="wifi_disable_summary">"Lorsque vous êtes éloigné du point d'accès，désactiver le WLAN"</string>
+    <string name="wifi_setting_summary">"Liaison de réseau WLAN connecté et, ultérieurement, si vous utilisez un service GPRS 3G/2G dans cette zone de couverture, vous serez invité à vous connecter à ce réseau WLAN ou l'appareil se connectera à ce réseau automatiquement"</string>
+    <string name="wifi_popup_tip">Invite contextuelle</string>
+    <string name="wifi_auto_enable">Connexion automatique</string>
+    <string name="wifi_auto_disable">Désactivation automatique</string>
+    <string name="wifi_popup_0">"Liaison de l'application connectée. Invite contextuelle à l'arrivée à ce point d'accès"</string>
+    <string name="wifi_popup_1">"Liaison de l'application connectée. Activation automatique à l'arrivée à ce point d'accès"</string>
+    <string name="wifi_popup_2">Ne plus me rappeler</string>
+    <string name="confirm_yes">Oui</string>
+    <string name="confirm_no">Non</string>
+    <string name="enable_wifi_hint">WLAN Recording se connecte au réseau local sans fil pour enregistrer votre flux de données</string>
+    <string name="disable_wifi_hint">"WLAN Recording désactive le réseau local sans fil pour économiser de l'énergie"</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Kegagalan layarkunci Layar akan memasuki kode keamanan. Tunggu layarkunci melakukan boot ulang...</string>
+</resources>

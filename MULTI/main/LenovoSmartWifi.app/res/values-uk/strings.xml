@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">"Зв'язати WLAN з місцезнаходж."</string>
+    <string name="dialog_title">Увімкнути WLAN?</string>
+    <string name="dialog_text">\"Якщо це місцезнаходження є підключеною точкою доступу, увімкнути мережу WLAN?\"</string>
+    <string name="disable_dialog_title">Вимкнути WLAN?</string>
+    <string name="disable_dialog_text">Вимкнути мережу WLAN, якщо це місцезнаходження віддалене від підключеної точки доступу?</string>
+    <string name="show_dialog">Не нагадувати</string>
+    <string name="disable_show_dialog">Не нагадувати</string>
+    <string name="wifi_enable_text">Показувати спливаючу підказку у разі вводу місцезнаходження</string>
+    <string name="wifi_enable_summary">Якщо введено місцезнаходження підключеної точки доступу з рівнем сигналу 3 або вище та наявні дані GRPS, увімкнути мережу WLAN</string>
+    <string name="wifi_disable_text">Показувати спливаючу підказку у разі віддаленого місцезнаходження</string>
+    <string name="wifi_disable_summary">Відключити мережу WLAN, якщо місцезнаходження віддалене від підключеної точки доступу</string>
+    <string name="wifi_setting_summary">Привяжіть підключену мережу WLAN. Згодом, у разі використання в зоні її покриття служби передавання даних 3G/2G GPRS, ви отримаєте нагадування підключитися до цієї мережі WLAN, або служба підключиться до неї автоматично.</string>
+    <string name="wifi_popup_tip">Спливаюча підказка</string>
+    <string name="wifi_auto_enable">Автоматично підключати</string>
+    <string name="wifi_auto_disable">Автоматично відключати</string>
+    <string name="wifi_popup_0">"Прив'язка підключеної точки доступу. Якщо введено це місцезнаходження, показувати спливаючу підказку"</string>
+    <string name="wifi_popup_1">"Прив'язка підключеної точки доступу. Вмикати автоматично, якщо введено це місцезнаходження"</string>
+    <string name="wifi_popup_2">Не нагадувати</string>
+    <string name="confirm_yes">Так</string>
+    <string name="confirm_no">Ні</string>
+    <string name="enable_wifi_hint">"Запис WLAN наразі під'єднується до мережі WLAN для збереження потоку даних"</string>
+    <string name="disable_wifi_hint">Запис WLAN наразі вимикає WLAN для збереження енергії</string>
+</resources>

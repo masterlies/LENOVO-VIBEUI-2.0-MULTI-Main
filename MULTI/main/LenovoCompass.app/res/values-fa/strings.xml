@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">اطلاعات</string>
+    <string name="Ok">تأیید</string>
+    <string name="Cancel">لغو</string>
+    <string name="app_name">قطب نما</string>
+    <string name="calibrate">تنظیم</string>
+    <string name="latitude">عرض جغرافیایی</string>
+    <string name="longitude">طول جغرافیایی</string>
+    <string name="calibrate_success">تنظیم کامل شد</string>
+    <string name="ignore">نادیده گرفتن</string>
+    <string name="cannot_get_location">مکان دریافت نشد.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">ممکن است یک مانع مغناطیسی در نزدیکی شما وجود داشته باشد، تلفن را نگهدارید و به شکل عدد 8 لاتین 8 مانند تصویر بالا بچرخانید. اگر تنظیم با موفقیت انجام شود، این کادر محاوره به صورت خودکار بسته می شود.</string>
+    <string name="Warn">ممکن است یک مانع مغناطیسی در اطرافتان وجود داشته باشد</string>
+    <string name="click_to_location">برای دریافت مکان GPS کلیک کنید</string>
+    <string name="warn_message">اجازه می دهید اطلاعات مکان فعلی از طریق GPS یا مکان شبکه دریافت شود؟</string>
+    <string name="no_warn_later">این مورد دوباره نمایش داده نشود</string>
+    <string name="start_calibration">تلفن را تکان دهید تا تنظیم شود</string>
+    <string name="no_location_server">سرویس مکان غیر فعال است.</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Várakozás</item>
+        <item>Biztonsági mentés</item>
+        <item>Biztonsági másolattal rendelkező</item>
+        <item>Hiba</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Megszakítva</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Várakozás</item>
+        <item>Letöltés</item>
+        <item>Eltávolítás</item>
+        <item>Hiba</item>
+        <item>Frissítés</item>
+        <item>Telepítve</item>
+        <item>Megszakítva</item>
+        <item>Telepítés</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Albumnév változtatása</item>
+        <item>Album törlése</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>A SYNCit egy ingyenes mobilalkalmazás, azonban a használat miatt keletkezett hálózatforgalmi költségeket a szolgáltatók felszámítják.</item>
+        <item>Igen, megegyeznek.</item>
+        <item>Hálózati banki szintű titkosítással tárolja a SYNCit felhasználói adatokat. Ez biztosan megakadályozza a személyi adatok és információk kiszivárgását.</item>
+        <item>A SYNCit automatikusan egyesíti a telefonján található duplikált névjegyeket.</item>
+        <item>Természetesen megteheti, ha a következők egyike a telefon operációs rendszere: Android, iOS, Symbian vagy támogatja a Java használatát (megtalálhatja a használatának megfelelő verziót).</item>
+        <item>Igen, támogatja a Symbian, iOS, Android és Java platformot.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Kell fizetni a SYNCit alkalmazásért?</item>
+        <item>Megegyezik a SYNCit és Android Backup szoftver?</item>
+        <item>Biztonságos a SYNCit? Ellophatják a telefonszámomat vagy a biztonsági mentési adataimat?</item>
+        <item>Miért csökken biztonsági mentés után a névjegyeim száma?</item>
+        <item>Nem a Lenovo gyártmányú a telefonom, ettől még használhatom a SYNCit alkalmazást?</item>
+        <item>Támogat más platformokat a SYNCit?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Névjegyek</item>
+        <item>Üzenetek</item>
+        <item>Híváslisták</item>
+    </string-array>
+</resources>

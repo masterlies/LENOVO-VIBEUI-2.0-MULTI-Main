@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="error">Pogreška</string>
+    <string name="advanced">Napredno</string>
+    <string name="clear_history">Izbriši povijest</string>
+    <string name="copy">Kopiraj</string>
+    <string name="paste">Zalijepi</string>
+    <string name="only_digit">Dopušteno je samo lijepljenje brojeva</string>
+    <string name="basic">Osnovno</string>
+    <string name="copy_success">Kopirano</string>
+    <string name="full_input">Nadmašen je maksimalan broj znakova</string>
+</resources>

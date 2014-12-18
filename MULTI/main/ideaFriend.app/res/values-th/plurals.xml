@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">พบผู้ติดต่อที่มีหมายเลขโทรศัพท์ %d คน</item>
+        <item quantity="one">พบผู้ติดต่อที่มีหมายเลขโทรศัพท์ 1 คน</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">ผู้ติดต่อ %d คน</item>
+        <item quantity="one">ผู้ติดต่อ 1 คน</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">พบ %d คน</item>
+        <item quantity="one">พบ 1 คน</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">พบ %d คน</item>
+        <item quantity="one">พบ 1 คน</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">รวมจาก %0$d แหล่งที่มา</item>
+        <item quantity="one">ไม่รวม</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d กลุ่ม</item>
+        <item quantity="one">1 กลุ่ม</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d คนจาก %2$s</item>
+        <item quantity="one">%1$d คนจาก %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d คน</item>
+        <item quantity="one">%1$d คนจาก</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d วอยซ์เมล</item>
+        <item quantity="one">วอยซ์เมล</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d บันทึกการโทร</item>
+        <item quantity="one">1 บันทึกการโทร</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">ค้นหาผู้ติดต่อ | ผู้ติดต่อทั้งหมด %d คน</item>
+        <item quantity="one">ค้นหาผู้ติดต่อ | ผู้ติดต่อทั้งหมด 1 คน</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">การสนทนา %1$s รายการจะถูกลบ</item>
+        <item quantity="one">การสนทนาหนึ่งรายการจะถูกลบ</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">มี %d ข้อความที่ยังไม่ได้อ่าน</item>
+        <item quantity="one">มี %d ข้อความที่ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s วินาที</item>
+        <item quantity="one">%s วินาที</item>
+        <item quantity="few">%s วินาที</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">พบผลลัพธ์ %1$s รายการสำหรับ \"%2$s\"</item>
+        <item quantity="one">พบผลลัพธ์ %1$s รายการสำหรับ \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s คน</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">กำลังส่งรายงานการเปิดอ่าน %d รายการ</item>
+        <item quantity="one">กำลังส่งรายงานการเปิดอ่าน %d รายการ</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">เลือกไว้ %d รายการ</item>
+        <item quantity="one">เลือกไว้ %d รายการ</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">ทำเครื่องหมายการสนทนา %1$s รายการว่าอ่านแล้ว</item>
+        <item quantity="one">ทำเครื่องหมายการสนทนา 1 รายการว่าอ่านแล้ว</item>
+    </plurals>
+</resources>

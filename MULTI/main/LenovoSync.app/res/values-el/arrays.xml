@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Σε αναμονή</item>
+        <item>Δημιουργία αντιγράφου ασφαλείας</item>
+        <item>Δημιουργήθηκε αντίγραφο ασφαλείας</item>
+        <item>Σφάλμα</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Ακυρώθηκε</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Σε αναμονή</item>
+        <item>Γίνεται λήψη</item>
+        <item>Κατάργηση εγκατάστασης</item>
+        <item>Σφάλμα</item>
+        <item>Ενημέρωση</item>
+        <item>Έγινε εγκατάσταση</item>
+        <item>Ακυρώθηκε</item>
+        <item>Γίνεται εγκατάσταση</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Αλλαγή ονόματος άλμπουμ</item>
+        <item>Διαγραφή άλμπουμ</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>Το SYNCit είναι μια δωρεάν εφαρμογή για κινητά τηλέφωνα, αλλά το κόστος της κυκλοφορίας δικτύου που δημιουργείται λόγω της χρήσης της χρεώνεται από τους παρόχους.</item>
+        <item>Ναι, είναι.</item>
+        <item>Το SYNCit αποθηκεύει πληροφορίες χρήστη με επίπεδο κρυπτογράφησης αντίστοιχο των online τραπεζικών συστημάτων. Μπορεί αναμφισβήτητα να αποτρέπει τη διαρροή προσωπικών δεδομένων και πληροφοριών.</item>
+        <item>Το SYNCit θα συγχωνεύσει αυτόματα τις διπλότυπες επαφές στο τηλέφωνό σας.</item>
+        <item>Φυσικά μπορείτε, εφόσον το σύστημα του τηλεφώνου σας είναι ένα από τα ακόλουθα: Android, iOS ή Symbian, ή υποστηρίζει Java (μπορείτε να βρείτε την ενδεδειγμένη έκδοση που πρέπει να χρησιμοποιήσετε).</item>
+        <item>Ναι, υποστηρίζει Symbian, iOS, Android και πλατφόρμες Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Χρεώνει το SYNCit;</item>
+        <item>Το SYNCit και το Android Backup είναι το ίδιο λογισμικό;</item>
+        <item>Είναι ασφαλές το SYNCit; Θα κλέψει τον αριθμό τηλεφώνου μου ή τα δεδομένα των αντιγράφων ασφαλείας μου;</item>
+        <item>Γιατί μειώνονται οι επαφές μου μετά τη δημιουργία αντιγράφων ασφαλείας;</item>
+        <item>Το τηλέφωνό μου δεν κατασκευάζεται από την Lenovo, μπορώ να χρησιμοποιήσω το SYNCit;</item>
+        <item>Υποστηρίζει το SYNCit άλλες πλατφόρμες;</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Επαφές</item>
+        <item>Μηνύματα</item>
+        <item>Αρχεία καταγραφής κλήσεων</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Đang chờ</item>
+        <item>Đang sao lưu</item>
+        <item>Đã sao lưu</item>
+        <item>Lỗi</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Đã hủy</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Đang chờ</item>
+        <item>Đang tải xuống</item>
+        <item>Gỡ cài đặtl</item>
+        <item>Lỗi</item>
+        <item>Cập nhật</item>
+        <item>Đã cài đặt</item>
+        <item>Đã hủy</item>
+        <item>Đang cài đặt</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Đổi tên Album</item>
+        <item>Xóa Album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit là một Ứ.DỤNG di động miễn phí. Nhưng cước phí lưu lượng mạng bị phát sinh do tải và sử dụng sẽ bị nhà cung cấp dịch vụ tính phí.</item>
+        <item>Có, là chúng.</item>
+        <item>SYNCit lưu trữ thông tin người dùng bằng cách mã hóa mức dịch vụ ngân hàng trực tuyến. Nó có thể tuyệt đối giữ dữ liệu và thông tin cá nhân bảo mật và những thông tin đó sẽ không bao giờ bị rò gỉ.</item>
+        <item>SYNCit sẽ tự động gộp các số liên lạc trùng lặp trong điện thoại của bạn.</item>
+        <item>Tất nhiên bạn có thể. Nếu hệ thống của điện thoại là một trong những loại sau: Android, iOS, Symbian hoặc hỗ trợ java, bạn có thể tìm thấy phiên bản phù hợp để sử dụng.</item>
+        <item>Có, nó hỗ trợ nền Symbian, iOS, Android và nền tảng Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>SYNCit có tính phí không?</item>
+        <item>SYNCit và Android Backup là hai phần mềm giống nhau?</item>
+        <item>SYNCit có an toàn không? Nó có ăn cắp số điện thoại hoặc dữ liệu sao lưu của tôi không?</item>
+        <item>Tại sao danh bạ của tôi giảm sau khi sao lưu?</item>
+        <item>Điện thoại của tôi không phải do Lenovo sản xuất. Tôi có thể sử dụng SYNCit?</item>
+        <item>SYNCit có hỗ trợ các nền tảng khác không?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Danh bạ</item>
+        <item>Tin nhắn</item>
+        <item>Nhật ký gọi gọi</item>
+    </string-array>
+</resources>

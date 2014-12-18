@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d huruf.</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 huruf.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d huruf kecil.</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 huruf kecil.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d huruf besar.</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 huruf besar.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d digit angka.</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 digit angka.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d simbol khas.</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 simbol khas.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Kata laluan mesti mengandungi sekurang-kurangnya %d aksara bukan huruf.</item>
+        <item quantity="one">Kata laluan mesti mengandungi sekurang-kurangnya 1 aksara bukan huruf.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Kod PUK bagi kad %1$s salah dan anda boleh mencuba %2$d banyak kali.</item>
+        <item quantity="one">Kod PUK bagi kad %1$s salah dan anda boleh mencuba %2$d banyak kali. Jika gagal lagi, anda perlu menghubungi operator untuk membuka kunci peranti anda.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Kod PUK bagi kad %1$s salah dan anda boleh mencuba %2$d banyak kali. Jika gagal lagi, kad %1$s tidak akan tersedia secara kekal.</item>
+        <item quantity="one">Kod PUK bagi kad %1$s salah dan anda boleh mencuba %2$d banyak kali. Jika gagal lagi, kad %1$s tidak akan tersedia secara kekal.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Kod PUK bagi kad SIM salah dan anda boleh mencuba %d banyak kali.</item>
+        <item quantity="one">Kod PUK bagi kad SIM salah dan anda boleh mencuba %d banyak kali. Jika gagal lagi, anda perlu menghubungi operator untuk membuka kunci peranti anda.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Kod PUK bagi kad SIM salah dan anda boleh mencuba %d banyak kali. Jika gagal lagi, kad SIM tidak akan tersedia secara kekal.</item>
+        <item quantity="one">Kod PUK bagi kad SIM salah dan anda boleh mencuba %d banyak kali. Jika gagal lagi, kad SIM tidak akan tersedia secara kekal.</item>
+    </plurals>
+</resources>

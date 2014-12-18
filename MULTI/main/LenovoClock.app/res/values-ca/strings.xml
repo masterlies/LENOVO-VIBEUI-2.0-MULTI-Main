@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="done_label">Fet</string>
+    <string name="hour_picker_description">Control circular de les hores</string>
+    <string name="minute_picker_description">Control circular dels minuts</string>
+    <string name="select_hours">Selecciona les hores</string>
+    <string name="select_minutes">Selecciona els minuts</string>
+    <string name="day_picker_description">Graella mensual de dies</string>
+    <string name="year_picker_description">Llista anual</string>
+    <string name="select_day">Selecciona un mes i un dia</string>
+    <string name="select_year">Selecciona un any</string>
+    <string name="item_is_selected">%1$s seleccionat</string>
+    <string name="deleted_key">%1$s suprimit</string>
+</resources>

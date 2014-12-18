@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">"Şifre en az %d harf içermelidir. "</item>
+        <item quantity="one">"Şifre en az 1 harf içermelidir. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">"Şifre en az %d küçük harf içermelidir. "</item>
+        <item quantity="one">"Şifre en az 1 küçük harf içermelidir. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">"Şifre en az %d büyük harf içermelidir. "</item>
+        <item quantity="one">"Şifre en az 1 büyük harf içermelidir. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">"Şifre en az %d sayı içermelidir. "</item>
+        <item quantity="one">"Şifre en az 1  sayı içermelidir. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">"Şifre en az %d özel sembol içermelidir. "</item>
+        <item quantity="one">"Şifre en az 1 özel sembol içermelidir. "</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">"Şifre en az %d harf olmayan karakter içermelidir. "</item>
+        <item quantity="one">"Şifre en az 1 harf olmayan karakter içermelidir. "</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Yanlış %1$s PIN kodu. %2$d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış %1$s PIN kodu. Cihazının kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %2$d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Yanlış %1$s PUK kodu. %1$s kalıcı olarak kullanılmaz hale gelmeden önce %2$d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış %1$s PUK kodu. %1$s kalıcı olarak kullanılmaz hale gelmeden önce %2$d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Yanlış SIM PIN kodu. %d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış SIM PIN kodu. Cihazının kilidini açmak için operatörünüzle bağlantı kurmak zorunda kalmadan önce %d deneme hakkınız kaldı.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Yanlış SIM PUK kodu. SIM kalıcı olarak kullanılmaz hale gelmeden önce %d deneme hakkınız kaldı.</item>
+        <item quantity="one">Yanlış SIM PUK kodu. SIM kalıcı olarak kullanılmaz hale gelmeden önce %d deneme hakkınız kaldı.</item>
+    </plurals>
+</resources>

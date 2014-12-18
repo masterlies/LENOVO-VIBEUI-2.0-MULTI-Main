@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Pencahayaan</string>
+    <string name="breath_settings">Pengaturan Breath</string>
+    <string name="breath_delay">Siklus Breath</string>
+    <string name="breath_delay_info">Semakin pendek waktu tunda yang ditetapkan, maka daya lebih akan digunakan</string>
+    <string name="light_switch_settings">Pengaturan Lampu</string>
+    <string name="coming_call">Panggilan Masuk</string>
+    <string name="miss_call">Panggilan Tidak Terjawab</string>
+    <string name="unread_msg">Pesan Belum Dibaca</string>
+    <string name="battery_low_msg">Pesan Baterai Lemah</string>
+    <string name="other_app_notify">Lainnya</string>
+    <string name="music_play">Musik</string>
+    <string name="screen_on">Layar Aktif</string>
+    <string name="screen_off">Layar Tidak Aktif</string>
+    <string name="power_on_off">Daya Aktif/Tidak Aktif</string>
+    <string name="charging">Mengisi daya</string>
+    <string name="low_battery">Baterai Lemah</string>
+    <string name="color_settings">Pengaturan Warna</string>
+    <string name="color_settings_info">Pengaturan warna setiap lampu</string>
+    <string name="color_coming_call">Warna Terang Panggilan Masuk</string>
+    <string name="color_miss_call">Warna Terang Panggilan Tidak Terjawab</string>
+    <string name="color_unread_msg">Warna Terang Pesan Belum Dibaca</string>
+    <string name="color_music">Warna Terang Musik</string>
+    <string name="color_screen_on">Warna Terang Layar Aktif</string>
+    <string name="color_screen_off">Warna Terang Layar Tidak Aktif</string>
+    <string name="light_show">Pertunjukan Lampu</string>
+    <string name="light_show_info">Pertunjukan lampu sedang diputar</string>
+    <string name="stop">Berhenti</string>
+    <string name="closed">Nonaktif</string>
+    <string name="open">Aktif</string>
+    <string name="multiselect_alert_info">Minimal perlu satu warna!</string>
+</resources>

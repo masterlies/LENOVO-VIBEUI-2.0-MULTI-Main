@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 giây</item>
+        <item>6 giây</item>
+        <item>9 giây</item>
+    </string-array>
+    <string-array name="network_speed_refresh_time_interval_value">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>"Cường độ tín hiệu
+Kém     "</item>
+        <item>"Cường độ tín hiệu
+Yếu     "</item>
+        <item>"Cường độ tín hiệu
+Trung bình   "</item>
+        <item>"Cường độ tín hiệu
+Mạnh    "</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Đồ họa</item>
+        <item>Phần trăm</item>
+    </string-array>
+    <string-array name="battery_style_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <array name="locale_carrier_names" />
+    <array name="origin_carrier_names" />
+</resources>

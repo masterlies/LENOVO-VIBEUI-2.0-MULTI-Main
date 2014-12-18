@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>นุ่ม</item>
+        <item>ค่าเริ่มต้น</item>
+        <item>สดใส</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>ค่าเริ่มต้น</item>
+        <item>สูง</item>
+    </string-array>
+    <string-array name="hue">
+        <item>โทนเย็น</item>
+        <item>ค่าเริ่มต้น</item>
+        <item>โทนร้อน</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>ค่าเริ่มต้น</item>
+        <item>ปรับความคมชัด</item>
+    </string-array>
+</resources>

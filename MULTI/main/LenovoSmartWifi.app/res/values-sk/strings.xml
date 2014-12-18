@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_activity">WLAN prepojenie s polohou</string>
+    <string name="dialog_title">Prevziať</string>
+    <string name="dialog_text">\"Zapnuté dátové spojenie. Môžu z toho vyplývať poplatky. Chcete sa pripojiť k dostupnej sieti WLAN?\"</string>
+    <string name="disable_dialog_title">Vypnúť WLAN?</string>
+    <string name="disable_dialog_text">Práve opúšťate dosah pripojeného prístupového bodu, vypnúť WLAN?</string>
+    <string name="show_dialog">Nepripomínať</string>
+    <string name="disable_show_dialog">Nepripomínať</string>
+    <string name="wifi_enable_text">Možnosti prístupového bodu</string>
+    <string name="wifi_enable_summary">Vyberte si možnosť upozornenia alebo automatického pripojenie k dostupnej sieti WLAN, ak je telefón pripojený k dátovej službe 3G.</string>
+    <string name="wifi_disable_text">Možnosti v stave mimo dosahu</string>
+    <string name="wifi_disable_summary">Vyberte si, či zobraziť upozornenie alebo automaticky zrušiť spojenie WLAN, ak je prístupový bod mimo dosahu.</string>
+    <string name="wifi_setting_summary">Automatické povolenie tejto funkcie uprednostní pripojenie WLAN pred dátovým pripojením 3G.</string>
+    <string name="wifi_popup_tip">Kontextová správa</string>
+    <string name="wifi_auto_enable">Automatické pripojenie k WLAN</string>
+    <string name="wifi_auto_disable">Automatické odpojenie od WLAN</string>
+    <string name="wifi_popup_0">Prepojiť pripojený prístupový bod a upozorniť pri vstupe do tejto oblasti v budúcnosti</string>
+    <string name="wifi_popup_1">Prepojiť pripojený prístupový bod, ktorý sa automaticky sprístupní po vstupe do tejto oblasti v budúcnosti</string>
+    <string name="wifi_popup_2">Nepripomínať</string>
+    <string name="confirm_yes">Áno</string>
+    <string name="confirm_no">Nie</string>
+    <string name="enable_wifi_hint">Systém zistil, že k sieti pristupujete prostredníctvom služby GPRS. Aby ste ušetrili množstvo prenesených údajov, môžete využiť bezdrôtovú sieť WLAN v tejto oblasti</string>
+    <string name="disable_wifi_hint">Poloha na základe siete WLAN sa zisťuje v stave nečinnosti a automaticky sa vypne, aby sa šetrilo energiou</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Новости</item>
+        <item>Спорт</item>
+        <item>Пьесы</item>
+        <item>Музыкальные видео</item>
+        <item>Фильмы</item>
+        <item>Комедии</item>
+        <item>Экшн</item>
+        <item>Мюзиклы</item>
+        <item>Мультфильмы</item>
+        <item>Эстрада</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Воспроизвести</item>
+        <item>Переименовать</item>
+        <item>Удалить</item>
+        <item>Информация</item>
+        <item>Передать</item>
+        <item>Множественный выбор</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Воспроизвести</item>
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Воспроизвести</item>
+        <item>Удалить</item>
+        <item>Очистить</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Воспроизвести</item>
+        <item>Доб. это видео</item>
+    </string-array>
+</resources>

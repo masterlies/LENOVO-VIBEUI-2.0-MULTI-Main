@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Πληροφορίες</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Άκυρο</string>
+    <string name="app_name">Πυξίδα</string>
+    <string name="calibrate">Βαθμονόμηση</string>
+    <string name="latitude">Γεωγραφικό πλάτος</string>
+    <string name="longitude">Γεωγραφικό μήκος</string>
+    <string name="calibrate_success">Η βαθμονόμηση ολοκληρώθηκε</string>
+    <string name="ignore">Παράβλεψη</string>
+    <string name="cannot_get_location">Δεν είναι δυνατή η λήψη της τοποθεσίας.</string>
+    <string name="location_north">ΒΤ</string>
+    <string name="location_south">ΝΤ</string>
+    <string name="location_east">ΑΤ</string>
+    <string name="location_west">ΔΤ</string>
+    <string name="direction_north">Β</string>
+    <string name="direction_south">Ν</string>
+    <string name="direction_east">Α</string>
+    <string name="direction_west">Δ</string>
+    <string name="direction_east_north">ΒΑ</string>
+    <string name="direction_east_south">ΝΑ</string>
+    <string name="direction_west_north">ΒΔ</string>
+    <string name="direction_west_south">ΝΔ</string>
+    <string name="Tips">Ενδέχεται να υπάρχουν μαγνητικές παρεμβολές κοντά. Κρατήστε και κουνήστε το τηλέφωνο σχηματίζοντας τον αριθμό \"8\" όπως ακριβώς υποδεικνύεται στην παραπάνω εικόνα. Αυτό το παράθυρο διαλόγου θα κλείσει αυτόματα, αν η βαθμονόμηση ολοκληρωθεί με επιτυχία.</string>
+    <string name="Warn">Ενδέχεται να υπάρχουν μαγνητικές παρεμβολές κοντά</string>
+    <string name="click_to_location">Κάντε κλικ για λήψη πληροφοριών τοποθεσίας GPS</string>
+    <string name="warn_message">Να επιτρέπεται η λήψη τρεχουσών πληροφοριών τοποθεσίας μέσω τοποθεσίας GPS ή δικτύου;</string>
+    <string name="no_warn_later">Να μην εμφανιστεί ξανά</string>
+    <string name="start_calibration">Κουνήστε το τηλέφωνο για να βαθμονομήσετε την πυξίδα</string>
+    <string name="no_location_server">Η υπηρεσία εντοπισμού τοποθεσίας είναι απενεργοποιημένη</string>
+    <string name="no_location">--</string>
+    <string name="DoNotSHowAgain">Να μην εμφανιστεί ξανά</string>
+</resources>

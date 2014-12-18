@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>ニュース</item>
+        <item>スポーツ</item>
+        <item>ドラマ</item>
+        <item>ミュージック・ビデオ</item>
+        <item>ムービー</item>
+        <item>コメディ</item>
+        <item>アクション</item>
+        <item>ミュージカル</item>
+        <item>アニメ</item>
+        <item>バラエティ</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>再生</item>
+        <item>名前変更</item>
+        <item>削除</item>
+        <item>情報</item>
+        <item>共有</item>
+        <item>複数選択</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>再生</item>
+        <item>名前変更</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>再生</item>
+        <item>削除</item>
+        <item>リストの消去</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>再生</item>
+        <item>このビデオを追加</item>
+    </string-array>
+</resources>

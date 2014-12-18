@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Osvetlitev</string>
+    <string name="breath_settings">Nastavitev diha</string>
+    <string name="breath_delay">Cikel diha</string>
+    <string name="breath_delay_info">Krajša je zakasnitev, več energije se porabi</string>
+    <string name="light_switch_settings">Nastavitev luči</string>
+    <string name="coming_call">Dohodni klic</string>
+    <string name="miss_call">Zgrešeni klici</string>
+    <string name="unread_msg">Neprebrana sporočila</string>
+    <string name="battery_low_msg">Sporočilo o prazni bateriji</string>
+    <string name="sina_weibo_notify">Obvestilo SinaWeibo</string>
+    <string name="qq_weibo_notify">Obvestilo TencentWeibo</string>
+    <string name="other_app_notify">Drugo</string>
+    <string name="other_app_summary">weixin, QQ, weibo</string>
+    <string name="music_play">Glasba</string>
+    <string name="screen_on">Vklop zaslona</string>
+    <string name="screen_off">Izklop zaslona</string>
+    <string name="power_on_off">Vklop/izklop</string>
+    <string name="charging">Polnjenje</string>
+    <string name="low_battery">Baterija je skoraj prazna</string>
+    <string name="color_settings">Nastavitve barv</string>
+    <string name="color_settings_info">Nastavitve barve posamezne luči</string>
+    <string name="color_coming_call">Barva luči za dohodni klic</string>
+    <string name="color_miss_call">Barva luči za zgrešeni klic</string>
+    <string name="color_unread_msg">Barva luči za neprebrano sporočilo</string>
+    <string name="color_sina_weibo_notify">Barva luči za obvestilo SinaWeibo</string>
+    <string name="color_qq_weibo_notify">Barva luči za obvestilo TencentWeibo</string>
+    <string name="color_music">Barva luči za glasbo</string>
+    <string name="color_screen_on">Barva luči za vklop zaslona</string>
+    <string name="color_screen_off">Barva luči za izklop zaslona</string>
+    <string name="light_show">Svetlobni učinki</string>
+    <string name="light_show_info">Svetlobni učinki na dnu</string>
+    <string name="light_show_info_top">Svetlobni učinki pri vrhu</string>
+    <string name="stop">Ustavi</string>
+    <string name="closed">Izklop</string>
+    <string name="open">Vklop</string>
+    <string name="multiselect_alert_info">Nastaviti je treba vsaj eno barvo!</string>
+</resources>

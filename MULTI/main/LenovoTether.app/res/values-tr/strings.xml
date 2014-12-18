@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Erişim noktası</string>
+    <string name="wifi_tether_configure_ap_text">WLAN erişim noktasını yapılandır</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Güvenlik: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID en fazla 32 karakter uzunluğunda olmalıdır</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Güvenlik: %2$s
+Parola: %3$s"</string>
+    <string name="wifi_cancel">İptal</string>
+    <string name="wifi_save">Kaydet</string>
+    <string name="wifi_ssid">"Ağ SSID'si"</string>
+    <string name="wifi_security">Güvenlik</string>
+    <string name="wifi_password">Parola</string>
+    <string name="wifi_show_password">Parolayı göster</string>
+    <string name="credentials_password_too_short">Parola en az 8 karakter içermelidir.</string>
+    <string name="wifi_channel">Tercih Edilen Kanal</string>
+    <string name="wifi_channel_width">Kanal Genişliği</string>
+    <string name="wifi_tether_auto_channel_text">Otomatik</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Kişisel erişim noktası etkinleştirildi</string>
+    <string name="tethered_notification_message">Yapılandırmak için dokunun</string>
+    <string name="tether_about_title">İşlev Özellikleri</string>
+    <string name="wlan_connection_title">WLAN erişim noktası</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Bluetooth ağ paylaşımı</string>
+    <string name="usb_share_title">USB ağ paylaşımı</string>
+    <string name="about_wlan">"Bu aygıtta WLAN erişim noktasının ayarlanması; diğer WLAN aygıtlarının, web'de gezinmek için bu aygıtın mobil ağına bağlanabilmesini sağlar"</string>
+    <string name="about_usb">"Bu aygıtta USB ağ paylaşımının etkinleştirilmesi; bağlı aygıtların, web'de gezinmek için bu aygıtın mobil ağını kullanabilmesini sağlar"</string>
+    <string name="about_bt">"Bu aygıtta Bluetooth ağ paylaşımının etkinleştirilmesi; diğer Bluetooth aygıtlarının, web'de gezinmek için bu aygıtın mobil ağını kullanabilmesini sağlar"</string>
+    <string name="about_usb_other">"Diğer notlar:
+ 1. USB bağlantısı sırasında aygıtın SD kartını bilgisayara kuramazsınız 
+ 2. Bağlantı yalnızca Windows Vista, Windows 7, Windows 8 ve Linux için geçerlidir"</string>
+    <string name="wifi_tether_settings_title">WLAN yapılandırma bilgileri</string>
+    <string name="wifi_ap_client_block_title">Engelle</string>
+    <string name="wifi_ap_client_unblock_title">Engeli kaldır</string>
+    <string name="wifi_ap_connected_title">Bağlanan kullanıcılar</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d bağlı, %2$d engellenen</string>
+    <string name="open_title">İpuçlarını etkinleştir</string>
+    <string name="open_mess">%1$s uygulamasını kullanmak için veri bağlantısı işlevini etkinleştirmeniz gerekir</string>
+    <string name="open_mess_all">%1$s uygulamasını kullanmak için WLAN veya veri bağlantısı işlevini etkinleştirmeniz gerekir</string>
+    <string name="cancel">İptal</string>
+    <string name="go_settings">Ayarlara git</string>
+    <string name="open_mess_alert">Mobil ağ etkin. %1$s işlevinin kullanılması daha fazla veri trafiğine ve ücretlere neden olabilir. Etkinleştirmek istiyor musunuz?</string>
+    <string name="open">Etkinleştir</string>
+</resources>

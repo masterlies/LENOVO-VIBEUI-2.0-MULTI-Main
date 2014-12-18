@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3saniye</item>
+        <item>6saniye</item>
+        <item>9saniye</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>Sinyal gücü (düşük)</item>
+        <item>Sinyal gücü (zayıf)</item>
+        <item>Sinyal gücü (orta)</item>
+        <item>Sinyal gücü (güçlü)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Grafik stili</item>
+        <item>Basamak stili</item>
+    </string-array>
+</resources>

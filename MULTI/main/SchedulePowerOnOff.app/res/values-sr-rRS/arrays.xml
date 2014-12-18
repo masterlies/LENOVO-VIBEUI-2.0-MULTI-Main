@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Ovo uključivanje je podešeno za manje od 1 minut.</item>
+        <item>Ovo uključivanje je podešeno za %1$s.</item>
+        <item>Ovo uključivanje je podešeno za %2$s.</item>
+        <item>Ovo uključivanje je podešeno za %1$s i %2$s.</item>
+        <item>Ovo uključivanje je podešeno za %3$s.</item>
+        <item>Ovo uključivanje je podešeno za %1$s i %3$s.</item>
+        <item>Ovo uključivanje je podešeno za %2$s i %3$s.</item>
+        <item>Ovo uključivanje je podešeno za %1$s, %2$s i %3$s.</item>
+        <item>Ovo isključivanje je podešeno za manje od 1 minut.</item>
+        <item>Ovo isključivanje je podešeno za %1$s.</item>
+        <item>Ovo isključivanje je podešeno za %2$s.</item>
+        <item>Ovo isključivanje je podešeno za %1$s i %2$s.</item>
+        <item>Ovo isključivanje je podešeno za %3$s.</item>
+        <item>Ovo isključivanje je podešeno za %1$s i %3$s.</item>
+        <item>Ovo isključivanje je podešeno za %2$s i %3$s.</item>
+        <item>Ovo isključivanje je podešeno za %1$s, %2$s i %3$s.</item>
+    </string-array>
+</resources>

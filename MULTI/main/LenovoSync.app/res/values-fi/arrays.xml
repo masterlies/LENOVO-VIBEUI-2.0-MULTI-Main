@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Odottaa</item>
+        <item>Varmuuskopiointi</item>
+        <item>Varmuuskopioitu</item>
+        <item>Virhe</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Peruutettu</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Odottaa</item>
+        <item>Lataa</item>
+        <item>Poista asennus</item>
+        <item>Virhe</item>
+        <item>Päivitä</item>
+        <item>Asennettu</item>
+        <item>Peruutettu</item>
+        <item>Asentaa</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Vaihda albumin nimi</item>
+        <item>Poista albumi</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit on maksuton mobiilisovellus, mutta operaattori voi veloittaa latauksista ja käytöstä syntyvästä verkkoliikenteestä.</item>
+        <item>Kyllä ne ovat</item>
+        <item>SYNCit käyttää verkkopankin salaustasoa käyttäjän tietojen tallentamiseksi. Se voi säilyttää henkilötiedot turvassa ja estää tietoja vuotamasta.</item>
+        <item>SYNCit yhdistää automaattisesti samanlaiset yhteystiedot puhelimessa.</item>
+        <item>Tietysti voit, jos puhelimen järjestelmä on yksi seuraavista: Android, iOS, Symbian, tai tukee Java-ohjelmaa (etsi vastaava versio).</item>
+        <item>Kyllä, SYNCit tukee Symbian, iOS, Android ja Java -alustoja.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Periikö SYNCit maksun?</item>
+        <item>Ovatko SYNCit ja Android Backup sama ohjelma?</item>
+        <item>Onko SYNCit turvallinen? Varastaako se puhelinnumeroni ja varmuuskopioidut tiedot?</item>
+        <item>Miksi yhteystiedot vähenevät varmuuskopioinnin jälkeen?</item>
+        <item>Lenovo ei ole valmistanut puhelintani, voinko silti käyttää SYNCit-sovellusta?</item>
+        <item>Tukeeko SYNCit muita käyttöjärjestelmiä?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Yhteystiedot</item>
+        <item>Viestit</item>
+        <item>Soittolokit</item>
+    </string-array>
+</resources>

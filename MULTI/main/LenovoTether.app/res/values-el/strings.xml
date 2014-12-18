@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Ρύθμιση παραμέτρων hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Ασφάλεια: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Το SSID δεν μπορεί να υπερβαίνει τους 32 χαρακτήρες</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Ασφάλεια: %2$s
+Κωδικός πρόσβασης: %3$s"</string>
+    <string name="wifi_cancel">Άκυρο</string>
+    <string name="wifi_save">Αποθήκευση</string>
+    <string name="wifi_ssid">SSID δικτύου</string>
+    <string name="wifi_security">Ασφάλεια</string>
+    <string name="wifi_password">Κωδικός πρόσβασης</string>
+    <string name="wifi_show_password">Εμφάνιση κωδικού πρόσβασης</string>
+    <string name="credentials_password_too_short">Ο κωδικός πρόσβασης πρέπει να περιλαμβάνει τουλάχιστον 8 χαρακτήρες.</string>
+    <string name="wifi_channel">Προτιμώμενο κανάλι</string>
+    <string name="wifi_channel_width">Πλάτος καναλιού</string>
+    <string name="wifi_tether_auto_channel_text">Αυτόματο</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Το προσωπικό hotspot ενεργοποιήθηκε</string>
+    <string name="tethered_notification_message">Αγγίξτε για ρύθμιση παραμέτρων</string>
+    <string name="tether_about_title">Εισαγωγή στη λειτουργία</string>
+    <string name="wlan_connection_title">Hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Κοινή χρήση δικτύου Bluetooth</string>
+    <string name="usb_share_title">Κοινή χρήση δικτύου USB</string>
+    <string name="about_wlan">Ρυθμίζοντας το hotspot WLAN σε αυτήν τη συσκευή, άλλες συσκευές WLAN θα μπορούν να συνδέονται στο δίκτυο κινητής τηλεφωνίας αυτής της συσκευής για σερφάρισμα στο web</string>
+    <string name="about_usb">Ενεργοποιώντας την κοινή χρήση δικτύου USB σε αυτήν τη συσκευή, συνδεδεμένες συσκευές θα μπορούν να χρησιμοποιούν το δίκτυο κινητής τηλεφωνίας αυτής της συσκευής για σερφάρισμα στο web</string>
+    <string name="about_bt">Ενεργοποιώντας την κοινή χρήση δικτύου Bluetooth σε αυτήν τη συσκευή, άλλες συσκευές Bluetooth θα μπορούν να χρησιμοποιούν το δίκτυο κινητής τηλεφωνίας αυτής της συσκευής για σερφάρισμα στο web</string>
+    <string name="about_usb_other">"Άλλες σημειώσεις:
+ 1. Κατά τη σύνδεση USB, δεν είναι δυνατή η εγκατάσταση της κάρτας SD της συσκευής στον υπολογιστή 
+ 2. Η σύνδεση ισχύει μόνο στα Windows Vista, Windows 7, Windows 8 και Linux"</string>
+    <string name="wifi_tether_settings_title">Πληροφορίες ρύθμισης παραμέτρων WLAN</string>
+    <string name="wifi_ap_client_block_title">Φραγή</string>
+    <string name="wifi_ap_client_unblock_title">Κατάργηση φραγής</string>
+    <string name="wifi_ap_connected_title">Συνδεδεμένοι χρήστες</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d σε σύνδεση, %2$d σε φραγή</string>
+    <string name="open_title">Συμβουλές ενεργοποίησης</string>
+    <string name="open_mess">Για να χρησιμοποιήσετε το στοιχείο %1$s, πρέπει να ενεργοποιήσετε τη λειτουργία σύνδεσης δεδομένων</string>
+    <string name="open_mess_all">Για να χρησιμοποιήσετε το στοιχείο %1$s, πρέπει να ενεργοποιήσετε το WLAN ή τη λειτουργία σύνδεσης δεδομένων</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="go_settings">Μετάβαση στις ρυθμίσεις</string>
+    <string name="open_mess_alert">Το δίκτυο κινητής τηλεφωνίας είναι ενεργοποιημένο. Η χρήση της λειτουργίας %1$s ενδέχεται να δημιουργήσει περισσότερη κίνηση δεδομένων και χρεώσεις. Θέλετε να την ενεργοποιήσετε;</string>
+    <string name="open">Ενεργοποίηση</string>
+</resources>

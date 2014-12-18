@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Számológép</string>
+    <string name="error">Hiba</string>
+    <string name="advanced">Speciális</string>
+    <string name="clear_history">Előzmények törlése</string>
+    <string name="copy">Másolás</string>
+    <string name="paste">Beillesztés</string>
+    <string name="only_digit">Csak számokat adhat meg</string>
+    <string name="basic">Alap</string>
+    <string name="copy_success">Átmásolva</string>
+    <string name="full_input">Már megadta a maximális értéket</string>
+</resources>

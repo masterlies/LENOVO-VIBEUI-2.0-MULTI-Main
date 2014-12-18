@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>Pant. de bloq.</item>
+        <item>iniciador</item>
+        <item>íconos</item>
+        <item>papel tapiz</item>
+        <item>uidelsist.</item>
+        <item>ideafriend</item>
+        <item>pant. de llam.</item>
+        <item>widgetdelsist.</item>
+        <item>bootshut</item>
+        <item>fuente</item>
+    </string-array>
+</resources>

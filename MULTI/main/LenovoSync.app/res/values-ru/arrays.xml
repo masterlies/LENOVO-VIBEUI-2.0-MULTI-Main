@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Ожидание</item>
+        <item>Архивация</item>
+        <item>Архивировано</item>
+        <item>Ошибка</item>
+        <item>ОК</item>
+        <item>ОК</item>
+        <item>Отменено</item>
+        <item>ОК</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Ожидание</item>
+        <item>Загрузка</item>
+        <item>Удаление</item>
+        <item>Ошибка</item>
+        <item>Обновление</item>
+        <item>Установлено</item>
+        <item>Отменено</item>
+        <item>Установка</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Изменить название альбома</item>
+        <item>Удалить альбом</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit — бесплатное мобильное приложение. Однако плата за сетевой трафик, который вызван загрузкой и использованием, будет взиматься операторами.</item>
+        <item>Да, это так.</item>
+        <item>SYNCit сохраняет пользовательскую информацию с использованием интернет-шифрования банковского уровня. Благодаря ему обеспечи вается безопасность личных данных, к которым не сможет получить доступ злоумышленник.</item>
+        <item>SYNCit будет автоматически объединять сдвоенные контакты в телефоне.</item>
+        <item>Конечно, можно. Вы можете найти соответстующую версию, если на вашем телефоне используется система Android, iOS, Symbian или есть поддержка Java.</item>
+        <item>Да, поддерживаются системы Symbian, iOS, Android и Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Сколько стоит SYNCit?</item>
+        <item>Являются ли программы SYNCit и Android Backup идентичными?</item>
+        <item>Безопасна ли программа SYNCit? Будет ли она использовать мой номер телефона или данные архивов?</item>
+        <item>Почему контактов после архивации стало меньше?</item>
+        <item>Мой телефон не произведен компанией Lenovo. Можно ли использовать SYNCit?</item>
+        <item>Поддерживает ли SYNCit другие платформы?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Контакты</item>
+        <item>Сообщения</item>
+        <item>Журналы</item>
+    </string-array>
+</resources>

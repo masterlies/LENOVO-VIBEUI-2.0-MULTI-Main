@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Vale %1$s-i PIN-kood, teil on jäänud veel %2$d katset.</item>
+        <item quantity="one">Vale %1$s-i PIN-kood, teil on jäänud veel %2$d katse, enne kui peate seadme avamiseks operaatoriga ühendust võtma.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Vale %1$s-i PUK-kood, teil on jäänud veel %2$d katset, enne kui %1$s püsivalt lukustatakse.</item>
+        <item quantity="one">Vale %1$s-i PUK-kood, teil on jäänud veel %2$d katse, enne kui %1$s püsivalt lukustatakse.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Vale SIM-i PIN-kood, teil on jäänud veel %d katset.</item>
+        <item quantity="one">Vale SIM-i PIN-kood, teil on jäänud veel %d katse, enne kui peate seadme avamiseks operaatoriga ühendust võtma.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Vale SIM-i PUK-kood, teil on jäänud veel %d katset, enne kui SIM püsivalt lukustatakse.</item>
+        <item quantity="one">Vale SIM-i PUK-kood, teil on jäänud veel %d katse, enne kui SIM püsivalt lukustatakse.</item>
+    </plurals>
+</resources>

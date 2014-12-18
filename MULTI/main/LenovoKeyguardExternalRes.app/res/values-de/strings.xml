@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Sperrbildschirmfehler. Der Bildschirm wechselt in den Sicherheitsmodus. Bitte warten Sie bis der Sperrbildschirm erneut startet...</string>
+</resources>

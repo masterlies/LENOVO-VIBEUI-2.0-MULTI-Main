@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_item_titles">
+        <item>@string/onekey_module_sync</item>
+        <item>@string/combine_contacts</item>
+        <item>@string/one_key_title</item>
+        <item>@string/contact_sim_list_title</item>
+        <item>@string/exit_check_updte</item>
+    </string-array>
+    <string-array name="app_backup_states">
+        <item>Čekanje</item>
+        <item>Izrada rezervne kopije</item>
+        <item>Rezervna kopija napravljena</item>
+        <item>Greška</item>
+        <item>U redu</item>
+        <item>U redu</item>
+        <item>Otkazano</item>
+        <item>U redu</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Čekanje</item>
+        <item>Preuzimanje</item>
+        <item>Deinstaliraj</item>
+        <item>Greška</item>
+        <item>Ažuriraj</item>
+        <item>Instalirano</item>
+        <item>Otkazano</item>
+        <item>Instaliranje</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Promeni ime albuma</item>
+        <item>Izbriši album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit je besplatna mobilna aplikacija, ali će operator naplatiti trošak koji se napravi njenim koriščenjem u mrežnom saobraćaju.</item>
+        <item>Da, jesu.</item>
+        <item>SYNCit primenjuje nivo šifrovanja elektronskog bankarstva na korisničke informacije. On definitivno može da spreči gubljenje ličnih podataka i informacija.</item>
+        <item>SYNCit će automatski da objedini duple kontakte u vašem telefonu.</item>
+        <item>Naravno da možete, ako je sistem na telefonu jedan od sledećih: Android, iOS, Symbian, ili podržava program Java, možete da pronađete odgovarajuću verziju za korišćenje.</item>
+        <item>Da, on podržava Symbian, iOS, Android i Java platformu.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Da li se SYNCit naplaćuje?</item>
+        <item>Da li su SYNCit i Android Backup isti softveri?</item>
+        <item>Da li je SYNCit bezbedan? Da li će ukrasti moj telefonski broj ili moje podatke sa rezervne kopije?</item>
+        <item>Zašto se smanjio broj mojih kontakata nakon pravljenja rezervne kopije?</item>
+        <item>Moj telefon nije marke Lenovo, mogu li i pored toga da koristim SYNCit?</item>
+        <item>Da li SYNCit podržava druge platforme?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontakti</item>
+        <item>Poruke</item>
+        <item>Evidencije poziva</item>
+    </string-array>
+</resources>

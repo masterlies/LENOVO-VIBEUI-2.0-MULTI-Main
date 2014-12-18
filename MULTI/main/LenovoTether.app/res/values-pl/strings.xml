@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Punkt dostępu</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguruj punkt dostępu do sieci WLAN</string>
+    <string name="wifi_tether_configure_subtext">"Identyfikator SSID: %1$s
+Zabezpieczenia: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Długość identyfikatora SSID nie może przekraczać 32 znaków</string>
+    <string name="wifi_tether_configure_subtext_new">"Identyfikator SSID: %1$s
+Zabezpieczenia: %2$s
+Hasło: %3$s"</string>
+    <string name="wifi_cancel">Anuluj</string>
+    <string name="wifi_save">Zapisz</string>
+    <string name="wifi_ssid">Identyfikator SSID sieci</string>
+    <string name="wifi_security">Zabezpieczenia</string>
+    <string name="wifi_password">Hasło</string>
+    <string name="wifi_show_password">Pokaż hasło</string>
+    <string name="credentials_password_too_short">Hasło musi składać się z co najmniej 8 znaków.</string>
+    <string name="wifi_channel">Preferowany kanał</string>
+    <string name="wifi_channel_width">Szerokość kanału</string>
+    <string name="wifi_tether_auto_channel_text">Automatycznie</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Osobisty punkt dostępu włączony</string>
+    <string name="tethered_notification_message">Dotknij, aby skonfigurować</string>
+    <string name="tether_about_title">Wprowadzenie do funkcji</string>
+    <string name="wlan_connection_title">Punkt dostępu do sieci WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Udostępnianie sieci za pomocą Bluetooth</string>
+    <string name="usb_share_title">Udostępnianie sieci za pomocą USB</string>
+    <string name="about_wlan">Skonfigurowanie punktu dostępu do sieci WLAN na tym urządzeniu umożliwia innym urządzeniom sieci WLAN łączenie się z siecią komórkową tego urządzenia w celu przeglądania Internetu.</string>
+    <string name="about_usb">Skonfigurowanie udostępniania sieci za pomocą USB na tym urządzeniu umożliwia podłączanym urządzeniom korzystanie z sieci komórkowej tego urządzenia w celu przeglądania Internetu.</string>
+    <string name="about_bt">Skonfigurowanie udostępniania sieci za pomocą Bluetooth na tym urządzeniu umożliwia innym urządzeniom Bluetooth korzystanie z sieci komórkowej tego urządzenia w celu przeglądania Internetu.</string>
+    <string name="about_usb_other">"Inne uwagi:
+ 1. W trakcie połączenia USB nie można instalować na komputerze karty SD urządzenia. 
+ 2. Połączenie działa tylko w systemach Windows Vista, Windows 7, Windows 8 i Linux."</string>
+    <string name="wifi_tether_settings_title">Informacje dotyczące konfiguracji sieci WLAN</string>
+    <string name="wifi_ap_client_block_title">Zablokuj</string>
+    <string name="wifi_ap_client_unblock_title">Odblokuj</string>
+    <string name="wifi_ap_connected_title">Połączeni użytkownicy</string>
+    <string name="tethered_notification_message_for_hotspot">Połączono %1$d, zablokowano %2$d</string>
+    <string name="open_title">Włącz porady</string>
+    <string name="open_mess">"Aby używać  %1$s, należy włączyć funkcję transmisji danych"</string>
+    <string name="open_mess_all">Aby używać %1$s, należy włączyć sieć WLAN lub funkcję transmisji danych</string>
+    <string name="cancel">Anuluj</string>
+    <string name="go_settings">Przejdź do ustawień</string>
+    <string name="open_mess_alert">Sieć komórkowa jest włączona. Korzystanie z funkcji %1$s może wiązać się ze zwiększoną transmisją danych i opłatami. Czy chcesz ją włączyć?</string>
+    <string name="open">Włącz</string>
+</resources>

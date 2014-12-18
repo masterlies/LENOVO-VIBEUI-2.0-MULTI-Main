@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="app_name">Споделяне на WLAN акаунт</string>
+    <string name="prompt">Приближете телефоните близо един до друг, за да споделяте WLAN с приятели!</string>
+    <string name="current_wifi">Текуща WLAN връзка:</string>
+    <string name="hotknot_help">Как да споделяте: В текущия интерфейс задръжте горната част на два телефона заедно, гръб до гръб (NFC прехвърляне). Следвайте инструкциите на екрана, за да споделите свързания WLAN акаунт.</string>
+    <string name="title_receive">Получаване</string>
+    <string name="wlan_connecting">Получаване на WLAN акаунт...</string>
+    <string name="title_finish">Получено успешно</string>
+    <string name="wlan_finish">Успешно получен WLAN акаунт. Свържете се с %1$s и сте онлайн!</string>
+    <string name="send_ap_no_connected">Не може да бъде споделено (свързаният WLAN акаунт не е намерен)</string>
+    <string name="hotknot_help_note">Забележка: Получаващият телефон също трябва да поддържа WLAN SHARE.</string>
+    <string name="wifi_share">Споделяне на WLAN</string>
+</resources>

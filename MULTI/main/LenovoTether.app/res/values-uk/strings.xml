@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Точки доступу</string>
+    <string name="wifi_tether_configure_ap_text">Налаштування бездротової точки доступу WLAN</string>
+    <string name="wifi_tether_configure_subtext">"Ідентифікатор SSID:%1$s
+безпека:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Ідентифікатор SSID не може бути довше 32 символів</string>
+    <string name="wifi_tether_configure_subtext_new">"Ідентифікатор SSID: %1$s
+Безпека: %2$s
+Пароль: %3$s"</string>
+    <string name="wifi_cancel">Скасувати</string>
+    <string name="wifi_save">Зберегти</string>
+    <string name="wifi_ssid">Мережевий ідентифікатор SSID</string>
+    <string name="wifi_security">Безпека</string>
+    <string name="wifi_password">Пароль</string>
+    <string name="wifi_show_password">Показати пароль</string>
+    <string name="credentials_password_too_short">Пароль повинен містити не менше 8 символів.</string>
+    <string name="wifi_channel">Популярні канали</string>
+    <string name="wifi_channel_width">Ширина каналу</string>
+    <string name="wifi_tether_auto_channel_text">Автоматичний</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Особиста бездротова точки доступу</string>
+    <string name="tethered_notification_message">Натисніть, щоб налаштувати</string>
+    <string name="tether_about_title">Інструкція</string>
+    <string name="wlan_connection_title">Точки доступу WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">режиму Bluetooth-модема</string>
+    <string name="usb_share_title">режиму USB-модема</string>
+    <string name="about_wlan">Якщо на пристрої налаштована точки доступу WLAN, інші пристрої WLAN можуть підключатися до його мобільної мережі для перегляду веб-сторінок</string>
+    <string name="about_usb">Якщо на пристрої ввімкнено обмін у мережі через USB, підключені пристрої можуть використовувати його мобільну мережу для перегляду веб-сторінок</string>
+    <string name="about_bt">Якщо на пристрої ввімкнено обмін у мережі через Bluetooth, інші пристрої Bluetooth можуть використовувати його мобільну мережу для перегляду веб-сторінок</string>
+    <string name="about_usb_other">"Інші примітки. 
+ 1. Під час USB-підключення не можна встановити SD-карту пристрою на комп’ютер.
+ 2. Підключення підтримується тільки ОС Windows Vista, Windows 7, Windows 8 і Linux."</string>
+    <string name="wifi_tether_settings_title">Інформація про конфігурацію WLAN</string>
+    <string name="wifi_ap_client_block_title">Блокувати</string>
+    <string name="wifi_ap_client_unblock_title">Розблокувати</string>
+    <string name="wifi_ap_connected_title">Підключені користувачі</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d підключено, %2$d заблоковано</string>
+    <string name="open_title">Попередження</string>
+    <string name="open_mess">Для роботи %1$s потрібно ввімкнути функцію передачі даних</string>
+    <string name="open_mess_all">Для роботи %1$s потрібно ввімкнути WLAN або функцію передачі даних</string>
+    <string name="cancel">Скасувати</string>
+    <string name="go_settings">Перейти до параметрів</string>
+    <string name="open_mess_alert">"Передачу даних увімкнено. Активація %1$s може збільшити об'єм передачі даних і підвищити ваші витрати. Ви дійсно бажаєте продовжити?"</string>
+    <string name="open">Увімкнути</string>
+</resources>

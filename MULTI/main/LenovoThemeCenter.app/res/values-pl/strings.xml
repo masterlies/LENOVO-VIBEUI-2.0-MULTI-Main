@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_about">Informacje</string>
+    <string name="ab_version_introduction">Wprowadzenie do funkcji</string>
+    <string name="ab_contacts">Sposób kontaktu</string>
+    <string name="ab_feedback">Informacje zwrotne</string>
+</resources>

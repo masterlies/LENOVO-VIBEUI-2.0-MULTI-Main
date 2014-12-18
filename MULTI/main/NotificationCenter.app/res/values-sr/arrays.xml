@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lenovo_signal_text_list">
+        <item>Jačina signala (loša)</item>
+        <item>Jačina signala (slaba)</item>
+        <item>Jačina signala (srednja)</item>
+        <item>Jačina signala (jaka)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Grafički</item>
+        <item>Procentualni</item>
+    </string-array>
+</resources>

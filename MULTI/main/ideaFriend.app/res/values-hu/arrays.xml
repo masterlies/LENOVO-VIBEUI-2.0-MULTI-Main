@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Alapértelmezett</item>
+        <item>Zongora</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Szervezet</item>
+        <item>Megjegyzés</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Nem</item>
+        <item>Telefon</item>
+        <item>Születésnap</item>
+        <item>Hely</item>
+        <item>Iskola</item>
+        <item>Vállalat</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Nem</item>
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Boldog</item>
+        <item>Szomorú</item>
+        <item>Kacsintó</item>
+        <item>Nyelvét kinyújtó</item>
+        <item>Meglepett</item>
+        <item>Csókoló</item>
+        <item>Kiabálás</item>
+        <item>Király</item>
+        <item>Egérszáj</item>
+        <item>Csacskaság</item>
+        <item>Zavarban van</item>
+        <item>Angyal</item>
+        <item>Határozatlan</item>
+        <item>Síró</item>
+        <item>Lakat a szájon</item>
+        <item>Nevető</item>
+        <item>Zavarodott</item>
+        <item>Szív</item>
+        <item>Őrült</item>
+        <item>Önelégült mosoly</item>
+        <item>Póker arcú</item>
+        <item>törlés</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Hol vagy?</item>
+        <item>Mit csinálsz?</item>
+        <item>Hívj vissza! Kérlek!</item>
+        <item>Most, sajnos értekezletem van</item>
+        <item>Nemsokára hívlak</item>
+        <item>Ne aggódj! Jól vagyok.</item>
+        <item>Hazafelé tartok.</item>
+        <item>Hamarosan érkezem.</item>
+        <item>Jobb, ha ott leszel!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Korlátozott mód</item>
+        <item>Figyelmeztető mód</item>
+        <item>Szabad mód</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Magas</item>
+        <item>Normál</item>
+        <item>Alacsony</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM ábécé</item>
+        <item>Unicode</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM-kártya</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Eszköz</item>
+        <item>SIM-kártya</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_values">
+        <item>Telefon</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>A rendszer betűméretét követve</item>
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+        <item>Nagyon nagy</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Továbbítás közvetlenül</item>
+        <item>Név kijelzése</item>
+        <item>Név és szám kijelzése</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Továbbítás közvetlenül</item>
+        <item>Név kijelzése</item>
+        <item>Név és szám kijelzése</item>
+        <item>Rákérdezés mindig (Automatikus továbbítási módban a közvetlen továbbításhoz)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>UIM-kártya</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 másodperc</item>
+        <item>2 másodperc</item>
+        <item>3 másodperc</item>
+        <item>4 másodperc</item>
+        <item>5 másodperc</item>
+        <item>6 másodperc</item>
+        <item>7 másodperc</item>
+        <item>8 másodperc</item>
+        <item>9 másodperc</item>
+        <item>10 másodperc</item>
+        <item>Egyéb…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak, ha csendes</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Dátum alapján</item>
+        <item>Szám alapján</item>
+        <item>Partner alapján</item>
+    </string-array>
+</resources>

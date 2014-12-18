@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Bekleme</item>
+        <item>Yedekleme</item>
+        <item>Yedeklendi</item>
+        <item>Hata</item>
+        <item>Tamam</item>
+        <item>Tamam</item>
+        <item>İptal edildi</item>
+        <item>Tamam</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Bekleme</item>
+        <item>İndirme</item>
+        <item>Kaldır</item>
+        <item>Hata</item>
+        <item>Güncelle</item>
+        <item>Kuruldu</item>
+        <item>İptal edildi</item>
+        <item>Kurma</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Albüm adını değiştir</item>
+        <item>Albüm Sil</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit ücretsiz bir mobil uygulama olmakla birlikte kullanım nedeniyle oluşan ağ trafiği maliyeti operatörler tarafından yansıtılacaktır.</item>
+        <item>Evet.</item>
+        <item>SYNCit online bankacılık şifreleme düzeyinde kullanıcı bilgilerini saklar. Kişisel verilerin sızmasına ve bilgi güvenliğinin bozulmasına karşı gerçekten koruma sağlar.</item>
+        <item>SYNCit telefonunuzdaki çoğul kişileri otomatik olarak birleştirecektir.</item>
+        <item>Elbette yapabilirsiniz, eğer telefonunuzun sistemi aşağıdakilerden birisi ise: Android, iOS, Symbian veya Java desteği (kullanılacak uyumlu versiyonu bulabilirsiniz).</item>
+        <item>Evet, Symbian, iOS, Android ve Java platformunu destekler.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>SYNCit ücreti var mı?</item>
+        <item>SYNCit ve Android Backup aynı yazılım mıdır?</item>
+        <item>SYNCit güvenli midir? Telefon numaramı veya yedeklenen verilerimi çalacak mı?</item>
+        <item>Yedekleme sonrasında kişilerim neden azalıyor?</item>
+        <item>Telefonumun üreticisi Lenovo değil, yine de SYNCit kullanabilir miyim?</item>
+        <item>SYNCit diğer platformları destekler mi?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kişiler</item>
+        <item>Mesajlar</item>
+        <item>Arama günlükleri</item>
+    </string-array>
+</resources>

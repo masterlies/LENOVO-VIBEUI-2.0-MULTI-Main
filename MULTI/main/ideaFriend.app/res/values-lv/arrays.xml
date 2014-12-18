@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>Noklusējuma</item>
+        <item>Klavieres</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizācija</item>
+        <item>Komentāri</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Dzimums</item>
+        <item>Tālrunis</item>
+        <item>Dzimšanas diena</item>
+        <item>Atrašanās vieta</item>
+        <item>Skola</item>
+        <item>Uzņēmums</item>
+        <item>E-pasts</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Neteikšu</item>
+        <item>Vīrietis</item>
+        <item>Sieviete</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Laimīgs</item>
+        <item>Skumjš</item>
+        <item>Mirkšķina</item>
+        <item>Izbāzta mēle</item>
+        <item>Pārsteigts</item>
+        <item>Skūpsta</item>
+        <item>Kliedz</item>
+        <item>Vēsais</item>
+        <item>Mutē nauda</item>
+        <item>Mutē zābaks</item>
+        <item>Nokaunējies</item>
+        <item>Eņģelis</item>
+        <item>Domīgs</item>
+        <item>Raudošs</item>
+        <item>Neteikšu</item>
+        <item>Smejas</item>
+        <item>Apjucis</item>
+        <item>Sirsniņa</item>
+        <item>Traks</item>
+        <item>Smīns</item>
+        <item>Apstulbis</item>
+        <item>Dzēst</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Kur tu esi?</item>
+        <item>Ko tu dari?</item>
+        <item>Steidzami! Nekavējoties piezvani man.</item>
+        <item>Atvaino, pašlaik esmu sapulcē.</item>
+        <item>Drīz piezvanīšu.</item>
+        <item>Neraizējies! Ar mani viss kārtībā.</item>
+        <item>Esmu ceļā uz mājām.</item>
+        <item>Drīz ieradīšos.</item>
+        <item>Būsi neveiksminieks, ja neieradīsies!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Ierobežotais režīms</item>
+        <item>Brīdinājuma režīms</item>
+        <item>Brīvais režīms</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Augsts</item>
+        <item>Vidējs</item>
+        <item>Zems</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM alfabēts</item>
+        <item>Automātiski</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Tālrunis</item>
+        <item>Jauna SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Ierīce</item>
+        <item>Jauna SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Noklusējums</item>
+        <item>Mazs</item>
+        <item>Vidējs</item>
+        <item>Liels</item>
+        <item>Īpaši liels</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Pāradresēt tieši</item>
+        <item>Pievienot sūtītāja vārdu</item>
+        <item>Pievienot sūtītāja vārdu un numuru</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Pāradresēt tieši</item>
+        <item>Pievienot sūtītāja vārdu</item>
+        <item>Pievienot sūtītāja vārdu un numuru</item>
+        <item>Vienmēr jautāt (pāradresēt tieši automātiskās pāradresēšanas režīmā)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Tālrunis</item>
+        <item>UIM karte</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunde</item>
+        <item>Citi…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vienmēr</item>
+        <item>Tikai klusuma režīmā</item>
+        <item>Nekad</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Pēc datuma</item>
+        <item>Pēc numura</item>
+        <item>Pēc kontakta</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Дані</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Скасувати</string>
+    <string name="app_name">Компас</string>
+    <string name="calibrate">Калібрація</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Довгота</string>
+    <string name="calibrate_success">Калібрацію завершено</string>
+    <string name="ignore">Ігнорувати</string>
+    <string name="cannot_get_location">Неможливо отримати розташування.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">Пн.</string>
+    <string name="direction_south">Пд.</string>
+    <string name="direction_east">Сх.</string>
+    <string name="direction_west">Зх.</string>
+    <string name="direction_east_north">Пн.-Сх.</string>
+    <string name="direction_east_south">Пд.-Сх.</string>
+    <string name="direction_west_north">Пн.-Зх.</string>
+    <string name="direction_west_south">Пд.-Зх.</string>
+    <string name="Tips">Поруч можуть бути магнітні перешкоди. Прокрутіть \"8\" кілька разів, як показано на зображенні. Після успішного виконання калібрації діалогове вікно закриється автоматично.</string>
+    <string name="Warn">Поруч можуть бути магнітні перешкоди</string>
+    <string name="click_to_location">Натисніть тут щоб дізнатися про місцезнаходження за даними GPS.</string>
+    <string name="warn_message">Дозволити збирати дані про поточне місцезнаходження за допомогою GPS або мережевих джерел інформації про місцезнаходження?</string>
+    <string name="no_warn_later">Більше не запитувати</string>
+    <string name="start_calibration">Струсніть телефон, щоб відкалібрувати компас.</string>
+    <string name="no_location_server">Службу пошуку інформації про місцезнаходження вимкнено</string>
+    <string name="DoNotSHowAgain">Більше не показувати</string>
+</resources>

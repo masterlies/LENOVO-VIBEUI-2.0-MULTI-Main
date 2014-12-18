@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>Основни</item>
+        <item>Тих</item>
+        <item>Вибриране</item>
+        <item>На открито</item>
+        <item>Шофиране</item>
+    </string-array>
+</resources>

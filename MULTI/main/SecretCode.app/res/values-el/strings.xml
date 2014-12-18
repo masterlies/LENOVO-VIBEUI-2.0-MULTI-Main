@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Μυστικός κωδικός</string>
+    <string name="hardversion">Έκδοση υλικού:</string>
+    <string name="softversion">Έκδοση λογισμικού:</string>
+    <string name="frameworkversion">Έκδοση Framework:</string>
+    <string name="osversion">Έκδοση λειτουργικού συστήματος:</string>
+    <string name="modemversion">Έκδοση μόντεμ:</string>
+    <string name="meid_activity_title">Εκδοση PRL</string>
+    <string name="disable_fdn_activity_title">Ρύθμιση Fdn</string>
+    <string name="tv_text">"Ρυθμίσεις FDN εκκίνησης.
+(Ενεργοποίηση/Απενεργοποίηση)"</string>
+    <string name="btn_post">Ενεργοποίηση</string>
+    <string name="btn_neg">Απενεργοποίηση</string>
+    <string name="enable_fdn">Ενεργοποίηση</string>
+    <string name="disable_fdn">Απενεργοποίηση</string>
+    <string name="reboot_device_title">Επανεκκίνηση συσκευής</string>
+    <string name="reboot_device_message_pre_on">Η υπηρεσία SS είναι ενεργοποιημένη</string>
+    <string name="reboot_device_message_pre_off">Η υπηρεσία SS είναι απενεργοποιημένη</string>
+    <string name="reboot_device_message_post">(Απαιτείται επανεκκίνηση!!!)</string>
+    <string name="reboot">Επανεκκίνηση</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="default_state">Σφάλμα:</string>
+    <string name="cur_state">Τρέχουσα κατάσταση υπηρεσίας SS:</string>
+    <string name="alert_string">Ειδοποίηση!</string>
+    <string name="alert_message_string">Εάν πατήσετε το πλήκτρο [ΟΚ], θα επανέλθετε στις εργοστασιακές ρυθμίσεις και θα διαγραφούν όλα τα δεδομένα χρήστη. Συνιστάται οι απλοί χρήστες να είναι ιδιαίτερα προσεκτικοί!</string>
+    <string name="alert_message_ums_string">Εάν πατήσετε το πλήκτρο [ΟΚ], θα ορίσετε το usb.config στη λειτουργία mass_storage για τον εντοπισμό σφαλμάτων. Συνιστάται οι απλοί χρήστες να είναι ιδιαίτερα προσεκτικοί!</string>
+    <string name="alert_ok">OΚ</string>
+    <string name="alert_no">ΟΧΙ</string>
+    <string name="framework_inf">Εσωτερική έκδοση</string>
+    <string name="commit_cate">Αποθήκευση</string>
+    <string name="summary_on">Ενεργοποιημένο</string>
+    <string name="summary_off">Απενεργοποίηση</string>
+    <string name="report_log_summary">Αναφορά</string>
+    <string name="report_log_title">Αναφορά</string>
+    <string name="yes_exit">Ναι</string>
+    <string name="no_exit">Όχι</string>
+    <string name="enable">Ενεργοποίηση</string>
+    <string name="disable">Απενεργοποιημένο</string>
+    <string name="regulatory_information">Ρυθμιστικές πληροφορίες</string>
+</resources>

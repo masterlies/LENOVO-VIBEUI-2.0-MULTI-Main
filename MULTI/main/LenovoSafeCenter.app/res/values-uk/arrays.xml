@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Імпортувати з Історії викликів</item>
+        <item>Імпортувати з Історії SMS-повідомлень</item>
+        <item>Імпортувати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Немає оповіщень</item>
+        <item>Повідомлення на панелі оповіщень</item>
+        <item>звуковий сигнал</item>
+        <item>вібросигнал</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Відповісти</item>
+        <item>Відхилити</item>
+        <item>Відхилити виклик та Надісл. SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Без нагадування</item>
+        <item>Нагадування на панелі оповіщень</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Редагувати Скриньку електронної пошти</item>
+        <item>Розпочати резервне копіювання</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Видалити</item>
+        <item>Змінити</item>
+        <item>Надіслати повідомлення</item>
+        <item>Виклик</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Повідомлення і виклики</item>
+        <item>Вхідний виклик</item>
+        <item>Повідомлення</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Тільки з Контактів</item>
+        <item>Тільки з Білого списку</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Імпортувати з Історії викликів</item>
+        <item>Імпортувати з Історії SMS-повідомлень</item>
+        <item>Імпортувати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Блокувати Чорний список</item>
+        <item>Дозволяти тільки Контакти</item>
+        <item>"Дозволяти тільки об'єкти Білого списку"</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Імпортувати з Історії викликів</item>
+        <item>Імпортувати з Історії SMS-повідомлень</item>
+        <item>Імпортувати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Вимкнути Чорний список.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Додати з Історії викликів</item>
+        <item>Додати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Додати з Історії SMS-повідомлень</item>
+        <item>Додати з Контактів</item>
+        <item>Додати вручну</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Вимкнути Чорний список</item>
+        <item>Занести до списку</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Виклик</item>
+        <item>Надісл. SMS</item>
+        <item>Вимкнути Білий список</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Оновити вручну</item>
+        <item>Щодня</item>
+        <item>Щотижня</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>"Яке ім'я у моєї матері?"</item>
+        <item>Який мій улюблений фрукт?</item>
+        <item>Мій улюблений фільм?</item>
+        <item>Яка моя улюблена пісня?</item>
+        <item>"Ім'я мого улюбленця?"</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>Кожних 10 хвилин</item>
+        <item>Кожних 20 хвилин</item>
+        <item>Кожних 30 хвилин</item>
+        <item>Щогодини</item>
+        <item>Кожні 2 години</item>
+        <item>Кожні 3 години</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Зворотній сигнал зайнято</item>
+        <item>Зворотнє повідомлення про вимкнення живлення</item>
+        <item>Зворотнє повідомлення про завершення роботи системи</item>
+        <item>Зворотнє повідомлення, що номер вакантний</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Налаштування</item>
+        <item>Оновити</item>
+        <item>Про</item>
+    </string-array>
+</resources>

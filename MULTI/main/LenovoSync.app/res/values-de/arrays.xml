@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Warten</item>
+        <item>Sicherung läuft</item>
+        <item>Gesichert</item>
+        <item>Fehler</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Abgebrochen</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Warten</item>
+        <item>Herunterladen</item>
+        <item>Deinstallieren</item>
+        <item>Fehler</item>
+        <item>Aktualisieren</item>
+        <item>Installiert</item>
+        <item>Abgebrochen</item>
+        <item>Installation läuft</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Albumname ändern</item>
+        <item>Album löschen</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"Standard-Passwort: Nach erfolgreicher Registrierung erhalten Sie von Lenovo eine SMS mit dem Passwort. Wenn Sie nach einiger Zeit keine SMS erhalten haben, überprüfen Sie bitte, ob eine Sicherheits-App (wie 360 Safe Guard) die SMS blockiert hat. Wenn Sie noch immer keine SMS erhalten haben oder sie verloren gegangen ist, gehen Sie bitte auf „To Retrieve Password“ (Passwort abrufen) . \u0009\u0009\u0009\u0009
+
+ Ändern des Passworts: Ändern Sie das Passwort, nachdem Sie http://cloud.lenovo.com auf dem PC aufgerufen haben.  \u0009\u0009\u0009\u0009
+
+ Passwort abrufen: Tippen Sie auf „Mehr“ in der oberen linken Ecke, um die [Kontoeinstellungen] einzugeben.  Wenn Sie bereits angemeldet sind, melden Sie sich bitte ab. Wenn [Passwort vergessen] angezeigt wird, folgen Sie bitte den Anweisungen."</item>
+        <item>SYNCit ist eine kostenlose mobile Anwendung. Es ist möglich, dass Ihr Betreiber für den Netzwerkverkehr, das Herunterladen und die Benutzung Gebühren in Rechnung stellt.</item>
+        <item>Smart-Sicherung und Wiederherstellung sorgen für den Erhaltung der lokalen Daten und die Daten, die sich auf der Cloud befinden, und verhindern den erneuten Verlust derselben.</item>
+        <item>Beim Verfahren der Synchronisierung von Kontakten integriert SYNCit automatisch Kontakte, die identische Namen und Telefonnummern vorweisen. Also keine Sorge falls Sie der Ansicht sind, dass Sie einige Kontakte verloren hätten.</item>
+        <item>Bitte verwenden Sie einen PC, um http://cloud.lenovo.com aufzurufen. Dann können Sie Verwaltungsfunktionen wie Löschen, Bearbeiten und Hinzufügen durchführen, um Ihre Daten zu sichern.</item>
+        <item>Bei der Übertragung von Daten und dem Speichern verwendet SYNCit Online-Banking Verschlüsslungen, um Leckage persönlicher Informationen zu verhindern.</item>
+        <item>Wenn Sie bereits die Synchronisierung von Kontakten durchgeführt haben, können Sie diese vom [Papierkorb] in SYNCit wieder abrufen. Nach der Wiederherstellung synchronisieren Sie die Kontakte erneut, um den erneuten Verlust zu verhindern.</item>
+        <item>Anwendbare Versionen stehen für Ihr Gerät zu Verfügung, solange es über Android 2.2, iOS5 oder Symbian verfügt oder Java unterstützt.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Was ist ein Standard Konto-Passwort? Wie kann ich mein Passwort ändern? Wie kann ich ein vergessenes Passwort abrufen?</item>
+        <item>Ist SYNCit kostenlos?</item>
+        <item>Was bedeutet die Synchronisation von Kontakten?</item>
+        <item>Warum sind es nach der Synchronisation von Kontakten weniger lokale Kontakte?</item>
+        <item>Wie führe ich Verwaltungsfunktionen (z. B. Löschen) bei gesicherten Daten durch?</item>
+        <item>Ist SYNCit sicher? Kann es mein Konto und meine gesicherten Daten stehlen?</item>
+        <item>Wie kann ich Kontakte wieder abrufen, wenn ich sie versehentlich gelöscht habe?</item>
+        <item>Kann SYNCit nur für Lenovo Mobile verwendet werden?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontakte</item>
+        <item>Nachrichten</item>
+        <item>Anruflisten</item>
+    </string-array>
+</resources>

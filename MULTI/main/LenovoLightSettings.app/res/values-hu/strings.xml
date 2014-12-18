@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Fény</string>
+    <string name="breath_settings">Fázisbeállítások</string>
+    <string name="breath_delay">Fázis ciklusa</string>
+    <string name="breath_delay_info">Minél kisebb értékre van állítva a késleltetés, annál több az energiafogyasztás</string>
+    <string name="light_switch_settings">Fénybeállítások</string>
+    <string name="coming_call">Bejövő hívás</string>
+    <string name="miss_call">Nem fogadott hívás</string>
+    <string name="unread_msg">Olvasatlan üzenet</string>
+    <string name="battery_low_msg">Az akkumulátor töltöttsége alacsony üzenet</string>
+    <string name="sina_weibo_notify">SinaWeibo Notify</string>
+    <string name="qq_weibo_notify">TencentWeibo Notify</string>
+    <string name="other_app_notify">Egyéb</string>
+    <string name="other_app_summary">weixin，QQ，sina weibo</string>
+    <string name="music_play">Zene</string>
+    <string name="screen_on">Képernyő be</string>
+    <string name="screen_off">Képernyő ki</string>
+    <string name="power_on_off">BekapcsolvaKikapcsolva</string>
+    <string name="charging">Töltés</string>
+    <string name="low_battery">Alacsony akkumulátorszint</string>
+    <string name="color_settings">Színbeállítások</string>
+    <string name="color_settings_info">Minden fény színbeállítása</string>
+    <string name="color_coming_call">Bejövő hívás fényének színe</string>
+    <string name="color_miss_call">Nem fogadott hívás fényének színe</string>
+    <string name="color_unread_msg">Olvasatlan üzenet fényének színe</string>
+    <string name="color_sina_weibo_notify">Light Color of SinaWeibo Notify</string>
+    <string name="color_qq_weibo_notify">Light Color of TencentWeibo Notify</string>
+    <string name="color_music">Zene fényének színe</string>
+    <string name="color_screen_on">Bekapcsolt kijelző fényének színe</string>
+    <string name="color_screen_off">Kikapcsolt kijelző fényének színe</string>
+    <string name="light_show">Fényjáték</string>
+    <string name="light_show_info">Fényjáték alul</string>
+    <string name="stop">Stop</string>
+    <string name="closed">zárva</string>
+    <string name="open">nyitva</string>
+    <string name="multiselect_alert_info">Legalább egy szín szükséges!</string>
+    <string name="select_color_title">Színbeállítások</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="click_screen">Képernyő be</string>
+    <string name="calling">Hívás</string>
+</resources>

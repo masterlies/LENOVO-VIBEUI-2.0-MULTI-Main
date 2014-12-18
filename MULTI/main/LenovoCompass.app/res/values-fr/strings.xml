@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Infos</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Annuler</string>
+    <string name="app_name">Boussole</string>
+    <string name="calibrate">Etalonnage</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="calibrate_success">Etalonnage terminé</string>
+    <string name="ignore">Ignorer</string>
+    <string name="cannot_get_location">"Impossible d'obtenir l'emplacement."</string>
+    <string name="location_north">EN</string>
+    <string name="location_south">ES</string>
+    <string name="location_east">EE</string>
+    <string name="location_west">EO</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">O</string>
+    <string name="direction_east_north">N-E</string>
+    <string name="direction_east_south">S-E</string>
+    <string name="direction_west_north">N-O</string>
+    <string name="direction_west_south">S-O</string>
+    <string name="Tips">"Il y a peut-être des perturbations magnétiques à proximité. Faites pivoter '8' plusieurs fois comme indiqué sur l'image ci-dessus. La boîte de dialogue va se fermer automatiquement une fois l'étalonnage terminé."</string>
+    <string name="Warn">Il y a peut-être des perturbations magnétiques à proximité</string>
+    <string name="click_to_location">Cliquez pour la localisation GPS</string>
+    <string name="warn_message">Autoriser la localisation par GPS ou par emplacement réseau ?</string>
+    <string name="no_warn_later">Ne plus afficher</string>
+    <string name="start_calibration">Secouer le téléphone pour calibrer la boussole</string>
+    <string name="no_location_server">Le service de localisation est désactivé</string>
+    <string name="DoNotSHowAgain">Ne plus afficher ce message</string>
+</resources>

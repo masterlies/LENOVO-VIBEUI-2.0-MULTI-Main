@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">정보</string>
+    <string name="Ok">확인</string>
+    <string name="Cancel">취소</string>
+    <string name="app_name">나침반</string>
+    <string name="calibrate">보정</string>
+    <string name="latitude">위도</string>
+    <string name="longitude">경도</string>
+    <string name="calibrate_success">보정 완료</string>
+    <string name="ignore">무시</string>
+    <string name="cannot_get_location">위치 정보를 가져올 수 없습니다.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">"주변에 자기장 간섭이 있을 수 있습니다. 위의 그림처럼 '8'회 정도 흔드십시오. 보정이 성공적으로 이루어지면 대화 상자가 자동으로 닫힙니다."</string>
+    <string name="Warn">주변에 자기장 간섭이 있을 수 있습니다.</string>
+    <string name="click_to_location">클릭해서 GPS 위치 가져오기</string>
+    <string name="warn_message">GPS 또는 네트워크 위치를 통해 현재 위치 정보를 가져오도록 허용하시겠습니까?</string>
+    <string name="no_warn_later">다시 표시하지 않음</string>
+    <string name="start_calibration">전화기 흔들어 보정하기</string>
+    <string name="no_location_server">위치 서비스 사용 불가능</string>
+    <string name="DoNotSHowAgain">다시 표시 안 함</string>
+</resources>

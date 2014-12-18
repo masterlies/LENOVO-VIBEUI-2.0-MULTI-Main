@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_about">Info su</string>
+    <string name="lenovo_about_update">Aggiornamento</string>
+    <string name="lenovo_about_update_now">Aggiorna ora.</string>
+    <string name="lenovo_about_versoin">Nuova versione disponibile</string>
+    <string name="lenovo_about_qqgroup">Gruppo QQ</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">Indirizzo e-mail</string>
+    <string name="lenovo_about_unsupport">Al momento non supportato. Attendere.</string>
+    <string name="ab_version_introduction">Introduzione alla funzione</string>
+    <string name="ab_contacts">Metodo di contatto</string>
+    <string name="ab_feedback">Feedback</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Attiva WLAN.</string>
+    <string name="SUS_MSG_LATESTVERSION">La versione è attuale.</string>
+    <string name="SUS_MSG_NOTFOUND">Nessun aggiornamento.</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Rete non disponibile.</string>
+    <string name="SUS_MSG_WARNING_PENDING">Aggiornamento in corso.</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download terminato.</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Aggiornamento non riuscito. Riprovare.</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Non chiedere conferma</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Chiedi conferma in caso di nuova versione</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Spazio di memorizzazione insufficiente.</string>
+    <string name="SUS_VERSIONUPDATE">Nuova versione trovata.</string>
+    <string name="SUS_UPDATEDESC">Descrizione:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Nome:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Dimensione:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Consigliata WLAN per il download.</string>
+    <string name="SUS_UPDATE">Aggiorna</string>
+    <string name="SUS_CANCEL">Successivo</string>
+    <string name="SUS_DOWNLOAD_TITLE">Download di IdeaFriend.</string>
+    <string name="SUS_CANCELBUTTON">Annulla</string>
+    <string name="SUS_NOTIFICATION_TITLE">Chiedi conferma</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Aggiornamento... Attendere.</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Timeout di rete. Riprovare...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">OK</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Interrompi</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(La finestra di dialogo scomparirà dopo</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">secondi.)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Tocca per installare.</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Tocca per installare:</string>
+    <string name="SUS_CURRENT_VERSION">Versione corrente</string>
+    <string name="SUS_NEW_VERSION">Ultima versione</string>
+    <string name="SUS_FIND_NEW_VERSION">Nuova versione disponibile per U~~</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Installazione apk.</string>
+</resources>

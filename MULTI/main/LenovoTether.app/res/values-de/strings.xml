@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Persönlicher Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-Hotspot konfigurieren</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Sicherheit: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID darf 32 Zeichen nicht überschreiten.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Sicherheit: %2$s
+Kennwort: %3$s"</string>
+    <string name="wifi_cancel">Abbruch</string>
+    <string name="wifi_save">Speichern</string>
+    <string name="wifi_ssid">Netz-SSID</string>
+    <string name="wifi_security">Sicherheit</string>
+    <string name="wifi_password">Kennwort</string>
+    <string name="wifi_show_password">Kennwort anzeigen</string>
+    <string name="credentials_password_too_short">Das Kennwort muss mindestens 8 Zeichen lang sein.</string>
+    <string name="wifi_channel">Bevorzugter Kanal</string>
+    <string name="wifi_channel_width">Kanalbreite</string>
+    <string name="wifi_tether_auto_channel_text">Automatisch</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Persönlicher Hotspot aktiviert</string>
+    <string name="tethered_notification_message">Berühren, um zu konfigurieren</string>
+    <string name="tether_about_title">Einführung in die Funktionen</string>
+    <string name="wlan_connection_title">WLAN-Hotspot</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Freigabe des Bluetooth-Netzes</string>
+    <string name="usb_share_title">Freigabe des USB-Netzes</string>
+    <string name="about_wlan">Durch Einrichtung eines WLAN-Hotspots auf diesem Gerät wird es anderen WLAN-Geräten ermöglicht, sich zum Surfen mit dem Mobilnetz dieses Geräts zu verbinden.</string>
+    <string name="about_usb">Aktivierung der Freigabe des USB-Netzes auf diesem Gerät ermöglicht es verbundenen Geräten, das Mobilnetz dieses Geräts zum Surfen zu nutzen.</string>
+    <string name="about_bt">Aktivierung der Freigabe des Bluetooth-Netzes auf diesem Gerät ermöglicht es anderen Bluetooth-Geräten, das Mobilnetz dieses Geräts zum Surfen zu nutzen.</string>
+    <string name="about_usb_other">"Weitere Hinweise: 
+ 1. Während der Verbindung über USB kann die SD-Karte des Geräts nicht in den Computer eingesetzt werden.
+ 2. Die Verbindung lässt sich nur mit den Betriebssystemen Windows Vista, Windows 7, Windows 8 und Linux durchführen."</string>
+    <string name="wifi_tether_settings_title">WLAN-Konfiguration anzeigen</string>
+    <string name="wifi_ap_client_block_title">Blockieren</string>
+    <string name="wifi_ap_client_unblock_title">Freigeben</string>
+    <string name="wifi_ap_connected_title">Verbundene Nutzer</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d verbunden, %2$d blockiert</string>
+    <string name="open_title">Tipps aktivieren</string>
+    <string name="open_mess">Für die Verwendung von %1$s müssen Sie die Datenverbindungsfunktion aktivieren.</string>
+    <string name="open_mess_all">Für die Verwendung von %1$s müssen Sie die WLAN- oder Datenverbindungsfunktion aktivieren.</string>
+    <string name="cancel">Abbruch</string>
+    <string name="go_settings">Einstellungen aufrufen</string>
+    <string name="open_mess_alert">Das mobile Netzwerk ist aktiviert. Durch die Nutzung der Funktion %1$s kann es zu erhöhtem Datenverkehr kommen und es können Kosten entstehen. Möchten Sie sie aktivieren?</string>
+    <string name="open">Aktiv</string>
+</resources>

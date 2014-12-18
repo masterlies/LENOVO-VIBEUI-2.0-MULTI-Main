@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">WLAN-hotspot konfigurálása</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Biztonság: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Az SSID legfeljebb 32 karakter hosszú lehet.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Biztonság: %2$s
+Jelszó: %3$s"</string>
+    <string name="wifi_cancel">Mégse</string>
+    <string name="wifi_save">Mentés</string>
+    <string name="wifi_ssid">Hálózati SSID:</string>
+    <string name="wifi_security">Biztonság</string>
+    <string name="wifi_password">Jelszó</string>
+    <string name="wifi_show_password">Jelszó megjelenítése</string>
+    <string name="credentials_password_too_short">A jelszónak legalább 8 karakterből kell állnia.</string>
+    <string name="wifi_channel">Elsődleges csatorna</string>
+    <string name="wifi_channel_width">Csatornaszélesség</string>
+    <string name="wifi_tether_auto_channel_text">Automatikus</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Magán hotspot engedélyezve</string>
+    <string name="tethered_notification_message">Érintse meg a konfiguráláshoz</string>
+    <string name="tether_about_title">A funkció bemutatása</string>
+    <string name="wlan_connection_title">WLAN-hotspot</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Bluetooth hálózati megosztás</string>
+    <string name="usb_share_title">USB hálózati megosztás</string>
+    <string name="about_wlan">Ha beállítja a WLAN-hotspotot az eszközön, akkor más WLAN-eszközök is csatlakozhatnak az adott eszköz mobilhálózatához, és használhatják az internetet.</string>
+    <string name="about_usb">Ha engedélyezi az eszközön az USB hálózati megosztást, akkor a csatlakozó eszközök is használhatják az adott eszköz mobilhálózatát, és azon keresztül az internetet.</string>
+    <string name="about_bt">Ha engedélyezi az eszközön a Bluetooth hálózati megosztást, akkor más Bluetooth-eszközök is használhatják az adott eszköz mobilhálózatát, és azon keresztül az internetet.</string>
+    <string name="about_usb_other">"További megjegyzések:
+ 1. USB-kapcsolat esetén az eszköz SD-kártyája nem telepíthető a számítógépre. 
+ 2. A kapcsolat csak Windows Vista, Windows 7, Windows 8 és Linux esetén használható."</string>
+    <string name="wifi_tether_settings_title">WLAN-beállítási információk</string>
+    <string name="wifi_ap_client_block_title">Letiltás</string>
+    <string name="wifi_ap_client_unblock_title">Letiltás feloldása</string>
+    <string name="wifi_ap_connected_title">Kapcsolódó felhasználók</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d csatlakozott, %2$d letiltva</string>
+    <string name="open_title">Tippek engedélyezése</string>
+    <string name="open_mess">A(z) %1$s használatához engedélyeznie kell az adatkapcsolatot</string>
+    <string name="open_mess_all">A(z) %1$s használatához engedélyeznie kell a WLAN- vagy az adatkapcsolatot</string>
+    <string name="cancel">Mégse</string>
+    <string name="go_settings">Beállítások megnyitása</string>
+    <string name="open_mess_alert">Mobilhálózat engedélyezve. A(z) %1$s szolgáltatás használata több adatforgalommal és egyéb díjakkal járhat. Biztosan engedélyezi?</string>
+    <string name="open">Engedélyezés</string>
+</resources>

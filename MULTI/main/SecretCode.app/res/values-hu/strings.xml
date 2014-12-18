@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecretCode</string>
+    <string name="hardversion">Hardververzió</string>
+    <string name="softversion">Szoftver verzió</string>
+    <string name="frameworkversion">Framework version:</string>
+    <string name="modemversion">Modemverzió</string>
+    <string name="meid_activity_title">PRL verzió</string>
+    <string name="disable_fdn_activity_title">FDN beállítása</string>
+    <string name="tv_text">"FDN-beállítások indítása.
+(Engedélyezés/Letiltás)"</string>
+    <string name="btn_post">Engedélyezés</string>
+    <string name="btn_neg">Letiltás</string>
+    <string name="enable_fdn">Engedélyezés</string>
+    <string name="disable_fdn">Letiltás</string>
+    <string name="reboot_device_title">Eszköz újraindítása</string>
+    <string name="reboot_device_message_pre_on">Az SS szolgáltatás engedélyezve van</string>
+    <string name="reboot_device_message_pre_off">Az SS szolgáltatás le van tiltva</string>
+    <string name="reboot_device_message_post">(Újraindítás szükséges!!!)</string>
+    <string name="reboot">Újraindítás</string>
+    <string name="cancel">Mégse</string>
+    <string name="default_state">Hiba:</string>
+    <string name="cur_state">Az SS szolgáltatás aktuális állapota:</string>
+    <string name="alert_string">Riasztás</string>
+    <string name="alert_message_ums_string">Pressing [OK] key will set the usb.config to mass_storage mode for debug, recommended that ordinary users exercise caution!</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">NEM</string>
+    <string name="framework_inf">Belső verzió</string>
+    <string name="commit_cate">Mentés</string>
+    <string name="summary_on">Be</string>
+    <string name="summary_off">Ki</string>
+    <string name="report_log_summary">Jelentés</string>
+    <string name="report_log_title">Jelentés</string>
+    <string name="yes_exit">Igen</string>
+    <string name="no_exit">Nem</string>
+    <string name="enable">Engedélyezés</string>
+    <string name="disable">Letiltva</string>
+    <string name="regulatory_information">Szabályozási információk</string>
+</resources>

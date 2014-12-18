@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot pribadi</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurasikan hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+Keamanan:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Panjang SSID tidak boleh lebih dari 32 karakter.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Keamanan: %2$s
+Sandi: %3$s"</string>
+    <string name="wifi_cancel">Batal</string>
+    <string name="wifi_save">Simpan</string>
+    <string name="wifi_ssid">SSID jaringan</string>
+    <string name="wifi_security">Keamanan</string>
+    <string name="wifi_password">Sandi</string>
+    <string name="wifi_show_password">Tampilkan sandi</string>
+    <string name="credentials_password_too_short">Sandi harus terdiri atas minimal 8 karakter.</string>
+    <string name="wifi_channel">Preferred Channel</string>
+    <string name="wifi_channel_width">Channel Width</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">hotspot pribadi diaktifkan</string>
+    <string name="tethered_notification_message">Sentuh untuk mengkonfigurasi</string>
+    <string name="tether_about_title">Tinjauan fungsi</string>
+    <string name="wlan_connection_title">Hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Berbagi jaringan Bluetooth</string>
+    <string name="usb_share_title">Berbagi jaringan USB</string>
+    <string name="about_wlan">Dengan menetapkan hotspot WLAN di perangkat ini, izinkan perangkat WLAN lain untuk tersambung ke jaringan seluler dari perangkat ini untuk berselancar di Web</string>
+    <string name="about_usb">Dengan mengaktifkan berbagi jaringan USB di perangkat ini, izinkan perangkat yang tersambung untuk menggunakan jaringan seluler dari perangkat ini untuk berselancar di Web</string>
+    <string name="about_bt">Dengan mengaktifkan berbagi jaringan Bluetooth di perangkat ini, izinkan perangkat Bluetooth lain untuk menggunakan jaringan seluler dari perangkat ini untuk berselancar di Web</string>
+    <string name="about_usb_other">"Catatan lain: 
+ 1. Selama penyambungan USB, Anda tidak dapat memasang kartu SD perangkat di komputer
+ 2. Koneksi hanya untuk Windows Vista, Windows 7, Windows 8, dan Linux"</string>
+    <string name="wifi_tether_settings_title">Informasi konfigurasi WLAN</string>
+    <string name="wifi_ap_client_block_title">Blokir</string>
+    <string name="wifi_ap_client_unblock_title">Batalkan pemblokiran</string>
+    <string name="wifi_ap_connected_title">Pengguna terhubung</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d tersambung, %2$d diblokir</string>
+    <string name="open_title">Aktifkan saran</string>
+    <string name="open_mess">Untuk menggunakan %1$s, Anda harus mengaktifkan fungsi koneksi data</string>
+    <string name="open_mess_all">Untuk menggunakan %1$s, Anda harus mengaktifkan WLAN atau fungsi koneksi data</string>
+    <string name="cancel">Batal</string>
+    <string name="go_settings">Buka setelan</string>
+    <string name="open_mess_alert">Jaringan seluler diaktifkan. Menggunakan fungsi %1$s dapat menarik lalu lintas biaya internet lebih banyak. Aktifkan?</string>
+    <string name="open">Aktifkan</string>
+</resources>

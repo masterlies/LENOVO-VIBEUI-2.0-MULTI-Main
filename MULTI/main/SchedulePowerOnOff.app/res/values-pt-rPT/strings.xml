@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_off">Desligar</string>
+    <string name="yes">sim</string>
+    <string name="no">não</string>
+    <string name="schedule_power_on_off_settings_title">Programar ligar/desligar</string>
+    <string name="schedule_power_on_off_time">Hora</string>
+    <string name="schedule_power_on_off_repeat">Repetir</string>
+    <string name="schedule_power_on_off_set">Definir programar ligar/desligar</string>
+    <string name="schedule_power_on_set">Definir programação de energia ligada</string>
+    <string name="schedule_power_off_set">Definir programação de energia desligada</string>
+    <string name="enable_schpwr">Activar</string>
+    <string name="disable_schpwr">Desactivar</string>
+    <string name="day">1 dia</string>
+    <string name="days">" %s dias"</string>
+    <string name="hour">1 hora</string>
+    <string name="hours">%s horas</string>
+    <string name="minute">1 minuto</string>
+    <string name="minutes">" %s minutos"</string>
+    <string name="every_day">todos os dias</string>
+    <string name="never">Nunca</string>
+    <string name="done">Concluído</string>
+    <string name="revert">Reverter</string>
+    <string name="schpwr_shutdown_message">Seu telefone desligará em %s segundos</string>
+    <string name="schpwr_shutdown_message_second">Seu telefone desligará em %s segundo</string>
+    <string name="schpwr_power_on">ligado</string>
+    <string name="schpwr_power_off">desligado</string>
+    <string name="schpwr_time_invalid">O tempo de ativação/desativação programada deve ser diferente em mais do que %d minutos</string>
+    <string name="schedule_power_off_time_out_title">Intervalo</string>
+    <string name="schedule_power_off_time_out_summary">Desativação programada concluída</string>
+</resources>

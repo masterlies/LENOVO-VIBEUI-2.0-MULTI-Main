@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Háttérkép kivágása</string>
+    <string name="wallpaper_instructions">Háttérkép kiválasztása</string>
+    <string name="wallpaper_load_fail">Nem sikerült a kép háttérképként történő betöltése</string>
+</resources>

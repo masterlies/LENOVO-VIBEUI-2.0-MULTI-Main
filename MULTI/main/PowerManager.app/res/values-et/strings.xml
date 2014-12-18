@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toitehaldur</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Tühista</string>
+    <string name="power_consume_app_freeze">Külmuta</string>
+    <string name="power_consume_app_unfreeze">Tühista külmutus</string>
+    <string name="power_consume_app_uninstall">Desinstalli</string>
+    <string name="power_consume_app_details">Üksikasjad</string>
+    <string name="battery_usage_use">Akut kasutatud: %s</string>
+    <string name="consumption_call">Häälkõned</string>
+    <string name="consumption_screen">Ekraan</string>
+    <string name="consumption_wlan">WiFi</string>
+    <string name="consumption_cpu">Protsessor</string>
+    <string name="consumption_radio">Raadiotelefon</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">Meedium</string>
+    <string name="power_battery">Energia</string>
+    <string name="power_charge">Laadimine</string>
+    <string name="power_consume">Kasutus</string>
+    <string name="power_settings">Seaded</string>
+    <string name="power_mode">Režiim</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Protsessori kasutusaeg kokku</string>
+    <string name="usage_type_cpu_foreground">Protsessor</string>
+    <string name="usage_type_wake_lock">Jää sisselülitatuks</string>
+    <string name="usage_type_alarm">Äratussüsteem</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi töötab</string>
+    <string name="usage_type_data_send">Saadetud andmed</string>
+    <string name="usage_type_data_recv">Vastuvõetud andmed</string>
+    <string name="usage_type_audio">Heli</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Tööaeg</string>
+    <string name="usage_type_no_coverage">Signaalita aeg</string>
+    <string name="battery_history_days" formatted="false">%d p %d t %d min %d s</string>
+    <string name="battery_history_hours" formatted="false">%dt %dmin %ds</string>
+    <string name="battery_history_minutes" formatted="false">%dmin %ds</string>
+    <string name="battery_history_seconds">%d s</string>
+    <string name="battery_hour_minute" formatted="false">%dt %dmin</string>
+    <string name="battery_hour">%d t</string>
+    <string name="battery_minute">%d min</string>
+    <string name="battery_wakelock" formatted="false">%dkord(a) %s jaoks</string>
+    <string name="battery_wakelock_days" formatted="false">%d p %d t %d min %s s</string>
+    <string name="battery_wakelock_hours" formatted="false">%dt %dmin%ss</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dmin %ss</string>
+    <string name="battery_wakelock_seconds">%s s</string>
+    <string name="battery_alarm_time">%dkord(a)</string>
+    <string name="battery_screen_time">Alates viimasest täislaadimisest</string>
+    <string name="usage_type_wakelock_screen">Väldi ekraani unerežiimi</string>
+    <string name="usage_type_wakelock_cpu">Väldi CPU unerežiimi</string>
+    <string name="usage_type_sensor">Kasutusandur</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Muu</string>
+    <string name="battery_screen_on_time">Kasutusel: %s</string>
+    <string name="battery_screen_off_time">Ootel: %s</string>
+    <string name="enter_setting">Käivitussätted</string>
+    <string name="battery_tab_title_consume">Energiakulu</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dp %dt %dmin</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dt %dmin</string>
+    <string name="battery_history_minutes_without_seconds">%d min</string>
+    <string name="battery_sensor_info" formatted="false">%d kord(a) kokku %s-st</string>
+    <string name="hour">h</string>
+    <string name="minute">min</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Rakenduse üksikasjalikke sätteid ei leitud</string>
+    <string name="mode_turnOff">Väljas</string>
+    <string name="mode_turnOn">Sees</string>
+    <string name="main_switch_dialog_super">Lubab kasutada ainult helistamis- ja sõnumifunktsiooni ning keelab kõik muud funktsioonid mitmepäevaseks ooteajaks</string>
+    <string name="deep_clear_result_to_white_list_new">Ei mõjuta valitud rakendust</string>
+    <string name="temporary_no_app">Rakendusi pole</string>
+    <string name="progress_loading">Palun oodake</string>
+    <string name="failed_switch_app_state">Toiming nurjus. Proovige hiljem uuesti.</string>
+    <string name="package_manger_list_type_third">Kasutaja rakendused</string>
+    <string name="package_manger_list_type_system">Süsteemirakendused</string>
+    <string name="btn_return">Tagasi</string>
+    <string name="main_switcher">Ajastatud lülitus</string>
+    <string name="switcher_detail">Määratud režiim lubatakse määratud ajaperioodil automaatselt</string>
+    <string name="switcher">Ajastatud lülitus</string>
+    <string name="switcher_start_time">Algusaeg</string>
+    <string name="switcher_end_time">Lõppaeg</string>
+    <string name="switcher_tag">Aktiveeritav režiim:</string>
+    <string name="switcher_target_custom">Kohanda</string>
+    <string name="mode_changed_dialog">Režiimivahetus</string>
+    <string name="no_remind">Ära tuleta enam meelde</string>
+    <string name="new_sim">Uus SIM</string>
+    <string name="application_not_found_activity">Rakendust ei leitud</string>
+    <string name="classicmode_lable_phone">Tel</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Kontaktid</string>
+    <string name="failed_get_safecenter_whitelist">LenovoSafeCenteri valge loendi sünkroonimine nurjus. Installige uuesti uusim LenovoSafeCenter.</string>
+    <string name="application_not_support_be_launched">Turvalisuse tagamiseks ei toetata rakenduse käivitamist teisest rakendusest</string>
+    <string name="classic_phone_dialog_entering">Andmete ettevalmistamine, palun oodake…</string>
+    <string name="classic_phone_dialog_existing">Andmete taastamine, palun oodake…</string>
+    <string name="consumption_app_button">Tarkvara</string>
+    <string name="consumption_hardware_button">Riistvara</string>
+    <string name="power_setting_menu_classic_phone">Väga energiasäästlik režiim</string>
+    <string name="power_setting_menu_smart">Ekraani, CPU ja GPU energiasäästja</string>
+    <string name="power_setting_menu_app_deep_clear">Väljalülitatud ekraani puhul lülita rakendused välja</string>
+    <string name="power_setting_menu_consumption">Energiakulu andmed</string>
+    <string name="statistic_assist_title">Statistika lisafunktsioonid</string>
+    <string name="power_consumption_title">Energiasäästja funktsioonid</string>
+    <string name="fragment_tab_deepclear">Väljalülitatud ekraani puhul lülita rakendused välja</string>
+    <string name="deep_clear_detail">Pärast väljalülitamist ei sega taustal olevad rakendused telefoni unerežiimi</string>
+    <string name="dialog_timing_text">Lülitad väga energiasäästlikule režiimile?</string>
+    <string name="switcher_summery">Telefon lülitub teatud aja jooksul automaatselt väga energiasäästlikule režiimile</string>
+    <string name="switcher_summery_close">Kui seade on sisse lülitatud, lülitab see telefoni teatud aja jooksul automaatselt väga energiasäästlikule režiimile</string>
+    <string name="classicmode_hit_text">Hädaolukorra energiasääst</string>
+    <string name="classic_phone_desktop_shortcut">Hädaolukorra energiasääst</string>
+    <string name="classic_phone_dialog_title">Hädaolukorra energiasäästu meeldetuletus</string>
+    <string name="classic_phone_dialog_enter">Kas soovite lülituda kindlasti hädaolukorra energiasäästurežiimi? Olete liiga usin. Ärge unustage puhata!</string>
+    <string name="classic_phone_dialog_exist">Kas soovite hädaolukorra energiasäästurežiimist kindlasti väljuda?</string>
+    <string name="classic_phone_failed_to_start_service">Hädaolukorra energiasäästurežiimi käivitamine nurjus. Vabandust! Andsime endast parima!</string>
+    <string name="create_classicmode_desktop_shortcut">Koosta energiasäästu töölaua otsetee</string>
+    <string name="classicmode_exit_hint_text">Hädaolukorra energiasäästurežiimist väljumiseks toksake sulgemisnuppu</string>
+    <string name="setttings_screen_smart_brightness2">Energiasäästu nähtavusmootor</string>
+    <string name="setttings_screen_smart_brightness_detail">Sinusoidne heleduse seadistus võib vähendada energiakulu 5–20%</string>
+    <string name="power_engine_vmx_title">Energiasäästu arvutusmootor</string>
+    <string name="power_engine_vmx_detail">Nutikas seadistus, mis vähendab CPU energiatarvet 10–25%</string>
+    <string name="power_engine_fps_title">Energiasäästu graafikamootor</string>
+    <string name="power_engine_fps_detail">Optimeerib GPU–d ja vähendab selle energiatarvet 10–25%</string>
+    <string name="power_engine_summery_close">Pärast seade sisselülitamist väheneb ekraani, CPU ja GPU energiatarve</string>
+    <string name="power_engine_summery_close2">Pärast seade sisselülitamist väheneb ekraani ja GPU energiatarve</string>
+    <string name="power_engine_summery_close3">Pärast seade sisselülitamist väheneb ekraani energiatarve</string>
+    <string name="power_engine_summery_close4">Pärast seade sisselülitamist väheneb ekraani ja CPU energiatarve</string>
+    <string name="power_setting_menu_smart2">Ekraani energiasäästja</string>
+    <string name="power_setting_menu_smart3">Ekraani, CPU ja GPU energiasäästja</string>
+    <string name="power_setting_menu_smart4">Ekraani ja GPU energiasäästja</string>
+    <string name="power_setting_menu_smart5">Ekraani ja CPU energiasäästja</string>
+    <string name="power_setting_current_battery" formatted="false">Praegune laetus: %s%s</string>
+</resources>

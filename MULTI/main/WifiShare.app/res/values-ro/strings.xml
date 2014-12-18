@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Setări</string>
+    <string name="app_name">Partajare cont WLAN</string>
+    <string name="prompt">Apropiaţi telefoanele pentru a partaja WLAN-ul cu prietenii!</string>
+    <string name="current_wifi">Conexiune WLAN curentă:</string>
+    <string name="hotknot_help">Modul de partajare: În interfaţa curentă, apropiaţi spate în spate părţile superioare a două telefoane (transfer NFC). Urmaţi instrucţiunile de pe ecran pentru a partaja contul WLAN conectat.</string>
+    <string name="title_receive">Se primeşte...</string>
+    <string name="wlan_connecting">Se primeşte contul WLAN...</string>
+    <string name="title_finish">Primit cu succes</string>
+    <string name="wlan_finish">Cont WLAN primit cu succes. Conectaţi-vă la %1$s şi sunteţionline!</string>
+    <string name="send_ap_no_connected">Nu poate fi partajat (contul WLAN conectat nu a fost găsit)</string>
+    <string name="hotknot_help_note">Notă: Primirea apelurilor trebuie să acceptepartajarea contuluiWLAN (cu intrare pt. funcţii)</string>
+    <string name="wifi_share">Partaj. WLAN</string>
+</resources>

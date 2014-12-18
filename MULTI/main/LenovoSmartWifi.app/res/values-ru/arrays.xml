@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_switch_entries">
+        <item>запрос во всплывающем окне</item>
+        <item>автоматическое включение</item>
+    </string-array>
+    <string-array name="wifi_switch_faraway_entries">
+        <item>запрос во всплывающем окне</item>
+        <item>автоматическое отключение</item>
+    </string-array>
+    <string-array name="wifi_switch_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

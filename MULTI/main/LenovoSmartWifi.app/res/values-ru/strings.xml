@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Привязка WLAN</string>
+    <string name="dialog_title">Включить беспроводную сеть?</string>
+    <string name="dialog_text">"В этом местоположении находится подключенная точка доступа; подключить беспроводную локальную сеть? "</string>
+    <string name="disable_dialog_title">Отключить WLAN?</string>
+    <string name="disable_dialog_text">Это местоположение удалено от подключенной точки доступа; отключить беспроводную локальную сеть?</string>
+    <string name="show_dialog">Больше ненапоминать</string>
+    <string name="disable_show_dialog">Больше ненапоминать</string>
+    <string name="wifi_enable_text">ввод местоположения; запрос во всплывающем окне</string>
+    <string name="wifi_enable_summary">Включать беспроводную локальную сеть при вводе местоположения подключенной точки доступа с уровнем сигнала не ниже 3 и передачей данных по стандарту GRPS</string>
+    <string name="wifi_disable_text">удаленное местоположение; запрос во всплывающем окне</string>
+    <string name="wifi_disable_summary">При удаленном местоположении подключенной точки доступа отключать беспроводную локальную сеть</string>
+    <string name="wifi_setting_summary">Привязка подключенной беспроводной локальной сети; позднее, если в зоне ее охвата применяется служба передачи данных 3G/2G GPRS, отображается напоминание о необходимости установить соединение с этой беспроводной локальной сетью или соединение устанавливается автоматически</string>
+    <string name="wifi_popup_tip">Запрос во всплывающем окне</string>
+    <string name="wifi_auto_enable">Автоматическое установление соединения</string>
+    <string name="wifi_auto_disable">Автоматическое отключение</string>
+    <string name="wifi_popup_0">Привязка подключенной точки доступа. При вводе этого местоположения появляется всплывающее окно с запросом</string>
+    <string name="wifi_popup_1">Привязка подключенной точки доступа. При вводе этого местоположения выполнять включение автоматически</string>
+    <string name="wifi_popup_2">Больше ненапоминать</string>
+    <string name="confirm_yes">Да</string>
+    <string name="confirm_no">Нет</string>
+    <string name="enable_wifi_hint">Запись WLAN выполняет подключение к сети WLAN для сохранения потока данных</string>
+    <string name="disable_wifi_hint">Запись WLAN выполняет отключение WLAN для экономии питания</string>
+</resources>

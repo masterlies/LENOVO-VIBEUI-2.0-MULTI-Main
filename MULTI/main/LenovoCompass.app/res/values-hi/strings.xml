@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">जानकारी</string>
+    <string name="Ok">ठीक</string>
+    <string name="Cancel">रद्द करें</string>
+    <string name="app_name">कम्पास</string>
+    <string name="calibrate">अंशांकन</string>
+    <string name="latitude">अक्षांश</string>
+    <string name="longitude">देशांतर</string>
+    <string name="calibrate_success">अंशांकन पूर्ण</string>
+    <string name="ignore">ध्यान न दें</string>
+    <string name="cannot_get_location">स्थान नहीं पा सकते.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">आसपास चुंबकीय व्यवधान हो सकती है, कृपया फ़ोन को लहराते हुए 8 अंक बनाएँ जैसा कि ऊपर छवि में दिखाया गया है. यह डायलॉग बॉक्स अंशांकन सफल होने पर स्वचालित रूप से बंद हो जाएगा.</string>
+    <string name="Warn">आसपास चुंबकीय व्यवधान हो सकती है</string>
+    <string name="click_to_location">GPS स्थान पाने के लिए क्लिक करें</string>
+    <string name="warn_message">वर्तमान स्थान जानकारी GPS या नेटवर्क स्थान के माध्यम से प्राप्त होने दें?</string>
+    <string name="no_warn_later">इसे दोबारा नहीं दिखाएँ</string>
+    <string name="start_calibration">अंशांकन के लिए फ़ोन हिलाएँ</string>
+    <string name="no_location_server">स्थान सेवा अक्षम है</string>
+    <string name="no_location">--</string>
+    <string name="DoNotSHowAgain">दोबारा नहीं दिखाएँ</string>
+</resources>

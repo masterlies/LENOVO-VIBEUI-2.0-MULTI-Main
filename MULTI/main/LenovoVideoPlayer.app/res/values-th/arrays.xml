@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>ข่าว</item>
+        <item>กีฬา</item>
+        <item>ละคร</item>
+        <item>มิวสิกวิดีโอ</item>
+        <item>ภาพยนตร์</item>
+        <item>ตลก</item>
+        <item>แอ็คชัน</item>
+        <item>มิวสิคัล</item>
+        <item>การ์ตูน</item>
+        <item>วาไรตี้</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>เล่น</item>
+        <item>เปลี่ยนชื่อ</item>
+        <item>ลบ</item>
+        <item>ข้อมูล</item>
+        <item>แชร์</item>
+        <item>เลือกหลายรายการ</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>เล่น</item>
+        <item>เปลี่ยนชื่อ</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>เล่น</item>
+        <item>ลบ</item>
+        <item>ล้างรายการ</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>เล่น</item>
+        <item>เพิ่มวิดีโอ</item>
+    </string-array>
+</resources>

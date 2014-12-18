@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>bloc. ecr.</item>
+        <item>lansator</item>
+        <item>pictogr.</item>
+        <item>img. fundal</item>
+        <item>UI sistem</item>
+        <item>ideafriend</item>
+        <item>ecr. apeluri</item>
+        <item>widget sistem</item>
+        <item>opr. iniţ.</item>
+        <item>font</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">به روز رسانی های سیستم</string>
+    <string name="meid_activity_title">نسخه PRL</string>
+    <string name="btn_post">فعال کردن</string>
+    <string name="btn_neg">غيرفعال کردن</string>
+    <string name="enable_fdn">فعال کردن</string>
+    <string name="disable_fdn">غيرفعال کردن</string>
+    <string name="reboot">راه‌اندازی مجدد</string>
+    <string name="cancel">لغو</string>
+    <string name="alert_ok">تأیید</string>
+    <string name="alert_no">خیر</string>
+    <string name="commit_cate">ذخيره</string>
+    <string name="summary_on">روشن</string>
+    <string name="summary_off">خاموش</string>
+    <string name="System_log_v_title">گزارش سیستم</string>
+    <string name="System_log_v_summary">گزارش سیستم</string>
+    <string name="system_log">گزارش سیستم</string>
+    <string name="report_log_summary">گزارش</string>
+    <string name="report_log_title">گزارش</string>
+    <string name="save_success">ذخیره موفق بود</string>
+    <string name="yes_exit">بله</string>
+    <string name="no_exit">خير</string>
+    <string name="enable">فعال کردن</string>
+    <string name="disable">غيرفعال کردن</string>
+    <string name="regulatory_information">اطلاعات تنظیمی</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">ข้อมูล</string>
+    <string name="Ok">ตกลง</string>
+    <string name="Cancel">ยกเลิก</string>
+    <string name="app_name">เข็มทิศ</string>
+    <string name="calibrate">การปรับเทียบ</string>
+    <string name="latitude">เส้นรุ้ง</string>
+    <string name="longitude">เส้นแวง</string>
+    <string name="calibrate_success">เสร็จสิ้นการปรับเทียบ</string>
+    <string name="ignore">ไม่สนใจ</string>
+    <string name="cannot_get_location">ไม่สามารถหาตำแหน่งได้</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">เหนือ</string>
+    <string name="direction_south">ใต้</string>
+    <string name="direction_east">ตะวันออก</string>
+    <string name="direction_west">ตะวันตก</string>
+    <string name="direction_east_north">ตะวันออกเฉียงเหนือ</string>
+    <string name="direction_east_south">ตะวันออกเฉียงใต้</string>
+    <string name="direction_west_north">ตะวันตกเฉียงเหนือ</string>
+    <string name="direction_west_south">ตะวันตกเฉียงใต้</string>
+    <string name="Tips">"อาจมีสัญญาณรบกวนแม่เหล็กอยู่ใกล้ๆ โปรดดำเนินการตามภาพด้านบนเพื่อหมุน '8' หลายๆครั้ง กล่องโต้ตอบจะปิดโดยอัตโนมัติเมื่อทำการปรับเทียบเสร็จแล้ว"</string>
+    <string name="Warn">อาจมีสัญญาณรบกวนแม่เหล็กอยู่ใกล้ๆ</string>
+    <string name="click_to_location">คลิกเพื่อระบุตำแหน่ง GPS</string>
+    <string name="warn_message">อนุญาตให้ตรวจสอบตำแหน่งปัจจุบันผ่าน GPS หรือตำแหน่งที่ตั้งของเครือข่ายหรือไม่</string>
+    <string name="no_warn_later">ไม่ต้องแสดงอีก</string>
+    <string name="start_calibration">เขย่าโทรศัพท์เพื่อปรับเทียบ</string>
+    <string name="no_location_server">ปิดใช้งานบริการตำแหน่ง</string>
+    <string name="DoNotSHowAgain">ไม่ต้องแสดงอีก</string>
+</resources>

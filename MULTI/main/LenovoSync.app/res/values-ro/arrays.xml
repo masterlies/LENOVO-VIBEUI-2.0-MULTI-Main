@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>În aşteptare</item>
+        <item>Se face de rezervă</item>
+        <item>De rezervă efectuat</item>
+        <item>Eroare</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Anulat</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>În aşteptare</item>
+        <item>Se descarcă</item>
+        <item>Dezinstalare</item>
+        <item>Eroare</item>
+        <item>Actualizare</item>
+        <item>Instalată</item>
+        <item>Anulat</item>
+        <item>Se instalează</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Modificare nume album</item>
+        <item>Ştergere album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit este o aplicaţie gratuită pentru mobil. Dar traficul de reţea produs la încărcare şi utilizare va fi taxat de operatorii de telefonie.</item>
+        <item>Da, este.</item>
+        <item>SYNCit stochează informaţiile utilizatorilor cu nivelul de criptare utilizat la operaţiile de banking online. Securitatea datelor şi informaţiilor personale este certă şi nu vor exista niciodată scurgeri de informaţii.</item>
+        <item>SYNCit va îmbina automat contactele duplicat aflate în telefonul dvs.</item>
+        <item>Desigur că puteţi. Dacă sistemul telefonului dvs. este unul din următoarele: Android, iOS, Symbian sau acceptă Java, găsiţi versiunea potrivită pentru utilizare.</item>
+        <item>Da, acceptă Symbian , iOS, platforma Android şi Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Utilizarea SYNCit costă?</item>
+        <item>Este SYNCit acelaşi software ca şi Android Backup?</item>
+        <item>Este SYNCit sigur? Numărul meu de telefon sau datele din De rezervă vor fi furate?</item>
+        <item>De ce contactele s-au redus după o copiere de rezervă?</item>
+        <item>Telefonul meu nu este făcut de Lenovo. Pot să utilizez SYNCit?</item>
+        <item>SYNCit acceptă alte platforme?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Contacte</item>
+        <item>Mesaje</item>
+        <item>Registru apeluri</item>
+    </string-array>
+</resources>

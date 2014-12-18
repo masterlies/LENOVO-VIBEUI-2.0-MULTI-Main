@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Errore schermata di blocco. Lo schermo entrerà in modalità protezione. Attendere il riavvio della schermata di blocco.</string>
+</resources>

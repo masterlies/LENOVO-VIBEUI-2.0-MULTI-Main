@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyguardToetsAktiwiteit</string>
+    <string name="secure_app_name">VerenigdeKamera</string>
+    <string name="none_menu_item">Geen sekuriteit nie</string>
+    <string name="pin_menu_item">PIN</string>
+    <string name="password_menu_item">Wagwoord</string>
+    <string name="pattern_menu_item">Patroon</string>
+    <string name="sim_pin_menu_item">SIM PIN</string>
+    <string name="sim_puk_menu_item">SIM PUK</string>
+    <string name="add_widget_item">Kies legstuk…</string>
+    <string name="on_screen_turned_off">opSkermAfgeskakel</string>
+    <string name="on_screen_turned_on">opSkermAangeskakel</string>
+    <string name="do_keyguard">doenKeyguard</string>
+    <string name="verify_unlock">verifieerOntsluit</string>
+    <string name="lenovo_keyguard_password_enter_puk_code">Voer %s PUK- en nuwe PIN-kode in</string>
+    <string name="lenovo_keyguard_password_enter_puk_prompt">%s PUK-kode</string>
+    <string name="lenovo_keyguard_password_enter_pin_prompt">Nuwe %s PIN-kode</string>
+    <string name="lenovo_keyguard_missing_sim_message_short">Geen %s-kaart nie</string>
+    <string name="lenovo_keyguard_missing_sim_message">Geen %s-kaart in foon nie.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions">"Steek 'n %s-kaart in."</string>
+    <string name="lenovo_keyguard_missing_sim_instructions_long">"Die %1$s-kaart is weg of nie leesbaar nie. Steek 'n %1$s-kaart in."</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_message_short">Onbruikbare %s-kaart.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_instructions">"Jou %1$s-kaart is permanent gedeaktiveer.
+ Kontak jou draadlose diensverskaffer vir 'n ander %1$s-kaart."</string>
+    <string name="lenovo_keyguard_sim_locked_message">%s-kaart is gesluit.</string>
+    <string name="lenovo_keyguard_sim_puk_locked_message">%s-kaart is PUK-geslote.</string>
+    <string name="lenovo_keyguard_sim_unlock_progress_dialog_message">Ontsluit tans %s-kaart…</string>
+    <string name="lenovo_kg_sim_pin_instructions">Voer %s-PIN in</string>
+    <string name="lenovo_kg_puk_enter_puk_hint">%s is nou gedeaktiveer. Voer PUK-kode in om voort te gaan. Kontak diensverskaffer vir details.</string>
+    <string name="lenovo_kg_sim_unlock_progress_dialog_message">Ontsluit tans %s-kaart…</string>
+    <string name="lenovo_kg_invalid_puk">Voer weer die korrekte PUK-kode in. Herhaalde pogings sal die %s permanent deaktiveer.</string>
+    <string name="lenovo_kg_password_wrong_pin_code_pukked">Verkeerde %s PIN-kode, jy sal nou jou diensverskaffer moet kontak om jou toestel te ontsluit.</string>
+    <string name="lenovo_kg_password_wrong_puk_code_dead">%s is onbruikbaar. Kontak jou diensverskaffer.</string>
+    <string name="lenovo_kg_password_pin_failed">%s PIN-bewerking het misluk!</string>
+    <string name="lenovo_kg_password_puk_failed">%s PUK-bewerking het misluk!</string>
+    <string name="keyguard_password_enter_pin_code">Voer PIN-kode in</string>
+    <string name="keyguard_password_enter_puk_code">Voer SIM PUK- en nuwe PIN-kode in</string>
+    <string name="keyguard_password_enter_puk_prompt">SIM PUK-kode</string>
+    <string name="keyguard_password_enter_pin_prompt">Nuwe SIM PIN-kode</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Raak om wagwoord in te voer</font></string>
+    <string name="keyguard_password_enter_password_code">Voer wagwoord in om te ontsluit</string>
+    <string name="keyguard_password_enter_pin_password_code">Voer PIN in om te ontsluit</string>
+    <string name="keyguard_password_wrong_pin_code">Verkeerde PIN-kode.</string>
+    <string name="keyguard_label_text">Om te ontsluit, druk Kieslys dan 0.</string>
+    <string name="faceunlock_multiple_failures">Maksimum gesigontsluit-pogings oorskry</string>
+    <string name="keyguard_charged">Gelaai</string>
+    <string name="keyguard_plugged_in">Laai, %d%%</string>
+    <string name="keyguard_low_battery">Koppel jou herlaaier.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Druk kieslys om te ontsluit.</string>
+    <string name="keyguard_network_locked_message">Netwerk gesluit</string>
+    <string name="keyguard_missing_sim_message_short">Geen SIM-kaart nie</string>
+    <string name="keyguard_missing_sim_message">Geen SIM-kaart in foon nie.</string>
+    <string name="keyguard_missing_sim_instructions">"Steek 'n SIM-kaart in."</string>
+    <string name="keyguard_missing_sim_instructions_long">"Die SIM-kaart is weg of nie leesbaar nie. Steek 'n SIM-kaart in."</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Onbruikbare SIM-kaart.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Jou SIM-kaart is permanent gedeaktiveer.
+ Kontak jou draadlose diensverskaffer vir 'n ander SIM-kaart."</string>
+    <string name="keyguard_sim_locked_message">SIM-kaart is gesluit.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM-kaart is PUK-geslote.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Ontsluit tans SIM-kaart…</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Legstuk %2$d van %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Voeg legstuk by.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Leeg</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Ontsluitruimte uitgevou.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Ontsluitruimte ingevou.</string>
+    <string name="keyguard_accessibility_widget">%1$s-legstuk.</string>
+    <string name="keyguard_accessibility_user_selector">Gebruikerkieser</string>
+    <string name="keyguard_accessibility_status">Status</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Media-kontroles</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Herordening van legstuk begin.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Herordening van legstuk beëindig.</string>
+    <string name="keyguard_accessibility_widget_deleted">Legstuk %1$s uitgevee.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Vou ontsluitruimte uit.</string>
+    <string name="keyguard_accessibility_slide_unlock">Sleep-ontsluit.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Patroon ontsluit.</string>
+    <string name="keyguard_accessibility_face_unlock">Gesigslot.</string>
+    <string name="keyguard_accessibility_pin_unlock">PIN ontsluit.</string>
+    <string name="keyguard_accessibility_password_unlock">Wagwoord ontsluit.</string>
+    <string name="keyguard_accessibility_pattern_area">Patroonarea.</string>
+    <string name="keyguard_accessibility_slide_area">Sleep-area.</string>
+    <string name="keyguard_accessibility_transport_prev_description">Vorigesnit-knoppie</string>
+    <string name="keyguard_accessibility_transport_next_description">Volgendesnit-knoppie</string>
+    <string name="keyguard_accessibility_transport_pause_description">Laatwag-knoppie</string>
+    <string name="keyguard_accessibility_transport_play_description">Speel-knoppie</string>
+    <string name="keyguard_accessibility_transport_stop_description">Stop-knoppie</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Laaik baie</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Laaik niks</string>
+    <string name="keyguard_accessibility_transport_heart_description">Hart</string>
+    <string name="keyguard_accessibility_show_bouncer">Ontsluit om voort te gaan</string>
+    <string name="keyguard_accessibility_hide_bouncer">Begin gekanselleer</string>
+    <string name="keyguard_accessibility_delete_widget_start">Laat los %1$s om uit te vee.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s sal nie uitgevee word nie.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Kanselleer</string>
+    <string name="keyboardview_keycode_delete">Vee uit</string>
+    <string name="keyboardview_keycode_done">Klaar</string>
+    <string name="keyboardview_keycode_mode_change">Modus verander</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Invoersleutel</string>
+    <string name="description_target_unlock">Ontsluit</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Stil</string>
+    <string name="description_target_soundon">Klank aan</string>
+    <string name="description_target_search">Soek</string>
+    <string name="description_direction_up">Gly op vir %s.</string>
+    <string name="description_direction_down">Gly af vir %s.</string>
+    <string name="description_direction_left">Gly links vir %s.</string>
+    <string name="description_direction_right">Gly regs vir %s.</string>
+    <string name="user_switched">Huidige gebruiker %1$s .</string>
+    <string name="kg_emergency_call_label">Noodoproep</string>
+    <string name="kg_forgot_pattern_button_text">Het jy die patroon vergeet?</string>
+    <string name="kg_wrong_pattern">Verkeerde patroon</string>
+    <string name="kg_wrong_password">Verkeerde wagwoord</string>
+    <string name="kg_wrong_pin">Verkeerde PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Probeer weer oor %d sekondes.</string>
+    <string name="kg_pattern_instructions">Teken jou patroon</string>
+    <string name="kg_sim_pin_instructions">Voer SIM-PIN in</string>
+    <string name="kg_pin_instructions">Voer PIN in</string>
+    <string name="kg_password_instructions">Voer wagwoord in</string>
+    <string name="kg_puk_enter_puk_hint">SIM is nou gedeaktiveer. Voer PUK-kode in om voort te gaan. Kontak diensverskaffer vir details.</string>
+    <string name="kg_puk_enter_pin_hint">Voer die gewenste PIN-kode in</string>
+    <string name="kg_enter_confirm_pin_hint">Bevestig gewenste PIN-kode</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Ontsluit tans SIM-kaart…</string>
+    <string name="kg_invalid_sim_pin_hint">"Tik 'n PIN in wat 4 tot 8 syfers lank is."</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-kode moet 8 of meer syfers wees.</string>
+    <string name="kg_invalid_puk">Voer weer die korrekte PUK-kode in. Herhaalde pogings sal die SIM permanent deaktiveer.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-kodes stem nie ooreen nie</string>
+    <string name="kg_login_too_many_attempts">Te veel patroonpogings</string>
+    <string name="kg_login_instructions">Om te ontsluit, meld met jou Google-rekening aan.</string>
+    <string name="kg_login_username_hint">Gebruikernaam (e-pos)</string>
+    <string name="kg_login_password_hint">Wagwoord</string>
+    <string name="kg_login_submit_button">Meld aan</string>
+    <string name="kg_login_invalid_input">Ongeldige gebruikernaam of wagwoord.</string>
+    <string name="kg_login_account_recovery_hint">"Het jy jou gebruikernaam of wagwoord vergeet?
+Besoek "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Kontroleer tans rekening...</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Jy het jou PIN %d keer verkeerd ingetik. 
+
+Probeer weer oor %d sekondes."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Jy het %d keer jou wagwoord verkeerdelik getik. 
+
+Probeer weer oor %d sekondes."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerdelik geteken. 
+
+Probeer weer oor %d sekondes."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Jy het %d keer verkeerdelik gepoog om die foon te ontsluit. Na nog %d onsuksesvolle pogings, sal die foon na die fabrieksverstek teruggestel word en al die gebruikerdata sal verlore wees.</string>
+    <string name="kg_failed_attempts_now_wiping">Jy het %d keer verkeerdelik gepoog om die foon te ontsluit. Die foon sal nou na fabrieksverstek teruggestel word.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerdelik geteken. Na nog %d onsuksesvolle pogings, sal jy gevra word om jou foon te ontsluit deur middel van 'n e-posrekening.
+
+ Probeer weer oor %d sekondes."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Verwyder</string>
+    <string name="kg_password_wrong_pin_code_pukked">Verkeerde SIM PIN-kode, jy sal nou jou diensverskaffer moet kontak om jou toestel te ontsluit.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM is onbruikbaar. Kontak jou diensverskaffer.</string>
+    <string name="kg_password_pin_failed">SIM PIN-bewerking het misluk!</string>
+    <string name="kg_password_puk_failed">SIM PUK-bewerking het misluk!</string>
+    <string name="kg_pin_accepted">Kode is aanvaar!</string>
+    <string name="keyguard_transport_prev_description">Vorigesnit-knoppie</string>
+    <string name="keyguard_transport_next_description">Volgendesnit-knoppie</string>
+    <string name="keyguard_transport_pause_description">Laatwag-knoppie</string>
+    <string name="keyguard_transport_play_description">Speel-knoppie</string>
+    <string name="keyguard_transport_stop_description">Stop-knoppie</string>
+    <string name="keyguard_carrier_default">Geen diens nie.</string>
+</resources>

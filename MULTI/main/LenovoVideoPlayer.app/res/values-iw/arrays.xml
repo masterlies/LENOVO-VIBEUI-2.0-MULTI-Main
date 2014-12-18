@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>חדשות</item>
+        <item>ספורט</item>
+        <item>דרמה</item>
+        <item>וידאו קליפים</item>
+        <item>סרטים</item>
+        <item>קומדיה</item>
+        <item>פעולה</item>
+        <item>מחזות זמר</item>
+        <item>מצוירים</item>
+        <item>מגוון</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>הפעלה</item>
+        <item>שינוי שם</item>
+        <item>מחיקה</item>
+        <item>מידע</item>
+        <item>שיתוף</item>
+        <item>בחירה מרובה</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>הפעלה</item>
+        <item>שינוי שם</item>
+        <item>מחיקה</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>הפעלה</item>
+        <item>מחיקה</item>
+        <item>ניקוי רשימה</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>הפעלה</item>
+        <item>הוספת סרטון זה</item>
+    </string-array>
+</resources>

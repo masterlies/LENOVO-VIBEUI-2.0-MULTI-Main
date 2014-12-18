@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unlock_message">Escribe tu contraseña:</string>
+    <string name="sim_locked_permanantly_message">Tarjeta SIM no válida.</string>
+    <string name="unlock_wrong_password_toast">Contraseña incorrecta!</string>
+    <string name="sim_unlock_remained_Attempts">Ingresar bloqueo ME de SIM (NP)(Sigue siendo: %d)</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="simlock_check_dialog_message">"Por favor confirme que quiere habilitar SIM lock.
+El teléfono se reiniciará."</string>
+</resources>

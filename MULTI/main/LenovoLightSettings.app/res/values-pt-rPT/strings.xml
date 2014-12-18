@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Luz</string>
+    <string name="breath_settings">Definições de respiração</string>
+    <string name="breath_delay">Ciclo de respiração</string>
+    <string name="breath_delay_info">Menos atraso definido, mais energia consumida</string>
+    <string name="light_switch_settings">Definições de luz</string>
+    <string name="coming_call">Chamada</string>
+    <string name="miss_call">Chamadas não atendidas</string>
+    <string name="unread_msg">Mensagens não lidas</string>
+    <string name="battery_low_msg">Mensagem de bateria fraca</string>
+    <string name="sina_weibo_notify">Notificação SinaWeibo</string>
+    <string name="qq_weibo_notify">Notificação TencentWeibo</string>
+    <string name="other_app_notify">Outro</string>
+    <string name="other_app_summary">weixin，QQ，weibo</string>
+    <string name="music_play">Música</string>
+    <string name="screen_on">Ecrã ligado</string>
+    <string name="screen_off">Ecrã desligado</string>
+    <string name="power_on_off">Ligar/Desligar</string>
+    <string name="charging">A carregar</string>
+    <string name="low_battery">Bateria fraca</string>
+    <string name="color_settings">Definições de cor</string>
+    <string name="color_settings_info">Definições de cor de cada luz</string>
+    <string name="color_coming_call">Cor da luz de chamada</string>
+    <string name="color_miss_call">Cor da luz de chamada não atendida</string>
+    <string name="color_unread_msg">Cor da luz de mensagem não lida</string>
+    <string name="color_sina_weibo_notify">Cor da luz de notificação SinaWeibo</string>
+    <string name="color_qq_weibo_notify">Cor da luz de notificação TencentWeibo</string>
+    <string name="color_music">Cor da luz de música</string>
+    <string name="color_screen_on">Cor da luz de ecrã ligado</string>
+    <string name="color_screen_off">Cor da luz de ecrã desligado</string>
+    <string name="light_show">Apresentação de luz</string>
+    <string name="light_show_info">Apresentação de luz em reprodução na parte inferior</string>
+    <string name="light_show_info_top">Apresentação de luz em reprodução na parte superior</string>
+    <string name="stop">Parar</string>
+    <string name="closed">Desligado</string>
+    <string name="open">Ligado</string>
+    <string name="multiselect_alert_info">Precisa de pelo menos uma cor!</string>
+</resources>

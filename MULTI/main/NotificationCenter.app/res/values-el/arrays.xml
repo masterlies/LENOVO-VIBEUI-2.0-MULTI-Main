@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 δευτ.</item>
+        <item>6 δευτ.</item>
+        <item>9 δευτ.</item>
+    </string-array>
+    <string-array name="network_speed_refresh_time_interval_value">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>信号强度(差)</item>
+        <item>信号强度(弱)</item>
+        <item>信号强度(中)</item>
+        <item>信号强度(强)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Γραφική αναπαράσταση</item>
+        <item>Ποσοστό</item>
+    </string-array>
+    <string-array name="battery_style_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_show_type_array">
+        <item>Prvé 4-číslie</item>
+        <item>Posledné 4-číslie</item>
+        <item>Nezobrazovať</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>Raz</item>
+        <item>Vždy</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

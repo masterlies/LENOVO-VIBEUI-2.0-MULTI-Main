@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdeaFriendSecreteCode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="meid_activity_title">Version du PRL</string>
+    <string name="disable_dfn_activity_title">Paramètres FDN</string>
+    <string name="tv_text">"Paramètres de démarrage FDN.
+(Activer/Désactiver)"</string>
+    <string name="btn_post">Activer</string>
+    <string name="btn_neg">Désactiver</string>
+    <string name="enable">Activer</string>
+    <string name="disable">Désactiver</string>
+    <string name="reboot_device_title">Redémarrer le périphérique</string>
+    <string name="reboot_device_message_pre_on">Le service supplémentaire est activé</string>
+    <string name="reboot_device_message_pre_off">Le service supplémentaire est désactivé</string>
+    <string name="reboot_device_message_post">(redémarrage nécessaire)</string>
+    <string name="reboot">Redémarrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="default_state">Erreur</string>
+    <string name="cur_state">Etat actuel du service supplémentaire :</string>
+</resources>

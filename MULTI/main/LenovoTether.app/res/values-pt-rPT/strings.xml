@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot Pessoal</string>
+    <string name="wifi_tether_configure_ap_text">Configurar hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Segurança: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">O SSID não pode ter mais de 32 caracteres</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Segurança: %2$s
+Palavra-passe: %3$s"</string>
+    <string name="wifi_cancel">Cancelar</string>
+    <string name="wifi_save">Guardar</string>
+    <string name="wifi_ssid">SSID da Rede</string>
+    <string name="wifi_security">Segurança</string>
+    <string name="wifi_password">Palavra-passe</string>
+    <string name="wifi_show_password">Mostrar palavra-passe</string>
+    <string name="credentials_password_too_short">A palavra-passe tem de ter, pelo menos, 8 caracteres.</string>
+    <string name="wifi_channel">Canal Preferido</string>
+    <string name="wifi_channel_width">Largura do Canal</string>
+    <string name="wifi_tether_auto_channel_text">Automático</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Hotspot pessoal activado</string>
+    <string name="tethered_notification_message">Tocar para configurar</string>
+    <string name="tether_about_title">Introdução às Funções</string>
+    <string name="wlan_connection_title">Hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Partilha de rede Bluetooth</string>
+    <string name="usb_share_title">Partilha de rede USB</string>
+    <string name="about_wlan">Ao definir o hotspot WLAN neste dispositivo, permite que outros dispositivos WLAN liguem à respectiva rede móvel para navegação na Web</string>
+    <string name="about_usb">Ao activar a partilha de rede USB neste dispositivo, permite que os dispositivos ligados utilizem a respectiva rede móvel para navegação na Web</string>
+    <string name="about_bt">Ao activar a partilha de rede Bluetooth neste dispositivo, permite que outros dispositivos Bluetooth utilizem a respectiva rede móvel para navegação na Web</string>
+    <string name="about_usb_other">"Outras notas: 
+ 1. Durante a ligação USB, não pode instalar o cartão SD do dispositivo no computador
+ 2. A ligação aplica-se apenas ao Windows Vista, Windows 7, Windows 8 e Linux"</string>
+    <string name="wifi_tether_settings_title">Informações de configuração WLAN</string>
+    <string name="wifi_ap_client_block_title">Bloquear</string>
+    <string name="wifi_ap_client_unblock_title">Desbloquear</string>
+    <string name="wifi_ap_connected_title">Utilizadores ligados</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d ligado, %2$d bloqueado</string>
+    <string name="open_title">Activar sugestões</string>
+    <string name="open_mess">Para utilizar o %1$s, tem de activar a função de ligação de dados</string>
+    <string name="open_mess_all">Para utilizar o %1$s, tem de activar a WLAN ou a função de ligação de dados</string>
+    <string name="cancel">Cancelar</string>
+    <string name="go_settings">Ir para as definições</string>
+    <string name="open_mess_alert">A rede móvel está activada. A utilização da função %1$s poderá gerar um maior tráfego de dados e taxas. Pretende activá-la?</string>
+    <string name="open">Activar</string>
+</resources>

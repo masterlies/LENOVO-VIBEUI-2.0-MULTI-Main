@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Informace</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Storno</string>
+    <string name="app_name">Kompas</string>
+    <string name="calibrate">Kalibrace</string>
+    <string name="latitude">Zeměpisná šířka</string>
+    <string name="longitude">Zeměpisná délka</string>
+    <string name="calibrate_success">Kalibrace dokončena</string>
+    <string name="ignore">Ignorovat</string>
+    <string name="cannot_get_location">Nelze získat polohu.</string>
+    <string name="location_north">S</string>
+    <string name="location_south">J</string>
+    <string name="location_east">V</string>
+    <string name="location_west">Z</string>
+    <string name="direction_north">S</string>
+    <string name="direction_south">J</string>
+    <string name="direction_east">V</string>
+    <string name="direction_west">Z</string>
+    <string name="direction_east_north">SV</string>
+    <string name="direction_east_south">JV</string>
+    <string name="direction_west_north">SZ</string>
+    <string name="direction_west_south">JZ</string>
+    <string name="Tips">Možná se nacházíte v blízkosti magnetického rušení, podržte telefon a opište s ním ve vzduchu tvar osmičky „8“, jak vidíte na obrázku výše. Toto dialogové okno se po úspěšném dokončení kalibrace automaticky zavře.</string>
+    <string name="Warn">Možná se nacházíte v blízkosti magnetického rušení</string>
+    <string name="click_to_location">Kliknutím získáte polohu GPS</string>
+    <string name="warn_message">Povolit získání informací o aktuální poloze prostřednictvím GPS nebo síťového umístění?</string>
+    <string name="no_warn_later">Znovu nezobrazovat</string>
+    <string name="start_calibration">Zatřeste telefonem a proveďte kalibraci</string>
+    <string name="no_location_server">Zjišťování polohy je vypnuto</string>
+    <string name="no_location">--</string>
+    <string name="DoNotSHowAgain">Znovu nezobrazovat</string>
+</resources>

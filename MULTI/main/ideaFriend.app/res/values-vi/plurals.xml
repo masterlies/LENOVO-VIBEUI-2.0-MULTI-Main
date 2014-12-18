@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d số liên lạc có số điện thoại</item>
+        <item quantity="one">1 số liên lạc có số điện thoại</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d số liên lạc</item>
+        <item quantity="one">1 số liên lạc</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Tìm thấy %d</item>
+        <item quantity="one">Tìm thấy 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Tìm thấy %d</item>
+        <item quantity="one">Tìm thấy 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">được hợp nhất từ %0$d nguồn</item>
+        <item quantity="one">chưa hợp nhất</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d nhóm</item>
+        <item quantity="one">1 nhóm</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d người từ %2$s</item>
+        <item quantity="one">%1$d người từ %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d người</item>
+        <item quantity="one">%1$d người</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Thư thoại</item>
+        <item quantity="one">Thư thoại</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d nhật ký cuộc gọi</item>
+        <item quantity="one">1 nhật ký cuộc gọi</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Tìm liên lạc | Tổng %d liên lạc</item>
+        <item quantity="one">Tìm liên lạc | Tổng 1 liên lạc</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s tin nhắn sẽ bị xóa</item>
+        <item quantity="one">1 tin nhắn sẽ bị xóa</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d tin nhắn chưa đọc.</item>
+        <item quantity="one">%d tin nhắn chưa đọc.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s giây</item>
+        <item quantity="one">%s giây</item>
+        <item quantity="few">%s giây</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s kết quả cho \"%2$s\"</item>
+        <item quantity="one">%1$s kết quả cho \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s người</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">đang gửi %d báo cáo đọc</item>
+        <item quantity="one">đang gửi %d báo cáo đọc</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Đã chọn %d</item>
+        <item quantity="one">Đã chọn %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Đánh dấu %1$s cuộc trò chuyện đã đọc</item>
+        <item quantity="one">Đánh dấu 1 cuộc trò chuyện đã đọc</item>
+    </plurals>
+</resources>

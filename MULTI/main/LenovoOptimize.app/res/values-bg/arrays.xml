@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Метод въвежд. по подр.</item>
+        <item>Софт. за раб.пл. по подр.</item>
+        <item>Софт. за интер. по подр.</item>
+        <item>Софт. за набир. по подр.</item>
+        <item>Софт. за SMS по подр.</item>
+        <item>Софт.за имейл по подр.</item>
+        <item>Виз. на картини по подр.</item>
+        <item>Софт. за кам. по подр.</item>
+        <item>Софт. за вид. по подр.</item>
+        <item>Софт. за онлайн вид. по подр.</item>
+        <item>Софт. за аудио по подр.</item>
+        <item>Софт. за онлайн ауд. по подр.</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Стар. устр.</item>
+        <item>На телефона</item>
+        <item>Получ. на SMS</item>
+        <item>Оборудване в мрежа</item>
+        <item>Инсталир. на софтуер</item>
+        <item>Откл. на черен екр.</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Препоръки за системата</item>
+        <item>Прин. инсталир. на тел.</item>
+        <item>Прин.инстал. на карт.памет по подразб.</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Включв.</item>
+        <item>Интернет връзка</item>
+        <item>Об.</item>
+        <item>SMS</item>
+        <item>Четене адр. книга</item>
+        <item>Намир. на място</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

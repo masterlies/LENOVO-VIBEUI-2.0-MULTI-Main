@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Pengaitan lokasi WLAN</string>
+    <string name="dialog_title">Aktifkan WLAN?</string>
+    <string name="dialog_text">"Lokasi ini telah tersambung ke titik akses, aktifkan WLAN? "</string>
+    <string name="disable_dialog_title">Nonaktifkan WLAN?</string>
+    <string name="disable_dialog_text">Lokasi ini jauh dari lokasi titik akses tersambung, nonaktifkan WLAN?</string>
+    <string name="show_dialog">Jangan ingatkan saya</string>
+    <string name="disable_show_dialog">Jangan ingatkan saya</string>
+    <string name="wifi_enable_text">Masukkan lokasi, tampilkan pemberitahuan pop-up</string>
+    <string name="wifi_enable_summary">Saat memasukkan lokasi titik akses tersambung dengan level sinyal 3 atau lebih tinggi serta memiliki data GRPS, aktifkan WLAN</string>
+    <string name="wifi_disable_text">Lokasi jauh, tampilkan pemberitahuan pop-up</string>
+    <string name="wifi_disable_summary">Bila berada di lokasi jauh dari titik akses tersambung, nonaktifkan WLAN</string>
+    <string name="wifi_setting_summary">Pengikatan jaringan WLAN yang tersambung, dan bila nanti Anda menggunakan layanan data GPRS 3G/2G dalam area jangkauannya, Anda akan diingatkan untuk menyambung ke jaringan WLAN ini atau sistem akan menyambung ke jaringan ini secara otomatis</string>
+    <string name="wifi_popup_tip">Tampilkan pemberitahuan pop-up</string>
+    <string name="wifi_auto_enable">Sambungkan otomatis</string>
+    <string name="wifi_auto_disable">Nonaktifkan otomatis</string>
+    <string name="wifi_popup_0">Pengikatan titik akses tersambung. Bila memasuki lokasi ini, tampilkan pemberitahuan pop-up</string>
+    <string name="wifi_popup_1">Pengikatan titik akses tersambung. Bila memasuki lokasi ini, aktifkan otomatis</string>
+    <string name="wifi_popup_2">Jangan ingatkan saya</string>
+    <string name="confirm_yes">Ya</string>
+    <string name="confirm_no">Tidak</string>
+    <string name="enable_wifi_hint">Perekaman WLAN sekarang menghubungkan ke jaringan WLAN untuk menghemat aliran data Anda</string>
+    <string name="disable_wifi_hint">Perekaman WLAN sekarang menonaktifkan WLAN untuk menghemat daya</string>
+</resources>

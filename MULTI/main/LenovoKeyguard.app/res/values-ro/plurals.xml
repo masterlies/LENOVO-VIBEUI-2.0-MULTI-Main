@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 literă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d minuscule.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 minusculă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d majuscule.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 majusculă.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d cifre.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 cifră.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d simboluri speciale.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 simbol special.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola trebuie să conţină cel puţin %d caractere care să nu fie litere.</item>
+        <item quantity="one">Parola trebuie să conţină cel puţin 1 caracter care să nu fie o literă.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Codul PIN pentru cardul %1$s este incorect. V-au mai rămas %2$d încercări.</item>
+        <item quantity="one">Codul PIN pentru cardul %1$s este incorect. V-a mai rămas %2$d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Codul PUK pentru cardul %1$s este incorect. V-au mai rămas %2$d încercări până când cardul %1$s va deveni inutilizabil definitiv.</item>
+        <item quantity="one">Codul PUK pentru cardul %1$s este incorect. V-a mai rămas %2$d încercare până când cardul %1$s va deveni inutilizabil definitiv.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Codul PIN pentru cardul SIM este incorect. V-au mai rămas %d încercări.</item>
+        <item quantity="one">Codul PIN pentru cardul SIM este incorect. V-a mai rămas %d încercare, după care va trebui să contactați operatorul pentru a vă debloca dispozitivul.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Codul PUK pentru cardul SIM este incorect. V-au mai rămas %d încercări până când cardul SIM va deveni inutilizabil definitiv.</item>
+        <item quantity="one">Codul PUK pentru cardul SIM este incorect. V-a mai rămas %d încercare până când cardul SIM va deveni inutilizabil definitiv.</item>
+    </plurals>
+</resources>

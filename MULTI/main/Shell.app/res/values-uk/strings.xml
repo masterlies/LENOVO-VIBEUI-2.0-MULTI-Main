@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Звіт про помилки згенеровано</string>
+    <string name="bugreport_finished_text">Торкніться, щоб поділитися звітом про помилки</string>
+    <string name="bugreport_confirm">Звіти про помилки містять дані з різних системних файлів журналу, зокрема особисту та конфіденційну інформацію. Доступ до звітів про помилки можна надавати лише програмам та особам, яким ви довіряєте.</string>
+    <string name="bugreport_confirm_repeat">Показати це повідомлення наступного разу</string>
+</resources>

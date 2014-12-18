@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Serta-merta</item>
+        <item>5 saat</item>
+        <item>15 saat</item>
+        <item>30 saat</item>
+        <item>1 minit</item>
+        <item>2 minit</item>
+        <item>5 minit</item>
+        <item>10 minit</item>
+        <item>30 minit</item>
+    </string-array>
+</resources>

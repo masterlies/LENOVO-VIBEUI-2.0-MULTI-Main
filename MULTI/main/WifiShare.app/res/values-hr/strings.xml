@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Postavke</string>
+    <string name="prompt">%s pokušava stvoriti VPN vezu.</string>
+    <string name="current_wifi">Aktivna WLAN veza:</string>
+    <string name="hotknot_help">Kako dijeliti: U sklopu aktivnog sučelja držite stražnje strane dvaju telefona gornjim dijelom jedan uz drugi (NFC prijenos). Slijedite zaslonske upute kako biste podijelili povezani WLAN račun.</string>
+    <string name="title_receive">Primanje</string>
+    <string name="wlan_connecting">Primanje WLAN računa...</string>
+    <string name="title_finish">Uspješno primljeno</string>
+    <string name="wlan_finish">WLAN račun uspješno je primljen. Povežite se na %1$s i na mreži ste!</string>
+    <string name="send_ap_no_connected">Ne može se podijeliti (povezani WLAN račun ne može se pronaći)</string>
+    <string name="hotknot_help_note">Napomena: Telefon koji prima podatke mora podržavati dijeljenje WLAN računa (s unosom funkcija)</string>
+    <string name="wifi_share">WLAN dijeljenje</string>
+</resources>

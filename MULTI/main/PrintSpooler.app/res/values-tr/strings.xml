@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Yazıcı ayarları</string>
+    <string name="print_button">Yazdır</string>
+    <string name="save_button">Kaydet</string>
+    <string name="label_destination">Hedef</string>
+    <string name="label_copies">Kopya sayısı</string>
+    <string name="label_paper_size">Kağıt Boyutu</string>
+    <string name="label_color">Renkli</string>
+    <string name="label_orientation">Sayfa yönü</string>
+    <string name="label_pages">Sayfa (%1$s)</string>
+    <string name="pages_range_example">ör. 1-5,8,11-13</string>
+    <string name="print_preview">Yazdırmayı önizle</string>
+    <string name="install_for_print_preview">Önizlemek için PDF görüntüleyici yükleyin</string>
+    <string name="printing_app_crashed">Yazdırma uygulaması kilitlendi</string>
+    <string name="page_count_unknown">Sayfa</string>
+    <string name="generating_print_job">Yazdırma işi oluşturuluyor</string>
+    <string name="save_as_pdf">PDF olarak kaydet</string>
+    <string name="all_printers">Tüm yazıcılar…</string>
+    <string name="print_dialog">Yazdırma iletişim kutusu</string>
+    <string name="search">Ara</string>
+    <string name="all_printers_label">Tüm yazıcılar</string>
+    <string name="add_print_service_label">Hizmet ekle</string>
+    <string name="print_search_box_shown_utterance">Arama kutusu gösteriliyor</string>
+    <string name="print_search_box_hidden_utterance">Arama kutusu gizli</string>
+    <string name="print_add_printer">Yazıcı ekle</string>
+    <string name="print_select_printer">Yazıcı seç</string>
+    <string name="print_forget_printer">Yazıcıyı unut</string>
+    <string name="choose_print_service">Yazdırma hizmetini seçin</string>
+    <string name="print_searching_for_printers">Yazıcılar aranıyor</string>
+    <string name="print_no_printers">Yazıcı bulunamadı</string>
+    <string name="printing_notification_title_template">%1$s yazdırılıyor</string>
+    <string name="cancelling_notification_title_template">%1$s iptal ediliyor</string>
+    <string name="failed_notification_title_template">Yazıcı hatası: %1$s</string>
+    <string name="blocked_notification_title_template">Yazıcı %1$s işini engelledi</string>
+    <string name="cancel">İptal</string>
+    <string name="restart">Yeniden başlat</string>
+    <string name="no_connection_to_printer">Yazıcı bağlantısı yok</string>
+    <string name="reason_unknown">bilinmiyor</string>
+    <string name="printer_unavailable">%1$s – kullanılamıyor</string>
+    <string name="print_error_default_message">Yazdırma işi oluşturulamadı</string>
+</resources>

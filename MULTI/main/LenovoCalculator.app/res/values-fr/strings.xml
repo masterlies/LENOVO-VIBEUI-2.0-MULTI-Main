@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="error">Erreur</string>
+    <string name="advanced">Calcul scientifique</string>
+    <string name="clear_history">"Effacer l'historique"</string>
+    <string name="copy">Copier</string>
+    <string name="paste">Coller</string>
+    <string name="only_digit">Seuls les numéros peuvent être collés.</string>
+    <string name="basic">Calcul simple</string>
+    <string name="copy_success">Copie effectuée</string>
+    <string name="full_input">Valeur maximale déjà saisie</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">SUP</string>
+    <string name="clear">C</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="abs">abs</string>
+    <string name="percent">%</string>
+    <string name="square">^2</string>
+    <string name="exp">e^</string>
+    <string name="divd">1/</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+</resources>

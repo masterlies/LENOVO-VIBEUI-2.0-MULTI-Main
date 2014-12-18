@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manager de energie</string>
+    <string name="smart_setting_icon_content">I</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anulare</string>
+    <string name="power_consume_app_freeze">Îngheţare</string>
+    <string name="power_consume_app_unfreeze">Dezgheţare</string>
+    <string name="power_consume_app_uninstall">Delete</string>
+    <string name="power_consume_app_details">Detalii</string>
+    <string name="battery_usage_use">Baterie utilizată: %s</string>
+    <string name="consumption_call">Apeluri vocale</string>
+    <string name="consumption_screen">Ecran</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Mod veghe semnal</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">SO Android</string>
+    <string name="power_media">Suport de stocare</string>
+    <string name="power_battery">Nivel baterie</string>
+    <string name="power_charge">Se încarcă</string>
+    <string name="power_consume">Consum</string>
+    <string name="power_settings">Setare</string>
+    <string name="power_mode">Mod de economisire energie</string>
+    <string name="percent_mark">％</string>
+    <string name="usage_type_cpu">Timp total consum CPU</string>
+    <string name="usage_type_cpu_foreground">CPU (prim plan)</string>
+    <string name="usage_type_wake_lock">Menţinere activat</string>
+    <string name="usage_type_alarm">Activare sistem</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Reţeaua Wi-Fi funcţionează</string>
+    <string name="usage_type_data_send">Date trimise</string>
+    <string name="usage_type_data_recv">Date primite</string>
+    <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Timp de funcţionare</string>
+    <string name="usage_type_no_coverage">Timp fără semnal</string>
+    <string name="battery_history_days" formatted="false">%dz %dh %dm %ds</string>
+    <string name="battery_history_hours" formatted="false">%dh %dm %ds</string>
+    <string name="battery_history_minutes" formatted="false">%dm %ds</string>
+    <string name="battery_history_seconds">%ds</string>
+    <string name="battery_hour_minute" formatted="false">%dh %dm</string>
+    <string name="battery_hour">%dh</string>
+    <string name="battery_minute">%d m</string>
+    <string name="battery_wakelock" formatted="false">%dori pentru %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dz %dh %dm %ss</string>
+    <string name="battery_wakelock_hours" formatted="false">%dh %dm %ss</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dm %ss</string>
+    <string name="battery_wakelock_seconds">%ss</string>
+    <string name="battery_alarm_time">%dori</string>
+    <string name="battery_screen_time">De la ultima încărcare completă</string>
+    <string name="usage_type_wakelock_screen">Prevenire intrare ecran în repaus</string>
+    <string name="usage_type_wakelock_cpu">Prevenire intrare CPU în repaus</string>
+    <string name="usage_type_sensor">Senzor utilizare</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Altele</string>
+    <string name="battery_screen_on_time">În uz: %s</string>
+    <string name="battery_screen_off_time">În stare de veghe: %s</string>
+    <string name="enter_setting">Setări introducere</string>
+    <string name="battery_tab_title_consume">Consum de energie</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dz %dh %dm</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dh %dm</string>
+    <string name="battery_history_minutes_without_seconds">%dm</string>
+    <string name="battery_sensor_info" formatted="false">%d ori pentru un număr total de %s</string>
+    <string name="hour">h</string>
+    <string name="minute">m</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Imposibil de găsit setările detaliate ale aplicaţiei</string>
+    <string name="mode_turnOff">Dezactivat</string>
+    <string name="mode_turnOn">Activat</string>
+    <string name="main_switch_dialog_super">Va activa doar funcţiile de apelare şi mesagerie şi va dezactiva toate celelalte funcţii pentru a oferi un timp de veghe de câteva zile</string>
+    <string name="deep_clear_result_to_white_list_new">Aplicaţia selectată nu va fi afectată</string>
+    <string name="temporary_no_app">Nicio aplicaţie</string>
+    <string name="progress_loading">Aşteptaţi…</string>
+    <string name="failed_switch_app_state">Operaţiune nereuşită. Încercaţi din nou mai târziu.</string>
+    <string name="package_manger_list_type_third">Aplicaţii utilizator</string>
+    <string name="package_manger_list_type_system">Aplicaţii sistem</string>
+    <string name="btn_return">Revenire</string>
+    <string name="main_switcher">Comutare temporizată</string>
+    <string name="switcher_detail">Activare automată a modului specificat într-o perioadă specificată de timp</string>
+    <string name="switcher">Comutare temporizată</string>
+    <string name="switcher_start_time">Oră de început</string>
+    <string name="switcher_end_time">Oră de sfârşit</string>
+    <string name="switcher_tag">Mod:</string>
+    <string name="switcher_target_custom">Personalizare</string>
+    <string name="mode_changed_dialog">Schimbare mod</string>
+    <string name="no_remind">Nu mai întreba din nou</string>
+    <string name="new_sim">SIM nou</string>
+    <string name="application_not_found_activity">Aplicaţie negăsită</string>
+    <string name="classicmode_lable_phone">Tel.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Contacte</string>
+    <string name="failed_get_safecenter_whitelist">Imposibil de sincronizat lista albă LenovoSafeCenter. Reinstalaţi cea mai recentă versiune de LenovoSafeCenter</string>
+    <string name="application_not_support_be_launched">Alte aplicaţii nu pot activa această aplicaţie din cauza setărilor de securitate</string>
+    <string name="classic_phone_dialog_entering">Se iniţializează datele, Aşteptaţi…</string>
+    <string name="classic_phone_dialog_existing">Se restaurează datele, Aşteptaţi…</string>
+    <string name="consumption_app_button">Consum energie software</string>
+    <string name="consumption_hardware_button">Consum energie hardware</string>
+    <string name="power_setting_menu_classic_phone">Mod economisire energie finală</string>
+    <string name="power_setting_menu_smart">Energie ecran, CPU şi GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Dezactivare a aplicaţiilor atunci când ecranul este oprit</string>
+    <string name="power_setting_menu_consumption">Detalii ale consumului de energie</string>
+    <string name="statistic_assist_title">Funcţii statistice auxiliare</string>
+    <string name="power_consumption_title">Funcţii de economisire a energiei</string>
+    <string name="fragment_tab_deepclear">Dezactivare a aplicaţiilor atunci când ecranul este oprit</string>
+    <string name="deep_clear_detail">După dezactivare, aplicaţiile nu vor întrerupe modul repaus al telefonului din fundal</string>
+    <string name="dialog_timing_text">Comutaţi la modul Economisirea energiei finale?</string>
+    <string name="switcher_summery">Comută automat la modul Economisire energie finală pentru perioadele de timp specificate</string>
+    <string name="switcher_summery_close">După activare, acesta va comuta automat la modul Economisire energie finală pentru perioadele de timp specificate</string>
+    <string name="classicmode_hit_text">Economisire energie finală</string>
+    <string name="classic_phone_desktop_shortcut">Economisire energie finală</string>
+    <string name="classic_phone_dialog_title">Economisire a energiei finale</string>
+    <string name="classic_phone_dialog_enter">Sigur doriţi să intraţi în modul Economisire energie finală? Sunteţi prea harnic. Reţineţi că trebuie să faceţi o pauză</string>
+    <string name="classic_phone_dialog_exist">Sunteţi sigur că doriţi să părăsiţi modul economisire energie finală?</string>
+    <string name="classic_phone_failed_to_start_service">Imposibil de lansat modul economisire energie finală. Ne pare rău, am făcut ce am putut</string>
+    <string name="create_classicmode_desktop_shortcut">Creare comandă rapidă pe desktop pentru Economisire energie finală</string>
+    <string name="classicmode_exit_hint_text">Pentru a ieşi din modul Economisire energie finală, atingeţi butonul de închidere</string>
+    <string name="setttings_screen_smart_brightness2">Motor de vizualizare a economisirii energiei</string>
+    <string name="setttings_screen_smart_brightness_detail">Utilizaţi tehnologia de ajustare a luminozităţii pe bază de undă sinusoidală pentru a reduce consumul de energie cu 5 – 20%</string>
+    <string name="power_engine_vmx_title">Motor de calculare cu economisire a energiei</string>
+    <string name="power_engine_vmx_detail">Ajustează inteligent sistemul CPU pentru a reduce consumul de energie cu 10 – 25%</string>
+    <string name="power_engine_fps_title">Motor grafic cu economisire a energiei</string>
+    <string name="power_engine_fps_detail">Optimizează sistemul GPU pentru a reduce consumul de energie cu 10 – 25%</string>
+    <string name="power_engine_summery_close">După activare, va reduce inteligent consumul de energie al ecranului, al sistemului CPU şi GPU</string>
+    <string name="power_engine_summery_close2">După activare, va reduce inteligent consumul de energie al ecranului şi sistemului GPU</string>
+    <string name="power_engine_summery_close3">După activare, va reduce inteligent consumul de energie al ecranului</string>
+    <string name="power_engine_summery_close4">După activare, va reduce inteligent consumul de energie al ecranului şi al sistemului CPU</string>
+    <string name="power_setting_menu_smart2">Energie ecran</string>
+    <string name="power_setting_menu_smart3">Energie ecran, CPU şi GPU</string>
+    <string name="power_setting_menu_smart4">Energie ecran şi GPU</string>
+    <string name="power_setting_menu_smart5">Energie ecran şi CPU</string>
+    <string name="power_setting_current_battery" formatted="false">Taxă curentă: %s%s</string>
+    <string name="classicmode_lable_clock">Ceas</string>
+</resources>

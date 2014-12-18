@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tek Tuşla Kilit</string>
+    <string name="get_screen_lock_admin">Ekran kilidi cihaz yöneticisi izni alın</string>
+</resources>

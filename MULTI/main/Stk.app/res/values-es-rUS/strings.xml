@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kit de herramientas de SIM</string>
+    <string name="uim_name">Kit de herramientas UIM</string>
+    <string name="app_name2">Toolkit de USIM 2</string>
+    <string name="sim_name">USIM Toolkit</string>
+    <string name="app_name3">Toolkit de USIM 3</string>
+    <string name="sim_name1">USIM Toolkit1</string>
+    <string name="sim_name2">USIM Toolkit2</string>
+    <string name="menu_end_session">Finalizar sesión</string>
+    <string name="help">Ayuda</string>
+    <string name="menu_back">Atrás</string>
+    <string name="service_name">Nombre del servicio</string>
+    <string name="stk_no_service">No hay servicio disponible</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_yes">Sí</string>
+    <string name="button_no">No</string>
+    <string name="alphabet">Letras del alfabeto</string>
+    <string name="digits">Dígitos (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Llamada en curso...</string>
+    <string name="default_setup_call_msg">Llamada en configuración</string>
+    <string name="stk_app_state">Estado de la aplicación</string>
+    <string name="enable_app">Activado</string>
+    <string name="disable_app">Desactivado</string>
+    <string name="emptytext">Tarjeta no está lista o No hay servicio</string>
+    <string name="stk_dialog_title">Kit de herramientas de la tarjeta SIM</string>
+    <string name="default_tone_dialog_msg">Tono de reproducción</string>
+    <string name="default_open_channel_msg">¿Deseas abrir el canal?</string>
+    <string name="default_send_data_msg">Enviando datos</string>
+    <string name="default_receive_data_msg">Recibiendo datos</string>
+    <string name="default_close_channel_msg">Canal cerrado</string>
+    <string name="stk_dialog_accept">SÍ</string>
+    <string name="stk_dialog_reject">NO</string>
+    <string name="stk_simstate_wrong">La SIM %1$d no está disponible</string>
+</resources>

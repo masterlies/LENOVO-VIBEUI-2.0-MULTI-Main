@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecretCode</string>
+    <string name="hardversion">إصدار الجهاز:</string>
+    <string name="softversion">إصدار البرنامج:</string>
+    <string name="frameworkversion">إصدار إطار العمل:</string>
+    <string name="osversion">إصدار نظام التشغيل:</string>
+    <string name="modemversion">إصدار المودم:</string>
+    <string name="meid_activity_title">إصدار PRL</string>
+    <string name="btn_post">تشغيل</string>
+    <string name="btn_neg">مغلق</string>
+    <string name="enable_fdn">تشغيل</string>
+    <string name="disable_fdn">مغلق</string>
+    <string name="reboot">إعادة التشغيل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="default_state">خطأ:</string>
+    <string name="alert_string">تنبيه!</string>
+    <string name="alert_message_string">يؤدي الضغط على مفتاح [موافق] إلى العودة إلى إعدادات المصنّع ومسح كل بيانات المستخدم، يوصى بأن يتوخى المستخدمون العاديون الحذر!</string>
+    <string name="alert_message_ums_string">يؤدي الضغط على مفتاح [موافق] إلى تعيين التكوين usb إلى وضع mass_storage لإصلاح الأخطاء، يوصى أن يتوخى المستخدمون العاديون الحذر!</string>
+    <string name="alert_ok">موافق</string>
+    <string name="alert_no">لا</string>
+    <string name="framework_inf">الإصدار الداخلي</string>
+    <string name="commit_cate">حفظ</string>
+    <string name="summary_on">تشغيل</string>
+    <string name="summary_off">إيقاف</string>
+    <string name="report_log_summary">إرسال تقرير</string>
+    <string name="report_log_title">إرسال تقرير</string>
+    <string name="yes_exit">نعم</string>
+    <string name="no_exit">لا</string>
+    <string name="enable">تمكين</string>
+    <string name="disable">معطّل</string>
+    <string name="regulatory_information">المعلومات التنظيمية</string>
+</resources>

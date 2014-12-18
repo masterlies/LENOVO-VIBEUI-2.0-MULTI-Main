@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Одразу</item>
+        <item>5 сек.</item>
+        <item>15 сек.</item>
+        <item>30 сек.</item>
+        <item>1 хв.</item>
+        <item>2 хв.</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>30 хвилин</item>
+    </string-array>
+</resources>

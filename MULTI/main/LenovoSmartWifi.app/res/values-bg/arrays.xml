@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_switch_entries">
+        <item>изск. напом.</item>
+        <item>автом. разр.</item>
+    </string-array>
+    <string-array name="wifi_switch_faraway_entries">
+        <item>изск. напом.</item>
+        <item>автом. забр.</item>
+    </string-array>
+    <string-array name="wifi_switch_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

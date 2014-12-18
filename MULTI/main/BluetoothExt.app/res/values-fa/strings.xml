@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">کیت خودرو</string>
+    <string name="bluetooth_remember_choice">همیشه مجاز</string>
+    <string name="dun_notif_ticker">درخواست DUN بلوتوث</string>
+    <string name="dun_notif_title">درخواست کلید جلسه برای DUN</string>
+    <string name="dun_notif_message">برای اتصال به این دستگاه، لمس کنید: \" %1$s\".</string>
+    <string name="dun_acceptance_timeout_message">هنگام پذیرش اتصال به %1$s وقفه زمانی ایجاد شده است</string>
+    <string name="bluetooth_dun_request">درخواست DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s می‌خواهد از DUN استفاده کند. اجازه دسترسی به %2$s داده شود؟</string>
+    <string name="ftp_acceptance_dialog_title">%1$s می‌خواهد به پوشه‌های گوشی شما دسترسی پیدا کند. اجازه دسترسی به %2$s داده شود؟</string>
+    <string name="ftp_acceptance_dialog_header">دسترسی به پوشه گوشی</string>
+    <string name="ftp_session_key_dialog_title">تایپ کلید جلسه برای %1$s</string>
+    <string name="ftp_session_key_dialog_header">به کلید جلسه بلوتوث نیاز است</string>
+    <string name="ftp_acceptance_timeout_message">هنگام پذیرش اتصال به %1$s وقفه زمانی ایجاد شده است</string>
+    <string name="ftp_authentication_timeout_message">هنگام ورود کلید جلسه با %1$s وقفه زمانی ایجاد شده است</string>
+    <string name="ftp_notif_ticker">درخواست اتصال بلوتوث</string>
+    <string name="ftp_notif_title">درخواست کلید جلسه برای FTP</string>
+    <string name="ftp_notif_message">برای اتصال به این دستگاه، لمس کنید: \" %1$s\".</string>
+    <string name="ftp_notif_active_session">جلسه فعال‌سازی FTP بلوتوث</string>
+    <string name="ftp_notif_connected">انتقال فایل بلوتوث دسترسی به \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">درخواست Ftp</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s می‌خواهد به فایل‌ها و پوشه‌های شما دسترسی پیدا کند. اجازه دسترسی به %2$s داده شود؟</string>
+    <string name="map_acceptance_dialog_title">%1$s می‌خواهد به پوشه‌های گوشی شما دسترسی پیدا کند. اجازه دسترسی به %2$sداده شود؟</string>
+    <string name="map_acceptance_dialog_header">دسترسی به پوشه گوشی</string>
+    <string name="map_session_key_dialog_title">تایپ کلید جلسه برای %1$s</string>
+    <string name="map_session_key_dialog_header">به کلید جلسه بلوتوث نیاز است</string>
+    <string name="map_acceptance_timeout_message">هنگام پذیرش اتصال به %1$s وقفه زمانی ایجاد شده است</string>
+    <string name="map_authentication_timeout_message">هنگام ورود کلید جلسه با %1$s وقفه زمانی ایجاد شده است</string>
+    <string name="map_notif_ticker">درخواست اتصال بلوتوث</string>
+    <string name="map_notif_active_session">جلسه فعال‌سازی MAP بلوتوث</string>
+    <string name="map_notif_connected">پیام بلوتوث دسترسی به \"%1$s\".</string>
+    <string name="map_notif_title">درخواست کلید جلسه برای MAP</string>
+    <string name="map_notif_message">برای اتصال به این دستگاه، لمس کنید: \" %1$s\".</string>
+    <string name="map_alert_conn_failed_message">اتصال MAP بلوتوث انجام نشد.</string>
+    <string name="bluetooth_mas_request">درخواست دسترسی به پیام‌</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s می‌خواهد به پیام‌های شما دسترسی پیدا کند. اجازه دسترسی به %2$s داده شود؟</string>
+    <string name="sap_notif_ticker">درخواست بلوتوث دسترسی به سیم‌کارت</string>
+    <string name="sap_notif_title">درخواست کلید جلسه برای SAP</string>
+    <string name="sap_notif_message">برای اتصال به این دستگاه، لمس کنید: \" %1$s\".</string>
+    <string name="sap_acceptance_timeout_message">هنگام پذیرش اتصال به %1$s وقفه زمانی ایجاد شده است</string>
+    <string name="bluetooth_sap_request">درخواست SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s می خواهد به سيم کارت شما دسترسی پيدا کند. به %2$s اجازه دسترسی می دهيد؟</string>
+</resources>

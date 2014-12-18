@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Kontakty z numerem telefonu: %d</item>
+        <item quantity="one">1 kontakt z numerem telefonu</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Kontakty: %d</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Zaleziono kontakty: %d</item>
+        <item quantity="one">Znaleziono 1 kontakt</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">"Znaleziono:  %d"</item>
+        <item quantity="one">Znaleziono 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Scalone z %0$d źródeł</item>
+        <item quantity="one">Niescalone</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Grupy: %0$d</item>
+        <item quantity="one">1 grupa</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Osoby z konta %2$s: %1$d</item>
+        <item quantity="one">Kontakty z konta %2$s: %1$d</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Liczba osób: %1$d</item>
+        <item quantity="one">Liczba osób: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Wiadomości poczty głosowej: %1$d</item>
+        <item quantity="one">Wiadomość poczty głosowej</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Znaleziono dzienniki połączeń: %d</item>
+        <item quantity="one">Znaleziono 1 dziennik połączeń</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Wyszukaj kontakty | Łącznie kontaktów: %d</item>
+        <item quantity="one">Wyszukaj kontakty | Łącznie 1 kontakt</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s rozmowy zostaną usunięte</item>
+        <item quantity="one">1 rozmowa zostanie usunięta</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">Nieprzeczytanych wiadomości: %d.</item>
+        <item quantity="one">Nieprzeczytanych wiadomości: %d.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="one">%s s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Wyniki wyszukiwania dla %2$s: %1$s</item>
+        <item quantity="one">Wyniki wyszukiwania dla %2$s: %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Liczba osób: %1$s</item>
+        <item quantity="one">Liczba osób: %1$s</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Wysyłanie %d przeczytanych raportów</item>
+        <item quantity="one">Wysyłanie %d przeczytanych raportów</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Wybrano: %d</item>
+        <item quantity="one">Wybrano: %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Oznacz konwersacje jako przeczytane: %1$s</item>
+        <item quantity="one">Oznacz 1 konwersację jako przeczytaną</item>
+    </plurals>
+</resources>

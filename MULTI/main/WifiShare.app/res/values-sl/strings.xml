@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Nastavitve</string>
+    <string name="prompt">Program %s poskuša ustvariti povezavo VPN.</string>
+    <string name="current_wifi">Trenutna povezava WLAN:</string>
+    <string name="hotknot_help">Kako deliti: V trenutnem vmesniku naj se dva telefona z zgornjima hrbtnima polovicama dotikata (prenos NFC). Sledite navodilom na zaslonu, da delite povezano brezžično povezavo.</string>
+    <string name="title_receive">Prejemanje</string>
+    <string name="wlan_connecting">Prejemanje računa WLAN ...</string>
+    <string name="title_finish">Uspešno prejeto</string>
+    <string name="wlan_finish">Račun WLAN uspešno prejet. Vzpostavite povezavo %1$s in že ste v spletu!</string>
+    <string name="send_ap_no_connected">Deljenje ni mogoče (povezan račun WLAN ni najden)</string>
+    <string name="hotknot_help_note">Opomba: Telefon, ki sprejema, mora podpirati deljenje prek brezžične povezave (z odpiranjem funkcije)</string>
+    <string name="wifi_share">Deljenje prek WLAN</string>
+</resources>

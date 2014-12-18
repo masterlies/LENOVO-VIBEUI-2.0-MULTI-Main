@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">通知</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="app_name">コンパス</string>
+    <string name="calibrate">キャリブレーション</string>
+    <string name="latitude">緯度</string>
+    <string name="longitude">経度</string>
+    <string name="calibrate_success">キャリブレーション完了</string>
+    <string name="ignore">無視</string>
+    <string name="cannot_get_location">場所を取得できません。</string>
+    <string name="location_north">北緯</string>
+    <string name="location_south">南緯</string>
+    <string name="location_east">東経</string>
+    <string name="location_west">西経</string>
+    <string name="direction_north">北</string>
+    <string name="direction_south">南</string>
+    <string name="direction_east">東</string>
+    <string name="direction_west">西</string>
+    <string name="direction_east_north">東北</string>
+    <string name="direction_east_south">東南</string>
+    <string name="direction_west_north">西北</string>
+    <string name="direction_west_south">西南</string>
+    <string name="Tips">近くで磁気干渉が発生している可能性があります。上記の画像に従って 8 回ほど振ってください。キャリブレーションが正常に完了すると、ダイアログは自動的に閉じます。</string>
+    <string name="Warn">近くで磁気干渉が発生している可能性があります</string>
+    <string name="click_to_location">クリックして GPS 位置を取得</string>
+    <string name="warn_message">現在の位置情報を GPS またはネットワークの場所から取得できるようにしますか?</string>
+    <string name="no_warn_later">今後表示しない</string>
+    <string name="start_calibration">携帯電話を振って調整</string>
+    <string name="no_location_server">位置情報サービスが無効になっています</string>
+    <string name="DoNotSHowAgain">次回から表示しない</string>
+</resources>

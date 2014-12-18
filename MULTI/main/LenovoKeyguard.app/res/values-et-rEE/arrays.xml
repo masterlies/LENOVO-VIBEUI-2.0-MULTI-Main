@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Kohe</item>
+        <item>5 sekundit</item>
+        <item>15 sekundit</item>
+        <item>30 sekundit</item>
+        <item>1 minut</item>
+        <item>2 minutit</item>
+        <item>5 minutit</item>
+        <item>10 minutit</item>
+        <item>30 minutit</item>
+    </string-array>
+</resources>

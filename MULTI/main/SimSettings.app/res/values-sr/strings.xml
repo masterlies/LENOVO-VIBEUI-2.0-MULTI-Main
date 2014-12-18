@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voice_call">Говорни позив</string>
+    <string name="video_call">Видео позив</string>
+    <string name="sms">Порука</string>
+    <string name="data_connection">Веза за пренос података</string>
+    <string name="sms_title">SMS</string>
+    <string name="data_connection_title">Веза за пренос података</string>
+    <string name="not_set">Није подешено</string>
+    <string name="others_setting">Општа подешавања</string>
+    <string name="show_sim_status">Статус</string>
+    <string name="signal_strength_title">Јачина сигнала</string>
+    <string name="service_status_title">Стање услуге</string>
+    <string name="roam_title">Роминг</string>
+    <string name="network_state_title">Стање мобилне мреже</string>
+    <string name="change">Промени</string>
+    <string name="close">Затвори</string>
+    <string name="confirm">Потврди</string>
+    <string name="activating">Активирање...</string>
+    <string name="DATA_DISCONNECTED">Веза је прекинута</string>
+    <string name="DATA_CONNECTED">Повезано</string>
+    <string name="isRoam">Роминг</string>
+    <string name="is_not_roam">Није у ромингу</string>
+    <string name="inservice">У услузи</string>
+    <string name="outofservice">Услуга није могућа</string>
+    <string name="data_roaming_sum">Повезивање са услугом за податке током роминга</string>
+    <string name="interl_data_roam_setting">Пренос података у ромингу</string>
+    <string name="data_roam_alert_title">Ако наставите, дајете апликацији дозволу да пресреће сав мрежни саобраћај. <b>НЕМОЈТЕ да прихватате ово осим уколико немате поверења у апликацију.</b> У супротном, ризикујете да вам податке угрози злонамерни софтвер.</string>
+    <string name="data_roam_alert_mesg">Желите ли да дозволите пренос података у ромингу? Могу да настану велики трошкови роминга!</string>
+    <string name="data_roam_alert_ok">Потврди</string>
+    <string name="data_roam_alert_cancel">Откажи</string>
+    <string name="data_connect_settings_title">Веза за пренос података</string>
+    <string name="wait">Сачекај</string>
+    <string name="title_cdma">CDMA</string>
+    <string name="title_allworld">Глобално</string>
+    <string name="title_network_settings">Мрежни оператери</string>
+    <string name="mcc_title">МЦК</string>
+    <string name="mnc_title">MNC</string>
+    <string name="prl_title">PRL верзија</string>
+    <string name="active_card_title">Активан</string>
+    <string name="data_roaming_title">Пренос података у ромингу</string>
+    <string name="dlg_ok">Потврди</string>
+    <string name="dlg_cancel">Откажи</string>
+    <string name="network_config_title">Мрежна подешавања</string>
+</resources>

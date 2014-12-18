@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Autós készlet</string>
+    <string name="bluetooth_remember_choice">Engedélyezés mindig</string>
+    <string name="dun_notif_ticker">Bluetooth DUN kérése</string>
+    <string name="dun_notif_title">Munkamenetkulcs kérése DUN-kapcsolathoz</string>
+    <string name="dun_notif_message">Érintse meg, hogy csatlakozhasson a következőhöz: \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="bluetooth_dun_request">DUN kérése</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s szeretne telefonos hálózati kapcsolatot (DUN) használni. Biztosít hozzáférést a következőhöz: %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s szeretne hozzáférni a telefonmappáihoz. Biztosít hozzáférést a következőhöz: %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Hozzáférés a telefonmappához</string>
+    <string name="ftp_session_key_dialog_title">Írja be a munkamenetkulcsot a(z) %1$s eszközhöz</string>
+    <string name="ftp_session_key_dialog_header">Meg kell adni egy Bluetooth-munkamenetkulcsot</string>
+    <string name="ftp_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="ftp_authentication_timeout_message">Időtúllépés történt a(z) %1$s munkamenetkulcsának bevitele során</string>
+    <string name="ftp_notif_ticker">Bluetooth-kapcsolat kérése</string>
+    <string name="ftp_notif_title">Munkamenetkulcs kérése MAP protokollhoz</string>
+    <string name="ftp_notif_message">Érintse meg, hogy csatlakozhasson a következőhöz: \"%1$s\".</string>
+    <string name="ftp_notif_active_session">Bluetooth FTP aktív munkamenete</string>
+    <string name="ftp_notif_connected">Bluetooth fájlátviteli hozzáférés a következőhöz: \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">FTP kérése</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s szeretne hozzáférni a fájljaihoz és a mappáihoz. Biztosít hozzáférést a következőhöz: %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s szeretne hozzáférni a telefonmappáihoz. Biztosít hozzáférést a következőhöz: %2$s?</string>
+    <string name="map_acceptance_dialog_header">Hozzáférés a telefonmappához</string>
+    <string name="map_session_key_dialog_title">Írja be a munkamenetkulcsot a(z) %1$s eszközhöz</string>
+    <string name="map_session_key_dialog_header">Meg kell adni egy Bluetooth-munkamenetkulcsot</string>
+    <string name="map_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="map_authentication_timeout_message">Időtúllépés történt a(z) %1$s munkamenetkulcsának bevitele során</string>
+    <string name="map_notif_ticker">Bluetooth-kapcsolat kérése</string>
+    <string name="map_notif_active_session">Bluetooth MAP aktív munkamenete</string>
+    <string name="map_notif_connected">Bluetooth üzenet hozzáférése a következőhöz: \"%1$s\".</string>
+    <string name="map_notif_title">Munkamenetkulcs kérése MAP alkalmazáshoz</string>
+    <string name="map_notif_message">Érintse meg, hogy csatlakozhasson a következőhöz: \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">Nem sikerült csatlakozni a Bluetooth MAP protokollhoz.</string>
+    <string name="bluetooth_mas_request">Üzenet-hozzáférés kérése</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s szeretne hozzáférni az üzeneteihez. Biztosít hozzáférést a következőhöz: %2$s?</string>
+    <string name="sap_notif_ticker">Bluetooth SIM-hozzáférés kérése</string>
+    <string name="sap_notif_title">Munkamenetkulcs kérése SAP protokollhoz</string>
+    <string name="sap_notif_message">Érintse meg, hogy csatlakozhasson a következőhöz: \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">Időtúllépés történt a(z) %1$s eszközhöz történő kapcsolódás során</string>
+    <string name="bluetooth_sap_request">SAP kérése</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s szeretne hozzáférni a SIM-kártyájához. Biztosít hozzáférést a következőhöz: %2$s?</string>
+</resources>

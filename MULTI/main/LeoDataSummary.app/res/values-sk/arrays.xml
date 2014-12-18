@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Jemný</item>
+        <item>Predvolené</item>
+        <item>Jasný</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Predvolené</item>
+        <item>Vysoký</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Chladný</item>
+        <item>Predvolené</item>
+        <item>Teplý</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Predvolené</item>
+        <item>Zaostriť</item>
+    </string-array>
+</resources>

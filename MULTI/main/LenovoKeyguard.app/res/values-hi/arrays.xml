@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>तत्‍काल</item>
+        <item>5 सेकंड</item>
+        <item>15 सेकंड</item>
+        <item>30 सेकंड</item>
+        <item>1 मिनट</item>
+        <item>2 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>30 मिनट</item>
+    </string-array>
+</resources>

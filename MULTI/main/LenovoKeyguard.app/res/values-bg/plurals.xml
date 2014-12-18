@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Паролата трябва да съдържа поне %d буква(и).</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Паролата трябва да съдържа поне %d малка(и) буква(и).</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 малка буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Паролата трябва да съдържа поне %d главна(и) буква(и).</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 главна буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Паролата трябва да съдържа поне %d цифра(и).</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 цифра.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Паролата трябва да съдържа поне %d специален(ни) символ(и).</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 специален символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Паролата трябва да съдържа поне %d небуквен(и) символ(и).</item>
+        <item quantity="one">Паролата трябва да съдържа поне 1 небуквен символ.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Неправилен ПИН код за %1$s картата – остават ви %2$d опита.</item>
+        <item quantity="one">Неправилен ПИН код за %1$s картата – остава ви %2$d опит, преди да трябва да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Неправилен PUK код за %1$s картата – остават ви %2$d опита, преди %1$s картата да стане неизползваема завинаги.</item>
+        <item quantity="one">Неправилен PUK код за %1$s картата – остава ви %2$d опит, преди %1$s картата да стане неизползваема завинаги.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Неправилен ПИН код за SIM картата – остават ви %d опита.</item>
+        <item quantity="one">Неправилен ПИН код за SIM картата – остава ви %d опит, преди да трябва да се свържете с оператора си, за да отключите устройството.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Неправилен PUK код за SIM картата – остават ви %d опита, преди SIM картата да стане неизползваема завинаги.</item>
+        <item quantity="one">Неправилен PUK код за SIM картата – остава ви %d опит, преди SIM картата да стане неизползваема завинаги.</item>
+    </plurals>
+</resources>

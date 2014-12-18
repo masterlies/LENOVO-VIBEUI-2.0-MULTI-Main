@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres minuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre minuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins une lettre majuscule.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Le mot de passe doit comporter au moins %d chiffres.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un chiffre.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères spéciaux.</item>
+        <item quantity="one">Le mot de passe doit comporter au moins un caractère spécial.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Le mot de passe doit comporter au moins %d caractères autres que des lettres.</item>
+        <item quantity="one">"Le mot de passe doit comporter au moins un caractère autre qu'une lettre."</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Code PIN de la carte %1$s incorrect. Il vous reste %2$d tentatives.</item>
+        <item quantity="one">Code PIN de la carte %1$s incorrect. Il vous reste %2$d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Clé PUK de la carte %1$s incorrecte. Il vous reste %2$d tentatives avant que votre carte %1$s ne devienne définitivement inutilisable.</item>
+        <item quantity="one">Clé PUK de la carte %1$s incorrecte. Il vous reste %2$d tentative avant que votre carte %1$s ne devienne définitivement inutilisable.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Code PIN de la carte SIM incorrect. Il vous reste %d tentatives.</item>
+        <item quantity="one">Code PIN de la carte SIM incorrect. Il vous reste %d tentative. Après cela, vous devrez contacter votre opérateur pour déverrouiller votre appareil.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Clé PUK de la carte SIM incorrecte. Il vous reste %d tentatives avant que votre carte SIM ne devienne définitivement inutilisable.</item>
+        <item quantity="one">Clé PUK de la carte SIM incorrecte. Il vous reste %d tentative avant que votre carte SIM ne devienne définitivement inutilisable.</item>
+    </plurals>
+</resources>

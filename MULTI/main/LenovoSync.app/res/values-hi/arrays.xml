@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>प्रतीक्षा हो रही है</item>
+        <item>बैकअप हो रहा है</item>
+        <item>बैकअप हो गया</item>
+        <item>त्रुटि</item>
+        <item>ठीक</item>
+        <item>ठीक</item>
+        <item>रद्द करें</item>
+        <item>ठीक</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>प्रतीक्षा हो रही है</item>
+        <item>डाउनलोड हो रहा है</item>
+        <item>स्थापना रद्द करें</item>
+        <item>त्रुटि</item>
+        <item>अद्यतन</item>
+        <item>स्थापित</item>
+        <item>रद्द करें</item>
+        <item>स्थापित हो रहा है</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>एल्बम का नाम बदलें</item>
+        <item>एल्बम हटाएँ</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit मुफ़्त मोबाइल ऐप है, लेकिन इस्तेमाल द्वारा उत्पादित नेटवर्क ट्रैफ़िक लागत ऑपरेटर द्वारा चार्ज की जाएगी।</item>
+        <item>हाँ, वे कर रहे हैं।</item>
+        <item>SYNCit उपयोगकर्ता की जानकारी का संग्रह ऑनलाइन बैंकिंग एन्क्रिप्शन स्तर पर करती है। यह निश्चित रूप से निजी डेटा और सूचना को लीक होने से सुरक्षित रख सकती है।</item>
+        <item>SYNCit आपके फ़ोन में डुप्लिकेट संपर्क स्वचालित रूप से विलय कर देगी।</item>
+        <item>बेशक आप कर सकते हैं, अगर आपके फ़ोन का सिस्टम निम्नलिखित में से एक है: एन्ड्रॉयड, iOS, सिम्बियन, या समर्थित जावा (आप इस्तेमाल के लिए मिलान का संस्करण ढूँढ़ सकते हैं)।</item>
+        <item>हाँ, यह सिम्बियन, iOS, Android और जावा प्लेटफ़ॉर्म का समर्थन करता है।</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>क्या SYNCit का चार्ज है?</item>
+        <item>क्या SYNCit और Android बैकअप समान सॉफ़्टवेयर हैं?</item>
+        <item>क्या SYNCit सुरक्षित है? क्या यह मेरे टेलीफ़ोन नंबर या मेरे बैकअप डेटा की चोरी कर लेगी?</item>
+        <item>बैकअप करने के बाद मेरे संपर्क कम क्यों हो जाते हैं?</item>
+        <item>मेरा फ़ोन Lenovo ने नहीं बनाया, क्या मैं फिर भी SYNCit का इस्तेमाल कर सकता हूँ?</item>
+        <item>SYNCit अन्य प्लेटफ़ॉर्म का समर्थन नहीं करती?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>संपर्क</item>
+        <item>संदेश</item>
+        <item>कॉल-लॉग</item>
+    </string-array>
+</resources>

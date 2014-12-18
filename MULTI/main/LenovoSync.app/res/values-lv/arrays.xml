@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Gaida</item>
+        <item>Dublēšana</item>
+        <item>Dublēts(-i)</item>
+        <item>Kļūda</item>
+        <item>Labi</item>
+        <item>Labi</item>
+        <item>Atcelts</item>
+        <item>Labi</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Gaida</item>
+        <item>Notiek lejupielāde</item>
+        <item>Atinstalēt</item>
+        <item>Kļūda</item>
+        <item>Atjaunināt</item>
+        <item>Instalēta</item>
+        <item>Atcelts</item>
+        <item>Instalē</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Mainīt albuma nosaukumu</item>
+        <item>Dzēst albumu</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit ir bezmaksas mobilā lietotne, bet operators var piemērot maksu par tās lietošanas radīto tīkla datplūsmu.</item>
+        <item>Jā, tā ir.</item>
+        <item>Lietotne SYNCit saglabā lietotāja informāciju, izmantojot šifrēšanas līmeni, kas līdzīgs interneta banku izmantotajam. Tā noteikti var pasargāt personīgos datus un informāciju no noplūdes.</item>
+        <item>Lietotne SYNCit automātiski apvieno dublētos tālruņa kontaktus.</item>
+        <item>Protams, varat, ja sistēma ir kāda no tālāk aprakstītajām. Android, iOS, Symbian vai atbalsta Java (lietošanai varat atrast atbilstošo versiju).</item>
+        <item>Jā, tā atbalsta Symbian, iOS, Android un Java platformu.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Vai lietotne SYNCit rada izmaksas?</item>
+        <item>Vai lietotne SYNCit un Android Backup ir viena un tā pati programmatūra?</item>
+        <item>Vai lietotne SYNCit ir droša? Vai tā var nozagt manu tālruņa numuru vai dublētos datus?</item>
+        <item>Kāpēc mani kontakti pēc dublēšanas tiek samazināti?</item>
+        <item>Mans tālrunis nav Lenovo ražojums. Vai es varu izmantot lietotni SYNCit?</item>
+        <item>Vai lietotne SYNCit atbalsta citas platformas?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontakti</item>
+        <item>Īsziņas</item>
+        <item>Zvanu žurnāli</item>
+    </string-array>
+</resources>

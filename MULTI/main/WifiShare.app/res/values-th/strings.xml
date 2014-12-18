@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="app_name">แชร์บัญชี WLAN</string>
+    <string name="prompt">นำโทรศัพท์มาไว้ใกล้กันเพื่อแบ่งปัน WLAN กับเพื่อนๆ!</string>
+    <string name="current_wifi">การเชื่อมต่อ WLAN ปัจจุบัน:</string>
+    <string name="hotknot_help">วิธีการแชร์: ในส่วนติดต่อปัจจุบัน ถือครึ่งบนของโทรศัพท์สองเครื่องไว้แบบหันหลังชนกัน (ถ่ายโอนผ่าน NFC) ทำตามวิธีที่อยู่บนหน้าจอเพื่อแชร์บัญชี WLAN ที่เชื่อมต่อแล้ว</string>
+    <string name="title_receive">กำลังรับ</string>
+    <string name="wlan_connecting">กำลังรับบัญชี WLAN...</string>
+    <string name="title_finish">ได้รับเรียบร้อยแล้ว</string>
+    <string name="wlan_finish">ได้รับบัญชี WLAN เรียบร้อยแล้ว เชื่อมต่อกับ %1$s แล้วคุณก็จะออนไลน์!</string>
+    <string name="send_ap_no_connected">ไม่สามารถแชร์ได้ (ไม่พบบัญชี WLAN ที่เชื่อมต่อ)</string>
+    <string name="hotknot_help_note">หมายเหตุ: การรับสายจะต้องรองรับการแชร์บัญชี WLAN (แบบมีการป้อนฟังก์ชัน)</string>
+    <string name="wifi_share">การแชร์ WLAN</string>
+</resources>

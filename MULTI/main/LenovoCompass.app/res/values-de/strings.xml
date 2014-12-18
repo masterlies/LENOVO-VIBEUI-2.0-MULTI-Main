@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Info</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Abbruch</string>
+    <string name="app_name">Kompass</string>
+    <string name="calibrate">Kalibrierung</string>
+    <string name="latitude">Breitengrad</string>
+    <string name="longitude">Längengrad</string>
+    <string name="calibrate_success">Kalibrierung abgeschlossen</string>
+    <string name="ignore">Ignorieren</string>
+    <string name="cannot_get_location">Standort ist nicht abrufbar.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">OL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">O</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NO</string>
+    <string name="direction_east_south">SO</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">"Es liegt möglicherweise eine elektromagnetische Störung in der Nähe vor. Gehen Sie wie auf dem Bild vor, um '8' mehrmals hin- und herzuschwingen. Das Dialogfeld wird sich automatisch schließen, sobald die Kalibrierung erfolgreich abgeschlossen ist."</string>
+    <string name="Warn">Es liegt möglicherweise eine elektromagnetische Störung in der Nähe vor.</string>
+    <string name="click_to_location">Zum Abrufen des GPS-Standorts klicken</string>
+    <string name="warn_message">Erlauben, dass die aktuelle Standortinformation mittels GPS oder Netzwerkposition abgerufen wird?</string>
+    <string name="no_warn_later">Nicht mehr anzeigen</string>
+    <string name="start_calibration">Schütteln Sie das Telefon, um den Kompass zu kalibrieren</string>
+    <string name="no_location_server">Standortdienst ist deaktiviert</string>
+    <string name="DoNotSHowAgain">Nicht mehr anzeigen</string>
+</resources>

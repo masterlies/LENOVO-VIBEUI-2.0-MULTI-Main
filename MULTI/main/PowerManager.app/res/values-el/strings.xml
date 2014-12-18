@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Διαχείριση ενέργειας</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="power_consume_app_freeze">Πάγωμα</string>
+    <string name="power_consume_app_unfreeze">Ξεπάγωμα</string>
+    <string name="power_consume_app_uninstall">Κατάργηση εγκατάστασης</string>
+    <string name="power_consume_app_details">Λεπτομέρειες</string>
+    <string name="battery_usage_use">Κατανάλωση μπαταρίας: %s</string>
+    <string name="consumption_call">Φωνητικές κλήσεις</string>
+    <string name="consumption_screen">Οθόνη</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Ραδιόφωνο</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">Μέσα</string>
+    <string name="power_battery">Ισχύς</string>
+    <string name="power_charge">Φόρτιση</string>
+    <string name="power_consume">Χρήση</string>
+    <string name="power_settings">Ρυθμίσεις</string>
+    <string name="power_mode">Λειτουργία</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Συνολικός χρόνος κατανάλωσης CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Να παραμείνει σε λειτουργία</string>
+    <string name="usage_type_alarm">Επανενεργοποίηση συστήματος</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Το Wi-Fi λειτουργεί</string>
+    <string name="usage_type_data_send">Στάλθηκαν δεδομένα</string>
+    <string name="usage_type_data_recv">Λήφθηκαν δεδομένα</string>
+    <string name="usage_type_audio">Ήχος</string>
+    <string name="usage_type_video">Βίντεο</string>
+    <string name="usage_type_on_time">Διάρκεια εκτέλεσης</string>
+    <string name="usage_type_no_coverage">Χρόνος που δεν υπάρχει σήμα</string>
+    <string name="battery_history_days" formatted="false">%dη %dω %dλ %dδ</string>
+    <string name="battery_history_hours" formatted="false">%dω %dλ %dδ</string>
+    <string name="battery_history_minutes" formatted="false">%dλ %dδ</string>
+    <string name="battery_history_seconds">%dδ</string>
+    <string name="battery_hour_minute" formatted="false">%dω %dλ</string>
+    <string name="battery_hour">%d ώρα(ώρες)</string>
+    <string name="battery_minute">%d λεπτό(ά)</string>
+    <string name="battery_wakelock" formatted="false">%dφορά(ές) για %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dη %dω %dλ %sδ</string>
+    <string name="battery_wakelock_hours" formatted="false">%dω %dλ %sδ</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dλ %sδ</string>
+    <string name="battery_wakelock_seconds">%sδ</string>
+    <string name="battery_alarm_time">%dφορά(ές)</string>
+    <string name="battery_screen_time">Από την τελευταία πλήρη φόρτιση</string>
+    <string name="usage_type_wakelock_screen">Αποτροπή αναστολής οθόνης</string>
+    <string name="usage_type_wakelock_cpu">Αποτροπή αναστολής CPU</string>
+    <string name="usage_type_sensor">Αισθητήρας χρήσης</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Άλλα</string>
+    <string name="battery_screen_on_time">Σε χρήση: %s</string>
+    <string name="battery_screen_off_time">Σε αναμονή: %s</string>
+    <string name="enter_setting">Άνοιγμα ρυθμίσεων</string>
+    <string name="battery_tab_title_consume">Κατανάλωση ενέργειας</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dη %dω %dλ</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dω %dλ</string>
+    <string name="battery_history_minutes_without_seconds">%dλ</string>
+    <string name="battery_sensor_info" formatted="false">%d φορά/-ές σε %s συνολικά</string>
+    <string name="hour">ω</string>
+    <string name="minute">λ</string>
+    <string name="second">δ</string>
+    <string name="application_not_found">Δεν ήταν δυνατή η λήψη λεπτομερών ρυθμίσεων εφαρμογής</string>
+    <string name="mode_turnOff">Απενεργοποίηση</string>
+    <string name="mode_turnOn">Ενεργοποίηση</string>
+    <string name="main_switch_dialog_super">Επιτρέπει μόνο κλήσεις και ανταλλαγή μηνυμάτων και απενεργοποιεί όλες τις άλλες λειτουργίες για χρόνο αναμονής πολλών ημερών</string>
+    <string name="deep_clear_result_to_white_list_new">Δεν θα επηρεαστεί η επιλεγμένη εφαρμογή</string>
+    <string name="temporary_no_app">Δεν υπάρχει εφαρμογή</string>
+    <string name="progress_loading">Περιμένετε…</string>
+    <string name="failed_switch_app_state">Η λειτουργία απέτυχε. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="package_manger_list_type_third">Εφαρμογές χρήστη</string>
+    <string name="package_manger_list_type_system">Εφαρμογές συστήματος</string>
+    <string name="btn_return">Επιστροφή</string>
+    <string name="main_switcher">Χρονοδιακόπτης</string>
+    <string name="switcher_detail">Αυτόματη ενεργοποίηση της καθορισμένης λειτουργίας εντός της καθορισμένης περιόδου</string>
+    <string name="switcher">Χρονοδιακόπτης</string>
+    <string name="switcher_start_time">Ώρα έναρξης</string>
+    <string name="switcher_end_time">Ώρα λήξης</string>
+    <string name="switcher_tag">Ενεργοπ. προφίλ</string>
+    <string name="switcher_target_custom">Προσαρμογή</string>
+    <string name="mode_changed_dialog">Αλλαγή λειτουργίας</string>
+    <string name="no_remind">Να μην εμφανίζεται μήνυμα</string>
+    <string name="new_sim">Νέα SIM</string>
+    <string name="application_not_found_activity">Η εφαρμογή δεν βρέθηκε</string>
+    <string name="classicmode_lable_phone">Τηλ.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Επαφές</string>
+    <string name="failed_get_safecenter_whitelist">Ο συγχρονισμός της λευκής λίστας του Κέντρου ασφαλείας Lenovo απέτυχε. Εγκαταστήστε ξανά την πιο πρόσφατη έκδοση του Κέντρου ασφαλείας Lenovo</string>
+    <string name="application_not_support_be_launched">Άλλες εφαρμογές δεν μπορούν να ενεργοποιήσουν αυτήν την εφαρμογή λόγω ρυθμίσεων ασφαλείας</string>
+    <string name="classic_phone_dialog_entering">Προετοιμασία δεδομένων. Περιμένετε…</string>
+    <string name="classic_phone_dialog_existing">Επαναφορά δεδομένων. Περιμένετε…</string>
+    <string name="consumption_app_button">Λογισμικό</string>
+    <string name="consumption_hardware_button">Υλικό</string>
+    <string name="power_setting_menu_classic_phone">Λειτουργία Απόλυτης εξοικονόμησης ενέργειας</string>
+    <string name="power_setting_menu_smart">Εξοικονόμηση ενέργειας οθόνης, CPU και GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Απενεργοποίηση εφαρμογών όταν η οθόνη είναι σβηστή</string>
+    <string name="power_setting_menu_consumption">Λεπτομέρειες κατανάλωσης ενέργειας</string>
+    <string name="statistic_assist_title">Συμπληρωματικές δυνατότητες στατιστικών</string>
+    <string name="power_consumption_title">Δυνατότητες εξοικονόμησης ενέργειας</string>
+    <string name="fragment_tab_deepclear">Απενεργοποίηση εφαρμογών όταν η οθόνη είναι σβηστή</string>
+    <string name="deep_clear_detail">Αφού απενεργοποιηθούν, οι εφαρμογές δεν θα διακόπτουν την κατάσταση αναστολής λειτουργίας του τηλεφώνου στο παρασκήνιο</string>
+    <string name="dialog_timing_text">Μετάβαση στη λειτουργία Απόλυτης εξοικονόμησης ενέργειας;</string>
+    <string name="switcher_summery">Μεταβαίνει αυτόματα στη λειτουργία Απόλυτης εξοικονόμησης ενέργειας για τις καθορισμένες χρονικές περιόδους</string>
+    <string name="switcher_summery_close">Όταν ενεργοποιηθεί, θα γίνεται αυτόματα μετάβαση στη λειτουργία Απόλυτης εξοικονόμησης ενέργειας για τις καθορισμένες χρονικές περιόδους</string>
+    <string name="classicmode_hit_text">Απόλυτη εξοικονόμηση ενέργειας</string>
+    <string name="classic_phone_desktop_shortcut">Απόλυτη εξοικονόμηση ενέργειας</string>
+    <string name="classic_phone_dialog_title">Προτροπή Απόλυτης εξοικονόμησης ενέργειας</string>
+    <string name="classic_phone_dialog_enter">Είστε βέβαιοι ότι θέλετε να μεταβείτε στην Απόλυτη εξοικονόμηση ενέργειας; Είστε πολύ επιμελείς. Μην ξεχνάτε να κάνετε διαλείμματα</string>
+    <string name="classic_phone_dialog_exist">Είστε βέβαιοι ότι θέλετε να εξέλθετε από την Απόλυτη εξοικονόμηση ενέργειας;</string>
+    <string name="classic_phone_failed_to_start_service">Η εκκίνηση της Απόλυτης εξοικονόμησης ενέργειας απέτυχε. Λυπούμαστε, κάναμε ό,τι ήταν δυνατό</string>
+    <string name="create_classicmode_desktop_shortcut">Δημιουργία συντόμευσης για την Απόλυτη εξοικονόμηση ενέργειας στην επιφάνεια εργασίας</string>
+    <string name="classicmode_exit_hint_text">Για έξοδο από την Απόλυτη εξοικονόμηση ενέργειας, πατήστε το κουμπί κλεισίματος</string>
+    <string name="setttings_screen_smart_brightness2">Μηχανισμός οπτικής εξοικονόμησης ενέργειας</string>
+    <string name="setttings_screen_smart_brightness_detail">Χρησιμοποιήστε την τεχνολογία προσαρμογής φωτεινότητας ημιτονοειδούς κύματος, για να μειώσετε την κατανάλωση ενέργειας κατά 5–20%</string>
+    <string name="power_engine_vmx_title">Μηχανισμός εξοικονόμησης ενέργειας υπολογιστικής λειτουργίας</string>
+    <string name="power_engine_vmx_detail">Προσαρμόζει έξυπνα τη CPU για μείωση της κατανάλωσης ενέργειας κατά 10–25%</string>
+    <string name="power_engine_fps_title">Μηχανισμός γραφικών εξοικονόμησης ενέργειας</string>
+    <string name="power_engine_fps_detail">Βελτιστοποιεί την GPU για μείωση της κατανάλωσης ενέργειας κατά 10–25%</string>
+    <string name="power_engine_summery_close">Αφού ενεργοποιηθεί, θα μειώσει έξυπνα την κατανάλωση ενέργειας της οθόνης, της CPU και της GPU</string>
+    <string name="power_engine_summery_close2">Αφού ενεργοποιηθεί, θα μειώσει έξυπνα την κατανάλωση ενέργειας της οθόνης και της GPU</string>
+    <string name="power_engine_summery_close3">Αφού ενεργοποιηθεί, θα μειώσει έξυπνα την κατανάλωση ενέργειας της οθόνης</string>
+    <string name="power_engine_summery_close4">Αφού ενεργοποιηθεί, θα μειώσει έξυπνα την κατανάλωση ενέργειας της οθόνης και της CPU</string>
+    <string name="power_setting_menu_smart2">Εξοικονόμηση ενέργειας οθόνης</string>
+    <string name="power_setting_menu_smart3">Εξοικονόμηση ενέργειας οθόνης, CPU και GPU</string>
+    <string name="power_setting_menu_smart4">Εξοικονόμηση ενέργειας οθόνης και GPU</string>
+    <string name="power_setting_menu_smart5">Εξοικονόμηση ενέργειας οθόνης και CPU</string>
+    <string name="power_setting_current_battery" formatted="false">Τρέχον φορτίο: %s%s</string>
+    <string name="classicmode_lable_clock">Ρολόι</string>
+</resources>

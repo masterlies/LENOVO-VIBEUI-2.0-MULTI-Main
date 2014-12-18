@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

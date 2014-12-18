@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Importovat z historie volání</item>
+        <item>Importovat z historie SMS</item>
+        <item>Importovat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Žádná výstraha</item>
+        <item>Výstraha na oznamovacím pruhu</item>
+        <item>Výstraha na oznamovacím pruhu + tón výstrahy</item>
+        <item>Výstraha na oznamovacím pruhu + vibrace</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Odpovědět</item>
+        <item>Odmítnout</item>
+        <item>Odmítnout hovor pomocí SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Bez připomenutí</item>
+        <item>Připomenutí na oznamovacím pruhu</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Upravit e-mailovou schránku</item>
+        <item>Zálohovat nyní</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Odstranit</item>
+        <item>Změnit</item>
+        <item>Odeslat zprávu</item>
+        <item>Volat</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Zprávy a hovory</item>
+        <item>Příchozí hovor</item>
+        <item>Zpráva</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Pouze kontakty</item>
+        <item>Pouze seznam výjimek</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Importovat z příchozích hovorů</item>
+        <item>Importovat z historie SMS</item>
+        <item>Importovat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Blokovat pouze seznam zakázaných položek</item>
+        <item>Povolit pouze kontakty</item>
+        <item>Povolit pouze seznam výjimek</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Importovat z historie volání</item>
+        <item>Importovat z historie SMS</item>
+        <item>Importovat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Vypněte seznam zakázaných položek.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Přidat z historie volání</item>
+        <item>Přidat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Přidat z historie SMS</item>
+        <item>Přidat z kontaktů</item>
+        <item>Přidat ručně</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Vypnout seznam zakázaných položek</item>
+        <item>Nahlásit</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Volat</item>
+        <item>Odeslat SMS</item>
+        <item>Vypnout seznam výjimek</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Aktualizovat ručně</item>
+        <item>Každý den</item>
+        <item>Týdně</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Jméno mé matky?</item>
+        <item>Moje nejoblíbenější ovoce?</item>
+        <item>Narozeniny mého otce?</item>
+        <item>Moje nejoblíbenější píseň?</item>
+        <item>Jméno mého domácího mazlíčka?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>Každých 10 minut</item>
+        <item>Každých 20 minut</item>
+        <item>Každých 30 minut</item>
+        <item>Každou 1 hodinu</item>
+        <item>Každé 2 hodiny</item>
+        <item>Každé 3 hodiny</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Přejít zpět na obsazovací tón</item>
+        <item>Přejít zpět na vypnutí</item>
+        <item>Přejít zpět na ukončení</item>
+        <item>Přejít zpět na volné číslo</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Nastavení</item>
+        <item>Aktualizace</item>
+        <item>O produktu</item>
+    </string-array>
+</resources>

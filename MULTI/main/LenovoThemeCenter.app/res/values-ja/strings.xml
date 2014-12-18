@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_about">バージョン情報</string>
+    <string name="lenovo_about_update">アップグレード</string>
+    <string name="lenovo_about_update_now">今すぐアップグレード!</string>
+    <string name="lenovo_about_versoin">新しいバージョンを入手できます</string>
+    <string name="lenovo_about_qqgroup">QQ グループ</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">電子メール・アドレス</string>
+    <string name="lenovo_about_unsupport">現在サポートされていません。お待ちください!</string>
+    <string name="ab_version_introduction">機能の紹介</string>
+    <string name="ab_contacts">連絡方法</string>
+    <string name="ab_feedback">フィードバック</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">WLAN をオンにしてください!</string>
+    <string name="SUS_MSG_LATESTVERSION">このバージョンは最新バージョンです!</string>
+    <string name="SUS_MSG_NOTFOUND">更新はありません!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">ネットワークを使用できません!</string>
+    <string name="SUS_MSG_WARNING_PENDING">更新中です!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">ダウンロードが完了しました!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">更新に失敗しました。再試行してください!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">プロンプトを表示しない</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">新しいバージョンの検出時にプロンプトを表示する</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">容量が足りません!</string>
+    <string name="SUS_VERSIONUPDATE">新しいバージョンが見つかりました!</string>
+    <string name="SUS_UPDATEDESC">説明:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">名前:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">サイズ:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN でダウンロードしてください!</string>
+    <string name="SUS_UPDATE">更新</string>
+    <string name="SUS_CANCEL">後で行う</string>
+    <string name="SUS_DOWNLOAD_TITLE">IdeaFriend のダウンロード!</string>
+    <string name="SUS_CANCELBUTTON">キャンセル</string>
+    <string name="SUS_NOTIFICATION_TITLE">プロンプト</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">更新中...お待ちください!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">ネットワーク・タイムアウト。再試行しています...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">OK</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">中止</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(このダイアログは</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">秒後に非表示になります。)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">タップしてインストール!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">タップしてインストール:</string>
+    <string name="SUS_CURRENT_VERSION">現在のバージョン</string>
+    <string name="SUS_NEW_VERSION">最新バージョン</string>
+    <string name="SUS_FIND_NEW_VERSION">新しいバージョンを入手できます</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">apk をインストールします。</string>
+</resources>

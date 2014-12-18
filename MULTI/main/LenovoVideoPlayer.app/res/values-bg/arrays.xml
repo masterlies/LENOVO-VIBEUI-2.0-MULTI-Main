@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Новини</item>
+        <item>Спорт</item>
+        <item>Драма</item>
+        <item>Музикален видеоклип</item>
+        <item>Филм</item>
+        <item>Комедия</item>
+        <item>Екшън</item>
+        <item>Мюзикъл</item>
+        <item>Анимация</item>
+        <item>Вариете</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Възпроизвеждане</item>
+        <item>Преименуване</item>
+        <item>Изтриване</item>
+        <item>Информация</item>
+        <item>Споделяне</item>
+        <item>Множествен избор</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Възпроизвеждане</item>
+        <item>Преименуване</item>
+        <item>Изтриване</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Възпроизвеждане</item>
+        <item>Изтриване</item>
+        <item>Изчистване на списъка</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Възпроизвеждане</item>
+        <item>Добавяне на този видеоклип</item>
+    </string-array>
+</resources>

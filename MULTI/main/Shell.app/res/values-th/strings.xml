@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">เก็บรายงานบั๊กแล้ว</string>
+    <string name="bugreport_finished_text">แตะเพื่อแชร์รายงานบั๊กของคุณ</string>
+    <string name="bugreport_confirm">รายงานบั๊กจะมีข้อมูลจากไฟล์บันทึกหลากหลายประเภทของระบบ รวมถึงข้อมูลส่วนบุคคลและส่วนตัว แชร์รายงานบั๊กกับแอ็พและบุคคลที่คุณไว้วางใจเท่านั้น</string>
+    <string name="bugreport_confirm_repeat">แสดงข้อความนี้ในครั้งถัดไป</string>
+</resources>

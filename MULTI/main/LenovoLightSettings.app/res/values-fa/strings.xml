@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">چراغ</string>
+    <string name="breath_settings">تنظیمات تنفس</string>
+    <string name="breath_delay">دوره تنفس</string>
+    <string name="breath_delay_info">تأخیر کمتری تنظیم شده است، مصرف باتری بیشتر خواهد شد</string>
+    <string name="light_switch_settings">تنظیمات چراغ</string>
+    <string name="coming_call">تماس‌های ورودی</string>
+    <string name="miss_call">تماس‌های بی‌پاسخ</string>
+    <string name="unread_msg">پیام‌های خوانده نشده</string>
+    <string name="battery_low_msg">پیام ضعیف بودن باتری</string>
+    <string name="sina_weibo_notify">اعلان SinaWeibo</string>
+    <string name="qq_weibo_notify">اعلان TencentWeibo</string>
+    <string name="other_app_notify">موارد دیگر</string>
+    <string name="other_app_summary">weixin，QQ，weibo</string>
+    <string name="music_play">موسیقی</string>
+    <string name="screen_on">صفحه روشن</string>
+    <string name="screen_off">صفحه خاموش</string>
+    <string name="power_on_off">خاموش-روشن کردن</string>
+    <string name="charging">در حال شارژ</string>
+    <string name="low_battery">باتری ضعیف است</string>
+    <string name="color_settings">تنظیمات رنگ</string>
+    <string name="color_settings_info">تنظیمات رنگ هر چراغ</string>
+    <string name="color_coming_call">رنگ چراغ تماس ورودی</string>
+    <string name="color_miss_call">رنگ چراغ تماس بی‌پاسخ</string>
+    <string name="color_unread_msg">رنگ چراغ پیام خوانده نشده</string>
+    <string name="color_sina_weibo_notify">رنگ چراغ اعلان SinaWeibo</string>
+    <string name="color_qq_weibo_notify">رنگ چراغ اعلان TencentWeibo</string>
+    <string name="color_music">رنگ چراغ موسیقی</string>
+    <string name="color_screen_on">رنگ چراغ صفحه روشن</string>
+    <string name="color_screen_off">رنگ چراغ صفحه خاموش</string>
+    <string name="light_show">نمایش ملایم</string>
+    <string name="light_show_info">نمایش ملایم در پایین در حال پخش است</string>
+    <string name="light_show_info_top">برف سبک در بالا در حال پخش است</string>
+    <string name="stop">توقف</string>
+    <string name="closed">خاموش</string>
+    <string name="open">روشن</string>
+    <string name="multiselect_alert_info">حداقل یک رنگ مورد نیاز است!</string>
+</resources>

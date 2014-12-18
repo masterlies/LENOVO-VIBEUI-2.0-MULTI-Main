@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диспечер на захранването</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отказ</string>
+    <string name="power_consume_app_freeze">Фиксиране</string>
+    <string name="power_consume_app_unfreeze">Освобождаване</string>
+    <string name="power_consume_app_uninstall">Деинсталиране</string>
+    <string name="power_consume_app_details">Данни</string>
+    <string name="battery_usage_use">Използвана батерия: %s</string>
+    <string name="consumption_call">Гласови повиквания</string>
+    <string name="consumption_screen">Екран</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Радио</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Операционна система Android</string>
+    <string name="power_media">Мултимедия</string>
+    <string name="power_battery">Захранване</string>
+    <string name="power_charge">Зареждане</string>
+    <string name="power_consume">Използване</string>
+    <string name="power_settings">Настройки</string>
+    <string name="power_mode">Режим</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Време на обща консумация на CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Поддържане в будно състояние</string>
+    <string name="usage_type_alarm">Събуждане на системата</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi работи</string>
+    <string name="usage_type_data_send">Изпратени данни</string>
+    <string name="usage_type_data_recv">Получени данни</string>
+    <string name="usage_type_audio">Аудио</string>
+    <string name="usage_type_video">Видео</string>
+    <string name="usage_type_on_time">Време на изпълнение</string>
+    <string name="usage_type_no_coverage">Време без сигнал</string>
+    <string name="battery_history_days" formatted="false">%dд %dч %dмин %dс</string>
+    <string name="battery_history_hours" formatted="false">%dч %dмин %dс</string>
+    <string name="battery_history_minutes" formatted="false">%dмин %dс</string>
+    <string name="battery_history_seconds">%dс</string>
+    <string name="battery_hour_minute" formatted="false">%dч %dмин</string>
+    <string name="battery_hour">%d час(а)</string>
+    <string name="battery_minute">%d минута(и)</string>
+    <string name="battery_wakelock" formatted="false">%dпът(и) за %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dд %dч %dмин %sс</string>
+    <string name="battery_wakelock_hours" formatted="false">%dч %dмин %sс</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dмин %sс</string>
+    <string name="battery_wakelock_seconds">%sс</string>
+    <string name="battery_alarm_time">%dпът(и)</string>
+    <string name="battery_screen_time">От последното пълно зареждане</string>
+    <string name="usage_type_wakelock_screen">Блокиране на заспиване на екрана</string>
+    <string name="usage_type_wakelock_cpu">Блокиране на заспиване на CPU</string>
+    <string name="usage_type_sensor">Сензор за използването</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Други</string>
+    <string name="battery_screen_on_time">Използва се: %s</string>
+    <string name="battery_screen_off_time">В режим на готовност: %s</string>
+    <string name="enter_setting">Настройки за стартиране</string>
+    <string name="battery_tab_title_consume">Консумация на енергия</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dд %dч %dмин</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dч %dмин</string>
+    <string name="battery_history_minutes_without_seconds">%dмин</string>
+    <string name="battery_sensor_info" formatted="false">%d път(и) за общо %s</string>
+    <string name="hour">ч</string>
+    <string name="minute">мин</string>
+    <string name="second">с</string>
+    <string name="application_not_found">Неуспешно търсене на подробни настройки за приложение</string>
+    <string name="mode_turnOff">Изкл.</string>
+    <string name="mode_turnOn">Вкл.</string>
+    <string name="main_switch_dialog_super">Разрешава единствено повиквания и съобщения и забранява всички останали функции за период на изчакване от няколко дни</string>
+    <string name="deep_clear_result_to_white_list_new">Избраното приложение няма да бъде засегнато</string>
+    <string name="temporary_no_app">Няма приложение</string>
+    <string name="progress_loading">Изчакайте…</string>
+    <string name="failed_switch_app_state">Операцията е неуспешна. Опитайте отново по-късно.</string>
+    <string name="package_manger_list_type_third">Потребителски приложения</string>
+    <string name="package_manger_list_type_system">Системни приложения</string>
+    <string name="btn_return">Връщане</string>
+    <string name="main_switcher">Превключвател с таймер</string>
+    <string name="switcher_detail">Автоматично разрешаване на указан режим в указан период</string>
+    <string name="switcher">Превключвател с таймер</string>
+    <string name="switcher_start_time">Начален час</string>
+    <string name="switcher_end_time">Краен час</string>
+    <string name="switcher_tag">Разрешен за този период</string>
+    <string name="switcher_target_custom">Персонализиране</string>
+    <string name="mode_changed_dialog">Превключване на режима</string>
+    <string name="no_remind">Не питай пак</string>
+    <string name="new_sim">Нова SIM</string>
+    <string name="application_not_found_activity">Приложението не е намерено</string>
+    <string name="classicmode_lable_phone">Тел.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Контакти</string>
+    <string name="failed_get_safecenter_whitelist">Неуспешно синхронизиране на списъка с разрешени в Центъра за безопасност на Lenovo. Преинсталирайте най-новата версия на Центъра за безопасност на Lenovo</string>
+    <string name="application_not_support_be_launched">Вследствие на настройки за защита други приложения не могат да разрешат това приложение</string>
+    <string name="classic_phone_dialog_entering">Данните се инициализират. Моля, изчакайте…</string>
+    <string name="classic_phone_dialog_existing">Данните се възстановяват. Моля, изчакайте…</string>
+    <string name="consumption_app_button">Софтуер</string>
+    <string name="consumption_hardware_button">Хардуер</string>
+    <string name="power_setting_menu_classic_phone">Режим на оптимално пестене на захранване</string>
+    <string name="power_setting_menu_smart">Пестене на захранване за екрана, CPU и GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Дезактивиране на приложенията при изключен екран</string>
+    <string name="power_setting_menu_consumption">Подробни данни за консумацията на енергия</string>
+    <string name="statistic_assist_title">Доп функции за статистически данни</string>
+    <string name="power_consumption_title">Функции за пестене на захранване</string>
+    <string name="fragment_tab_deepclear">Дезактивиране на приложенията при изключен екран</string>
+    <string name="deep_clear_detail">След дезактивиране приложенията няма да прекъсват режима на заспиване на телефона във фонов режим</string>
+    <string name="dialog_timing_text">Превключване към режим на оптимално пестене на захранване?</string>
+    <string name="switcher_summery">Превключва автоматично към режим на оптимално пестене на захранване за зададените периоди от време</string>
+    <string name="switcher_summery_close">След като се разреши, функцията ще превключва автоматично към режим на оптимално пестене на захранване за зададените периоди от време</string>
+    <string name="classicmode_hit_text">Функция за оптимално пестене на захранване</string>
+    <string name="classic_phone_desktop_shortcut">Функция за оптимално пестене на захранване</string>
+    <string name="classic_phone_dialog_title">Подкана за оптимално пестене на захранване</string>
+    <string name="classic_phone_dialog_enter">Наистина ли искате да преминете в режим за оптимално пестене на захранване? Не прекалявате ли с работата? Не забравяйте да си почивате</string>
+    <string name="classic_phone_dialog_exist">Наистина ли искате да излезете от функцията за оптимално пестене на захранване?</string>
+    <string name="classic_phone_failed_to_start_service">Стартирането на оптималното пестене на захранване е неуспешно. Направихме всичко възможно</string>
+    <string name="create_classicmode_desktop_shortcut">Създаване на пряк път на работния плот до функцията за оптимално пестене на енергия</string>
+    <string name="classicmode_exit_hint_text">За да излезете от функцията за оптимално пестене на енергия, докоснете бутона за затваряне</string>
+    <string name="setttings_screen_smart_brightness2">Система за пестене на енергия за дисплея</string>
+    <string name="setttings_screen_smart_brightness_detail">Използвайте синусоидалната технологията за регулиране на яркостта за намаляване на консумацията на енергия с 5 – 20%</string>
+    <string name="power_engine_vmx_title">Система за пестене на енергия за процесора</string>
+    <string name="power_engine_vmx_detail">Регулира интелигентно CPU за намаляване на консумацията на енергия с 10–25%</string>
+    <string name="power_engine_fps_title">Система за пестене на енергия за видеокартата</string>
+    <string name="power_engine_fps_detail">Оптимизира GPU за намаляване на консумацията на енергия с 10–25%</string>
+    <string name="power_engine_summery_close">След разрешаване консумацията на захранване от екрана, CPU и GPU ще бъде намалена интелигентно</string>
+    <string name="power_engine_summery_close2">След разрешаване консумацията на захранване от екрана и GPU ще бъде намалена интелигентно</string>
+    <string name="power_engine_summery_close3">След разрешаване консумацията на захранване от екрана ще бъде намалена интелигентно</string>
+    <string name="power_engine_summery_close4">След разрешаване консумацията на захранване от екрана и CPU ще бъде намалена интелигентно</string>
+    <string name="power_setting_menu_smart2">Пестене на захранване за екрана</string>
+    <string name="power_setting_menu_smart3">Пестене на захранване за екрана, CPU и GPU</string>
+    <string name="power_setting_menu_smart4">Пестене на захранване за екрана и GPU</string>
+    <string name="power_setting_menu_smart5">Пестене на захранване за екрана и CPU</string>
+    <string name="power_setting_current_battery" formatted="false">Заряд на батерията: %s%s</string>
+    <string name="classicmode_lable_clock">Часовник</string>
+</resources>

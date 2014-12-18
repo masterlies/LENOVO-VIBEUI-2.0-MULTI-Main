@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Điểm thu phát</string>
+    <string name="wifi_tether_configure_ap_text">Cài đặt điểm thu phát WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+Bảo mật:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Độ dài của SSID không thể dài hơn 32 ký tự.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Bảo mật: %2$s
+Mật khẩu: %3$s"</string>
+    <string name="wifi_cancel">Hủy</string>
+    <string name="wifi_save">Lưu</string>
+    <string name="wifi_ssid">SSID mạng</string>
+    <string name="wifi_security">Bảo mật</string>
+    <string name="wifi_password">Mật khẩu</string>
+    <string name="wifi_show_password">Hiện mật khẩu</string>
+    <string name="credentials_password_too_short">Mật khẩu phải có ít nhất 8 ký tự.</string>
+    <string name="wifi_channel">Preferred Channel</string>
+    <string name="wifi_channel_width">Channel Width</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Đã bật điểm thu phát riêng</string>
+    <string name="tethered_notification_message">Chạm để cài đặt</string>
+    <string name="tether_about_title">Sơ lược về chức năng</string>
+    <string name="wlan_connection_title">Trạm phát WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Chia sẻ mạng Bluetooth</string>
+    <string name="usb_share_title">Chia sẻ mạng USB</string>
+    <string name="about_wlan">Bằng cách cài đặt trạm phát WLAN trên thiết bị này, cho phép các thiết bị WLAN khác kết nối với mạng di động của thiết bị này để lướt Web</string>
+    <string name="about_usb">Bằng cách bật chức năng chia sẻ mạng USB trên thiết bị này, cho phép các thiết bị được kết nối sử dụng mạng di động của thiết bị này để lướt Web</string>
+    <string name="about_bt">Bằng cách bật chức năng chia sẻ mạng Bluetooth trên thiết bị này, cho phép các thiết bị Bluetooth khác sử dụng mạng di động của thiết bị này để lướt Web</string>
+    <string name="about_usb_other">"Lưu ý khác: 
+ 1. Trong khi kết nối USB, bạn không thể gắn thẻ SD của thiết bị trên máy vi tính
+ 2. Kết nối chỉ được áp dụng cho Windows Vista, Windows 7, Windows 8 và Linux"</string>
+    <string name="wifi_tether_settings_title">Thông tin cấu hình WLAN</string>
+    <string name="wifi_ap_client_block_title">Chặn</string>
+    <string name="wifi_ap_client_unblock_title">Hủy chặn</string>
+    <string name="wifi_ap_connected_title">Người dùng đã kết nối</string>
+    <string name="tethered_notification_message_for_hotspot">Đã kết nối %1$d, đã chặn %2$d</string>
+    <string name="open_title">Bật mẹo</string>
+    <string name="open_mess">Để sử dụng %1$s, bạn cần bật chức năng kết nối dữ liệu</string>
+    <string name="open_mess_all">Để sử dụng %1$s, bạn cần bật WLAN hoặc chức năng kết nối dữ liệu</string>
+    <string name="cancel">Hủy</string>
+    <string name="go_settings">Chuyển đến cài đặt</string>
+    <string name="open_mess_alert">Mạng di động đang bật. Sử dụng chức năng %1$s sẽ tạo ra lưu lượng dữ liệu và phí dữ liệu cao hơn. Bạn có muốn bật không?</string>
+    <string name="open">Bật</string>
+</resources>

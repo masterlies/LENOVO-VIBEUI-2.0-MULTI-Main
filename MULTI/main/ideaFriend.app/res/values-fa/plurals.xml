@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d مخاطب دارای شماره تلفن</item>
+        <item quantity="one">۱ مخاطب دارای شماره تلفن</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d مخاطب</item>
+        <item quantity="one">۱ مخاطب</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d مخاطب یافت شد</item>
+        <item quantity="one">۱ مخاطب یافت شد</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">" %d یافت شد"</item>
+        <item quantity="one">۱ مورد یافت شد</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">"ادغام شده از منابع %0$d "</item>
+        <item quantity="one">ادغام نشد</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d گروه</item>
+        <item quantity="one">۱ گروه</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d نفر از %2$s</item>
+        <item quantity="one">%1$d مخاطب از %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d نفر</item>
+        <item quantity="one">%1$d نفر</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d پست صوتی</item>
+        <item quantity="one">پست صوتی</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d گزارش تماس یافت شد</item>
+        <item quantity="one">۱ گزارش تماس یافت شد</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">جستجوی مخاطبین | در مجموع %d مخاطب</item>
+        <item quantity="one">جستجوی مخاطبین | در مجموع ۱ مخاطب</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s مکالمه حذف می‌شود.</item>
+        <item quantity="one">سیستم ۱ مکالمه را حذف می‌کند</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d پیام خوانده نشده.</item>
+        <item quantity="one">%d پیام خوانده نشده.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s ثانیه</item>
+        <item quantity="one">%s ثانیه</item>
+        <item quantity="few">%s ثانیه</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s نتایج جستجو برای %2$s</item>
+        <item quantity="one">%1$s نتایج جستجو برای %2$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s نفر</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">ارسال %d گزارش خوانده شده</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d انتخاب شد</item>
+        <item quantity="one">%d انتخاب شد</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">علامت‌گذاری %1$s مکالمه به عنوان خوانده شده</item>
+        <item quantity="one">علامت‌گذاری یک مکالمه به عنوان خوانده شده</item>
+    </plurals>
+</resources>

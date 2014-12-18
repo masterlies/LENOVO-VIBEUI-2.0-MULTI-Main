@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Включение менее чем через 1 минуту</item>
+        <item>Включение через %1$s</item>
+        <item>Включение через %2$s</item>
+        <item>Включение через %1$s %2$s</item>
+        <item>Включение через%3$s</item>
+        <item>Включение через %1$s %3$s</item>
+        <item>Включение через %2$s %3$s</item>
+        <item>Включение через %1$s %2$s %3$s</item>
+        <item>Выключение менее чем через 1 минуту.</item>
+        <item>Выключение через %1$s</item>
+        <item>Выключение через %2$s</item>
+        <item>Выключение через %1$s %2$s</item>
+        <item>Выключение через %3$s</item>
+        <item>Выключение через %1$s %3$s</item>
+        <item>Выключение через %2$s %3$s</item>
+        <item>Выключение через %1$s %2$s %3$s</item>
+    </string-array>
+</resources>

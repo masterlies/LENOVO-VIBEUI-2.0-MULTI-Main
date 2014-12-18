@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>اخبار</item>
+        <item>ورزش</item>
+        <item>نمایش</item>
+        <item>موزیک ویدیو</item>
+        <item>فیلم</item>
+        <item>طنز</item>
+        <item>اکشن</item>
+        <item>موزیکال</item>
+        <item>انیمیشن</item>
+        <item>سایر موارد</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>پخش</item>
+        <item>تغییر نام</item>
+        <item>حذف</item>
+        <item>اطلاعات</item>
+        <item>اشتراک گذاری</item>
+        <item>چند انتخاب</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>پخش</item>
+        <item>تغییر نام</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>پخش</item>
+        <item>حذف</item>
+        <item>پاک کردن لیست</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>پخش</item>
+        <item>افزودن این ویدیو</item>
+    </string-array>
+</resources>

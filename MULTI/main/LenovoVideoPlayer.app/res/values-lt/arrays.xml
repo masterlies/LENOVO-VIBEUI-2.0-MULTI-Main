@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Naujienos</item>
+        <item>Sportas</item>
+        <item>Drama</item>
+        <item>Muzikiniai vaizdo klipai</item>
+        <item>Filmai</item>
+        <item>Komedijos</item>
+        <item>Veiksmo filmai</item>
+        <item>Miuziklai</item>
+        <item>Animaciniai filmai</item>
+        <item>Įvairūs</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Leisti</item>
+        <item>Pervardyti</item>
+        <item>Naikinti</item>
+        <item>Informacija</item>
+        <item>Bendrinti</item>
+        <item>Pasirinkti kelis</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Leisti</item>
+        <item>Pervardyti</item>
+        <item>Naikinti</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Leisti</item>
+        <item>Naikinti</item>
+        <item>Trinti sąrašą</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Leisti</item>
+        <item>Pridėti šį vaizdo įrašą</item>
+    </string-array>
+</resources>

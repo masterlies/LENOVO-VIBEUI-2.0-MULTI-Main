@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistemske posodobitve</string>
+    <string name="meid_activity_title">Različica seznama prednostnih omrežij za gostovanje</string>
+    <string name="btn_post">Omogoči</string>
+    <string name="btn_neg">Onemogoči</string>
+    <string name="enable_fdn">Omogoči</string>
+    <string name="disable_fdn">Onemogoči</string>
+    <string name="reboot">Vnovičen zagon</string>
+    <string name="cancel">Prekliči</string>
+    <string name="alert_ok">V redu</string>
+    <string name="alert_no">NE</string>
+    <string name="commit_cate">Shrani</string>
+    <string name="summary_on">VKLOPLJENO</string>
+    <string name="summary_off">IZKLOPLJENO</string>
+    <string name="report_log_summary">Poročaj</string>
+    <string name="report_log_title">Poročaj</string>
+    <string name="save_success">Uspešno shranjeno</string>
+    <string name="yes_exit">Da</string>
+    <string name="no_exit">Ne</string>
+    <string name="enable">Omogoči</string>
+    <string name="disable">Onemogoči</string>
+    <string name="regulatory_information">Zakonsko predpisani podatki</string>
+</resources>

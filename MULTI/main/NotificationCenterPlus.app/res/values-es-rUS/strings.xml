@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="flashlight_notification_title">Cerrar linterna</string>
+    <string name="flashlight_notification_text">Haga clic para cerrar la linterna</string>
+</resources>

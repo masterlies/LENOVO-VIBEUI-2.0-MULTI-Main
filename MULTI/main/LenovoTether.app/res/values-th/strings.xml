@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ฮอตสปอต</string>
+    <string name="wifi_tether_configure_ap_text">"กำหนดค่าจุดบริการ WLAN "</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+ความปลอดภัย:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID ไม่สามารถยาวเกิน 32 อักขระ</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+ความปลอดภัย: %2$s
+แสดงรหัสผ่าน: %3$s"</string>
+    <string name="wifi_cancel">ยกเลิก</string>
+    <string name="wifi_save">บันทึก</string>
+    <string name="wifi_ssid">เครือข่าย SSID</string>
+    <string name="wifi_security">ความปลอดภัย</string>
+    <string name="wifi_password">รหัสผ่าน</string>
+    <string name="wifi_show_password">แสดงรหัสผ่าน</string>
+    <string name="credentials_password_too_short">รหัสผ่านต้องมีอย่างน้อย 8 อักขระ</string>
+    <string name="wifi_channel">ช่องสัญญาณที่กำหนดค่า</string>
+    <string name="wifi_channel_width">ความกว้างของช่องสัญญาณ</string>
+    <string name="wifi_tether_auto_channel_text">อัตโนมัติ</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">เริ่มจุดบริการส่วนตัว</string>
+    <string name="tethered_notification_message">สำผัสเพื่อกำหนดค่า</string>
+    <string name="tether_about_title">คำอธิบายฟังก์ชัน</string>
+    <string name="wlan_connection_title">"ฮอตสปอต WLAN "</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">บลูทูธ</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">การแชร์เครือข่ายผ่าน บลูทูธ</string>
+    <string name="usb_share_title">การแชร์เครือข่ายผ่าน USB</string>
+    <string name="about_wlan">เมื่อเปิดใช้งานฮอตสปอต WLAN ในอุปกรณ์เครื่องนี้ อุปกรณ์ WLAN เครื่องอื่นจะสามารถเชื่อมต่อกับเครือข่ายมือถือของอุปกรณ์เครื่องนั้นเพื่อท่องเว็บได้</string>
+    <string name="about_usb">เมื่อเปิดใช้งานการแชร์เครือข่ายผ่าน USB ในอุปกรณ์เครื่องนี้ อุปกรณ์ที่เชื่อมต่ออยู่จะสามารถใช้เครือข่ายมือถือของอุปกรณ์เครื่องนี้เพื่อท่องเว็บได้</string>
+    <string name="about_bt">เมื่อเปิดใช้งานการแชร์เครือข่ายผ่าน บลูทูธ ในอุปกรณ์เครื่องนี้ อุปกรณ์ บลูทูธ เครื่องอื่นจะสามารถใช้เครือข่ายมือถือของอุปกรณ์เครื่องนี้เพื่อท่องเว็บได้</string>
+    <string name="about_usb_other">"ข้อควรทราบอื่นๆ: 
+ 1. ขณะเชื่อมต่อผ่าน USB คุณจะไม่สามารถติดตั้งการ์ด SD ของอุปกรณ์บนคอมพิวเตอร์ได้
+ 2. การเชื่อมต่อนี้ใช้งานได้เฉพาะกับ Windows Vista, Windows 7, Windows 8 และ Linux"</string>
+    <string name="wifi_tether_settings_title">ข้อมูลการกำหนดค่า WLAN</string>
+    <string name="wifi_ap_client_block_title">บล็อก</string>
+    <string name="wifi_ap_client_unblock_title">ยกเลิกการบล็อก</string>
+    <string name="wifi_ap_connected_title">ผู้ใช้ที่มีการเชื่อมต่อ</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d เชื่อมต่อแล้ว%2$d บล็อก</string>
+    <string name="open_title">เปิดใช้งานเคล็ดลับ</string>
+    <string name="open_mess">หากต้องการใช้ %1$s คุณต้องเปิดใช้งานฟังก์ชันการเชื่อมต่อข้อมูล</string>
+    <string name="open_mess_all">หากต้องการใช้ %1$s คุณต้องเปิดใช้งาน WLAN หรือฟังก์ชันการเชื่อมต่อข้อมูล</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="go_settings">ไปยังการตั้งค่า</string>
+    <string name="open_mess_alert">เครือข่ายมือถือเปิดใช้งานอยู่ การใช้ฟังก์ชัน %1$s อาจทำให้เกิดการรับส่งข้อมูลมากขึ้นและมีค่าบริการ คุณต้องการเปิดใช้งานหรือไม่</string>
+    <string name="open">เปิดใช้งาน</string>
+</resources>

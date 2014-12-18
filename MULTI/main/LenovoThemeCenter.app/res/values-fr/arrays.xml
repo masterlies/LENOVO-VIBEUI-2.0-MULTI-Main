@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>écran de verrouillage</item>
+        <item>assistant de lancement</item>
+        <item>icônes</item>
+        <item>"fond d'écran"</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>callscreen</item>
+        <item>widget du système</item>
+        <item>bootshut</item>
+        <item>police</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_vis1">Vizualizator</string>
+    <string name="wallpaper_vis2">Talasni oblik</string>
+    <string name="wallpaper_vis3">Spektar</string>
+    <string name="wallpaper_vis4">VU merač</string>
+    <string name="wallpaper_vis5">Mnogo</string>
+    <string name="wallpapers">Pozadine u vidu vizuelizacija za muziku</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Crta zvučni talas bilo koje pesme koju trenutno slušate.</string>
+    <string name="vis3_desc">Prikazuje frekventni spektar bilo koje pesme koju trenutno slušate.</string>
+    <string name="vis4_desc">Simulira analogni merač jačine zvuka.</string>
+    <string name="vis5_desc">Sve vizuelizacije za muziku se polako okreću u 3D-u.</string>
+</resources>

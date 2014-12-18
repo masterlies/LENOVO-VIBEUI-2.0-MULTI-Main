@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Računalo</string>
+    <string name="error">Napaka</string>
+    <string name="advanced">Dodatno</string>
+    <string name="clear_history">Počisti zgodovino</string>
+    <string name="copy">Kopiraj</string>
+    <string name="paste">Prilepi</string>
+    <string name="only_digit">Prilepite lahko samo številke.</string>
+    <string name="basic">Osnovno</string>
+    <string name="copy_success">Kopirano</string>
+    <string name="full_input">Največje število števk je preseženo.</string>
+</resources>

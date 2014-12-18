@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>Általános</item>
+        <item>Csendes</item>
+        <item>Rezgés</item>
+        <item>Kültéri használat</item>
+        <item>Autóvezetés</item>
+    </string-array>
+</resources>

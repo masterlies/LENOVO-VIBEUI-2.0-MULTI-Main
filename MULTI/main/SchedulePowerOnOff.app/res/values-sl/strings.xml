@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_off">Izklopi</string>
+    <string name="yes">V redu</string>
+    <string name="no">Prekliči</string>
+    <string name="schedule_power_on_off_settings_title">Načrtovani vklop in izklop</string>
+    <string name="schedule_power_on_off_time">Ura</string>
+    <string name="schedule_power_on_off_repeat">Ponovi</string>
+    <string name="schedule_power_on_off_set">Nastavi načrtovani vklop in izklop</string>
+    <string name="schedule_power_on_set">Nastavi načrtovani vklop</string>
+    <string name="schedule_power_off_set">Nastavi načrtovani izklop</string>
+    <string name="enable_schpwr">Omogoči</string>
+    <string name="disable_schpwr">Onemogoči</string>
+    <string name="day">1 dan</string>
+    <string name="days">%s dni</string>
+    <string name="hour">1 ura</string>
+    <string name="hours">%s ur</string>
+    <string name="minute">1 minuta</string>
+    <string name="minutes">%s minut</string>
+    <string name="every_day">Vsak dan</string>
+    <string name="never">Nikoli</string>
+    <string name="done">Končano</string>
+    <string name="revert">Povrni</string>
+    <string name="schpwr_shutdown_message">Vaša naprava se bo izključila čez %s sekund</string>
+    <string name="schpwr_shutdown_message_second">Vaša naprava se bo izključila čez %s sekund</string>
+    <string name="schpwr_power_on">vklopljeno</string>
+    <string name="schpwr_power_off">izklopljeno</string>
+    <string name="schpwr_time_invalid">Nastavljena časa za vklop in izklop se morata razlikovati za %d minut</string>
+    <string name="schedule_power_off_time_out_title">Pretekla obvestila</string>
+    <string name="schedule_power_off_time_out_summary">Načrtovana zaustavitev dokončana</string>
+</resources>

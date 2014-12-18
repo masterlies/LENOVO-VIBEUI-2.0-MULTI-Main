@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Verkeerde %1$s PIN-kode, jy het %2$d oorblywende pogings.</item>
+        <item quantity="one">Verkeerde %1$s PIN-kode, jy het %2$d oorblywende poging voordat jy jou diensverskaffer sal moet kontak om jou toestel te ontsluit.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Verkeerde %1$s PUK-kode, jy het %1$2%d oorblywende pogings voordat %1$s permanent onbruikbaar word.</item>
+        <item quantity="one">Verkeerde %1$s PUK-kode, jy het %2$d oorblywende poging voordat %1$s permanent onbruikbaar word.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Verkeerde SIM PIN-kode, jy het %d oorblywende pogings.</item>
+        <item quantity="one">Verkeerde SIM PIN-kode, jy het %d oorblywende poging voordat jy jou diensverskaffer sal moet kontak om jou toestel te ontsluit.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Verkeerde SIM PUK-kode, jy het %d oorblywende pogings voordat SIM permanent onbruikbaar word.</item>
+        <item quantity="one">Verkeerde SIM PUK-kode, jy het %d oorblywende poging voordat SIM permanent onbruikbaar word.</item>
+    </plurals>
+</resources>

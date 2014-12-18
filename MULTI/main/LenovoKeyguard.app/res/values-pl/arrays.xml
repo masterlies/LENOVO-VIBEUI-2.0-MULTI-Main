@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Natychmiast</item>
+        <item>5 sek.</item>
+        <item>15 sek.</item>
+        <item>30 sek.</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>30 min</item>
+    </string-array>
+</resources>

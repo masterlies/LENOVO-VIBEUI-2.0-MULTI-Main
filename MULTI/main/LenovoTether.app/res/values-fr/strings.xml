@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Connexions</string>
+    <string name="wifi_tether_configure_ap_text">"Configurer le point d'accès WLAN"</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+sécurité:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID ne peut pas avoir plus de 32 caractères</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Sécurité: %2$s
+Mot de passe: %3$s"</string>
+    <string name="wifi_cancel">Annuler</string>
+    <string name="wifi_save">Enregistrer</string>
+    <string name="wifi_ssid">SSID du réseau</string>
+    <string name="wifi_security">Sécurité</string>
+    <string name="wifi_password">Mot de passe</string>
+    <string name="wifi_show_password">Afficher le mot de passe</string>
+    <string name="credentials_password_too_short">Le mot de passe doit contenir au moins 8 caractères.</string>
+    <string name="wifi_channel">Canal préféré</string>
+    <string name="wifi_channel_width">Largeur du canal</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">"Point d'accès personnel démarré"</string>
+    <string name="tethered_notification_message">Touchez pour configurer</string>
+    <string name="tether_about_title">Description de la fonction</string>
+    <string name="wlan_connection_title">"Point d'accès WLAN"</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Partage réseau Bluetooth</string>
+    <string name="usb_share_title">Partage réseau USB</string>
+    <string name="about_wlan">"La configuration d'un point d'accès WLAN sur ce périphérique permet aux autres périphériques WLAN de se connecter au réseau mobile de ce périphérique pour naviguer sur le Web"</string>
+    <string name="about_usb">"La configuration d'un partage réseau USB sur ce périphérique permet aux périphériques connectés d'utiliser le réseau mobile de ce périphérique pour naviguer sur le Web"</string>
+    <string name="about_bt">"La configuration d'un partage réseau Bluetooth sur ce périphérique permet aux autres périphériques Bluetooth d'utiliser le réseau mobile de ce périphérique pour naviguer sur le Web"</string>
+    <string name="about_usb_other">"Autres remarques : 
+ 1. Pendant la connexion USB, vous ne pouvez pas installer la carte SD du périphérique sur l'ordinateur
+ 2. La connexion s'applique uniquement à Windows Vista, Windows 7, Windows 8 et Linux"</string>
+    <string name="wifi_tether_settings_title">Informations relatives à la configuration WLAN</string>
+    <string name="wifi_ap_client_block_title">Bloquer</string>
+    <string name="wifi_ap_client_unblock_title">Débloquer</string>
+    <string name="wifi_ap_connected_title">Utilisateurs connectés</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d connecté(s), %2$d bloqué(s)</string>
+    <string name="open_title">Activer les conseils</string>
+    <string name="open_mess">Pour utiliser %1$s, vous devez activer la fonction connexion des données</string>
+    <string name="open_mess_all">Pour utiliser %1$s, vous devez activer le WLAN ou la fonction connexion des données</string>
+    <string name="cancel">Annuler</string>
+    <string name="go_settings">Accéder aux paramètres</string>
+    <string name="open_mess_alert">"Le réseau mobile est activé. L'utilisation de la fonction %1$s peut augmenter le trafic de données et entraîner des frais supplémentaires. Voulez-vous lancer l'activation ?"</string>
+    <string name="open">Activer</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Berita</item>
+        <item>Olah raga</item>
+        <item>Drama</item>
+        <item>Video musik</item>
+        <item>Film</item>
+        <item>Komedi</item>
+        <item>Aksi</item>
+        <item>Musikal</item>
+        <item>Kartun</item>
+        <item>Ragam</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Putar</item>
+        <item>Ganti nama</item>
+        <item>Hapus</item>
+        <item>Informasi</item>
+        <item>Bagi</item>
+        <item>Pilih Banyak</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Putar</item>
+        <item>Ganti nama</item>
+        <item>Hapus</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Putar</item>
+        <item>Hapus</item>
+        <item>Hapus daftar</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Putar</item>
+        <item>Tambah video ini</item>
+    </string-array>
+</resources>

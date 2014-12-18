@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ล็อกในปุ่มเดียว</string>
+    <string name="get_screen_lock_admin">รับสิทธิ์ดูแลระบบของอุปกรณ์ที่ล็อกหน้าจอ</string>
+</resources>

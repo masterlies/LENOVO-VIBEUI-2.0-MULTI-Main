@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Ziņas</item>
+        <item>Sports</item>
+        <item>Teātris</item>
+        <item>Mūzikas video</item>
+        <item>Filma</item>
+        <item>Komēdija</item>
+        <item>Spraiga sižeta</item>
+        <item>Mūzikls</item>
+        <item>Animācija</item>
+        <item>Dažādi</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Atskaņot</item>
+        <item>Pārdēvēt</item>
+        <item>Dzēst</item>
+        <item>Informācija</item>
+        <item>Koplietot</item>
+        <item>Atlasīt vairākus</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Atskaņot</item>
+        <item>Pārdēvēt</item>
+        <item>Dzēst</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Atskaņot</item>
+        <item>Dzēst</item>
+        <item>Notīrīt sarakstu</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Atskaņot</item>
+        <item>Pievienot šo video</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>즉시</item>
+        <item>5초</item>
+        <item>15초</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>2분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>30분</item>
+    </string-array>
+</resources>

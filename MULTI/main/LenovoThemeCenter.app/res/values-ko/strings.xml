@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_about">정보</string>
+    <string name="lenovo_about_update">업그레이드</string>
+    <string name="lenovo_about_update_now">지금 업그레이드!</string>
+    <string name="lenovo_about_versoin">새 버전 사용 가능</string>
+    <string name="lenovo_about_qqgroup">QQ 그룹</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">이메일 주소</string>
+    <string name="lenovo_about_unsupport">지금은 지원되지 않습니다. 기다려 주십시오!</string>
+    <string name="ab_version_introduction">기능 소개</string>
+    <string name="ab_contacts">연락 방법</string>
+    <string name="ab_feedback">피드백</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">WLAN을 켜십시오!</string>
+    <string name="SUS_MSG_LATESTVERSION">현재 버전입니다!</string>
+    <string name="SUS_MSG_NOTFOUND">업데이트가 없습니다!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">네트워크를 사용할 수 없습니다!</string>
+    <string name="SUS_MSG_WARNING_PENDING">현재 업데이트 중!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">다운로드 완료!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">업데이트에 실패했습니다. 다시 시도하십시오!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">메시지 표시 안 함</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">새 버전을 찾으면 메시지로 표시</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">시스템에 저장소가 부족합니다!</string>
+    <string name="SUS_VERSIONUPDATE">새 버전 발견!</string>
+    <string name="SUS_UPDATEDESC">설명:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">이름:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">크기:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN으로 다운로드를 권장합니다!</string>
+    <string name="SUS_UPDATE">업데이트</string>
+    <string name="SUS_CANCEL">나중에</string>
+    <string name="SUS_DOWNLOAD_TITLE">IdeaFriend 다운로드!</string>
+    <string name="SUS_CANCELBUTTON">취소</string>
+    <string name="SUS_NOTIFICATION_TITLE">프롬프트</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">업데이트하는 중... 기다려 주십시오!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">네트워크 시간 제한을 초과했습니다. 다시 시도하십시오...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">확인</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">중단</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(다음 시간 후 대화 상자 숨김:</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">초)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">탭하여 설치하십시오!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">탭하여 다음을 설치하십시오.</string>
+    <string name="SUS_CURRENT_VERSION">현재 버전</string>
+    <string name="SUS_NEW_VERSION">최신 버전</string>
+    <string name="SUS_FIND_NEW_VERSION">새 버전 사용 가능</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">apk를 설치합니다.</string>
+</resources>

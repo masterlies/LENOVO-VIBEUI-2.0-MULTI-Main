@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Cài đặt</string>
+    <string name="app_name">Chia sẻ tài khoản WLAN</string>
+    <string name="prompt">Mang các điện thoại lại gần nhau để chia sẻ mạng WLAN với bạn bè!</string>
+    <string name="current_wifi">Kết nối WLAN hiện tại:</string>
+    <string name="hotknot_help">Cách chia sẻ: Trong giao diện hiện tại, hãy giữ nửa trên của hai điện thoại úp lưng vào nhau (chuyển dữ liệu qua NFC). Thực hiện theo hướng dẫn trên màn hình để chia sẻ tài khoản WLAN đã kết nối.</string>
+    <string name="title_receive">Đang nhận</string>
+    <string name="wlan_connecting">Đang nhận tài khoản WLAN...</string>
+    <string name="title_finish">Đã nhận thành công</string>
+    <string name="wlan_finish">Đã nhận tài khoản WLAN thành công. Kết nối với %1$s và bạn có thể truy cập vào internet!</string>
+    <string name="send_ap_no_connected">Không chia sẻ được (không tìm thấy tài khoản WLAN đã kết nối)</string>
+    <string name="hotknot_help_note">Ghi chú: Điện thoại nhận phải hỗ trợ chia sẻ tài khoảnWLAN(với mục chức năng)</string>
+    <string name="wifi_share">Chia sẻ WLAN</string>
+</resources>

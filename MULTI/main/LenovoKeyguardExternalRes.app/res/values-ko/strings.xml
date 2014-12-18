@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">잠금 화면 오류. 화면이 보안 모드로 전환됩니다. 잠금 화면 재부팅 중입니다. 기다려 주십시오...</string>
+</resources>

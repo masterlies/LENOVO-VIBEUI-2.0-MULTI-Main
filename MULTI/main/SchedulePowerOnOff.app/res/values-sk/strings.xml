@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_off">Vypnúť</string>
+    <string name="yes">OK</string>
+    <string name="no">Zrušiť</string>
+    <string name="schedule_power_on_off_settings_title">Časový plán zapnutia a vypnutia</string>
+    <string name="schedule_power_on_off_time">Čas</string>
+    <string name="schedule_power_on_off_repeat">Opakovať</string>
+    <string name="schedule_power_on_off_set">Nastaviť časový plán zapnutia a vypnutia</string>
+    <string name="schedule_power_on_set">Nastaviť časový plán zapnutia</string>
+    <string name="schedule_power_off_set">Nastaviť časový plán vypnutia</string>
+    <string name="enable_schpwr">Aktivovať</string>
+    <string name="disable_schpwr">Zablokovať</string>
+    <string name="day">1 deň</string>
+    <string name="days">%s dní</string>
+    <string name="hour">1 hodina</string>
+    <string name="hours">%s hodín</string>
+    <string name="minute">1 minúta</string>
+    <string name="minutes">%s minút</string>
+    <string name="every_day">Každý deň</string>
+    <string name="never">Nikdy</string>
+    <string name="done">Hotovo</string>
+    <string name="revert">Späť</string>
+    <string name="schpwr_shutdown_message">Zariadenie sa vypne za %s sekúnd</string>
+    <string name="schpwr_shutdown_message_second">Zariadenie sa vypne za %s sekúnd</string>
+    <string name="schpwr_power_on">zapnuté</string>
+    <string name="schpwr_power_off">vypnuté</string>
+    <string name="schpwr_time_invalid">Čas zapnutia a vypnutia sa musia líšiť o viac než %d minút</string>
+    <string name="schedule_power_off_time_out_title">Časový limit</string>
+    <string name="schedule_power_off_time_out_summary">ukončené plánované vypnutie</string>
+</resources>

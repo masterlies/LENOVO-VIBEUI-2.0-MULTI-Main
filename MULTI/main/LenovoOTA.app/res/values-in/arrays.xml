@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enquire_type">
+        <item>Segera perbarui</item>
+        <item>30 menit</item>
+        <item>6 jam</item>
+        <item>3 hari</item>
+        <item>Jangan ingatkan saya lagi</item>
+    </string-array>
+    <string-array name="enquire_values">
+        <item>0/0/0</item>
+        <item>1/1/30</item>
+        <item>1/6/60</item>
+        <item>3/24/60</item>
+        <item>360/24/60</item>
+    </string-array>
+</resources>

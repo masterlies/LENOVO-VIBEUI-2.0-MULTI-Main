@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>Podrazumevano</item>
+        <item>Klavira</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizacija</item>
+        <item>Komentari</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Pol</item>
+        <item>Telefon</item>
+        <item>Rođendan</item>
+        <item>Lokacija</item>
+        <item>Škola</item>
+        <item>Firma</item>
+        <item>E-pošta</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Privatno</item>
+        <item>Muško</item>
+        <item>Žensko</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Srećan</item>
+        <item>Tužan</item>
+        <item>Namiguje</item>
+        <item>Isplažen jezik</item>
+        <item>Iznenađen</item>
+        <item>Ljubi</item>
+        <item>Viče</item>
+        <item>Kul</item>
+        <item>Usta od novca</item>
+        <item>Noga u ustima</item>
+        <item>Posramljen</item>
+        <item>Anđeo</item>
+        <item>Neodlučan</item>
+        <item>Plače</item>
+        <item>Usne su zapečaćene</item>
+        <item>Smeje se</item>
+        <item>Zbunjen</item>
+        <item>Ljubav</item>
+        <item>Lud</item>
+        <item>Zlobno smeškanje</item>
+        <item>Pokeraško lice</item>
+        <item>Obriši</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Gde si?</item>
+        <item>Šta radiš?</item>
+        <item>Hitno! Molim te pozovi odmah.</item>
+        <item>Izvini, na sastanku sam.</item>
+        <item>Zvaću te uskoro.</item>
+        <item>Ne brini! Dobro sam.</item>
+        <item>Krenuo sam kući.</item>
+        <item>Stižem uskoro.</item>
+        <item>Bolje bi ti bilo da dođeš!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Režim zabrane</item>
+        <item>Režim upozorenja</item>
+        <item>Slobodan režim</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Visoko</item>
+        <item>Srednje</item>
+        <item>Nisko</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM alfabet</item>
+        <item>Unikod</item>
+        <item>Automatski</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM kartica</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Uređaj</item>
+        <item>SIM kartica</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Podrazumevano</item>
+        <item>Malo</item>
+        <item>Srednje</item>
+        <item>Veliko</item>
+        <item>Veoma veliko</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Prosledi direktno</item>
+        <item>Dodaj ime pošiljaoca</item>
+        <item>Dodaj ime i broj pošiljaoca</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Prosledi direktno</item>
+        <item>Dodaj ime pošiljaoca</item>
+        <item>Dodaj ime i broj pošiljaoca</item>
+        <item>Pitaj svaki put (prosledi direktno kad je uključeno automatsko prosleđivanje)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>UIM kartica</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekunde</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekundi</item>
+        <item>6 sekundi</item>
+        <item>7 sekundi</item>
+        <item>8 sekundi</item>
+        <item>9 sekundi</item>
+        <item>10 sekundi</item>
+        <item>Drugi…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Uvek</item>
+        <item>Samo kada je isključen zvuk</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Po datumu</item>
+        <item>Po broju</item>
+        <item>Po kontaktu</item>
+    </string-array>
+</resources>

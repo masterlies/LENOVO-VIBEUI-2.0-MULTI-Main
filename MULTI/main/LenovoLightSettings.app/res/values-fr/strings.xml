@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Éclairage</string>
+    <string name="breath_settings">Réglages de souffle</string>
+    <string name="breath_delay">Cycle de souffle</string>
+    <string name="breath_delay_info">"Moins de délai, plus d'énergie sera utilisée"</string>
+    <string name="light_switch_settings">"Réglages d'éclairage"</string>
+    <string name="coming_call">Appel entrant</string>
+    <string name="miss_call">Appel manqué</string>
+    <string name="unread_msg">Message non lu</string>
+    <string name="battery_low_msg">Message Batterie faible</string>
+    <string name="other_app_notify">Autre</string>
+    <string name="music_play">Musique</string>
+    <string name="screen_on">Écran allumé</string>
+    <string name="screen_off">Écran éteint</string>
+    <string name="power_on_off">Alimentation Marche/Arrêt</string>
+    <string name="charging">Chargement</string>
+    <string name="low_battery">Batterie faible</string>
+    <string name="color_settings">Réglages de couleur</string>
+    <string name="color_settings_info">Réglages de couleur de chaque éclairage</string>
+    <string name="color_coming_call">"Couleur d'éclairage d'appel entrant"</string>
+    <string name="color_miss_call">"Couleur d'éclairage d'appel manqué"</string>
+    <string name="color_unread_msg">"Couleur d'éclairage de message non lu"</string>
+    <string name="color_music">"Couleur d'éclairage de musique"</string>
+    <string name="color_screen_on">"Couleur d'éclairage d'écran allumé"</string>
+    <string name="color_screen_off">"Couleur d'éclairage d'écran éteint"</string>
+    <string name="light_show">"Show d'éclairage"</string>
+    <string name="light_show_info">"Show d'éclairage en lecture"</string>
+    <string name="stop">Arrêter</string>
+    <string name="closed">fermé</string>
+    <string name="open">ouvrir</string>
+    <string name="multiselect_alert_info">"Besoin d'une couleur au moins !"</string>
+</resources>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पावर प्रबंधक</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">ठीक</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="power_consume_app_freeze">स्थिर</string>
+    <string name="power_consume_app_unfreeze">अस्थिर</string>
+    <string name="power_consume_app_uninstall">अनइंस्टॉल करें</string>
+    <string name="power_consume_app_details">विवरण</string>
+    <string name="battery_usage_use">बैटरी प्रयुक्त: %s</string>
+    <string name="consumption_call">वॉयस कॉल</string>
+    <string name="consumption_screen">स्क्रीन</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">रेडियो</string>
+    <string name="consumption_bluetooth">ब्लुटूथ</string>
+    <string name="consumption_system">एंड्रॉयड OS</string>
+    <string name="power_media">मीडिया</string>
+    <string name="power_battery">पावर</string>
+    <string name="power_charge">चार्ज हो रहा है</string>
+    <string name="power_consume">उपयोग</string>
+    <string name="power_settings">सेटिंग</string>
+    <string name="power_mode">मोड</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">CPU कुल उपभोग समय</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">जगे रहें</string>
+    <string name="usage_type_alarm">जागरण सिस्टम</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi काम कर रहा है</string>
+    <string name="usage_type_data_send">डेटा प्रेषित</string>
+    <string name="usage_type_data_recv">डेटा प्राप्त</string>
+    <string name="usage_type_audio">ऑडियो</string>
+    <string name="usage_type_video">वीडियो</string>
+    <string name="usage_type_on_time">चालू समय</string>
+    <string name="usage_type_no_coverage">कोई सिग्नल समय नहीं</string>
+    <string name="battery_history_days" formatted="false">%dदिन %dघंटा %dमिनट %dसेकंड</string>
+    <string name="battery_history_hours" formatted="false">%dघंटा %dमिनट %dसेकंड</string>
+    <string name="battery_history_minutes" formatted="false">%dमिनट %dसेकंड</string>
+    <string name="battery_history_seconds">%dसेकंड</string>
+    <string name="battery_hour_minute" formatted="false">%dघंटा %dमिनट</string>
+    <string name="battery_hour">%d घंटा</string>
+    <string name="battery_minute">%d मिनट</string>
+    <string name="battery_wakelock" formatted="false">%d के लिए %s बार</string>
+    <string name="battery_wakelock_days" formatted="false">%dदिन %dघंटा %dमिनट %sसेकंड</string>
+    <string name="battery_wakelock_hours" formatted="false">%dघंटा %dमिनट%sसेकंड</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dमिनट %sसेकंड</string>
+    <string name="battery_wakelock_seconds">%sसेकंड</string>
+    <string name="battery_alarm_time">%dबार</string>
+    <string name="battery_screen_time">पिछले पूर्ण चार्ज के बाद से</string>
+    <string name="usage_type_wakelock_screen">स्क्रीन स्लीप रोकें</string>
+    <string name="usage_type_wakelock_cpu">CPU स्लीप रोकें</string>
+    <string name="usage_type_sensor">उपयोग संवेदक</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">अन्य</string>
+    <string name="battery_screen_on_time">उपयोग में: %s</string>
+    <string name="battery_screen_off_time">स्टैंडबाई पर: %s</string>
+    <string name="enter_setting">लॉन्च सेटिंग</string>
+    <string name="battery_tab_title_consume">पावर उपभोग</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dदिन %dघंटा %dमिनट</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dघंटा %dमिनट</string>
+    <string name="battery_history_minutes_without_seconds">%dमिनट</string>
+    <string name="battery_sensor_info" formatted="false">कुल %s के लिए %d बार</string>
+    <string name="hour">घंटा</string>
+    <string name="minute">मिनट</string>
+    <string name="second">सेकंड</string>
+    <string name="application_not_found">अनुप्रयोग विवरण सेटिंग पाने में विफल</string>
+    <string name="mode_turnOff">ऑफ़</string>
+    <string name="mode_turnOn">ऑन</string>
+    <string name="main_switch_dialog_super">यह केवल कॉल और संदेशन कार्य सक्षम करता है और अन्य सारे अनुप्रयोग को कई दिनों के स्टैंडबाई समय के लिए अक्षम कर देता है</string>
+    <string name="deep_clear_result_to_white_list_new">चयनित अनुप्रयोग प्रभावित नहीं होंगे</string>
+    <string name="temporary_no_app">कोई अनुप्रयोग नहीं</string>
+    <string name="progress_loading">कृपया प्रतीक्षा करें...</string>
+    <string name="failed_switch_app_state">ऑपरेशन विफल. कृपया बाद में पुनः प्रयास करें.</string>
+    <string name="package_manger_list_type_third">उपयोगकर्ता अनुप्रयोग</string>
+    <string name="package_manger_list_type_system">सिस्टम अनुप्रयोग</string>
+    <string name="btn_return">लौटें</string>
+    <string name="main_switcher">नियतकालिक स्विच</string>
+    <string name="switcher_detail">निर्दिष्ट मोड को निर्दिष्ट अवधि के भीतर स्वतः सक्षम करें</string>
+    <string name="switcher">नियतकालिक स्विच</string>
+    <string name="switcher_start_time">आरंभ समय</string>
+    <string name="switcher_end_time">अंत समय</string>
+    <string name="switcher_tag">सक्रिय करने हेतु मोड:</string>
+    <string name="switcher_target_custom">कस्टमाइज़ करें</string>
+    <string name="mode_changed_dialog">मोड स्विच</string>
+    <string name="no_remind">मुझे दोबारा याद न दिलाएँ</string>
+    <string name="new_sim">नया सिम</string>
+    <string name="application_not_found_activity">अनुप्रयोग नहीं मिला</string>
+    <string name="classicmode_lable_phone">टेलीफ़ोन</string>
+    <string name="classicmode_lable_mms">एसएमएस</string>
+    <string name="classicmode_lable_contacts">संपर्क</string>
+    <string name="failed_get_safecenter_whitelist">LenovoSafeCenter श्वेत सूची को सिंक्रनाइज़ करने में विफल. कृपया नवीनतम LenovoSafeCenter को फिर से इंस्टॉल करें</string>
+    <string name="application_not_support_be_launched">अन्य अनुप्रयोग सुरक्षा सेटिंग के कारण इस अनुप्रयोग को सक्षम नहीं कर सकते</string>
+    <string name="classic_phone_dialog_entering">डेटा आरंभ कर रहा है, कृपया प्रतीक्षा करें...</string>
+    <string name="classic_phone_dialog_existing">डेटा पुनर्स्थापित कर रहा है, कृपया प्रतीक्षा करें...</string>
+    <string name="consumption_app_button">सॉफ्टवेयर</string>
+    <string name="consumption_hardware_button">हार्डवेयर</string>
+    <string name="power_setting_menu_classic_phone">चरम पावर रक्षण मोड</string>
+    <string name="power_setting_menu_smart">स्क्रीन, CPU, और GPU पावर रक्षण</string>
+    <string name="power_setting_menu_app_deep_clear">स्क्रीन ऑफ़ रहने के दौरान अनुप्रयोग अक्षम करें</string>
+    <string name="power_setting_menu_consumption">पावर उपभोग विवरण</string>
+    <string name="statistic_assist_title">सहायक आँकड़े सुविधाएँ</string>
+    <string name="power_consumption_title">पावर रक्षण सुविधाएँ</string>
+    <string name="fragment_tab_deepclear">स्क्रीन ऑफ़ रहने के दौरान अनुप्रयोग अक्षम करें</string>
+    <string name="deep_clear_detail">अक्षम होने के बाद, अनुप्रयोग पृष्ठभूमि में सिस्टम स्लीप मोड को बाधित नहीं करेगा</string>
+    <string name="dialog_timing_text">चरम पावर रक्षण मोड में स्विच करें?</string>
+    <string name="switcher_summery">स्वचालित रूप से निर्दिष्ट समयावधि के लिए चरम पावर रक्षण मोड में स्विच करें</string>
+    <string name="switcher_summery_close">सक्षम होने के बाद, यह स्वचालित रूप से निर्दिष्ट समयावधि के लिए चरम पावर रक्षण मोड में स्विच हो जाएगा</string>
+    <string name="classicmode_hit_text">चरम पावर रक्षण</string>
+    <string name="classic_phone_desktop_shortcut">चरम पावर रक्षण</string>
+    <string name="classic_phone_dialog_title">चरम पावर रक्षण मोड प्रॉम्प्ट</string>
+    <string name="classic_phone_dialog_enter">क्या आप वाकई चरम पावर रक्षण में प्रवेश करना चाहते हैं? आप बहुत बुद्धिमान हैं. छुट्टी लेना याद रखें</string>
+    <string name="classic_phone_dialog_exist">क्या आप वाकई चरम पावर रक्षण से बाहर निकलना चाहते हैं?</string>
+    <string name="classic_phone_failed_to_start_service">चरम पावर रक्षण मोड लॉन्च करने में विफल. क्षमा करें, हमने पूरा प्रयास किया</string>
+    <string name="create_classicmode_desktop_shortcut">चरम पावर रक्षण डेस्कटॉप शॉर्टकट बनाएँ</string>
+    <string name="classicmode_exit_hint_text">चरम पावर रक्षण से बाहर निकलने के लिए, कृपया बंद करें बटन को टैप करें</string>
+    <string name="setttings_screen_smart_brightness2">पावर रक्षण दृश्य इंजन</string>
+    <string name="setttings_screen_smart_brightness_detail">पावर उपयोग 5-20% घटाने के लिए साइन-वेव चमक समायोजन तकनीक का उपयोग करें</string>
+    <string name="power_engine_vmx_title">पावर रक्षण गणना इंजन</string>
+    <string name="power_engine_vmx_detail">पावर उपयोग 10-25% घटाने के लिए बुद्धिमान तरीके से CPU को समायोजित करता है</string>
+    <string name="power_engine_fps_title">पावर रक्षण ग्राफिक इंजन</string>
+    <string name="power_engine_fps_detail">पावर उपयोग 10-25% घटाने के लिए GPU को अनुकूलित करता है</string>
+    <string name="power_engine_summery_close">सक्षम होने के बाद, यह बुद्धिमान तरीके से स्क्रीन, CPU और GPU पावर उपयोग को कम करेगा</string>
+    <string name="power_engine_summery_close2">सक्षम होने के बाद, यह बुद्धिमान तरीके से स्क्रीन और GPU पावर उपयोग को कम करेगा</string>
+    <string name="power_engine_summery_close3">सक्षम होने के बाद, यह बुद्धिमान तरीके से स्क्रीन पावर उपयोग को कम करेगा</string>
+    <string name="power_engine_summery_close4">सक्षम होने के बाद, यह बुद्धिमान तरीके से स्क्रीन और CPU पावर उपयोग को कम करेगा</string>
+    <string name="power_setting_menu_smart2">स्क्रीन पावर रक्षण</string>
+    <string name="power_setting_menu_smart3">स्क्रीन, CPU, और GPU पावर रक्षण</string>
+    <string name="power_setting_menu_smart4">स्क्रीन और GPU पावर रक्षण</string>
+    <string name="power_setting_menu_smart5">स्क्रीन और CPU पावर रक्षण</string>
+    <string name="power_setting_current_battery" formatted="false">वर्तमान शुल्क: %s%s</string>
+</resources>

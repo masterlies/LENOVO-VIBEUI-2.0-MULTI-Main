@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salvesti</string>
+    <string name="left_timer_format" formatted="false">Aega jäänud: %02d t %02d min</string>
+    <string name="recording">Salvestamine %1$s</string>
+    <string name="label_quality">Valige salvestamise kvaliteet</string>
+    <string name="remain_time">Järelejäänud aeg</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Tühista</string>
+    <string name="audio_db_artist_name">Salvesta esitajat</string>
+    <string name="audio_db_album_name">Salvestised</string>
+    <string name="audio_db_playlist_name">Minu salvestised</string>
+    <string name="exit_tip">Kas soovite salvestist kindlasti väljuda?</string>
+    <string name="error_zero_audio">0-sekundilist heli ei saa salvestada.</string>
+    <string name="error_busy_in_call">Lõpetage kõne ja seejärel kasutage salvestit.</string>
+    <string name="error_no_space">Ruumi pole piisavalt, ei saa salvestada.</string>
+    <string name="error_sdcard_access">SD-kaardile ei pääse juurde</string>
+    <string name="error_internal">Salvesti töötab. Kõigepealt sulgege salvesti.</string>
+    <string name="error_mediadb_new_record">Salvestatud heli ei saa salvestada</string>
+    <string name="error_app_unsupported">Toetuseta vorming</string>
+    <string name="error_insert_sd_card">Sisestage SD-kaart</string>
+    <string name="error_storage_is_full">Mälu on täis</string>
+    <string name="error_max_length">Maksimaalne pikkus on saavutatud</string>
+    <string name="contextmenu_item_delete">Kustuta</string>
+    <string name="contextmenu_item_rename">Nimeta ümber</string>
+    <string name="contextmenu_item_send_title">Saada</string>
+    <string name="contextmenu_item_setasringtone">Helin</string>
+    <string name="label_setringtone_success">Salvestise \"%1$s\" määramine helinaks õnnestus</string>
+    <string name="setringtone_fail">Helinat pole värina- ega vaikses režiimis vaja määrata</string>
+    <string name="del_selfile_tip">Kas soovite salvestatud helifaili kindlasti kustutada?</string>
+    <string name="label_delete_success">Kustutamine õnnestus.</string>
+    <string name="input_toolong">Sisestatud on liiga palju tähemärke</string>
+    <string name="file_name_exist">Kahjuks ei saa failinime korrata</string>
+    <string name="empty_len">Failinime väli ei tohi olla tühi.</string>
+    <string name="namebad">Faili nimi sisaldab lubamatuid märke: \\ : ? * > \" | / jne.</string>
+    <string name="delete_tip">Kustuta salvestis</string>
+    <string name="not_select">Te ei valinud ühtegi suvandit</string>
+    <string name="am_file">%1$s:%2$s Uhr</string>
+    <string name="pm_file">%1$s:%2$s Uhr</string>
+    <string name="selected_number_of">%1$s valitud</string>
+    <string name="saved_file_reminder">Die Datei wird als \"%1$s\" gespeichert</string>
+    <string name="delete_recorded">Aufnahmedatei löschen</string>
+    <string name="delete_muti_msg">Kustutab, palun oota...</string>
+    <string name="rename_record_file">Datei umbenennen</string>
+    <string name="soundrecorder_list">Aufnahmen</string>
+    <string name="callrecorder_list">Sprachanrufe</string>
+    <string name="mediarecorder_list">Medienaufnahmen</string>
+    <string name="high_quality">Interviewmodus (Hoch)</string>
+    <string name="medium_quality">Unterhaltungsmodus (Mittel)</string>
+    <string name="low_quality">Interaktionsmodus (Niedrig)</string>
+    <string name="exit_record_play">Enne esitamist peatage salvestamine</string>
+    <string name="exit_play_edit">Enne muutmist peatage esitamine</string>
+    <string name="exit_playOrRecord_delete">Enne pakk-kustutusrežiimi sisenemist lõpetage taasesitus või salvestamine.</string>
+    <string name="playlist_text">Salvestiste loend</string>
+    <string name="fileDir_not_exist">Helifailide jaoks valitud failiteed pole olemas!</string>
+</resources>

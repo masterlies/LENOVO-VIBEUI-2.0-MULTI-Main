@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Mara moja</item>
+        <item>Sekunde 5</item>
+        <item>Sekunde 15</item>
+        <item>Sekunde 30</item>
+        <item>Dakika 1</item>
+        <item>Dakika 2</item>
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 30</item>
+    </string-array>
+</resources>

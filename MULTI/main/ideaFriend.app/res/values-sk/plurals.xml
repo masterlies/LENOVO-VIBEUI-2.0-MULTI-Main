@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Kontakty s telefónnymi číslami: %d</item>
+        <item quantity="one">1 kontakt s telefónnym číslom</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Kontakty: %d</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Nájdené kontakty: %d</item>
+        <item quantity="one">Našiel sa 1 kontakt</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">"Nájdení:  %d"</item>
+        <item quantity="one">1 nájdený</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Spojené z niekoľkých zdrojov: %0$d</item>
+        <item quantity="one">Nespojené</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Skupiny: %0$d</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d ľudí z %2$s</item>
+        <item quantity="one">%1$d kontaktov z %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Ľudia: %1$d</item>
+        <item quantity="one">Ľudia: %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Odkazy: %1$d</item>
+        <item quantity="one">Odkaz</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">Nájdené denníky hovorov: %d</item>
+        <item quantity="one">Našiel sa 1 denník hovorov</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Hľadať kontakty | Celkom kontaktov: %d</item>
+        <item quantity="one">Hľadať kontakty | Celkom 1 kontakt</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Konverzácie budú odstránené: %1$s.</item>
+        <item quantity="one">Systém odstráni 1 konverzáciu</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">Neprečítané správy: %d.</item>
+        <item quantity="one">Neprečítané správy: %d.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sek</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s sek</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s výsledky hľadania pre %2$s</item>
+        <item quantity="one">%1$s výsledky hľadania pre %2$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Ľudia: %1$s</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Poslať hlásenia o prečítaní: %d</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Počet vybratých: %d</item>
+        <item quantity="one">Počet vybratých: %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Označiť konverzácie ako prečítané: %1$s</item>
+        <item quantity="one">Označiť 1 konverzáciu ako prečítanú</item>
+    </plurals>
+</resources>

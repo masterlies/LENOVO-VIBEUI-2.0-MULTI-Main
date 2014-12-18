@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Новини</item>
+        <item>Спорт</item>
+        <item>Вистави</item>
+        <item>Відеокліпи</item>
+        <item>Фільми</item>
+        <item>Комедії</item>
+        <item>Дія</item>
+        <item>Мюзикли</item>
+        <item>Мультфільми</item>
+        <item>"Вар'єте"</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Відтворити</item>
+        <item>Перейменувати</item>
+        <item>Видалити</item>
+        <item>Інформація</item>
+        <item>Поділитися</item>
+        <item>Груповий вибір</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Відтворити</item>
+        <item>Перейменувати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Відтворити</item>
+        <item>Видалити</item>
+        <item>Очистити список</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Відтворити</item>
+        <item>Додати це відео</item>
+    </string-array>
+</resources>

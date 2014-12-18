@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>ברירת מחדל - שיטות קלט</item>
+        <item>ברירת מחדל - תוכנה לשולחן העבודה</item>
+        <item>ברירת מחדל - דפדפן אינטרנט</item>
+        <item>ברירת מחדל - תוכנת חיוג</item>
+        <item>ברירת מחדל - תוכנת מסרונים</item>
+        <item>ברירת מחדל - תוכנת דואר אלקטרוני</item>
+        <item>ברירת מחדל - מציג התמונות</item>
+        <item>ברירת מחדל - תוכנת מצלמה</item>
+        <item>ברירת מחדל - תוכנת ווידיאו</item>
+        <item>ברירת מחדל - תוכנת ווידיאו מקוון</item>
+        <item>ברירת מחדל - תוכנת שמע</item>
+        <item>ברירת מחדל - תוכנת שמע מקוון</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>התקן אתחול</item>
+        <item>משוחח בטלפון</item>
+        <item>מסרונים, קבלה</item>
+        <item>רישות ציוד</item>
+        <item>התקנת תוכנה</item>
+        <item>שחרור נעילה מסך שחור</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>המלצות מערכת</item>
+        <item>אכוף התקנה בטלפון</item>
+        <item>אכוף התקנה בכרטיס זיכרון ברירת מחדל</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>הפעלה</item>
+        <item>חיבור אינטרנט</item>
+        <item>שיחה</item>
+        <item>מסרון</item>
+        <item>קרא ספר כתובות</item>
+        <item>קבל את המיקום.</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

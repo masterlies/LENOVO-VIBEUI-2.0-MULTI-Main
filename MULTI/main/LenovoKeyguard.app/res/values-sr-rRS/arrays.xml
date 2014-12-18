@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Odmah</item>
+        <item>5 sekundi</item>
+        <item>15 sekundi</item>
+        <item>30 sekundi</item>
+        <item>1 minut</item>
+        <item>2 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+</resources>

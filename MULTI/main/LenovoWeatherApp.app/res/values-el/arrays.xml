@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Ορισμός ως προεπιλεγμένης πόλης</item>
+        <item>Διαγραφή αυτής της πόλης</item>
+    </string-array>
+</resources>

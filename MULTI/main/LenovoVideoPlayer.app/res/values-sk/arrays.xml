@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Správy</item>
+        <item>Šport</item>
+        <item>Dráma</item>
+        <item>Hudobné video</item>
+        <item>Film</item>
+        <item>Komédia</item>
+        <item>Akcia</item>
+        <item>Muzikál</item>
+        <item>Animované</item>
+        <item>Varieté</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Prehrať</item>
+        <item>Premenovať</item>
+        <item>Odstrániť</item>
+        <item>Informácie</item>
+        <item>Zdieľať</item>
+        <item>Viacnásobný výber</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Prehrať</item>
+        <item>Premenovať</item>
+        <item>Odstrániť</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Prehrať</item>
+        <item>Odstrániť</item>
+        <item>Zmazať zoznam</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Prehrať</item>
+        <item>Pridať toto video</item>
+    </string-array>
+</resources>

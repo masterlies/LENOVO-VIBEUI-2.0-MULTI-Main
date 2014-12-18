@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d אותיות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל אות אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d אותיות קטנות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל אות קטנה אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d אותיות גדולות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל אות גדולה אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d ספרות לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל ספרה אחת לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d סמלים מיוחדים לפחות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל סמל מיוחד אחד לפחות.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏הסיסמה צריכה להכיל %d תווים לפחות שאינם אותיות.</item>
+        <item quantity="one">הסיסמה צריכה להכיל תו אחד לפחות שאינו אות.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">‏מספר PIN שגוי של כרטיס ה-%1$s. נותרו לך %2$d ניסיונות נוספים.</item>
+        <item quantity="one">‏מספר PIN שגוי של כרטיס ה-%1$s. נותר לך ניסיון %2$d נוסף לפני שיהיה עליך ליצור קשר עם הספק על מנת לבטל את נעילת המכשיר.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">‏קוד PUK שגוי של כרטיס ה-%1$s. נותרו לך %2$d ניסיונות נוספים לפני שכרטיס ה-%1$s ינעל לצמיתות.</item>
+        <item quantity="one">‏קוד PUK שגוי של כרטיס ה-%1$s. נותר לך ניסיון %2$d נוסף לפני שכרטיס ה-%1$s ינעל לצמיתות.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">‏מספר PIN שגוי של כרטיס ה-SIM. נותרו לך %d ניסיונות נוספים.</item>
+        <item quantity="one">‏מספר PIN שגוי של כרטיס ה-SIM. נותר לך ניסיון %d נוסף לפני שיהיה עליך ליצור קשר עם הספק על מנת לבטל את נעילת המכשיר.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏קוד PUK שגוי של כרטיס ה-SIM. נותרו לך %d ניסיונות נוספים לפני שכרטיס ה-SIM ינעל לצמיתות.</item>
+        <item quantity="one">‏קוד PUK שגוי של כרטיס ה-SIM. נותר לך ניסיון %d נוסף לפני שכרטיס ה-SIM ינעל לצמיתות.</item>
+    </plurals>
+</resources>

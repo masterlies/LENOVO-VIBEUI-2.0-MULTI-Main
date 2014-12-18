@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s pokušava da napravi VPN vezu.</string>
+    <string name="warning">Ako nastavite, dajete aplikaciji dozvolu da presreće sav mrežni saobraćaj. <b>NEMOJTE da prihvatate ovo osim ukoliko nemate poverenja u aplikaciju.</b> U suprotnom, rizikujete da vam podatke ugrozi zlonamerni softver.</string>
+    <string name="accept">Imam poverenja u ovu aplikaciju.</string>
+    <string name="legacy_title">VPN je povezan</string>
+    <string name="configure">Konfiguriši</string>
+    <string name="disconnect">Prekini vezu</string>
+    <string name="session">Sesija:</string>
+    <string name="duration">Trajanje:</string>
+    <string name="data_transmitted">Poslato:</string>
+    <string name="data_received">Primljeno:</string>
+    <string name="data_value_format">%1$s bajt(ov)a / %2$s paketa</string>
+</resources>

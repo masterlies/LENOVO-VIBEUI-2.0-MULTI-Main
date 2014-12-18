@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>پیش‌فرض</item>
+        <item>پیانو</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>سازمان</item>
+        <item>نظرات</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>جنسیت</item>
+        <item>گوشی</item>
+        <item>تولد</item>
+        <item>مکان</item>
+        <item>مدرسه</item>
+        <item>شرکت</item>
+        <item>ایمیل</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>اختصاصی</item>
+        <item>مرد</item>
+        <item>زن</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>خوشحال</item>
+        <item>ناراحت</item>
+        <item>چشمک زدن</item>
+        <item>زبان درآوردن</item>
+        <item>شگفت زده</item>
+        <item>بوسیدن</item>
+        <item>فریاد کشیدن</item>
+        <item>آرام</item>
+        <item>پول در دهان</item>
+        <item>پا در دهان</item>
+        <item>خجالت زده</item>
+        <item>فرشته</item>
+        <item>تصمیم نگرفته</item>
+        <item>گریه کردن</item>
+        <item>لب‌های قفل شده</item>
+        <item>خندان</item>
+        <item>گیج</item>
+        <item>عشق</item>
+        <item>عصبانی</item>
+        <item>پوزخند</item>
+        <item>چهره پوکر</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>کجایی؟</item>
+        <item>چکار میکنی؟</item>
+        <item>اورژانسی! لطفاً بلافاصله تماس بگیرید.</item>
+        <item>ببخشید، اکنون در جلسه هستم.</item>
+        <item>به زودی با شما تماس می‌گیرم.</item>
+        <item>نگران نباش! من خوبم.</item>
+        <item>در راه خانه هستم.</item>
+        <item>به زودی می‌رسم.</item>
+        <item>همه آدم‌های مهم در آنجا هستند!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>حالت محدود شده</item>
+        <item>حالت هشدار</item>
+        <item>حالت رایگان</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>زیاد</item>
+        <item>متوسط</item>
+        <item>کم</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>الفبای GSM</item>
+        <item>Unicode</item>
+        <item>خودکار</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>گوشی</item>
+        <item>سیم‌کارت</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>دستگاه</item>
+        <item>سیم‌کارت</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>پیش‌فرض</item>
+        <item>کوچک</item>
+        <item>متوسط</item>
+        <item>بزرگ</item>
+        <item>خیلی بزرگ</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>هدایت مستقیم</item>
+        <item>نام فرستنده را اضافه کنید</item>
+        <item>نام و شماره فرستنده را اضافه کنید</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>هدایت مستقیم</item>
+        <item>نام فرستنده را اضافه کنید</item>
+        <item>نام و شماره فرستنده را اضافه کنید</item>
+        <item>هر بار سؤال شود (هدایت مستقیم در حین ارسال خودکار)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>گوشی</item>
+        <item>کارت UIM</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>۱ ثانیه</item>
+        <item>۲ ثانیه</item>
+        <item>۳ ثانیه</item>
+        <item>۴ ثانیه</item>
+        <item>۵ ثانیه</item>
+        <item>۶ ثانیه</item>
+        <item>۷ ثانیه</item>
+        <item>۸ ثانیه</item>
+        <item>۹ ثانیه</item>
+        <item>۱۰ ثانیه</item>
+        <item>سایر موارد…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>همیشه</item>
+        <item>فقط هنگام بی‌صدا بودن</item>
+        <item>هرگز</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>با تاریخ</item>
+        <item>با شماره</item>
+        <item>با مخاطب</item>
+    </string-array>
+</resources>

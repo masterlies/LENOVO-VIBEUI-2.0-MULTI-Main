@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калкулатор</string>
+    <string name="error">Грешка</string>
+    <string name="advanced">Напредна подешавања</string>
+    <string name="clear_history">Обриши историју</string>
+    <string name="copy">Копирај</string>
+    <string name="paste">Налепи</string>
+    <string name="only_digit">Možete samo da nalepite brojeve</string>
+    <string name="basic">Osnovno</string>
+    <string name="copy_success">Kopirano</string>
+    <string name="full_input">Prekoračen maksimalan broj cifara</string>
+</resources>

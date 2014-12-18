@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Işık efekti</string>
+    <string name="breath_settings">Döngü aralığı</string>
+    <string name="breath_delay">Işık efekti döngü aralığı</string>
+    <string name="breath_delay_info">Kısa döngü aralıkları daha fazla güç tüketir</string>
+    <string name="light_switch_settings">Işık efekti ayarı</string>
+    <string name="coming_call">Gelen arama</string>
+    <string name="miss_call">Cevapsız aramalar</string>
+    <string name="unread_msg">Okunmamış mesajlar</string>
+    <string name="battery_low_msg">Düşük pil</string>
+    <string name="other_app_notify">Diğer okunmamış bildirimler</string>
+    <string name="music_play">Müzik çal</string>
+    <string name="screen_on">Ekranı açmak için dokunun</string>
+    <string name="screen_off">Kilit ekranı</string>
+    <string name="power_on_off">Açma/Kapatma</string>
+    <string name="charging">Şarj</string>
+    <string name="low_battery">Düşük pil</string>
+    <string name="color_settings">Işık efekti rengi</string>
+    <string name="color_settings_info">Işık efekti renklerini ayarla</string>
+    <string name="color_coming_call">Gelen arama ışık efekti rengi</string>
+    <string name="color_miss_call">Cevapsız arama ışık efekti rengi</string>
+    <string name="color_unread_msg">Okunmamış mesaj ışık efekti rengi</string>
+    <string name="color_music">Müzik çalma ışık efekti rengi</string>
+    <string name="color_screen_on">Ekran Açık ışık efekti rengi</string>
+    <string name="color_screen_off">Kilit ekranı ışık efekti rengi</string>
+    <string name="light_show">Işık efekti demosu</string>
+    <string name="light_show_info">Işık efekti demosu devam ediyor</string>
+    <string name="stop">Durdur</string>
+    <string name="closed">Kapalı</string>
+    <string name="open">Açık</string>
+    <string name="multiselect_alert_info">En az bir renk seçilmelidir!</string>
+    <string name="select_color_title">Renk seçimi</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="click_screen">Ekranı aç</string>
+    <string name="calling">Aramayı cevapla</string>
+</resources>

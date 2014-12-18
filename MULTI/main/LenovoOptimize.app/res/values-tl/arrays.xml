@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Mga default na input method</item>
+        <item>Default na desktop software</item>
+        <item>Default na Internet software</item>
+        <item>Default na dial-up software</item>
+        <item>Default na SMS software</item>
+        <item>Default na Email software</item>
+        <item>Default na picture viewer</item>
+        <item>Default na camera software</item>
+        <item>Default na video software</item>
+        <item>Default na Online video software</item>
+        <item>Default na audio software</item>
+        <item>Default na Online audio software</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Boot device</item>
+        <item>Nasa telepono</item>
+        <item>Pagtanggap ng SMS</item>
+        <item>Equipment Networking</item>
+        <item>Pag-install ng Software</item>
+        <item>Pag-unlock ng black screen</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Mga rekomendasyon sa system</item>
+        <item>Piliting I-install sa phone</item>
+        <item>Piliting I-install sa default na memory card</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Power on</item>
+        <item>Koneksyon sa internet</item>
+        <item>Tawag</item>
+        <item>SMS</item>
+        <item>Basahin ang address book</item>
+        <item>Kunin ang lokasyon</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

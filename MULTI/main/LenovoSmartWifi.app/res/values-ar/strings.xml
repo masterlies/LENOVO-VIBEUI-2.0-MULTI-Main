@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">اتصال الشبكة المحلية اللاسلكية الخاصة بالموقع</string>
+    <string name="dialog_title">هل ترغب في تمكين الشبكة المحلية اللاسلكية?</string>
+    <string name="dialog_text">هل تريد تمكين WLAN التي استخدمتها كنقطة اتصال للموقع الحالي؟</string>
+    <string name="disable_dialog_title">هل ترغب في تعطيل الشبكة المحلية اللاسلكية؟</string>
+    <string name="disable_dialog_text">يبعد هذا الموقع عن موقع نقطة الاتصال المتصلة، هل تريد تعطيل WLAN؟</string>
+    <string name="show_dialog">لا تذكرني</string>
+    <string name="disable_show_dialog">لا تذكرني</string>
+    <string name="wifi_enable_text">دخول الموقع، مطالبة منبثقة</string>
+    <string name="wifi_enable_summary">عند دخول موقع لنقطة اتصال متصلة مع إشارة ذات مستوى 3 أو أعلى ومع بيانات GRPS، قم بتمكين WLAN</string>
+    <string name="wifi_disable_text">موقع بعيد، مطالبة منبثقة</string>
+    <string name="wifi_disable_summary">تعطيل WLAN عندما يكون الموقع بعيدًا عن نقطة الاتصال المتصلة</string>
+    <string name="wifi_setting_summary">ربط شبكة WLAN المتصلة، وإذا استخدمت لاحقًا خدمة بيانات 3G/2G GPRS ضمن نطاق التغطية، فسيتم تذكيرك بالاتصال بشبكة WLAN هذه أو أنها ستتصل تلقائيًا بهذه الشبكة.</string>
+    <string name="wifi_popup_tip">مطالبة منبثقة</string>
+    <string name="wifi_auto_enable">اتصال تلقائي</string>
+    <string name="wifi_auto_disable">تعطيل تلقائي</string>
+    <string name="wifi_popup_0">إذا سبق لك استخدام تطبيق وربطته بنقطة الاتصال المتصلة، فعند دخول هذا الموقع، سيظهر مربع منبثق</string>
+    <string name="wifi_popup_1">ربط نقطة الاتصال المتصلة. عند دخول هذا الموقع تمكين تلقائي</string>
+    <string name="wifi_popup_2">لا تذكرني</string>
+    <string name="confirm_yes">نعم</string>
+    <string name="confirm_no">لا</string>
+    <string name="enable_wifi_hint">يقوم تسجيل WLAN الآن بالاتصال بشبكة WLAN لتوفير تدفق البيانات</string>
+    <string name="disable_wifi_hint">يقوم تسجيل WLAN الآن بإيقاف WLAN لتوفير استهلاك الطاقة</string>
+</resources>

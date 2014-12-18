@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_show_type_array">
+        <item>Τα πρώτα 4 ψηφία</item>
+        <item>Τα 4 τελευταία ψηφία</item>
+        <item>Να μην εμφανίζεται</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>Μία φορά</item>
+        <item>Πάντα</item>
+        <item>Ποτέ</item>
+    </string-array>
+</resources>

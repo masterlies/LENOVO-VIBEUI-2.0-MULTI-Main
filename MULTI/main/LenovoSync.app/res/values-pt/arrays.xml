@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>A aguardar</item>
+        <item>A executar cópia de segurança</item>
+        <item>Cópia de segurança realizada</item>
+        <item>Erro</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Cancelado</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>A aguardar</item>
+        <item>A transferir</item>
+        <item>Desinstalar</item>
+        <item>Erro</item>
+        <item>Atualizar</item>
+        <item>Instalada</item>
+        <item>Cancelado</item>
+        <item>A instalar</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Alterar nome do álbum</item>
+        <item>Eliminar álbum</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"Palavra-passe predefinida: Após registo com sucesso, irá receber um SMS contendo a palavra-passe da Lenovo.Se não a receber durante um longo período de tempo, verifique se alguma aplicação de segurança (tal como 360 Safe Guard) bloquearam os SMS. Se ainda assim não tiver recebido a SMS ou a mesma se tiver perdido, consulte Recuperar palavra-passe.  
+
+ Para alterar a palavra-passe: altere a palavra-passe após aceder a http://cloud.lenovo.com a partir do PC.  
+
+ Para recuperar a palavra-passe: Toque no Botão Mais no canto superior esquerdo para entrar em [Definições da Conta]. Se já tiver iniciado sessão, termine a mesma. Quando aparecer [Esquecer palavra-passe] siga os pedidos."</item>
+        <item>O SYNCit é uma aplicação móvel grátis, mas o seu operador pode cobrar-lhe taxas de tráfego de rede gerado pela transferência e utilização.</item>
+        <item>A cópia de segurança inteligente mantém o local e a cloud consistente e evita a perda de contactos.</item>
+        <item>No processo de sincronização de contactos, o SYNCit junta automaticamente contactos que tenham nomes e números idênticos. Não se preocupe caso aparente ter perdido alguns contactos.</item>
+        <item>Utilize um PC para aceder a http://cloud.lenovo.com. De seguida pode executar operações de gestão como eliminar, editar e adicionar à sua cópia de segurança de dados.</item>
+        <item>No processo de transmissão de dados e armazenamento, o SYNCit aplica encriptação ao nível da banca online, para evitar a fuga de informações pessoais.</item>
+        <item>Eliminou contactos por engano. Se já tiver realizado a sincronização de contactos, pode recuperar os mesmos a partir da [Reciclagem] do SYNCit. Após a recuperação, sincronize os contactos para evitar perdas.</item>
+        <item>As versões aplicáveis estão disponíveis para o seu telemóvel, desde que o mesmo esteja numa versão superior ao Android 2.2, iOS5 ou Symbian, ou se suportar java.</item>
+        <item>O SYNCit possui utilização multi-plataforma e é aplicável a Android, Symbian, iPhone e outros telefones que suportem java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>O que é uma palavra-passe predefinida de uma conta? Como modifico a minha palavra-passe? Como recupero uma palavra-passe?</item>
+        <item>O SYNCit é grátis?</item>
+        <item>O que é a sincronização dos contactos?</item>
+        <item>Porque é que existem menos contactos locais depois da sincronização de contactos?</item>
+        <item>Como é que executo operações de gestão (por ex. eliminação) em dados com cópias de segurança executadas?</item>
+        <item>O SYNCit é seguro? Os meus dados das cópias de segurança e da minha conta serão eliminados?</item>
+        <item>Se tiver eliminado os meus contactos acidentalmente, como os recupero?</item>
+        <item>O SYNCit é apenas para utilização no Lenovo Mobile?</item>
+        <item>O SYNCit suporta a utilização multi-plataforma?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Contactos</item>
+        <item>Mensagens</item>
+        <item>RegistoChamadas</item>
+    </string-array>
+</resources>

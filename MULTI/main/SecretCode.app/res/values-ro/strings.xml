@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cod secret</string>
+    <string name="hardversion">Versiune hardware:</string>
+    <string name="softversion">Versiune software:</string>
+    <string name="frameworkversion">Versiune cadru:</string>
+    <string name="osversion">Versiune SO:</string>
+    <string name="modemversion">Versiune modem:</string>
+    <string name="meid_activity_title">Versiune PRL</string>
+    <string name="disable_fdn_activity_title">Setarea Fdn</string>
+    <string name="tv_text">"Setările pornire FDN.
+(Activare/Dezactivare)"</string>
+    <string name="btn_post">Activare</string>
+    <string name="btn_neg">Dezactivare</string>
+    <string name="enable_fdn">Activare</string>
+    <string name="disable_fdn">Dezactivare</string>
+    <string name="reboot_device_title">Repornire dispozitiv</string>
+    <string name="reboot_device_message_pre_on">Serviciul SS este activat</string>
+    <string name="reboot_device_message_pre_off">Serviciul SS este dezactivat</string>
+    <string name="reboot_device_message_post">(Trebuie repornire!!!)</string>
+    <string name="reboot">Reporniţi</string>
+    <string name="cancel">Anulaţi</string>
+    <string name="default_state">Eroare:</string>
+    <string name="cur_state">Stare serviciu SS curent:</string>
+    <string name="alert_string">Alertă!</string>
+    <string name="alert_message_string">Apăsând tasta [OK] veţi reveni la setările din fabrică şi ştergeţi toate datele utilizatorului, utilizatorii obişnuiţi ar trebui să fie atenţi!</string>
+    <string name="alert_message_ums_string">Apăsând tasta [OK] va seta usb.config la modul mass_storage pentru depanare, utilizatorii obişnuiţi ar trebui să fie atenţi!</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">NU</string>
+    <string name="framework_inf">Versiune internă</string>
+    <string name="commit_cate">Salvare</string>
+    <string name="summary_on">ACTIVAT</string>
+    <string name="summary_off">DEZACTIVAT</string>
+    <string name="report_log_summary">Raportaţi</string>
+    <string name="report_log_title">Raportaţi</string>
+    <string name="yes_exit">Da</string>
+    <string name="no_exit">Nu</string>
+    <string name="enable">Activare</string>
+    <string name="disable">Dezactivat</string>
+    <string name="regulatory_information">Informaţii reglementare</string>
+</resources>

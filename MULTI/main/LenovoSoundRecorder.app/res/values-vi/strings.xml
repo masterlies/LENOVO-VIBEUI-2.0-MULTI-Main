@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi âm</string>
+    <string name="left_timer_format" formatted="false">Thời gian còn lại: %02d giờ %02d phút</string>
+    <string name="recording">Đang ghi âm %1$s</string>
+    <string name="label_quality">Chọn chất lượng ghi âm</string>
+    <string name="remain_time">Thời gian còn lại</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Hủy</string>
+    <string name="audio_db_artist_name">Bản ghi của bạn</string>
+    <string name="audio_db_album_name">Bản ghi âm thanh</string>
+    <string name="audio_db_playlist_name">Bản ghi của tôi</string>
+    <string name="exit_tip">Bạn thực sự muốn thoát máy ghi âm?</string>
+    <string name="error_zero_audio">Không thể ghi âm trong thời gian 0 giây.</string>
+    <string name="error_busy_in_call">Xin treo lên và sau đó sử dụng máy ghi âm!</string>
+    <string name="error_no_space">Không đủ bộ nhớ trống, không thể ghi âm.</string>
+    <string name="error_sdcard_access">Không thể truy cập thẻ SD</string>
+    <string name="error_internal">Đang chạy máy ghi âm, hãy đóng trước!</string>
+    <string name="error_mediadb_new_record">Không thể lưu âm thanh đã ghi</string>
+    <string name="error_app_unsupported">Định dạng không được hỗ trợ</string>
+    <string name="error_insert_sd_card">Vui lòng lắp thẻ SD</string>
+    <string name="error_storage_is_full">Bộ nhớ đầy</string>
+    <string name="error_max_length">Đã đạt đến độ dài tối đa</string>
+    <string name="contextmenu_item_delete">Xóa</string>
+    <string name="contextmenu_item_rename">Đổi tên</string>
+    <string name="contextmenu_item_send_title">Gửi</string>
+    <string name="contextmenu_item_setasringtone">Cài làm nhạc chuông</string>
+    <string name="label_setringtone_success">Đã cài thành công mục ghi âm \"%1$s\" làm nhạc chuông</string>
+    <string name="setringtone_fail">Không cần phải đặt Nhạc chuông ở chế độ rung hoặc im lặng</string>
+    <string name="del_selfile_tip">Bạn thực sự muốn xóa hết file ghi âm?</string>
+    <string name="label_delete_success">Đã xóa thành công!</string>
+    <string name="input_toolong">Đã nhập quá nhiều ký tự</string>
+    <string name="file_name_exist">Rất tiếc, tên tập tin không thể lặp lại</string>
+    <string name="empty_len">Tên file không thể trống.</string>
+    <string name="namebad">Tên file chứa các ký tự không hợp lệ: \\ : ? * > \" | /</string>
+    <string name="delete_tip">Xóa mục ghi âm</string>
+    <string name="not_select">Bạn chưa chọn mục nào</string>
+    <string name="am_file">%1$s:%2$s sáng</string>
+    <string name="pm_file">%1$s:%2$s chiều</string>
+    <string name="selected_number_of">%1$s Đã chọn</string>
+    <string name="saved_file_reminder">Tập tin được lưu thành \"%1$s\"</string>
+    <string name="delete_recorded">Xóa tập tin ghi âm</string>
+    <string name="delete_muti_msg">Đang xóa, vui lòng chờ...</string>
+    <string name="rename_record_file">Đổi tên tập tin</string>
+    <string name="soundrecorder_list">Bản ghi</string>
+    <string name="callrecorder_list">Bản ghi cuộc gọi</string>
+    <string name="mediarecorder_list">Bản ghi phương tiện</string>
+    <string name="high_quality">Chế độ Phỏng vấn (Cao)</string>
+    <string name="medium_quality">Chế độ Đàm thoại (Trung bình)</string>
+    <string name="low_quality">Chế độ Tương tác (Thấp)</string>
+    <string name="exit_record_play">Vui lòng ngừng ghi trước khi phát</string>
+    <string name="exit_play_edit">Vui lòng ngừng phát trước khi biên tập</string>
+    <string name="exit_playOrRecord_delete">Vui lòng dừng phát lại hoặc ghi âm trước khi vào chế độ xóa hàng loạt</string>
+    <string name="exit_toast">Nhấp lại để thoát khỏi ứng dụng</string>
+    <string name="playlist_text">Danh sách ghi âm</string>
+    <string name="fileDir_not_exist">Đường dẫn được chọn cho tập tin âm thanh không tồn tại!</string>
+</resources>

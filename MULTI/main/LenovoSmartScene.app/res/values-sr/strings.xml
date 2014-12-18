@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty">Нема ставки</string>
+    <string name="normal">Опште</string>
+    <string name="meeting">Вибрација звона</string>
+    <string name="mute">Нечујно</string>
+    <string name="delete">Избриши</string>
+    <string name="save">Сачувај</string>
+    <string name="WLAN">WLAN</string>
+    <string name="cancel">Откажи</string>
+    <string name="meetings">Састанак</string>
+    <string name="home">Почетна</string>
+    <string name="rest_in_night">Ноћ</string>
+    <string name="switch_every_day">Svakog dana</string>
+    <string name="switch_week_day">Radnim danima</string>
+    <string name="switch_week_end">Vikendom</string>
+    <string name="menu_help">Помоћ</string>
+    <string name="car">Аутомобил</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="data_connection_title">Веза за пренос података</string>
+    <string name="brightness_title">Осветљеност</string>
+    <string name="gps_title">GPS</string>
+    <string name="brightness_auto">Аутоматски</string>
+    <string name="brightness_middle">Нормалан</string>
+    <string name="action_open">Отвори</string>
+    <string name="action_close">Искључено</string>
+    <string name="icon_get_camera">Сними фотографију</string>
+    <string name="next">Next</string>
+    <string name="title_activity_help">Помоћ</string>
+    <string name="new_sim">Нова SIM картица</string>
+    <string name="exit_edit_dialog_title">Одбаци</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Menunggu</item>
+        <item>Menyandar</item>
+        <item>Disandar</item>
+        <item>Ralat</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Dibatal</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Menunggu</item>
+        <item>Memuat turun</item>
+        <item>Nyahpasang</item>
+        <item>Ralat</item>
+        <item>Kemas kini</item>
+        <item>Dipasang</item>
+        <item>Dibatal</item>
+        <item>Memasang</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Ubah nama Album</item>
+        <item>Hapus Album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit merupakan APL mudah alih percuma tetapi kos rangkaian trafik yang dihasilkan daripada pemuatan dan penggunaan akan dikenakan bayaran oleh operator.</item>
+        <item>Ya, ia adalah.</item>
+        <item>SYNCit menyimpan maklumat pengguna dengan cara penyulitan peringkat perbankan dalam talian. Ia sudah tentu boleh menyimpan data peribadi dan keselamatan maklumat daripada dibocorkan.</item>
+        <item>SYNCit akan menggabungkan kenalan dipenduakan dalam telefon anda.</item>
+        <item>Sudah tentu anda boleh. Jika sistem telefon anda merupakan salah satu daripada berikut: Android, iOS, Symbian atau menyokong Java (anda boleh menemui versi sepadan untuk diguna).</item>
+        <item>Ya, ia menyokong platform Symbian, iOS, Android dan Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Adakah SYNCit mengenakan bayaran?</item>
+        <item>Adakah SYNCit dan Android Backup perisian sama?</item>
+        <item>Adakah SYNCit selamat? Adakah SYNCit akan mencuri nombor telefon saya atau data sandaran saya?</item>
+        <item>Kenapa kenalan saya kurang selepas sandar?</item>
+        <item>Telefon saya tidak dibuat oleh Lenovo, masih boleh saya gunakan SYNCit?</item>
+        <item>Adakah SYNCit menyokong platform lain?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kenalan</item>
+        <item>Mesej</item>
+        <item>Log Panggilan</item>
+    </string-array>
+</resources>

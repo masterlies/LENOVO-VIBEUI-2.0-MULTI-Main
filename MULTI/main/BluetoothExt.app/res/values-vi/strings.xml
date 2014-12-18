@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Bộ rảnh tay trên ô tô</string>
+    <string name="bluetooth_remember_choice">Luôn cho phép</string>
+    <string name="dun_notif_ticker">Yêu cầu DUN qua Bluetooth</string>
+    <string name="dun_notif_title">Yêu cầu Khóa Phiên cho DUN</string>
+    <string name="dun_notif_message">Chạm để kết nối với \" %1$s\".</string>
+    <string name="dun_acceptance_timeout_message">Đã hết thời gian chờ chấp nhập kết nối với %1$s</string>
+    <string name="bluetooth_dun_request">Yêu cầu DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s muốn sử dụng DUN. Cung cấp truy cập vào %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s muốn truy cập thư mục điện thoại của bạn. Trao quyền truy cập cho %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Truy cập Thư mục Điện thoại</string>
+    <string name="ftp_session_key_dialog_title">Nhập khoá phiên cho %1$s</string>
+    <string name="ftp_session_key_dialog_header">Yêu cầu khoá phiên của Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Đã hết thời gian chờ chấp nhập kết nối với %1$s</string>
+    <string name="ftp_authentication_timeout_message">Đã hết thời gian chờ nhập khoá phiên với %1$s</string>
+    <string name="ftp_notif_ticker">Yêu cầu kết nối Bluetooth</string>
+    <string name="ftp_notif_title">Yêu cầu Khóa Phiên cho FTP</string>
+    <string name="ftp_notif_message">Chạm để kết nối với \" %1$s\".</string>
+    <string name="ftp_notif_active_session">Phiên Hoạt động FTP qua Bluetooth</string>
+    <string name="ftp_notif_connected">Truy cập Truyền Tập tin qua Bluetotoh vào \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Yêu cầu Ftp</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s muốn truy cập vào các tập tin và thư mục của bạn. Cung cấp truy cập vào %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s muốn truy cập thư mục điện thoại của bạn. Trao quyền truy cập cho %2$s?</string>
+    <string name="map_acceptance_dialog_header">Truy cập Thư mục Điện thoại</string>
+    <string name="map_session_key_dialog_title">Nhập khoá phiên cho %1$s</string>
+    <string name="map_session_key_dialog_header">Yêu cầu khoá phiên của Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Đã hết thời gian chờ chấp nhập kết nối với %1$s</string>
+    <string name="map_authentication_timeout_message">Đã hết thời gian chờ nhập khoá phiên với %1$s</string>
+    <string name="map_notif_ticker">Yêu cầu kết nối Bluetooth</string>
+    <string name="map_notif_active_session">Phiên Hoạt động MAP qua Bluetooth</string>
+    <string name="map_notif_connected">Truy cập Tin nhắn qua Bluetooth vào \"%1$s\".</string>
+    <string name="map_notif_title">Yêu cầu Khóa Phiên cho MAP</string>
+    <string name="map_notif_message">Chạm để kết nối với \" %1$s\".</string>
+    <string name="map_alert_conn_failed_message">Kết nối MAP qua Bluetooth không thành công.</string>
+    <string name="bluetooth_mas_request">Yêu cầu truy cập tin nhắn</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s muốn truy cập vào tin nhắn của bạn. Cung cấp truy cập vào %2$s?</string>
+    <string name="sap_notif_ticker">Yêu cầu Truy cập SIM qua Bluetooth</string>
+    <string name="sap_notif_title">Yêu cầu Khóa Phiên cho SAP</string>
+    <string name="sap_notif_message">Chạm để kết nối với \" %1$s\".</string>
+    <string name="sap_acceptance_timeout_message">Đã hết thời gian chờ chấp nhập kết nối với %1$s</string>
+    <string name="bluetooth_sap_request">Yêu cầu SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s muốn truy cập vào SIM của bạn. Cung cấp truy cập vào %2$s?</string>
+</resources>

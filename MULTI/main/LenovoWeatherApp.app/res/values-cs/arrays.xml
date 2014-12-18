@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Nastavit jako výchozí město</item>
+        <item>Odstranit toto město</item>
+    </string-array>
+</resources>

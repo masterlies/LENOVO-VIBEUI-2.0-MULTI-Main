@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>أخبار</item>
+        <item>رياضة</item>
+        <item>دراما</item>
+        <item>فيديوهات موسيقية</item>
+        <item>أفلام</item>
+        <item>كوميديا</item>
+        <item>حركة</item>
+        <item>موسيقية</item>
+        <item>كرتون</item>
+        <item>متنوع</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>تشغيل</item>
+        <item>إعادة تسمية</item>
+        <item>حذف</item>
+        <item>معلومات</item>
+        <item>مشاركة</item>
+        <item>تحديد متعدد</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>تشغيل</item>
+        <item>إعادة تسمية</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>تشغيل</item>
+        <item>حذف</item>
+        <item>مسح القائمة</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>تشغيل</item>
+        <item>إضافة هذا الفيديو</item>
+    </string-array>
+</resources>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enerģijas pārvaldnieka</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">Labi</string>
+    <string name="cancel">Atcelt</string>
+    <string name="power_consume_app_freeze">Iesaldēt</string>
+    <string name="power_consume_app_unfreeze">Atsaldēt</string>
+    <string name="power_consume_app_uninstall">Atinstalēt</string>
+    <string name="power_consume_app_details">Detalizēta informācija</string>
+    <string name="battery_usage_use">Izmantotais akumulatora līmenis: %s</string>
+    <string name="consumption_call">Balss zvani</string>
+    <string name="consumption_screen">Ekrāns</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">Centrālais procesors</string>
+    <string name="consumption_radio">Radio</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">Multivide</string>
+    <string name="power_battery">Barošana</string>
+    <string name="power_charge">Uzlāde</string>
+    <string name="power_consume">Lietojums</string>
+    <string name="power_settings">Iestatījumi</string>
+    <string name="power_mode">Režīms</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Kopējais centrālā procesora patēriņa laiks</string>
+    <string name="usage_type_cpu_foreground">Centrālais procesors</string>
+    <string name="usage_type_wake_lock">Atstāt nomodā</string>
+    <string name="usage_type_alarm">Atmodināt sistēmu</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Darbojas Wi-Fi tīkls</string>
+    <string name="usage_type_data_send">Dati nosūtīti</string>
+    <string name="usage_type_data_recv">Dati ir saņemti</string>
+    <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_video">Videoklips</string>
+    <string name="usage_type_on_time">Darbības laiks</string>
+    <string name="usage_type_no_coverage">Laiks bez signāla</string>
+    <string name="battery_history_days" formatted="false">%d d %d h %d min %d s</string>
+    <string name="battery_history_hours" formatted="false">%d h %d min %d s</string>
+    <string name="battery_history_minutes" formatted="false">%d min %d s</string>
+    <string name="battery_history_seconds">%d s</string>
+    <string name="battery_hour_minute" formatted="false">%d h %d min</string>
+    <string name="battery_hour">%d h</string>
+    <string name="battery_minute">%d min</string>
+    <string name="battery_wakelock" formatted="false">%d reizi(-es) no: %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d d %d h %d min %s s</string>
+    <string name="battery_wakelock_hours" formatted="false">%d h %d min %s s</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d min %s s</string>
+    <string name="battery_wakelock_seconds">%s s</string>
+    <string name="battery_alarm_time">%d reizi(-es)</string>
+    <string name="battery_screen_time">Kopš pēdējās pilnās uzlādes</string>
+    <string name="usage_type_wakelock_screen">Liegt ekrānam miega režīmu</string>
+    <string name="usage_type_wakelock_cpu">Liegt CPU miega režīmu</string>
+    <string name="usage_type_sensor">Lietojuma sensors</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Cits</string>
+    <string name="battery_screen_on_time">Lietojot: %s</string>
+    <string name="battery_screen_off_time">Gaidīšanas režīmā: %s</string>
+    <string name="enter_setting">Palaišanas iestatījumi</string>
+    <string name="battery_tab_title_consume">Enerģijas patēriņš</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d d %d h %d min</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d h %d min</string>
+    <string name="battery_history_minutes_without_seconds">%d min</string>
+    <string name="battery_sensor_info" formatted="false">%d reizi(-es) no kopējā laika: %s</string>
+    <string name="hour">h</string>
+    <string name="minute">min</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Neizdevās atrast lietojumprogrammas detalizētos iestatījumus</string>
+    <string name="mode_turnOff">Izslēgts</string>
+    <string name="mode_turnOn">Ieslēgts</string>
+    <string name="main_switch_dialog_super">Tiek atļautas tikai zvanīšanas un ziņapmaiņas funkcijas, bet visas pārējās funkcijas tiek deaktivizētas, lai gaidīšanas laiks sasniegtu vairākas dienas</string>
+    <string name="deep_clear_result_to_white_list_new">Atlasītā programma netiks ietekmēta</string>
+    <string name="temporary_no_app">Nav lietojumprogrammas</string>
+    <string name="progress_loading">Lūdzu, uzgaidiet!</string>
+    <string name="failed_switch_app_state">Darbība neizdevās. Vēlāk mēģiniet vēlreiz.</string>
+    <string name="package_manger_list_type_third">Lietotāja lietojumprogrammas</string>
+    <string name="package_manger_list_type_system">Sistēmas lietojumprogrammas</string>
+    <string name="btn_return">Ievadīšanas taustiņš</string>
+    <string name="main_switcher">Pārslēgšanās ar taimeri</string>
+    <string name="switcher_detail">Automātiski aktivizēt konkrēto režīmu noteiktā periodā</string>
+    <string name="switcher">Pārslēgšanās ar taimeri</string>
+    <string name="switcher_start_time">Sākuma laiks</string>
+    <string name="switcher_end_time">Beigu laiks</string>
+    <string name="switcher_tag">Aktivizējamais režīms:</string>
+    <string name="switcher_target_custom">Pielāgot</string>
+    <string name="mode_changed_dialog">Režīmu pārslēgšana</string>
+    <string name="no_remind">Vairs neatgādināt</string>
+    <string name="new_sim">Jauna SIM</string>
+    <string name="application_not_found_activity">Lietojumprogramma netika atrasta.</string>
+    <string name="classicmode_lable_phone">Tālr.</string>
+    <string name="classicmode_lable_mms">Īsziņa</string>
+    <string name="classicmode_lable_contacts">Kontaktpersonas</string>
+    <string name="failed_get_safecenter_whitelist">Neizdevās sinhronizēt LenovoSafeCenter īpašo atļauju sarakstu. Lūdzu, no jauna instalējiet jaunāko LenovoSafeCenter versiju.</string>
+    <string name="application_not_support_be_launched">Drošības apsvērumu dēļ lietojumprogrammas palaišana no citas lietojumprogrammas netiek atbalstīta</string>
+    <string name="classic_phone_dialog_entering">Notiek datu sagatavošana. Lūdzu, uzgaidiet…</string>
+    <string name="classic_phone_dialog_existing">Notiek datu atjaunošana. Lūdzu, uzgaidiet…</string>
+    <string name="consumption_app_button">Programmatūra</string>
+    <string name="consumption_hardware_button">Aparatūra</string>
+    <string name="power_setting_menu_classic_phone">Galējais enerģijas taupīšanas režīms</string>
+    <string name="power_setting_menu_smart">Ekrāna, procesora un grafikas procesora enerģijas taupītājs</string>
+    <string name="power_setting_menu_app_deep_clear">Deaktivizēt programmas, kad ekrāns ir izslēgts</string>
+    <string name="power_setting_menu_consumption">Enerģijas patēriņa dati</string>
+    <string name="statistic_assist_title">Papildu statistiskās funkcijas</string>
+    <string name="power_consumption_title">Enerģijas taupītāja funkcijas</string>
+    <string name="fragment_tab_deepclear">Deaktivizēt programmas, kad ekrāns ir izslēgts</string>
+    <string name="deep_clear_detail">Pēc deaktivizēšanas programmas nepārtrauks tālruņa miega režīmu, strādājot fonā</string>
+    <string name="dialog_timing_text">Vai pārslēgties uz galējo enerģijas taupīšanas režīmu?</string>
+    <string name="switcher_summery">Automātiski pārslēdzas uz galējo enerģijas taupīšanas režīmu norādītajiem laika periodiem</string>
+    <string name="switcher_summery_close">Pēc iespējošanas automātiski notiks pārslēgšanās uz galējo enerģijas taupīšanas režīmu norādītajiem laika periodiem</string>
+    <string name="classicmode_hit_text">Enerģijas taupīšana avārijas režīmā</string>
+    <string name="classic_phone_desktop_shortcut">Enerģijas taupīšana avārijas režīmā</string>
+    <string name="classic_phone_dialog_title">Enerģijas taupīšana avārijas režīmā — atgādinājums</string>
+    <string name="classic_phone_dialog_enter">Vai tiešām vēlaties pāriet uz enerģijas taupīšanu avārijas režīmā? Jūs ļoti cītīgi darbojaties. Neaizmirstiet atpūsties</string>
+    <string name="classic_phone_dialog_exist">Vai tiešām vēlaties iziet no enerģijas taupīšanas avārijas režīmā?</string>
+    <string name="classic_phone_failed_to_start_service">Neizdevās uzsākt enerģijas taupīšanu avārijas režīmā. Diemžēl citādi nevaram palīdzēt</string>
+    <string name="create_classicmode_desktop_shortcut">Izveidot darbvirsmā saīsni ārkārtas enerģijas taupīšanai</string>
+    <string name="classicmode_exit_hint_text">Lai izietu no enerģijas taupīšanas avārijas režīma, lūdzu, pieskarieties aizvēršanas pogai</string>
+    <string name="setttings_screen_smart_brightness2">Enerģijas taupīšanas displeja programma</string>
+    <string name="setttings_screen_smart_brightness_detail">Izmantot sinusoīdas spilgtuma regulēšanas tehnoloģiju, lai samazinātu enerģijas patēriņu par 5–20%</string>
+    <string name="power_engine_vmx_title">Enerģijas taupīšanas procesora programma</string>
+    <string name="power_engine_vmx_detail">Gudrā veidā pielāgo procesora darbu, lai samazinātu enerģijas patēriņu par 10–25%</string>
+    <string name="power_engine_fps_title">Enerģijas taupīšanas grafiskā programma</string>
+    <string name="power_engine_fps_detail">Optimizē grafisko procesoru, lai samazinātu enerģijas patēriņu par 10–25%</string>
+    <string name="power_engine_summery_close">Pēc iespējošanas gudrā veidā tiks samazināts ekrāna, procesora un grafikas procesora enerģijas patēriņš</string>
+    <string name="power_engine_summery_close2">Pēc iespējošanas gudrā veidā tiks samazināts ekrāna un grafikas procesora enerģijas patēriņš</string>
+    <string name="power_engine_summery_close3">Pēc iespējošanas gudrā veidā tiks samazināts ekrāna enerģijas patēriņš</string>
+    <string name="power_engine_summery_close4">Pēc iespējošanas gudrā veidā tiks samazināts ekrāna un procesora enerģijas patēriņš</string>
+    <string name="power_setting_menu_smart2">Ekrāna enerģijas taupītājs</string>
+    <string name="power_setting_menu_smart3">Ekrāna, procesora un grafikas procesora enerģijas taupītājs</string>
+    <string name="power_setting_menu_smart4">Ekrāna un grafikas procesora enerģijas taupītājs</string>
+    <string name="power_setting_menu_smart5">Ekrāna un procesora enerģijas taupītājs</string>
+    <string name="power_setting_current_battery" formatted="false">Pašreizējais uzlādes līmenis: %s %s</string>
+</resources>

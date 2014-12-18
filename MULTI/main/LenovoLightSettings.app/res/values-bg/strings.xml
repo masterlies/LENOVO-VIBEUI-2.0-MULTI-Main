@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Светлина</string>
+    <string name="breath_settings">Настройки за честотата на мигане</string>
+    <string name="breath_delay">Цикъл на мигане</string>
+    <string name="breath_delay_info">По-ниско забавяне, по-висока консумация на енергия</string>
+    <string name="light_switch_settings">Настройки на лампата</string>
+    <string name="coming_call">Входящо повикване</string>
+    <string name="miss_call">Пропуснато повикване</string>
+    <string name="unread_msg">Непрочетено съобщение</string>
+    <string name="battery_low_msg">Съобщение за изтощена батерия</string>
+    <string name="sina_weibo_notify">SinaWeibo Notify</string>
+    <string name="qq_weibo_notify">TencentWeibo Notify</string>
+    <string name="other_app_notify">Друго</string>
+    <string name="other_app_summary">weixin，QQ，sina weibo</string>
+    <string name="music_play">Музика</string>
+    <string name="screen_on">Екран вкл.</string>
+    <string name="screen_off">Екран изкл.</string>
+    <string name="power_on_off">Вкл./изкл.</string>
+    <string name="charging">Зареждане</string>
+    <string name="low_battery">Изтощена батерия</string>
+    <string name="color_settings">Настройки за цветовете</string>
+    <string name="color_settings_info">Настройки за цветовете за всяка лампа</string>
+    <string name="color_coming_call">Цвят на лампата при входящо повикване</string>
+    <string name="color_miss_call">Цвят на лампата при пропуснато повикване</string>
+    <string name="color_unread_msg">Цвят на лампата при непрочетено съобщение</string>
+    <string name="color_sina_weibo_notify">Light Color of SinaWeibo Notify</string>
+    <string name="color_qq_weibo_notify">Light Color of TencentWeibo Notify</string>
+    <string name="color_music">Цвят на лампата при музика</string>
+    <string name="color_screen_on">Цвят на лампата при вкл. екран</string>
+    <string name="color_screen_off">Цвят на лампата при изкл. екран</string>
+    <string name="light_show">Светл. шоу</string>
+    <string name="light_show_info">Показване на светл. шоу отдолу</string>
+    <string name="stop">Стоп</string>
+    <string name="closed">изключено</string>
+    <string name="open">включено</string>
+    <string name="multiselect_alert_info">Изберете поне един цвят!</string>
+    <string name="select_color_title">Настройки за цветовете</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отказ</string>
+    <string name="click_screen">Екран вкл.</string>
+    <string name="calling">Повикване</string>
+</resources>

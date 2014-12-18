@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soundrekorder</string>
+    <string name="left_timer_format" formatted="false">Verbleibende Zeit: %02dh%02dm</string>
+    <string name="recording">Aufnahme %1$s</string>
+    <string name="label_quality">Aufnahmequalität auswählen</string>
+    <string name="remain_time">Verbleibende Zeit</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Abbruch</string>
+    <string name="audio_db_artist_name">Künstler</string>
+    <string name="audio_db_album_name">Aufnahmen</string>
+    <string name="audio_db_playlist_name">Meine Aufnahmen</string>
+    <string name="exit_tip">Möchten Sie den Recorder wirklich beenden?</string>
+    <string name="error_zero_audio">Audio mit 0 Sekunden Länge kann nicht aufgenommen werden.</string>
+    <string name="error_busy_in_call">Bitte legen Sie auf und verwenden Sie dann den Recorder!</string>
+    <string name="error_no_space">Zu wenig freier Speicherplatz, Aufnehmen nicht möglich.</string>
+    <string name="error_sdcard_access">Der Zugriff auf die SD-Karte ist nicht möglich.</string>
+    <string name="error_internal">Der Recorder läuft, bitte zuerst schließen.</string>
+    <string name="error_mediadb_new_record">Tonaufnahme kann nicht gespeichert werden.</string>
+    <string name="error_app_unsupported">Nicht unterstütztes Format</string>
+    <string name="error_insert_sd_card">Bitte eine SD-Karte einsetzen.</string>
+    <string name="error_storage_is_full">Speicher ist voll.</string>
+    <string name="error_max_length">Maximale Länge erreicht</string>
+    <string name="contextmenu_item_delete">Löschen</string>
+    <string name="contextmenu_item_rename">Umbenennen</string>
+    <string name="contextmenu_item_send_title">Senden</string>
+    <string name="contextmenu_item_setasringtone">Als Klingelton festlegen</string>
+    <string name="label_setringtone_success">Aufnahme \"%1$s\" wurde erfolgreich als Klingelton festgelegt.</string>
+    <string name="setringtone_fail">Klingelton muss nicht im Vibrationsalarm oder Stummschaltungsmodus eingestellt sein.</string>
+    <string name="del_selfile_tip">Möchten Sie die ausgewählte Audiodatei wirklich löschen?</string>
+    <string name="label_delete_success">Erfolgreich gelöscht.</string>
+    <string name="input_toolong">Zu viele Zeichen eingegeben</string>
+    <string name="file_name_exist">Der Dateiname darf nur einmal vorkommen.</string>
+    <string name="empty_len">Der Dateiname darf nicht leer bleiben.</string>
+    <string name="namebad">Der Dateiname enthält unzulässige Zeichen: \\ : ? * > \" | / etc.</string>
+    <string name="delete_tip">Aufnahme löschen</string>
+    <string name="not_select">Sie haben keine Option ausgewählt</string>
+    <string name="am_file">%1$s:%2$s Uhr</string>
+    <string name="pm_file">%1$s:%2$s Uhr</string>
+    <string name="selected_number_of">%1$s ausgewählt</string>
+    <string name="saved_file_reminder">Die Datei wird als \"%1$s\" gespeichert</string>
+    <string name="delete_recorded">Aufnahmedatei löschen</string>
+    <string name="delete_muti_msg">Löschvorgang wird ausgeführt, bitte warten...</string>
+    <string name="rename_record_file">Datei umbenennen</string>
+    <string name="soundrecorder_list">Aufnahmen</string>
+    <string name="callrecorder_list">Sprachanrufe</string>
+    <string name="mediarecorder_list">Medienaufnahmen</string>
+    <string name="high_quality">Interviewmodus (Hoch)</string>
+    <string name="medium_quality">Unterhaltungsmodus (Mittel)</string>
+    <string name="low_quality">Interaktionsmodus (Niedrig)</string>
+    <string name="exit_record_play">Bitte vor der Wiedergabe die Aufnahme beenden.</string>
+    <string name="exit_play_edit">Bitte vor dem Bearbeiten die Aufnahme beenden.</string>
+    <string name="exit_playOrRecord_delete">Stoppen Sie die Wiedergabe oder Aufnahme vor dem batchweisen Löschen</string>
+    <string name="exit_toast">Klicken Sie erneut, um die App zu verlassen</string>
+    <string name="playlist_text">Aufnahmeliste</string>
+    <string name="fileDir_not_exist">Der gewählte Pfad für die Audiodatei ist nicht vorhanden.</string>
+</resources>

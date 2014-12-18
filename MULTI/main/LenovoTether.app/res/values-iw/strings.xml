@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">נקודה חמה אישית</string>
+    <string name="wifi_tether_configure_ap_text">הגדרת נקודה חמה של WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+אבטחה: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID יכול להכיל עד 32 תווים</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+אבטחה: %2$s
+סיסמה: %3$s"</string>
+    <string name="wifi_cancel">ביטול</string>
+    <string name="wifi_save">שמירה</string>
+    <string name="wifi_ssid">SSID רשת</string>
+    <string name="wifi_security">אבטחה</string>
+    <string name="wifi_password">סיסמה</string>
+    <string name="wifi_show_password">הצגת סיסמה</string>
+    <string name="credentials_password_too_short">הסיסמה חייבת להכיל 8 תווים לפחות.</string>
+    <string name="wifi_channel">ערוץ מועדף</string>
+    <string name="wifi_channel_width">רוחב ערוץ</string>
+    <string name="wifi_tether_auto_channel_text">אוטומטי</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">נקודה חמה אישית מופעלת</string>
+    <string name="tethered_notification_message">געו כדי להגדיר</string>
+    <string name="tether_about_title">מבוא</string>
+    <string name="wlan_connection_title">נקודה חמה של WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">שיתוף רשת באמצעות Bluetooth</string>
+    <string name="usb_share_title">שיתוף רשת באמצעות USB</string>
+    <string name="about_wlan">הגדרת נקודה חמה של WLAN בהתקן זה תאפשר להתקני WLAN אחרים להתחבר לרשת הניידת של התקן זה לצורך גלישה באינטרנט.</string>
+    <string name="about_usb">הגדרת שיתוף רשת באמצעות USB בהתקן זה תאפשר להתקנים המחוברים אליו להשתמש ברשת הניידת של התקן זה לצורך גלישה באינטרנט.</string>
+    <string name="about_bt">הגדרת שיתוף רשת באמצעות Bluetooth בהתקן זה תאפשר להתקני Bluetooth אחרים להשתמש ברשת הניידת של התקן זה לצורך גלישה באינטרנט.</string>
+    <string name="about_usb_other">"הערות נוספות: 
+ ‏1. במהלך חיבור USB, לא ניתן להתקין במחשב את כרטיס ה-SD של ההתקן
+ ‏2. החיבור תקף לגבי Windows Vista, ‏Windows 7, Windows 8 ו-Linux בלבד"</string>
+    <string name="wifi_tether_settings_title">פרטי תצורה של WLAN</string>
+    <string name="wifi_ap_client_block_title">חסום</string>
+    <string name="wifi_ap_client_unblock_title">בטל חסימה</string>
+    <string name="wifi_ap_connected_title">משתמשים מחוברים</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d מחוברים, %2$d חסומים</string>
+    <string name="open_title">הפעלת טיפים</string>
+    <string name="open_mess">כדי להשתמש ב- %1$s, יש להפעיל את פונקציית חיבור הנתונים</string>
+    <string name="open_mess_all">כדי להשתמש ב-%1$s, יש להפעיל WLAN או את פונקציית חיבור הנתונים</string>
+    <string name="cancel">ביטול</string>
+    <string name="go_settings">מעבר להגדרות</string>
+    <string name="open_mess_alert">הרשת למכשירים ניידים מופעלת. שימוש בפונקציה %1$s עשוי להגדיל את תעבורת הנתונים והחיוב. האם ברצונכם להפעיל אותה?</string>
+    <string name="open">הפעלה</string>
+</resources>

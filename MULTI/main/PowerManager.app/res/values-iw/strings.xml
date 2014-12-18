@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מנהל צריכת החשמל</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="power_consume_app_freeze">הקפאה</string>
+    <string name="power_consume_app_unfreeze">ביטול הקפאה</string>
+    <string name="power_consume_app_uninstall">הסר התקנה</string>
+    <string name="power_consume_app_details">פרטים</string>
+    <string name="battery_usage_use">שימוש בסוללה: %s</string>
+    <string name="consumption_call">שיחות קוליות</string>
+    <string name="consumption_screen">מסך</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">רדיו</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">מדיה</string>
+    <string name="power_battery">בחזקת</string>
+    <string name="power_charge">טוען</string>
+    <string name="power_consume">שימוש</string>
+    <string name="power_settings">הגדרות</string>
+    <string name="power_mode">מצב</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">זמן צריכה כולל של CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">השאר פועל</string>
+    <string name="usage_type_alarm">מערכת השכמה</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi פועל</string>
+    <string name="usage_type_data_send">הנתונים נשלחו</string>
+    <string name="usage_type_data_recv">הנתונים התקבלו</string>
+    <string name="usage_type_audio">אודיו</string>
+    <string name="usage_type_video">Google וידאו</string>
+    <string name="usage_type_on_time">זמן פעילות</string>
+    <string name="usage_type_no_coverage">זמן ללא אות</string>
+    <string name="battery_history_days" formatted="false">"%dי' %dש' %dד %dשנ'"</string>
+    <string name="battery_history_hours" formatted="false">"%dש' %dד' %dשנ'"</string>
+    <string name="battery_history_minutes" formatted="false">"%dד' %dשנ'"</string>
+    <string name="battery_history_seconds">"%dשנ'"</string>
+    <string name="battery_hour_minute" formatted="false">"%dש' %dד'"</string>
+    <string name="battery_hour">%d שעות</string>
+    <string name="battery_minute">%d דקות</string>
+    <string name="battery_wakelock" formatted="false">%dפעמים למשך %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dימים %dשעות %dדקות %sשניות</string>
+    <string name="battery_wakelock_hours" formatted="false">%dשעות %dדקות %sשניות</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dדקות %sשניות</string>
+    <string name="battery_wakelock_seconds">"%sשנ'"</string>
+    <string name="battery_alarm_time">%dפעמים</string>
+    <string name="battery_screen_time">מהטעינה המלאה האחרונה</string>
+    <string name="usage_type_wakelock_screen">הימנעות מהמתנת מסך</string>
+    <string name="usage_type_wakelock_cpu">הימנעות מהמתנת CPU</string>
+    <string name="usage_type_sensor">חיישן שימוש</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">אחרים</string>
+    <string name="battery_screen_on_time">בשימוש: %s</string>
+    <string name="battery_screen_off_time">בהמתנה: %s</string>
+    <string name="enter_setting">הגדרות הפעלה</string>
+    <string name="battery_tab_title_consume">צריכת חשמל</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d ימים, %d שעות ו-%d דקות</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d שעות ו-%d דקות</string>
+    <string name="battery_history_minutes_without_seconds">%d דקות</string>
+    <string name="battery_sensor_info" formatted="false">%d פעמים, בסה\"כ %s</string>
+    <string name="hour">"ש'"</string>
+    <string name="minute">דקה</string>
+    <string name="second">"שנ'"</string>
+    <string name="application_not_found">לא ניתן למצוא את הגדרות פרטי היישום</string>
+    <string name="mode_turnOff">כבוי</string>
+    <string name="mode_turnOn">מופעל</string>
+    <string name="main_switch_dialog_super">היא מפעילה פונקציות של שיחות והודעות בלבד ומשביתה את כל יתר הפונקציות לזמן המתנה של מספר ימים</string>
+    <string name="deep_clear_result_to_white_list_new">היישום שנבחר לא יושפע.</string>
+    <string name="temporary_no_app">ללא יישום</string>
+    <string name="progress_loading">אנא המתינו…</string>
+    <string name="failed_switch_app_state">מצטערים, הפעולה נכשלה, אתם חרוצים כל כך. נסו שוב מאוחר יותר</string>
+    <string name="package_manger_list_type_third">יישומי משתמש</string>
+    <string name="package_manger_list_type_system">יישומי מערכת</string>
+    <string name="btn_return">חזרה</string>
+    <string name="main_switcher">מעבר מתוזמן</string>
+    <string name="switcher_detail">הפעלה אוטומטית של המצב שצוין בפרק הזמן שצוין</string>
+    <string name="switcher">מעבר מתוזמן</string>
+    <string name="switcher_start_time">שעת התחלה</string>
+    <string name="switcher_end_time">שעת סיום</string>
+    <string name="switcher_tag">מופעל עבור משך זמן זה</string>
+    <string name="switcher_target_custom">התאמה אישית</string>
+    <string name="mode_changed_dialog">החלפת מצב</string>
+    <string name="no_remind">אל תציג הנחיה</string>
+    <string name="new_sim">SIM חדש</string>
+    <string name="application_not_found_activity">היישום לא נמצא</string>
+    <string name="classicmode_lable_phone">טלפון</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">אנשי קשר</string>
+    <string name="failed_get_safecenter_whitelist">"סנכרון רשימת ההיתרים של 'מרכז הבטיחות של Lenovo' נכשל. התקינו מחדש את הגרסה האחרונה של 'מרכז הבטיחות של Lenovo'"</string>
+    <string name="application_not_support_be_launched">עקב הגדרות אבטחה, יישומים אחרים לא יכולים להפעיל יישום זה</string>
+    <string name="classic_phone_dialog_entering">מאתחל נתונים. אנא המתינו…</string>
+    <string name="classic_phone_dialog_existing">משחזר נתונים. אנא המתינו…</string>
+    <string name="consumption_app_button">תוכנה</string>
+    <string name="consumption_hardware_button">חומרה</string>
+    <string name="power_setting_menu_classic_phone">"מצב 'חיסכון מרבי בחשמל'"</string>
+    <string name="power_setting_menu_smart">חיסכון בחשמל של המסך, המעבד והמעבד הגרפי</string>
+    <string name="power_setting_menu_app_deep_clear">השבתת יישומים כשהמסך כבוי</string>
+    <string name="power_setting_menu_consumption">פרטי צריכת חשמל</string>
+    <string name="statistic_assist_title">תכונות עזר סטטיסטיות</string>
+    <string name="power_consumption_title">תכונות חיסכון בחשמל</string>
+    <string name="fragment_tab_deepclear">השבת יישומים כשהמסך כבוי</string>
+    <string name="deep_clear_detail">לאחר השבתה, היישומים לא יפעלו ברקע ויפריעו למצב המתנה של הטלפון</string>
+    <string name="dialog_timing_text">"האם לעבור למצב 'חיסכון מרבי בחשמל'?"</string>
+    <string name="switcher_summery">"מעבר אוטומטי למצב 'חיסכון מרבי בחשמל' לפרקי זמן מוגדרים"</string>
+    <string name="switcher_summery_close">"הפעילו אפשרות זו כדי להעביר באופן אוטומטי את הטלפון למצב 'חיסכון מרבי בחשמל' לפרקי הזמן המוגדרים"</string>
+    <string name="classicmode_hit_text">חיסכון מרבי בחשמל</string>
+    <string name="classic_phone_desktop_shortcut">חיסכון מרבי בחשמל</string>
+    <string name="classic_phone_dialog_title">"הודעת 'חיסכון מרבי בחשמל'"</string>
+    <string name="classic_phone_dialog_enter">"האם אתם בטוחים שברצונכם להיכנס ל'חיסכון מרבי בחשמל'? אתם חרוצים כל כך. זכרו לקחת הפסקה"</string>
+    <string name="classic_phone_dialog_exist">"האם אתם בטוחים שברצונכם לצאת מ'חיסכון מרבי בחשמל'?"</string>
+    <string name="classic_phone_failed_to_start_service">"הפעלת 'חיסכון מרבי בחשמל' נכשלה. מצטערים, ניסינו ככל יכולתנו"</string>
+    <string name="create_classicmode_desktop_shortcut">"יצירת קיצור בשולחן העבודה אל 'חיסכון מרבי בחשמל'"</string>
+    <string name="classicmode_exit_hint_text">"כדי לצאת מ'חיסכון מרבי בחשמל', הקישו על הלחצן 'סגירה'"</string>
+    <string name="setttings_screen_smart_brightness2">מנוע Vision לחיסכון בחשמל</string>
+    <string name="setttings_screen_smart_brightness_detail">שימוש בטכנולוגיית כוונון בהירות מסוג גל סינוס לצמצום צריכת החשמל ב–‏5–20%‏</string>
+    <string name="power_engine_vmx_title">מנוע מחשוב לחיסכון בחשמל</string>
+    <string name="power_engine_vmx_detail">מכוונן את המעבד באופן חכם כדי לצמצם את צריכת החשמל ב–‏10–25%‏</string>
+    <string name="power_engine_fps_title">מנוע גרפיקה לחיסכון בחשמל</string>
+    <string name="power_engine_fps_detail">ממטב את פעולת המעבד הגרפי כדי לצמצם את צריכת החשמל ב–‏10–25%‏</string>
+    <string name="power_engine_summery_close">לאחר ההפעלה, הוא יפחית באופן חכם את צריכת החשמל של המסך, המעבד והמעבד הגרפי</string>
+    <string name="power_engine_summery_close2">לאחר ההפעלה, הוא יפחית באופן חכם את צריכת החשמל של המסך והמעבד הגרפי</string>
+    <string name="power_engine_summery_close3">לאחר ההפעלה, הוא יפחית באופן חכם את צריכת החשמל של המסך</string>
+    <string name="power_engine_summery_close4">לאחר ההפעלה, הוא יפחית באופן חכם את צריכת החשמל של המסך והמעבד</string>
+    <string name="power_setting_menu_smart2">חיסכון בחשמל של המסך</string>
+    <string name="power_setting_menu_smart3">חיסכון בחשמל של המסך, המעבד והמעבד הגרפי</string>
+    <string name="power_setting_menu_smart4">חיסכון בחשמל של המסך והמעבד הגרפי</string>
+    <string name="power_setting_menu_smart5">חיסכון בחשמל של המסך והמעבד</string>
+    <string name="power_setting_current_battery" formatted="false">רמת טעינה נוכחית: ‏%s%s‏</string>
+    <string name="classicmode_lable_clock">שעון</string>
+</resources>

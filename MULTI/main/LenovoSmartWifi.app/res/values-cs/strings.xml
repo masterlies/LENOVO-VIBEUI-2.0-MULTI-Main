@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Zapamatování místa WLAN</string>
+    <string name="dialog_title">Změna datového připojení</string>
+    <string name="dialog_text">Toto umístění bylo připojená aplikace, povolit síť WLAN?</string>
+    <string name="disable_dialog_title">Zakázat WLAN?</string>
+    <string name="disable_dialog_text">Toto umístění je daleko od umístění připojené aplikace, zakázat síť WLAN?</string>
+    <string name="show_dialog">Nepřipomínat</string>
+    <string name="disable_show_dialog">Nepřipomínat</string>
+    <string name="wifi_enable_text">Vstup do umístění, automaticky zobrazovaná výzva</string>
+    <string name="wifi_enable_summary">Při vstupu do umístění připojené aplikace s úrovní signálu 3 nebo vyšší a dostupnosti dat GRPS povolit síť WLAN</string>
+    <string name="wifi_disable_text">Vzdálené umístění, automaticky zobrazovaná výzva</string>
+    <string name="wifi_disable_summary">V případě umístění daleko od připojené aplikace zakázat síť WLAN</string>
+    <string name="wifi_setting_summary">Díky zapamatování připojené sítě WLAN, pokud později použijete datové služby 3G/2G GPRS v její oblasti pokrytí, obdržíte připomenutí k připojení k této síti WLAN nebo se k ní připojíte automaticky.</string>
+    <string name="wifi_popup_tip">Automaticky zobrazovaná výzva</string>
+    <string name="wifi_auto_enable">Automaticky připojit</string>
+    <string name="wifi_auto_disable">Automaticky zakázat</string>
+    <string name="wifi_popup_0">Zapamatování připojené aplikace. Při vstupu do tohoto umístění zobrazit automaticky výzvu</string>
+    <string name="wifi_popup_1">Zapamatování připojené aplikace. Při vstupu do tohoto umístění automaticky povolit</string>
+    <string name="wifi_popup_2">Nepřipomínat</string>
+    <string name="confirm_yes">Ano</string>
+    <string name="confirm_no">Ne</string>
+    <string name="enable_wifi_hint">Záznam sítě WLAN nyní připojuje síť WLAN, aby zachránil váš datový tok</string>
+    <string name="disable_wifi_hint">Záznam sítě WLAN nyní vypíná síť WLAN kvůli úspoře energie</string>
+</resources>

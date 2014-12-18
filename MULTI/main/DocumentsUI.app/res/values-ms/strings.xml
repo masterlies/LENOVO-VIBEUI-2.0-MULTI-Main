@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumen</string>
+    <string name="title_open">Buka dari</string>
+    <string name="title_save">Simpan ke</string>
+    <string name="menu_create_dir">Buat folder</string>
+    <string name="menu_grid">Paparan grid</string>
+    <string name="menu_list">Paparan senarai</string>
+    <string name="menu_sort">Isih mengikut</string>
+    <string name="menu_search">Cari</string>
+    <string name="menu_settings">Tetapan</string>
+    <string name="menu_open">Buka</string>
+    <string name="menu_save">Simpan</string>
+    <string name="menu_share">Kongsi</string>
+    <string name="menu_delete">Padam</string>
+    <string name="mode_selected_count">%1$d dipilih</string>
+    <string name="sort_name">Mengikut nama</string>
+    <string name="sort_date">Diubah suai mengikut tarikh</string>
+    <string name="sort_size">Mengikut saiz</string>
+    <string name="drawer_open">Tunjukkan akar</string>
+    <string name="drawer_close">Sembunyikan akar</string>
+    <string name="save_error">Gagal menyimpan dokumen</string>
+    <string name="create_error">Gagal membuat folder</string>
+    <string name="query_error">Gagal menanyakan dokumen</string>
+    <string name="root_recent">Terbaharu</string>
+    <string name="root_available_bytes">%1$s kosong</string>
+    <string name="root_type_service">Perkhidmatan storan</string>
+    <string name="root_type_shortcut">Pintasan</string>
+    <string name="root_type_device">Peranti</string>
+    <string name="root_type_apps">Lebih banyak apl</string>
+    <string name="pref_advanced_devices">Paparkan peranti terperinci</string>
+    <string name="pref_file_size">Paparkan saiz fail</string>
+    <string name="pref_device_size">Paparkan saiz peranti</string>
+    <string name="empty">Tiada item</string>
+    <string name="toast_no_application">Tidak dapat membuka fail</string>
+    <string name="toast_failed_delete">Tidak dapat memadam beberapa dokumen</string>
+    <string name="share_via">Kongsi melalui</string>
+    <string name="toast_not_show_thumbnail">Imej kecil tidak dapat dipaparkan pada peranti yang mempunyai memori rendah</string>
+</resources>

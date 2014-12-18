@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>Umum</item>
+        <item>Diam</item>
+        <item>Getar</item>
+        <item>Luar Ruangan</item>
+        <item>Mengemudi</item>
+    </string-array>
+</resources>

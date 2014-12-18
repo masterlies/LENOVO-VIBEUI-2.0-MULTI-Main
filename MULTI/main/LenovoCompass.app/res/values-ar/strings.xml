@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">معلومات</string>
+    <string name="Ok">موافق</string>
+    <string name="Cancel">إلغاء الأمر</string>
+    <string name="app_name">بوصلة</string>
+    <string name="calibrate">المعايرة</string>
+    <string name="latitude">خط العرض</string>
+    <string name="longitude">خط الطول</string>
+    <string name="calibrate_success">اكتملت المعايرة</string>
+    <string name="ignore">تجاهل</string>
+    <string name="cannot_get_location">تعذر الحصول على الموقع.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">شمال</string>
+    <string name="direction_south">جنوب</string>
+    <string name="direction_east">شرق</string>
+    <string name="direction_west">غرب</string>
+    <string name="direction_east_north">شمال شرق</string>
+    <string name="direction_east_south">جنوب شرق</string>
+    <string name="direction_west_north">شمال غرب::</string>
+    <string name="direction_west_south">جنوب غرب :</string>
+    <string name="Tips">"قد يكون هناك تداخل مغناطيسي قريب، الرجاء اتباع الصورة أعلاه لأرجحة '8' عدة مرات. سيتم إغلاق مربع الحوار تلقائيًا عند إجراء المعايرة بنجاح."</string>
+    <string name="Warn">قد يكون هناك تداخل مغناطيسي قريب</string>
+    <string name="click_to_location">انقر للحصول على موقع GPS</string>
+    <string name="warn_message">هل تريد السماح بالحصول على معلومات الموقع الحالي من خلال GPS أو موقع الشبكة؟</string>
+    <string name="no_warn_later">عدم إظهار ذلك مجددًا</string>
+    <string name="start_calibration">هز الهاتف لمعايرة البوصلة‬</string>
+    <string name="no_location_server">تم تعطيل خدمة الموقع</string>
+    <string name="DoNotSHowAgain">عدم الإظهار مرة أخرى</string>
+</resources>

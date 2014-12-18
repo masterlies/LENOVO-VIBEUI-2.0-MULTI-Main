@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Секретный код</string>
+    <string name="hardversion">Версия аппаратного обеспечения:</string>
+    <string name="softversion">Версия ПО:</string>
+    <string name="frameworkversion">Версия платформы:</string>
+    <string name="osversion">Версия ОС:</string>
+    <string name="modemversion">Версия модема:</string>
+    <string name="meid_activity_title">Версия PRL</string>
+    <string name="btn_post">Включить</string>
+    <string name="btn_neg">Отключить</string>
+    <string name="enable_fdn">Включить</string>
+    <string name="disable_fdn">Отключить</string>
+    <string name="reboot">Перезапуск</string>
+    <string name="cancel">Отмена</string>
+    <string name="default_state">Ошибка:</string>
+    <string name="alert_string">Предупреждение!</string>
+    <string name="alert_message_string">Нажатие кнопки [OK] приведет к сбросу всех настроек до заводских и удалению всех пользовательских данных. Использовать с осторожностью!</string>
+    <string name="alert_message_ums_string">Нажатие кнопки [OK] приведет к включению режима mass_storage для usb.config при выполнении отладки. Использовать с осторожностью!</string>
+    <string name="alert_ok">ОК</string>
+    <string name="alert_no">Отмена</string>
+    <string name="framework_inf">Внутренняя версия</string>
+    <string name="commit_cate">ДА</string>
+    <string name="summary_on">ВКЛ</string>
+    <string name="summary_off">ВЫКЛ</string>
+    <string name="report_log_summary">Отзыв</string>
+    <string name="report_log_title">Отзыв</string>
+    <string name="yes_exit">Да</string>
+    <string name="no_exit">Отмена</string>
+    <string name="enable">Включить</string>
+    <string name="disable">Отключено</string>
+    <string name="regulatory_information">Техническая информация</string>
+</resources>

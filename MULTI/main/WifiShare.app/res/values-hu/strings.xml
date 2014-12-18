@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Beállítások</string>
+    <string name="app_name">WLAN-fiók megosztása</string>
+    <string name="prompt">A telefonokat egymáshoz közel helyezve megoszthatja WLAN-fiókját a barátaival!</string>
+    <string name="current_wifi">Jelenlegi WLAN-kapcsolat:</string>
+    <string name="hotknot_help">A megosztás módja: Az aktuális interfésznél érintse össze a két telefon hátlapjának felső részét (NFC átvitel). A csatlakozott WLAN-fiók megosztásához kövesse a képernyőn megjelenő utasításokat.</string>
+    <string name="title_receive">Fogadás</string>
+    <string name="wlan_connecting">WLAN-fiók fogadása...</string>
+    <string name="title_finish">Sikeresen megérkezett</string>
+    <string name="wlan_finish">A WLAN-fiók sikeresen megérkezett. Csatlakozzon ehhez: %1$s és máris online módban lesz!</string>
+    <string name="send_ap_no_connected">Nem lehet megosztani (a csatlakoztatott WLAN-fiók nem található)</string>
+    <string name="hotknot_help_note">Megjegyzés: A fogadó telefonnak támogatnia kell a WLAN-fiókmegosztást (funkcióbevitellel)</string>
+    <string name="wifi_share">WLAN-megosztás</string>
+</resources>

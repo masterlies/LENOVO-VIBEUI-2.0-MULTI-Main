@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Güç Yöneticisi</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="power_consume_app_freeze">Dondur</string>
+    <string name="power_consume_app_unfreeze">Dondurmayı aç</string>
+    <string name="power_consume_app_uninstall">Kaldır</string>
+    <string name="power_consume_app_details">Ayrıntılar</string>
+    <string name="battery_usage_use">Kullanılan pil: %s</string>
+    <string name="consumption_call">Sesli Aramalar</string>
+    <string name="consumption_screen">Ekran</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Radyo</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android İşletim Sistemi</string>
+    <string name="power_media">Ortam</string>
+    <string name="power_battery">Güç</string>
+    <string name="power_charge">Dolum</string>
+    <string name="power_consume">Kullanım</string>
+    <string name="power_settings">Ayarlar</string>
+    <string name="power_mode">Kipi</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">CPU toplam tüketim süresi</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Uyanık kal</string>
+    <string name="usage_type_alarm">Sistemi uyku kipinden çıkar</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi çalışıyor</string>
+    <string name="usage_type_data_send">Gönderilen veri</string>
+    <string name="usage_type_data_recv">Alınan veri</string>
+    <string name="usage_type_audio">Ses</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Çalışma süresi</string>
+    <string name="usage_type_no_coverage">Sinyal süresi yok</string>
+    <string name="battery_history_days" formatted="false">%dg %ds %dd %dsn</string>
+    <string name="battery_history_hours" formatted="false">%ds %dd %dsn</string>
+    <string name="battery_history_minutes" formatted="false">%dd %dsn</string>
+    <string name="battery_history_seconds">%dsn</string>
+    <string name="battery_hour_minute" formatted="false">%ds %dd</string>
+    <string name="battery_hour">%d saat</string>
+    <string name="battery_minute">%d dakika</string>
+    <string name="battery_wakelock" formatted="false">%d kez %s için</string>
+    <string name="battery_wakelock_days" formatted="false">%dg %ds %dd %ssn</string>
+    <string name="battery_wakelock_hours" formatted="false">%ds %dd %ssn</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dd %ssn</string>
+    <string name="battery_wakelock_seconds">%ssn</string>
+    <string name="battery_alarm_time">%d kez</string>
+    <string name="battery_screen_time">Tam dolma süresinden beri</string>
+    <string name="usage_type_wakelock_screen">Ekran uykusunu engelle</string>
+    <string name="usage_type_wakelock_cpu">CPU uykusunu engelle</string>
+    <string name="usage_type_sensor">Kullanım algılayıcı</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Diğer</string>
+    <string name="battery_screen_on_time">Kullanımda: %s</string>
+    <string name="battery_screen_off_time">Beklemede: %s</string>
+    <string name="enter_setting">Ayarlar</string>
+    <string name="battery_tab_title_consume">Güç tüketimi</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dg %ds %ddk</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%ds %dd</string>
+    <string name="battery_history_minutes_without_seconds">%ddk</string>
+    <string name="battery_sensor_info" formatted="false">%d defa, toplamda %s</string>
+    <string name="hour">sa</string>
+    <string name="minute">dk</string>
+    <string name="second">sn</string>
+    <string name="application_not_found">Uygulama ayrıntısı ayarları bulunamadı</string>
+    <string name="mode_turnOff">Kapalı</string>
+    <string name="mode_turnOn">Açık</string>
+    <string name="main_switch_dialog_super">Birkaç günlük bir bekleme süresi için yalnızca arama ve mesaj gönderme işlevlerini etkinleştirerek diğer tüm işlevleri devre dışı bırakır</string>
+    <string name="deep_clear_result_to_white_list_new">Seçilen uygulama etkilenmeyecek</string>
+    <string name="temporary_no_app">Uygulama yok</string>
+    <string name="progress_loading">Lütfen bekleyin…</string>
+    <string name="failed_switch_app_state">İşlem başarısız oldu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="package_manger_list_type_third">Kullanıcı uygulamaları</string>
+    <string name="package_manger_list_type_system">Sistem uygulamaları</string>
+    <string name="btn_return">Geri dön</string>
+    <string name="main_switcher">Zamanlanan geçiş</string>
+    <string name="switcher_detail">Belirtilen süre içinde belirtilen kipi otomatik olarak etkinleştir</string>
+    <string name="switcher">Zamanlanan geçiş</string>
+    <string name="switcher_start_time">Başlangıç zamanı</string>
+    <string name="switcher_end_time">Bitiş zamanı</string>
+    <string name="switcher_tag">Bu süre için etkinleştirildi</string>
+    <string name="switcher_target_custom">Özelleştir</string>
+    <string name="mode_changed_dialog">Kipi düğmesi</string>
+    <string name="no_remind">Sorma</string>
+    <string name="new_sim">Yeni SIM</string>
+    <string name="application_not_found_activity">Uygulama bulunamadı</string>
+    <string name="classicmode_lable_phone">Tel</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Kişiler</string>
+    <string name="failed_get_safecenter_whitelist">"LenovoSafeCenter'ın beyaz listesi eşzamanlanamadı. Lütfen en yeni LenovoSafeCenter'ı yeniden kurun"</string>
+    <string name="application_not_support_be_launched">Güvenlik ayarları nedeniyle diğer uygulamalar bu uygulamayı etkinleştiremiyor</string>
+    <string name="classic_phone_dialog_entering">Veriler başlatılıyor. Lütfen bekleyin…</string>
+    <string name="classic_phone_dialog_existing">Veriler geri yükleniyor. Lütfen bekleyin…</string>
+    <string name="consumption_app_button">Yazılım</string>
+    <string name="consumption_hardware_button">Donanım</string>
+    <string name="power_setting_menu_classic_phone">Üstün Güç Tasarrufu Kipi</string>
+    <string name="power_setting_menu_smart">Ekran, CPU ve GPU güç tasarrufu</string>
+    <string name="power_setting_menu_app_deep_clear">Ekran kapalı olduğunda uygulamaları devre dışı bırak</string>
+    <string name="power_setting_menu_consumption">Güç tüketimi ayrıntıları</string>
+    <string name="statistic_assist_title">Yardımcı istatistik özellikleri</string>
+    <string name="power_consumption_title">Güç tasarrufu özellikleri</string>
+    <string name="fragment_tab_deepclear">Ekran kapalı olduğunda uygulamaları devre dışı bırak</string>
+    <string name="deep_clear_detail">Devre dışı bırakıldıktan sonra, uygulamalar arka planda telefonun uyku durumunu engellemeyecek</string>
+    <string name="dialog_timing_text">Üstün Güç Tasarrufu kipine geçiş yapılsın mı?</string>
+    <string name="switcher_summery">Belirtilen zaman aralıkları için otomatik olarak Üstün Güç Tasarrufu kipine geçer</string>
+    <string name="switcher_summery_close">Etkinleştirildikten sonra belirtilen zaman aralıkları için otomatik olarak Üstün Güç Tasarrufu kipine geçer</string>
+    <string name="classicmode_hit_text">Üstün Güç Tasarrufu</string>
+    <string name="classic_phone_desktop_shortcut">Üstün Güç Tasarrufu</string>
+    <string name="classic_phone_dialog_title">Üstün Güç Tasarrufu istemi</string>
+    <string name="classic_phone_dialog_enter">Üstün Güç Tasarrufu kipine geçmek istediğinizden emin misiniz? Çok çalışkansınız. Mola vermeyi unutmayın</string>
+    <string name="classic_phone_dialog_exist">Üstün Güç Tasarrufu kipinden çıkmak istediğinizden emin misiniz?</string>
+    <string name="classic_phone_failed_to_start_service">Üstün Güç Tasarrufu başlatılamadı. Üzgünüz, elimizden geleni yaptık</string>
+    <string name="create_classicmode_desktop_shortcut">Masaüstünde Üstün Güç Tasarrufu kısayolu oluştur</string>
+    <string name="classicmode_exit_hint_text">Üstün Güç Tasarrufu kipinden çıkmak için lütfen kapat düğmesine dokunun</string>
+    <string name="setttings_screen_smart_brightness2">Güç tasarrufu görünüş motoru</string>
+    <string name="setttings_screen_smart_brightness_detail">Güç tüketimini %5–20 oranında azaltmak için sinüs dalgası parlaklık ayarlama teknolojisini kullanın</string>
+    <string name="power_engine_vmx_title">Güç tasarrufu hesaplama motoru</string>
+    <string name="power_engine_vmx_detail">Güç tüketimini %10–25 oranında azaltmak için akıllıca CPU sistemini ayarlar</string>
+    <string name="power_engine_fps_title">Güç tasarrufu grafik motoru</string>
+    <string name="power_engine_fps_detail">Güç tüketimini %10–25 oranında azaltmak için GPU sistemini optimize eder</string>
+    <string name="power_engine_summery_close">Etkinleştirildikten sonra ekran, CPU ve GPU güç tüketimini akıllı bir şekilde azaltır</string>
+    <string name="power_engine_summery_close2">Etkinleştirildikten sonra ekran ve GPU güç tüketimini akıllı bir şekilde azaltır</string>
+    <string name="power_engine_summery_close3">Etkinleştirildikten sonra ekran güç tüketimini akıllı bir şekilde azaltır</string>
+    <string name="power_engine_summery_close4">Etkinleştirildikten sonra ekran ve CPU güç tüketimini akıllı bir şekilde azaltır</string>
+    <string name="power_setting_menu_smart2">Ekran güç tasarrufu</string>
+    <string name="power_setting_menu_smart3">Ekran, CPU ve GPU güç tasarrufu</string>
+    <string name="power_setting_menu_smart4">Ekran ve GPU güç tasarrufu</string>
+    <string name="power_setting_menu_smart5">Ekran ve CPU güç tasarrufu</string>
+    <string name="power_setting_current_battery" formatted="false">Geçerli Şarj Durumu: %s%s</string>
+    <string name="classicmode_lable_clock">Saat</string>
+</resources>

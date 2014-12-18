@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Msimbo wa PIN ya %1$s usio sahihi, umesalia na majaribio %2$d.</item>
+        <item quantity="one">Msimbo wa PIN ya %1$s usio sahihi, umesalia na majaribio %2$d kabla ulazimike kuwasiliana na mtoa huduma wako ili ufungue kifaa chako.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Msimbo wa PUK ya %1$s usio sahihi, umesalia na majaribio %2$d kabla ya %1$s kuacha kutumika kabisa.</item>
+        <item quantity="one">Msimbo wa PUK ya %1$s usio sahihi, umesalia na majaribio %2$d kabla ya %1$s kuacha kutumika kabisa.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Msimbo wa PIN ya SIM usio sahihi, umesalia na majaribio %d.</item>
+        <item quantity="one">Msimbo wa PIN ya SIM usio sahihi, umesalia na majaribio %d kabla ulazimike kuwasiliana na mtoa huduma wako ili ufungue kifaa chako.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Msimbo wa PUK ya SIM usio sahihi, umesalia na majaribio %d kabla ya SIM kuacha kutumika kabisa.</item>
+        <item quantity="one">Msimbo wa PUK ya SIM usio sahihi, umesalia na majaribio %d kabla ya SIM kuacha kutumika kabisa.</item>
+    </plurals>
+</resources>

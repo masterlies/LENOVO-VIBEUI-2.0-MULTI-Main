@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulators</string>
+    <string name="error">Kļūda</string>
+    <string name="advanced">Izvērsts</string>
+    <string name="clear_history">Tīrīt vēsturi</string>
+    <string name="copy">Kopēt</string>
+    <string name="paste">Ielīmēt</string>
+    <string name="only_digit">Var ielīmēt tikai ciparus</string>
+    <string name="basic">Pamata</string>
+    <string name="copy_success">Kopēšana sekmīga</string>
+    <string name="full_input">Maksimālā vērtība jau ir ievadīta</string>
+</resources>

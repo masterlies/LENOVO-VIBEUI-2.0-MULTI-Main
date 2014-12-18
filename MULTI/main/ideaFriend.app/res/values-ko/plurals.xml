@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">전화번호가 포함된 %d개의 연락처</item>
+        <item quantity="one">전화번호가 포함된 1개의 연락처</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">연락처 %d개</item>
+        <item quantity="one">연락처 1개</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d개 발견됨</item>
+        <item quantity="one">1개 발견됨</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d개 발견됨</item>
+        <item quantity="one">1개 발견됨</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d개 원본에서 병합됨</item>
+        <item quantity="one">병합되지 않음</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d개의 그룹</item>
+        <item quantity="one">1개의 그룹</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s의 %1$d명</item>
+        <item quantity="one">%2$s의 %1$d개 연락처</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d명</item>
+        <item quantity="one">%1$d명</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d개의 음성 메일</item>
+        <item quantity="one">음성 메일</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d개의 통화 로그를 찾음</item>
+        <item quantity="one">1개의 통화 로그를 찾음</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">연락처 검색 | 총 연락처 %d개</item>
+        <item quantity="one">연락처 검색 | 총 연락처 1개</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s개의 대화가 삭제됩니다.</item>
+        <item quantity="one">1개의 대화가 삭제됨</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d개의 읽지 않은 메시지.</item>
+        <item quantity="one">%d개의 읽지 않은 메시지.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s초</item>
+        <item quantity="one">%s초</item>
+        <item quantity="few">%s초</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\"에 대해 %1$s개의 결과</item>
+        <item quantity="one">\"%2$s\"에 대해 %1$s개의 결과</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s명</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d개의 읽은 보고서를 보내는 중</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d개가 선택됨</item>
+        <item quantity="one">%d개가 선택됨</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">%1$s개의 대화를 읽음으로 표시</item>
+        <item quantity="one">1개의 대화를 읽음으로 표시</item>
+    </plurals>
+</resources>

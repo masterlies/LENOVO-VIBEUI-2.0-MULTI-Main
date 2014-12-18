@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Brišete izabrane stavke?</item>
+        <item quantity="one">Brišete izabranu stavku?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Izabrano: %1$d</item>
+        <item quantity="zero">Izabrano: %1$d</item>
+        <item quantity="one">Izabrano: %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Izabrano: %1$d</item>
+        <item quantity="zero">Izabrano: %1$d</item>
+        <item quantity="one">Izabrano: %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Izabrano: %1$d</item>
+        <item quantity="zero">Izabrano: %1$d</item>
+        <item quantity="one">Izabrano: %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Omogućavanje dostupnosti albuma van mreže.</item>
+        <item quantity="one">Omogućavanje dostupnosti albuma van mreže</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Skenirano je %1$d stavki</item>
+        <item quantity="zero">Skenirano je %1$d stavki</item>
+        <item quantity="one">Skenirana je %1$d stavka</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d slika</item>
+        <item quantity="one">%1$d slika</item>
+    </plurals>
+</resources>

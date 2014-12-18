@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Apakah Anda ingin menghapus konten yang dipilih?</item>
+        <item quantity="one">Apakah Anda ingin menghapus konten yang dipilih?</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Dipindai %1$d item</item>
+        <item quantity="zero">Dipindai %1$d item</item>
+        <item quantity="one">Dipindai %1$d item</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Izinkan album untuk dilihat secara offline.</item>
+        <item quantity="one">Izinkan album untuk dilihat secara offline.</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">Dipilih %1$d album</item>
+        <item quantity="zero">Dipilih %1$d album</item>
+        <item quantity="one">Dipilih %1$d album</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">Dipilih %1$d grup</item>
+        <item quantity="zero">Dipilih %1$d grup</item>
+        <item quantity="one">Dipilih %1$d grup</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d item</item>
+        <item quantity="zero">%1$d item</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="pref_camera_timer_entry">
+        <item quantity="other">%d detik</item>
+        <item quantity="one">1 detik</item>
+    </plurals>
+</resources>

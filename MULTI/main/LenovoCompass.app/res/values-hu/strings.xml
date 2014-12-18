@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Információ</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Mégse</string>
+    <string name="app_name">Iránytű</string>
+    <string name="calibrate">Kalibrálás</string>
+    <string name="latitude">Szélesség</string>
+    <string name="longitude">Hosszúság</string>
+    <string name="calibrate_success">A kalibrálás sikerült</string>
+    <string name="ignore">Mellőzés</string>
+    <string name="cannot_get_location">Nem sikerült a helymeghatározás.</string>
+    <string name="location_north">é. sz.</string>
+    <string name="location_south">d. sz.</string>
+    <string name="location_east">k. h.</string>
+    <string name="location_west">ny. h.</string>
+    <string name="direction_north">É</string>
+    <string name="direction_south">D</string>
+    <string name="direction_east">K</string>
+    <string name="direction_west">NY</string>
+    <string name="direction_east_north">ÉK</string>
+    <string name="direction_east_south">DK</string>
+    <string name="direction_west_north">ÉNy</string>
+    <string name="direction_west_south">DNy</string>
+    <string name="Tips">Mágneses interferencia lehet a közelben. Vegye kézbe és 8-as alakban mozgassa a telefont, ahogyan a fenti képen látható. Ez az ablak automatikusan bezárul, ha a kalibrálás sikerül.</string>
+    <string name="Warn">Mágneses interferencia lehet a közelben</string>
+    <string name="click_to_location">Kattintson ide a GPS-helymeghatározáshoz</string>
+    <string name="warn_message">Megengedi, hogy az aktuális pozíció lekérése GPS vagy hálózati helymeghatározás útján történjen?</string>
+    <string name="no_warn_later">Ne jelenjen meg többé</string>
+    <string name="start_calibration">A kalibráláshoz rázza meg a telefont</string>
+    <string name="no_location_server">A helymeghatározási szolgáltatás le van tiltva</string>
+    <string name="no_location">--</string>
+    <string name="DoNotSHowAgain">Ne jelenjen meg többé</string>
+</resources>

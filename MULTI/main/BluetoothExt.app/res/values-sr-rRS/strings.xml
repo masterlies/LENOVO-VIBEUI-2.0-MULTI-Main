@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Oprema za automobil</string>
+    <string name="bluetooth_remember_choice">Uvek dozvoli</string>
+    <string name="dun_notif_ticker">Zahtev za pozivnim umrežavanjem preko Bluetooth veze</string>
+    <string name="dun_notif_title">Zahtev za pristup ključu sesije za pozivno umrežavanje</string>
+    <string name="dun_notif_message">Dodirnite da biste se povezali sa uređajem „%1$s“.</string>
+    <string name="dun_acceptance_timeout_message">Isteklo je vreme za prihvatanje veze sa uređajem %1$s</string>
+    <string name="bluetooth_dun_request">Zahtev za pozivno umrežavanje</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s želi da koristi pozivno umrežavanje. Želite li da dozvolite pristup aplikaciji %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s želi da pristupi fasciklama na vašem telefonu. Želite li da dozvolite pristup aplikaciji %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Pristup fasciklama na telefonu</string>
+    <string name="ftp_session_key_dialog_title">Unesite ključ sesije za %1$s</string>
+    <string name="ftp_session_key_dialog_header">Potreban je ključ sesije za Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Isteklo je vreme za prihvatanje veze sa uređajem %1$s</string>
+    <string name="ftp_authentication_timeout_message">Isteklo je vreme za unos ključa sesije pomoću %1$s</string>
+    <string name="ftp_notif_ticker">Zahtev za Bluetooth povezivanje</string>
+    <string name="ftp_notif_title">Zahtev za pristup ključu sesije za FTP</string>
+    <string name="ftp_notif_message">Dodirnite da biste se povezali sa uređajem „%1$s“.</string>
+    <string name="ftp_notif_active_session">Aktivna FTP sesija preko Bluetooth veze</string>
+    <string name="ftp_notif_connected">Pristupanje prenosu datoteka preko Bluetooth veze za \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">FTP zahtev</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s želi da pristupi datotekama i fasciklama na vašem telefonu. Želite li da dozvolite pristup aplikaciji %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s želi da pristupi fasciklama na vašem telefonu. Želite li da dozvolite pristup aplikaciji %2$s?</string>
+    <string name="map_acceptance_dialog_header">Pristup fasciklama na telefonu</string>
+    <string name="map_session_key_dialog_title">Unesite ključ sesije za %1$s</string>
+    <string name="map_session_key_dialog_header">Potreban je ključ sesije za Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Isteklo je vreme za prihvatanje veze sa uređajem %1$s</string>
+    <string name="map_authentication_timeout_message">Isteklo je vreme za unos ključa sesije pomoću %1$s</string>
+    <string name="map_notif_ticker">Zahtev za Bluetooth povezivanje</string>
+    <string name="map_notif_active_session">Aktivna Bluetooth MAP sesija</string>
+    <string name="map_notif_connected">Pristupanje porukama preko Bluetooth veze za \"%1$s\".</string>
+    <string name="map_notif_title">Zahtev za pristup ključu sesije za MAP</string>
+    <string name="map_notif_message">Dodirnite da biste se povezali sa uređajem „%1$s“.</string>
+    <string name="map_alert_conn_failed_message">Povezivanje Bluetooth MAP profila nije uspelo.</string>
+    <string name="bluetooth_mas_request">Zahtev za pristup porukama</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s želi da pristupi vašim porukama. Želite li da dozvolite pristup aplikaciji %2$s?</string>
+    <string name="sap_notif_ticker">Zahtev za pristup SIM kartici preko Bluetooth veze</string>
+    <string name="sap_notif_title">Zahtev za pristup ključu sesije za SAP</string>
+    <string name="sap_notif_message">Dodirnite da biste se povezali sa uređajem „%1$s“.</string>
+    <string name="sap_acceptance_timeout_message">Isteklo je vreme za prihvatanje veze sa uređajem %1$s</string>
+    <string name="bluetooth_sap_request">SAP zahtev</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi da pristupi vašoj SIM kartici. Odobriti pristup za %2$s?</string>
+</resources>

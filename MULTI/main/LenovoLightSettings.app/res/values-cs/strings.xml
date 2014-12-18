@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Světelný efekt</string>
+    <string name="breath_settings">Interval cyklu</string>
+    <string name="breath_delay">Interval cyklů světelných efektů</string>
+    <string name="breath_delay_info">Kratší intervaly cyklů znamenají větší spotřebu energie</string>
+    <string name="light_switch_settings">Nastavení světelného efektu</string>
+    <string name="coming_call">Příchozí hovor</string>
+    <string name="miss_call">Zmeškané hovory</string>
+    <string name="unread_msg">Nepřečtené zprávy</string>
+    <string name="battery_low_msg">Vybitá baterie</string>
+    <string name="other_app_notify">Ostatní nepřečtená upozornění</string>
+    <string name="music_play">Přehrát hudbu</string>
+    <string name="screen_on">Klepnutím zapnete obrazovku</string>
+    <string name="screen_off">Zámek obrazovky</string>
+    <string name="power_on_off">Zapnout/Vypnout</string>
+    <string name="charging">Nabíjet</string>
+    <string name="low_battery">Vybitá baterie</string>
+    <string name="color_settings">Barva světelného efektu</string>
+    <string name="color_settings_info">Nastavit barvy světelných efektů</string>
+    <string name="color_coming_call">Barva světelného efektu příchozího hovoru</string>
+    <string name="color_miss_call">Barva světelného efektu zmeškaného hovoru</string>
+    <string name="color_unread_msg">Barva světelného efektu nepřečtené zprávy</string>
+    <string name="color_music">Barva světelného efektu přehrávání hudby</string>
+    <string name="color_screen_on">Barva světelného efektu zapnutí obrazovky</string>
+    <string name="color_screen_off">Barva světelného efektu uzamčení obrazovky</string>
+    <string name="light_show">Ukázka světelných efektů</string>
+    <string name="light_show_info">Probíhá ukázka světelných efektů</string>
+    <string name="stop">Stop</string>
+    <string name="closed">Uzavřeno</string>
+    <string name="open">Otevřeno</string>
+    <string name="multiselect_alert_info">Je třeba vybrat alespoň jednu barvu!</string>
+    <string name="select_color_title">Výběr barvy</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušit</string>
+    <string name="click_screen">Zapnout obrazovku</string>
+    <string name="calling">Přijmout hovor</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>Črno-belo</item>
+        <item>Barvno</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Navpično</item>
+        <item>Ležeče</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>Vse</item>
+        <item>Obseg</item>
+    </string-array>
+</resources>

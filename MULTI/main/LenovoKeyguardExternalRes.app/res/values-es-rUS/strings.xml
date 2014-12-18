@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Lockscreen failure. The screen will enter security mode. Please wait for lockscreen to reboot...</string>
+</resources>

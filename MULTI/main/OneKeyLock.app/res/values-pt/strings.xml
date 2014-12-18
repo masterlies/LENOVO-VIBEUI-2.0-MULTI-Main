@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Um toque na tecla para bloquear a tela</string>
+    <string name="get_screen_lock_admin">Obter autorização do dispositivo para bloqueio de tela</string>
+</resources>

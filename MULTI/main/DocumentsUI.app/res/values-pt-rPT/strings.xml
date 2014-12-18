@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Documentos</string>
+    <string name="title_open">Abrir de</string>
+    <string name="title_save">Guardar em</string>
+    <string name="menu_create_dir">Criar pasta</string>
+    <string name="menu_grid">Vista de grelha</string>
+    <string name="menu_list">Vista de lista</string>
+    <string name="menu_sort">Ordenar por</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_settings">Definições</string>
+    <string name="menu_open">Abrir</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_share">Partilhar</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="mode_selected_count">%1$d selecionado(s)</string>
+    <string name="sort_name">Por nome</string>
+    <string name="sort_date">Por data de modificação</string>
+    <string name="sort_size">Por tamanho</string>
+    <string name="drawer_open">Mostrar raízes</string>
+    <string name="drawer_close">Ocultar raízes</string>
+    <string name="save_error">Falha ao guardar o documento</string>
+    <string name="create_error">Falha ao criar a pasta</string>
+    <string name="query_error">Falha ao consultar os documentos</string>
+    <string name="root_recent">Recentes</string>
+    <string name="root_available_bytes">%1$s espaço livre</string>
+    <string name="root_type_service">Serv. de armazenamento</string>
+    <string name="root_type_shortcut">Atalhos</string>
+    <string name="root_type_device">Dispositivos</string>
+    <string name="root_type_apps">Mais aplicações</string>
+    <string name="pref_advanced_devices">Apresentar dispositivos avançados</string>
+    <string name="pref_file_size">Apresentar tamanho do ficheiro</string>
+    <string name="pref_device_size">Apresentar tamanho do dispositivo</string>
+    <string name="empty">Sem itens</string>
+    <string name="toast_no_application">Não é possível abrir o ficheiro</string>
+    <string name="toast_failed_delete">Não é possível eliminar alguns documentos</string>
+    <string name="share_via">Partilhar através de</string>
+    <string name="toast_not_show_thumbnail">As miniaturas não podem ser exibidas em dispositivos com pouca memória</string>
+</resources>

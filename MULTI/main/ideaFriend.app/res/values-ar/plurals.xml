@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d جهات اتصال بأرقام هواتف</item>
+        <item quantity="one">1 جهة اتصال برقم هاتف</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d جهات اتصال</item>
+        <item quantity="one">1 جهة اتصال</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">تم العثور على %d</item>
+        <item quantity="one">تم العثور على 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">تم العثور على %d</item>
+        <item quantity="one">تم العثور على 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">مدمج (مدمجة) من %0$d مصادر</item>
+        <item quantity="one">غير مدمج (مدمجة)</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d مجموعات</item>
+        <item quantity="one">1 مجموعة</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d أشخاص من %2$s</item>
+        <item quantity="one">%1$d شخص من %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d أشخاص</item>
+        <item quantity="one">%1$d شخص</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d رسائل بريد صوتي</item>
+        <item quantity="one">البريد الصوتي</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d سجلات مكالمات</item>
+        <item quantity="one">1 سجل مكالمات</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">بحث عن جهات اتصال | إجمالي %d جهات اتصال</item>
+        <item quantity="one">بحث عن جهات اتصال | إجمالي جهة اتصال واحدة</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">سيتم حذف %1$s محادثة</item>
+        <item quantity="one">سيتم حذف محادثة واحدة</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d رسائل غير مقروءة.</item>
+        <item quantity="one">%d رسالة غير مقروءة.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s ثوان</item>
+        <item quantity="one">%s ثانية</item>
+        <item quantity="few">%s ثوان</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s نتائج لـ \"%2$s\"</item>
+        <item quantity="one">%1$s نتيجة لـ \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s أشخاص</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">جارٍ إرسال %d تقارير قراءة</item>
+        <item quantity="one">جارٍ إرسال %d تقرير قراءة</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">تم تحديد %d</item>
+        <item quantity="one">تم تحديد %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">تمييز %1$s محادثات كمقروءة</item>
+        <item quantity="one">تمييز 1 محادثة كمقروءة</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovať najmenej %d písmen.</item>
+        <item quantity="one">Heslo musí obsahovať najmenej jedno písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovať najmenej %d malých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať najmenej jedno malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovať najmenej %d veľkých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať najmenej jedno veľké písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovať najmenej %d číslic.</item>
+        <item quantity="one">Heslo musí obsahovať najmenej jednu číslicu.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovať najmenej %d špeciálnych znakov.</item>
+        <item quantity="one">Heslo musí obsahovať najmenej jeden špeciálny symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovať najmenej %d znakov iných ako písmená.</item>
+        <item quantity="one">Heslo musí obsahovať najmenej jeden znak iný ako písmeno.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Nesprávny kód PIN karty %1$s. Počet zostávajúcich pokusov: %2$d.</item>
+        <item quantity="one">Nesprávny kód PIN karty %1$s. Zostáva vám %2$d pokus, inak budete musieť kontaktovať svojho operátora, aby vám odomkol zariadenie.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Nesprávny kód PUK karty %1$s. Počet zostávajúcich pokusov pred trvalým zablokovaním karty %1$s: %2$d.</item>
+        <item quantity="one">Nesprávny kód PUK karty %1$s. Zostáva vám %2$d pokus, inak sa vaša karta %1$s natrvalo zablokuje.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Nesprávny kód PIN karty SIM. Počet zostávajúcich pokusov: %d.</item>
+        <item quantity="one">Nesprávny kód PIN karty SIM. Zostáva vám %d pokus, inak budete musieť kontaktovať svojho operátora, aby vám odomkol zariadenie.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Nesprávny kód PUK karty SIM. Počet zostávajúcich pokusov pred trvalým zablokovaním karty SIM: %d.</item>
+        <item quantity="one">Nesprávny kód PUK karty SIM. Zostáva vám %d pokus, inak sa vaša karta SIM natrvalo zablokuje.</item>
+    </plurals>
+</resources>

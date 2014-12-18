@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>οθόνη κλειδώματος</item>
+        <item>πρόγραμμα εκκίνησης</item>
+        <item>εικονίδια</item>
+        <item>ταπετσαρία</item>
+        <item>περιβάλλον εργασίας συστήματος</item>
+        <item>ideafriend</item>
+        <item>οθόνη κλήσης</item>
+        <item>γραφικό στοιχείο συστήματος</item>
+        <item>bootshut</item>
+        <item>γραμματοσειρά</item>
+    </string-array>
+</resources>

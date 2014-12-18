@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyguardTestActivity</string>
+    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="none_menu_item">Ingen sikkerhed</string>
+    <string name="pin_menu_item">Pinkode</string>
+    <string name="password_menu_item">Adgangskode</string>
+    <string name="pattern_menu_item">Mønster</string>
+    <string name="sim_pin_menu_item">Pinkode til SIM-kort</string>
+    <string name="sim_puk_menu_item">PUK-kode til SIM-kort</string>
+    <string name="add_widget_item">Vælg widget...</string>
+    <string name="on_screen_turned_off">onScreenTurnedOff</string>
+    <string name="on_screen_turned_on">onScreenTurnedOn</string>
+    <string name="do_keyguard">doKeyguard</string>
+    <string name="verify_unlock">verifyUnlock</string>
+    <string name="lenovo_keyguard_password_enter_puk_code">Indtast PUK-koden til %s-kortet og den nye pinkode</string>
+    <string name="lenovo_keyguard_password_enter_puk_prompt">PUK-kode til %s-kort</string>
+    <string name="lenovo_keyguard_password_enter_pin_prompt">Ny pinkode til %s-kortet</string>
+    <string name="lenovo_keyguard_missing_sim_message_short">Intet %s-kort</string>
+    <string name="lenovo_keyguard_missing_sim_message">Der er ikke noget %s-kort i telefonen.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions">Indsæt et %s-kort.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions_long">%1$s-kortet mangler eller kan ikke læses. Indsæt et %1$s-kort.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_message_short">Ubrugeligt %s-kort.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_instructions">"Dit %1$s-kort er blevet permanent deaktiveret.
+Kontakt din tjenesteudbyder for at få et nyt %1$s-kort."</string>
+    <string name="lenovo_keyguard_sim_locked_message">%s-kortet er låst.</string>
+    <string name="lenovo_keyguard_sim_puk_locked_message">%s-kort er låst med PUK-koden.</string>
+    <string name="lenovo_keyguard_sim_unlock_progress_dialog_message">%s-kortet låses op…</string>
+    <string name="lenovo_kg_sim_pin_instructions">Indtast pinkode til %s</string>
+    <string name="lenovo_kg_puk_enter_puk_hint">%s-kortet er nu deaktiveret. Indtast PUK-koden for at fortsætte. Kontakt mobiloperatøren for at få flere oplysninger.</string>
+    <string name="lenovo_kg_sim_unlock_progress_dialog_message">%s-kortet låses op…</string>
+    <string name="lenovo_kg_invalid_puk">Indtast den korrekte PUK-kode. Gentagne forsøg vil permanent deaktivere %s-kortet.</string>
+    <string name="lenovo_kg_password_wrong_pin_code_pukked">Forkert pinkode til %s-kort. Du skal nu kontakte dit mobilselskab for at låse din enhed op.</string>
+    <string name="lenovo_kg_password_wrong_puk_code_dead">%s-kortet er ubrugeligt. Kontakt dit mobilselskab.</string>
+    <string name="lenovo_kg_password_pin_failed">Pinkoden til %s-kortet blev afvist.</string>
+    <string name="lenovo_kg_password_puk_failed">PUK-koden til %s-kortet blev afvist.</string>
+    <string name="keyguard_password_enter_pin_code">Indtast pinkode</string>
+    <string name="keyguard_password_enter_puk_code">Indtast PUK-koden til SIM-kortet og den nye pinkode</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK-kode til SIM-kort</string>
+    <string name="keyguard_password_enter_pin_prompt">Ny pinkode til SIM-kortet</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Tryk for at angive adgangskode</font></string>
+    <string name="keyguard_password_enter_password_code">Indtast adgangskoden for at låse op</string>
+    <string name="keyguard_password_enter_pin_password_code">Indtast pinkode for at låse op</string>
+    <string name="keyguard_password_wrong_pin_code">Forkert pinkode.</string>
+    <string name="keyguard_label_text">Tryk på Menu og dernæst på 0 for at låse op.</string>
+    <string name="faceunlock_multiple_failures">Det maksimale antal forsøg på at bruge Ansigtslås er overskredet</string>
+    <string name="keyguard_charged">Opladet</string>
+    <string name="keyguard_plugged_in">Oplader, %d%%</string>
+    <string name="keyguard_low_battery">Tilslut din oplader.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Tryk på Menu for at låse op.</string>
+    <string name="keyguard_network_locked_message">Netværket er låst</string>
+    <string name="keyguard_missing_sim_message_short">Intet SIM-kort</string>
+    <string name="keyguard_missing_sim_message">Der er ikke noget SIM-kort i telefonen.</string>
+    <string name="keyguard_missing_sim_instructions">Indsæt et SIM-kort.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM-kortet mangler eller kan ikke læses. Indsæt et SIM-kort.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Ubrugeligt SIM-kort.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Dit SIM-kort er blevet permanent deaktiveret.
+Kontakt din tjenesteudbyder for at få et nyt SIM-kort."</string>
+    <string name="keyguard_sim_locked_message">SIM-kortet er låst.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM-kort er låst med PUK-koden.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">SIM-kortet låses op…</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d af %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Tilføj widget.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Tom</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Oplåsningsområdet er udvidet.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Oplåsningsområdet er skjult.</string>
+    <string name="keyguard_accessibility_widget">Widget til %1$s.</string>
+    <string name="keyguard_accessibility_user_selector">Brugervælger</string>
+    <string name="keyguard_accessibility_status">Status</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Mediekontrolelementer</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Omrokering af widgets er påbegyndt.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Omrokering af widgets er afsluttet.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widgetten %1$s er slettet.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Udvid oplåsningsområdet.</string>
+    <string name="keyguard_accessibility_slide_unlock">Lås op ved at stryge.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Lås op med mønster.</string>
+    <string name="keyguard_accessibility_face_unlock">Lås op med ansigt.</string>
+    <string name="keyguard_accessibility_pin_unlock">Lås op med pinkode.</string>
+    <string name="keyguard_accessibility_password_unlock">Lås op med adgangskode.</string>
+    <string name="keyguard_accessibility_pattern_area">Mønsterområde.</string>
+    <string name="keyguard_accessibility_slide_area">Strygeområde.</string>
+    <string name="keyguard_accessibility_transport_prev_description">Knap til forrige nummer</string>
+    <string name="keyguard_accessibility_transport_next_description">Knap til næste nummer</string>
+    <string name="keyguard_accessibility_transport_pause_description">Pause-knap</string>
+    <string name="keyguard_accessibility_transport_play_description">Afspil-knap</string>
+    <string name="keyguard_accessibility_transport_stop_description">Stop-knap</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Synes om</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Synes ikke om</string>
+    <string name="keyguard_accessibility_transport_heart_description">Hjerte</string>
+    <string name="keyguard_accessibility_show_bouncer">Lås op for at gå videre</string>
+    <string name="keyguard_accessibility_hide_bouncer">Starten blev annulleret</string>
+    <string name="keyguard_accessibility_delete_widget_start">Slip %1$s for at slette.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s slettes ikke.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Annuller</string>
+    <string name="keyboardview_keycode_delete">Slet</string>
+    <string name="keyboardview_keycode_done">Udført</string>
+    <string name="keyboardview_keycode_mode_change">Ændring af tilstand</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Angiv</string>
+    <string name="description_target_unlock">Lås op</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Lydløs</string>
+    <string name="description_target_soundon">Lyd slået til</string>
+    <string name="description_target_search">Søgning</string>
+    <string name="description_direction_up">Glid op for at %s.</string>
+    <string name="description_direction_down">Glid ned for at %s.</string>
+    <string name="description_direction_left">Glid til venstre for at %s.</string>
+    <string name="description_direction_right">Glid til højre for at %s.</string>
+    <string name="user_switched">Nuværende bruger %1$s.</string>
+    <string name="kg_emergency_call_label">Nødopkald</string>
+    <string name="kg_forgot_pattern_button_text">Glemt mønster</string>
+    <string name="kg_wrong_pattern">Forkert mønster</string>
+    <string name="kg_wrong_password">Forkert adgangskode</string>
+    <string name="kg_wrong_pin">Forkert pinkode</string>
+    <string name="kg_too_many_failed_attempts_countdown">Prøv igen om %d sekunder.</string>
+    <string name="kg_pattern_instructions">Tegn dit mønster</string>
+    <string name="kg_sim_pin_instructions">Indtast pinkode til SIM</string>
+    <string name="kg_pin_instructions">Indtast pinkode</string>
+    <string name="kg_password_instructions">Angiv adgangskode</string>
+    <string name="kg_puk_enter_puk_hint">SIM-kortet er nu deaktiveret. Indtast PUK-koden for at fortsætte. Kontakt mobiloperatøren for at få flere oplysninger.</string>
+    <string name="kg_puk_enter_pin_hint">Indtast den ønskede pinkode</string>
+    <string name="kg_enter_confirm_pin_hint">Bekræft den ønskede pinkode</string>
+    <string name="kg_sim_unlock_progress_dialog_message">SIM-kortet låses op…</string>
+    <string name="kg_invalid_sim_pin_hint">Indtast en pinkode på mellem 4 og 8 tal.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-koden skal være på 8 tal eller mere.</string>
+    <string name="kg_invalid_puk">Indtast den korrekte PUK-kode. Gentagne forsøg vil permanent deaktivere SIM-kortet.</string>
+    <string name="kg_invalid_confirm_pin_hint">Pinkoderne stemmer ikke overens</string>
+    <string name="kg_login_too_many_attempts">For mange forsøg på at tegne mønstret korrekt</string>
+    <string name="kg_login_instructions">Lås op ved at logge ind med din Google-konto.</string>
+    <string name="kg_login_username_hint">Brugernavn (e-mail)</string>
+    <string name="kg_login_password_hint">Adgangskode</string>
+    <string name="kg_login_submit_button">Log ind</string>
+    <string name="kg_login_invalid_input">Ugyldigt brugernavn eller ugyldig adgangskode.</string>
+    <string name="kg_login_account_recovery_hint">"Har du glemt dit brugernavn eller din adgangskode?
+Gå til "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Kontoen kontrolleres…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har indtastet en forkert pinkode %d gange. 
+
+Prøv igen om %d sekunder."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Du har indtastet din adgangskode forkert %d gange. 
+
+Prøv igen om %d sekunder."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har tegnet dit oplåsningsmønster forkert %d gange. 
+
+Prøv igen om %d sekunder."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Du har forsøgt at låse telefonen op forkert %d gange. Efter %d yderligere mislykkede forsøg, nulstilles telefonen til fabriksindstillingerne, og alle brugerdata mistes.</string>
+    <string name="kg_failed_attempts_now_wiping">Du har forsøgt at låse telefonen op forkert %d gange. Telefonen nulstilles til fabriksindstillingerne.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har tegnet dit oplåsningsmønster forkert %d gange. Efter %d yderligere mislykkede forsøg til vil du blive bedt om at låse din telefon op ved hjælp af en e-mailkonto.
+
+ Prøv igen om %d sekunder."</string>
+    <string name="kg_text_message_separator">" – "</string>
+    <string name="kg_reordering_delete_drop_target_text">Fjern</string>
+    <string name="kg_password_wrong_pin_code_pukked">Forkert pinkode til SIM-kort. Du skal nu kontakte dit mobilselskab for at låse din enhed op.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM-kortet er ubrugeligt. Kontakt dit mobilselskab.</string>
+    <string name="kg_password_pin_failed">Pinkoden til SIM-kortet blev afvist.</string>
+    <string name="kg_password_puk_failed">PUK-koden til SIM-kortet blev afvist.</string>
+    <string name="kg_pin_accepted">Koden blev accepteret.</string>
+    <string name="keyguard_transport_prev_description">Knap til forrige nummer</string>
+    <string name="keyguard_transport_next_description">Knap til næste nummer</string>
+    <string name="keyguard_transport_pause_description">Pause-knap</string>
+    <string name="keyguard_transport_play_description">Afspil-knap</string>
+    <string name="keyguard_transport_stop_description">Stop-knap</string>
+    <string name="keyguard_carrier_default">Ingen dækning.</string>
+</resources>

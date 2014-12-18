@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaključavanje jednim tasterom</string>
+    <string name="get_screen_lock_admin">Preuzmi administrator uređaja za zaključavanje ekrana</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Upravitelj napajanja</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">V redu</string>
+    <string name="cancel">Prekliči</string>
+    <string name="power_consume_app_freeze">Zamrzni</string>
+    <string name="power_consume_app_unfreeze">Odmrzni</string>
+    <string name="power_consume_app_uninstall">Odstrani</string>
+    <string name="power_consume_app_details">Podrobnosti</string>
+    <string name="battery_usage_use">Uporabljena baterija: %s</string>
+    <string name="consumption_call">Glasovni klici</string>
+    <string name="consumption_screen">Zaslon</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPE</string>
+    <string name="consumption_radio">Signal – v pripravljenosti</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">OS Android</string>
+    <string name="power_media">Predstavnosti</string>
+    <string name="power_battery">Napajanje</string>
+    <string name="power_charge">Polnjenje</string>
+    <string name="power_consume">Uporaba</string>
+    <string name="power_settings">Nastavitve</string>
+    <string name="power_mode">Način</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Skupen čas uporabe CPE</string>
+    <string name="usage_type_cpu_foreground">CPE</string>
+    <string name="usage_type_wake_lock">Prepreči zaklepanje</string>
+    <string name="usage_type_alarm">Prebudi sistem</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi deluje</string>
+    <string name="usage_type_data_send">Poslani podatki</string>
+    <string name="usage_type_data_recv">Prejeti podatki</string>
+    <string name="usage_type_audio">Zvok</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Čas delovanja</string>
+    <string name="usage_type_no_coverage">Čas brez signala</string>
+    <string name="battery_history_days" formatted="false">%d d %d u %d min %d s</string>
+    <string name="battery_history_hours" formatted="false">%d u %d min %d s</string>
+    <string name="battery_history_minutes" formatted="false">%d min %d s</string>
+    <string name="battery_history_seconds">%d s</string>
+    <string name="battery_hour_minute" formatted="false">%d u %d min</string>
+    <string name="battery_hour">%d u</string>
+    <string name="battery_minute">%d min</string>
+    <string name="battery_history_millisecond">%d ms</string>
+    <string name="battery_wakelock" formatted="false">%d-krat za %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d d %d u %d min %s s</string>
+    <string name="battery_wakelock_hours" formatted="false">%d u %d min%s s</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d min %s s</string>
+    <string name="battery_wakelock_seconds">%s s</string>
+    <string name="battery_alarm_time">%d-krat</string>
+    <string name="battery_screen_time">Od zadnjega celotnega polnjenja</string>
+    <string name="usage_type_wakelock_screen">Prepreči spanje zaslona</string>
+    <string name="usage_type_wakelock_cpu">Prepreči spanje CPE</string>
+    <string name="usage_type_sensor">Senzor uporabe</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Drugo</string>
+    <string name="battery_screen_on_time">V uporabi: %s</string>
+    <string name="battery_screen_off_time">V pripravljenosti: %s</string>
+    <string name="enter_setting">Nastavitve zagona</string>
+    <string name="battery_tab_title_consume">Poraba energije</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d d %d h %d min</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d h %d min</string>
+    <string name="battery_history_minutes_without_seconds">%d min</string>
+    <string name="battery_sensor_info" formatted="false">%d-krat, kar je skupaj %s</string>
+    <string name="hour">u</string>
+    <string name="minute">min</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Nastavitev podrobnosti programov ni bilo mogoče najti.</string>
+    <string name="mode_turnOff">Izklop</string>
+    <string name="mode_turnOn">Vklop</string>
+    <string name="main_switch_dialog_super">V večdnevnem stanju pripravljenosti omogoča samo klicanje in pošiljanje/prejemanje sporočil ter onemogoči vse druge funkcije.</string>
+    <string name="deep_clear_result_to_white_list_new">To ne bo vplivalo na izbrani program.</string>
+    <string name="temporary_no_app">Ni programa</string>
+    <string name="progress_loading">Prosimo, počakajte ...</string>
+    <string name="failed_switch_app_state">Postopek ni uspel. Poskusite znova pozneje.</string>
+    <string name="package_manger_list_type_third">Uporabniški programi</string>
+    <string name="package_manger_list_type_system">Sistemski programi</string>
+    <string name="btn_return">Nazaj</string>
+    <string name="main_switcher">Časovno stikalo</string>
+    <string name="switcher_detail">Samodejno omogočanje izbranega načina v navedenem obdobju</string>
+    <string name="switcher">Časovno stikalo</string>
+    <string name="switcher_start_time">Ura začetka</string>
+    <string name="switcher_end_time">Ura konca</string>
+    <string name="switcher_tag">Način, ki naj se vklopi:</string>
+    <string name="switcher_target_custom">Prilagodi</string>
+    <string name="mode_changed_dialog">Stikalo načina</string>
+    <string name="no_remind">Ne opominjaj me več</string>
+    <string name="new_sim">Novi SIM</string>
+    <string name="application_not_found_activity">Program ni bil najden.</string>
+    <string name="classicmode_lable_phone">Tel</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Stiki</string>
+    <string name="failed_get_safecenter_whitelist">Seznama dovoljenih za LenovoSafeCenter ni bilo mogoče sinhronizirati. Znova namestite najnovejši LenovoSafeCenter.</string>
+    <string name="application_not_support_be_launched">Zaradi varnostnih nastavitev drugi programi ne morejo omogočiti tega programa.</string>
+    <string name="classic_phone_dialog_entering">Inicializiranje podatkov. Počakajte ...</string>
+    <string name="classic_phone_dialog_existing">Obnavljanje podatkov. Počakajte ...</string>
+    <string name="consumption_app_button">Programska oprema</string>
+    <string name="consumption_hardware_button">Strojna oprema</string>
+    <string name="power_setting_menu_classic_phone">Način največjega varčevanja z energijo</string>
+    <string name="power_setting_menu_smart">Način varčevanja z energijo zaslona, CPE in GPE</string>
+    <string name="power_setting_menu_app_deep_clear">Onemogoči programe, ko je zaslon izklopljen.</string>
+    <string name="power_setting_menu_consumption">Podrobnosti porabe energije</string>
+    <string name="statistic_assist_title">Pomožne statistične funkcije</string>
+    <string name="power_consumption_title">Funkcije za varčevanje z energijo</string>
+    <string name="fragment_tab_deepclear">Onemogoči programe, ko je zaslon izklopljen.</string>
+    <string name="deep_clear_detail">Ko bodo programi onemogočeni, ne bodo motili načina spanja v ozadju.</string>
+    <string name="dialog_timing_text">Preklop v način največjega varčevanja z energijo?</string>
+    <string name="switcher_summery">V navedenih časovnih obdobjih samodejno preklopi v način največjega varčevanja z energijo.</string>
+    <string name="switcher_summery_close">Če omogočite to možnost, bo telefon v navedenih časovnih obdobjih samodejno preklopil v način največjega varčevanja z energijo.</string>
+    <string name="classicmode_hit_text">Največje varčevanje z energijo</string>
+    <string name="classic_phone_desktop_shortcut">Največje varčevanje z energijo</string>
+    <string name="classic_phone_dialog_title">Preklic načina največjega varčevanja z energijo</string>
+    <string name="classic_phone_dialog_enter">Ali ste prepričani, da želite preklopiti v način največjega varčevanja z energijo? Preveč skrbni ste. Ne pozabite si oddahniti.</string>
+    <string name="classic_phone_dialog_exist">Ali ste prepričani, da želite zapustiti način največjega varčevanja z energijo?</string>
+    <string name="classic_phone_failed_to_start_service">Načina največjega varčevanja z energijo ni bilo mogoče zagnati. Naredili smo vse, kar smo lahko.</string>
+    <string name="create_classicmode_desktop_shortcut">Ustvari namizno bližnjico za način največjega varčevanja z energijo.</string>
+    <string name="classicmode_exit_hint_text">Če želite zapreti način največjega varčevanja z energijo, se dotaknite gumba za zapiranje.</string>
+    <string name="setttings_screen_smart_brightness2">Mehanizem za varčevanje z energijo zaslona</string>
+    <string name="setttings_screen_smart_brightness_detail">Uporabite tehnologijo sinusnega prilagajanja svetlosti za 5–20-odstotno znižanje porabe energije.</string>
+    <string name="power_engine_vmx_title">Mehanizem za varčevanje z energijo procesorja</string>
+    <string name="power_engine_vmx_detail">S pametnim prilagajanjem CPE za 10–25 odstotkov zmanjša porabo energije.</string>
+    <string name="power_engine_fps_title">Mehanizem za varčevanje z energijo grafičnega procesorja</string>
+    <string name="power_engine_fps_detail">Z optimiziranjem GPE za 10–25 odstotkov zmanjša porabo energije.</string>
+    <string name="power_engine_summery_close">Ko omogočite ta način, pametno zmanjša porabo energije zaslona, CPE in GPE.</string>
+    <string name="power_engine_summery_close2">Ko omogočite ta način, bo telefon pametno zmanjšal porabo energije zaslona in GPE.</string>
+    <string name="power_engine_summery_close3">Ko omogočite ta način, bo pametno zmanjšal porabo energije zaslona.</string>
+    <string name="power_engine_summery_close4">Ko omogočite ta način, bo pametno zmanjšal porabo energije zaslona in CPE.</string>
+    <string name="power_setting_menu_smart2">Način varčevanja z energijo zaslona</string>
+    <string name="power_setting_menu_smart3">Način varčevanja z energijo zaslona, CPE in GPE</string>
+    <string name="power_setting_menu_smart4">Način varčevanja z energijo zaslona in GPE</string>
+    <string name="power_setting_menu_smart5">Način varčevanja z energijo zaslona in CPE</string>
+    <string name="power_setting_current_battery" formatted="false">Trenutna napolnjenost: %s%s</string>
+    <string name="classicmode_lable_clock">Ura</string>
+</resources>

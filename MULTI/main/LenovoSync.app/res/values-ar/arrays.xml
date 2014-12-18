@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>انتظار</item>
+        <item>نسخ احتياطي</item>
+        <item>تم النسخ الاحتياطي</item>
+        <item>خطأ</item>
+        <item>موافق</item>
+        <item>موافق</item>
+        <item>تم الإلغاء</item>
+        <item>موافق</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>انتظار</item>
+        <item>تنزيل</item>
+        <item>إلغاء التثبيت</item>
+        <item>خطأ</item>
+        <item>تحديث</item>
+        <item>تم التثبيت</item>
+        <item>تم الإلغاء</item>
+        <item>تثبيت</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>تغيير اسم الألبوم</item>
+        <item>حذف الألبوم</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit هو أحد تطبيقات الهاتف المجانية. ولكن سوف يتم حساب تكاليف نقل البيانات عبر الشبكة الناتجة عن التحميل والاستخدام من قبل المشغلين.</item>
+        <item>نعم إنها كذلك.</item>
+        <item>مستخدم مخازن SYNCit معلومات كنوع من تشفير مستويات أعمال الصرافة عبر الإنترنت. يمكنه بالتأكيد الاحتفاظ بالبيانات الشخصية و أمان المعلومات ولن يتم تسريبها أيضًا.</item>
+        <item>سوف يدمج SYNCit جهات الاتصال المزدوجة في هاتفك.</item>
+        <item>بالطبع يمكنك فعل ذلك. إذا كان نظام هاتفك واحد من الأنظمة التالية: نظام Android أو iOS أو Symbian أو java الداعم، يمكنك العثور على الإصدار الملائم للاستخدام.</item>
+        <item>نعم، إنه يدعم النظام الأساسي لـ Symbian وiOS وJava.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>هل هناك رسوم مقابل SYNCit؟</item>
+        <item>هل نسخ SYNCit الاحتياطية هي نفس برامج نسخ Android Backup؟</item>
+        <item>هل SYNCit آمن؟ هل سيقوم بسرقة رقم هاتفي أو بيانات نسخي الاحتياطية؟</item>
+        <item>لماذا تقل جهات اتصالي بعد النسخ الاحتياطي؟</item>
+        <item>هاتفي لم تصنعه Lenovo. هل يمكنني استخدام SYNCit؟</item>
+        <item>هل SYNCit يدعم الأنظمة الأساسية الأخرى؟</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>جهات الاتصال</item>
+        <item>الرسائل</item>
+        <item>سجلات المكالمات</item>
+    </string-array>
+</resources>

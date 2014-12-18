@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Κιτ αυτοκινήτου</string>
+    <string name="bluetooth_remember_choice">Να επιτρέπεται πάντα</string>
+    <string name="dun_notif_ticker">Αίτημα DUN μέσω Bluetooth</string>
+    <string name="dun_notif_title">Αίτημα κλειδιού περιόδου λειτουργίας για DUN</string>
+    <string name="dun_notif_message">Πατήστε για σύνδεση στο \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
+    <string name="bluetooth_dun_request">Αίτημα DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">Ο χρήστης %1$s θέλει να χρησιμοποιήσει το DUN. Να παρασχεθεί πρόσβαση στο χρήστη %2$s;</string>
+    <string name="ftp_acceptance_dialog_title">Ο χρήστης %1$s θέλει να αποκτήσει πρόσβαση στους φακέλους του τηλεφώνου σας. Να παρασχεθεί πρόσβαση στο χρήστη %2$s;</string>
+    <string name="ftp_acceptance_dialog_header">Πρόσβαση στο φάκελο του τηλεφώνου</string>
+    <string name="ftp_session_key_dialog_title">Πληκτρολογήστε το κλειδί της περιόδου σύνδεσης για το %1$s</string>
+    <string name="ftp_session_key_dialog_header">Απαιτείται κλειδί περιόδου σύνδεσης Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
+    <string name="ftp_authentication_timeout_message">Το χρονικό όριο του κλειδιού περιόδου σύνδεσης εισόδου με το %1$s έληξε</string>
+    <string name="ftp_notif_ticker">Αίτημα σύνδεσης μέσω Bluetooth</string>
+    <string name="ftp_notif_title">Αίτημα κλειδιού περιόδου λειτουργίας για FTP</string>
+    <string name="ftp_notif_message">Πατήστε για σύνδεση στο \"%1$s\".</string>
+    <string name="ftp_notif_active_session">Ενεργή περίοδος λειτουργίας FTP μέσω Bluetooth</string>
+    <string name="ftp_notif_connected">Πρόσβαση μεταφοράς αρχείων μέσω Bluetooth στο \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Αίτημα Ftp</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">Ο χρήστης %1$s θέλει να αποκτήσει πρόσβαση στα αρχεία και τους φακέλους σας. Να παρασχεθεί πρόσβαση στο χρήστη %2$s;</string>
+    <string name="map_acceptance_dialog_title">Ο χρήστης %1$s θέλει να αποκτήσει πρόσβαση στους φακέλους του τηλεφώνου σας. Να παρασχεθεί πρόσβαση στο χρήστη %2$s;</string>
+    <string name="map_acceptance_dialog_header">Πρόσβαση στο φάκελο του τηλεφώνου</string>
+    <string name="map_session_key_dialog_title">Πληκτρολογήστε το κλειδί της περιόδου σύνδεσης για το %1$s</string>
+    <string name="map_session_key_dialog_header">Απαιτείται κλειδί περιόδου σύνδεσης Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
+    <string name="map_authentication_timeout_message">Το χρονικό όριο του κλειδιού περιόδου σύνδεσης εισόδου με το %1$s έληξε</string>
+    <string name="map_notif_ticker">Αίτημα σύνδεσης μέσω Bluetooth</string>
+    <string name="map_notif_active_session">Ενεργή περίοδος λειτουργίας MAP μέσω Bluetooth</string>
+    <string name="map_notif_connected">Πρόσβαση στα μηνύματα μέσω Bluetooth στο \"%1$s\".</string>
+    <string name="map_notif_title">Αίτημα κλειδιού περιόδου λειτουργίας για MAP</string>
+    <string name="map_notif_message">Πατήστε για σύνδεση στο \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">Η σύνδεση MAP μέσω Bluetooth απέτυχε.</string>
+    <string name="bluetooth_mas_request">Αίτημα πρόσβασης στα μηνύματα</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">Ο χρήστης %1$s θέλει να αποκτήσει πρόσβαση στα μηνύματά σας. Να παρασχεθεί πρόσβαση στο χρήστη %2$s;</string>
+    <string name="sap_notif_ticker">Αίτημα πρόσβασης στην κάρτα SIM μέσω Bluetooth</string>
+    <string name="sap_notif_title">Αίτημα κλειδιού περιόδου λειτουργίας για SAP</string>
+    <string name="sap_notif_message">Πατήστε για σύνδεση στο \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">Υπήρχε χρονικό όριο για την αποδοχή της σύνδεσης με τη συσκευή %1$s</string>
+    <string name="bluetooth_sap_request">Αίτημα SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">Ο χρήστης %1$s θέλει να αποκτήσει πρόσβαση στην κάρτα SIM. Να παρασχεθεί πρόσβαση στο χρήστη %2$s;</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_ap_security">
+        <item>باز کردن</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_ap_channel_width">
+        <item>20 مگاهرتز</item>
+        <item>خودکار 20/40 مگاهرتز</item>
+    </string-array>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ierakstītājs</string>
+    <string name="left_timer_format" formatted="false">Atlikušais laiks: %02d\"h \"%02dm</string>
+    <string name="recording">Notiek ieraksts %1$s</string>
+    <string name="label_quality">Atlasīt ieraksta kvalitāti</string>
+    <string name="remain_time">Atlikušais laiks</string>
+    <string name="button_ok">Labi</string>
+    <string name="button_cancel">Atcelt</string>
+    <string name="audio_db_artist_name">Ieraksta izpildītājs</string>
+    <string name="audio_db_album_name">Ieraksti</string>
+    <string name="audio_db_playlist_name">Mani ieraksti</string>
+    <string name="exit_tip">Vai tiešām vēlaties aizvērt ierakstītāju?</string>
+    <string name="error_zero_audio">Nevar ierakstīt 0 sekunžu garu audio.</string>
+    <string name="error_busy_in_call">Lūdzu, nolieciet klausuli un izmantojiet rakstītāju pēc tam!</string>
+    <string name="error_no_space">Nepietiek brīvas vietas; ierakstu nevar veikt.</string>
+    <string name="error_sdcard_access">Nevar piekļūt SD kartei</string>
+    <string name="error_internal">Notiek ieraksts. Lūdzu, vispirms pārtrauciet to!</string>
+    <string name="error_mediadb_new_record">Ierakstīto audio nevar saglabāt</string>
+    <string name="error_app_unsupported">Neatbalstīts formāts</string>
+    <string name="error_insert_sd_card">Lūdzu, ievietojiet SD karti</string>
+    <string name="error_storage_is_full">Krātuve ir pilna</string>
+    <string name="error_max_length">Sasniegts maksimālais garums</string>
+    <string name="contextmenu_item_delete">Dzēst</string>
+    <string name="contextmenu_item_rename">Pārdēvēt</string>
+    <string name="contextmenu_item_send_title">Sūtīt</string>
+    <string name="contextmenu_item_setasringtone">Zvana signāls</string>
+    <string name="label_setringtone_success">Ieraksts \"%1$s\" sekmīgi iestatīts kā zvana signāls</string>
+    <string name="setringtone_fail">Zvana signālu nav nepieciešamības iestatīt vibrozvana vai klusuma režīmā</string>
+    <string name="del_selfile_tip">Vai tiešām vēlaties dzēst ierakstīto audio failu?</string>
+    <string name="label_delete_success">Dzēšana sekmīga!</string>
+    <string name="input_toolong">Ievadīts pārāk daudz rakstzīmju</string>
+    <string name="file_name_exist">Diemžēl faila nosaukumu nevar atkārtot</string>
+    <string name="empty_len">Faila nosaukums nevar būt tukšs.</string>
+    <string name="namebad">Faila nosaukums ietver nederīgas rakstzīmes: \\ : ? * > \" | / u.c.</string>
+    <string name="delete_tip">Dzēst ierakstu</string>
+    <string name="not_select">Jūs neatlasījāt nevienu opciju</string>
+    <string name="am_file">%1$s:%2$s AM</string>
+    <string name="pm_file">%1$s:%2$s PM</string>
+    <string name="selected_number_of">%1$s atlasīts</string>
+    <string name="saved_file_reminder">Fails ir saglabāts kā \"%1$s\"</string>
+    <string name="delete_recorded">Dzēst ieraksta failu</string>
+    <string name="delete_muti_msg">Notiek dzēšana. Lūdzu, uzgaidiet...</string>
+    <string name="rename_record_file">Pārdēvēt failu</string>
+    <string name="soundrecorder_list">Ieraksti</string>
+    <string name="callrecorder_list">Zvanu ieraksti</string>
+    <string name="mediarecorder_list">Multivides ieraksti</string>
+    <string name="high_quality">Intervijas režīms (augsta kv.)</string>
+    <string name="medium_quality">Sarunas režīms (vidēja kv.)</string>
+    <string name="low_quality">Saziņas režīms (zema kv.)</string>
+    <string name="exit_record_play">Pārtrauciet ierakstīšanu pirms atskaņošanas</string>
+    <string name="exit_play_edit">Pārtrauciet atskaņošanu pirms rediģēšanas</string>
+    <string name="exit_playOrRecord_delete">Pārtrauciet atskaņošanu vai ierakstīšanu, pirms pārejat pakešveida dzēšanas režīmā</string>
+    <string name="playlist_text">Ierakstu saraksts</string>
+    <string name="fileDir_not_exist">Audio failam atlasītais ceļš nepastāv!</string>
+</resources>

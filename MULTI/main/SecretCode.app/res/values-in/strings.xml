@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecretCode</string>
+    <string name="hardversion">Versi perangkat keras:</string>
+    <string name="softversion">Versi perangkat lunak:</string>
+    <string name="frameworkversion">Versi framework:</string>
+    <string name="osversion">Versi OS:</string>
+    <string name="modemversion">Versi modem:</string>
+    <string name="meid_activity_title">Versi PRL</string>
+    <string name="btn_post">Aktifkan</string>
+    <string name="btn_neg">Menonaktifkan</string>
+    <string name="enable_fdn">Aktifkan</string>
+    <string name="disable_fdn">Menonaktifkan</string>
+    <string name="reboot">Mulai Ulang</string>
+    <string name="cancel">Batal</string>
+    <string name="default_state">Kesalahan:</string>
+    <string name="alert_string">Peringatan!</string>
+    <string name="alert_message_string">Menekan tombol [OK] akan mengembalikan ke pengaturan pabrik dan menghapus semua data pengguna, disarankan pengguna umum untuk melakukannya dengan hati-hati!</string>
+    <string name="alert_message_ums_string">Menekan tombol [OK] akan menyetel usb.config ke mode mass_storage untuk debug, disarankan pengguna umum untuk melakukannya dengan hati-hati!</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">TIDAK</string>
+    <string name="framework_inf">Versi Internal</string>
+    <string name="commit_cate">Simpan</string>
+    <string name="summary_on">HIDUP</string>
+    <string name="summary_off">MATI</string>
+    <string name="report_log_summary">Laporkan</string>
+    <string name="report_log_title">Laporkan</string>
+    <string name="yes_exit">Ya</string>
+    <string name="no_exit">Tidak</string>
+    <string name="enable">Aktifkan</string>
+    <string name="disable">Nonaktif</string>
+    <string name="regulatory_information">Informasi pengaturan</string>
+</resources>

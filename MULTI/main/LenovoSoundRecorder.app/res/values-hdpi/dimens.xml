@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageButtonPlaySize">100.0dip</dimen>
+    <dimen name="imageButtonSize">73.29999dip</dimen>
+    <dimen name="title_size">150.0sp</dimen>
+    <dimen name="progress_time_size">16.0sp</dimen>
+</resources>

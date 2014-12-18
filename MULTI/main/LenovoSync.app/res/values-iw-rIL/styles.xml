@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="v4_main_top_bar_button" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/text_size_l</item>
+        <item name="android:textColor">@drawable/v4_main_top_bar_text_selector</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">right|center</item>
+        <item name="android:paddingLeft">@dimen/padding</item>
+        <item name="android:paddingRight">@dimen/padding</item>
+        <item name="android:paddingBottom">@dimen/margin_m</item>
+        <item name="android:layout_marginLeft">@dimen/margin_m</item>
+        <item name="android:layout_marginRight">@dimen/margin_l</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:drawableRight">@drawable/v4_main_top_bar_back_right</item>
+        <item name="android:drawablePadding">@dimen/margin_m</item>
+    </style>
+    <style name="v4_progress" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/progressbar_height</item>
+        <item name="android:max">100</item>
+        <item name="android:progress">50</item>
+        <item name="android:progressDrawable">@drawable/v4_progressbar</item>
+        <item name="android:rotation">180.0</item>
+    </style>
+    <style name="v4_setting_text.privacy_content" parent="@style/v4_setting_text">
+        <item name="android:textSize">@dimen/text_size_m</item>
+        <item name="android:textColor">@color/v4_black_60</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingTop">@dimen/margin_m</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="v4_yellow_text_bar">
+        <item name="android:textSize">@dimen/text_size_s</item>
+        <item name="android:textColor">@color/v4_black_40</item>
+        <item name="android:gravity">right|center</item>
+        <item name="android:background">@color/v4_light_yellow</item>
+        <item name="android:paddingRight">@dimen/margin_l</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/item_bar_height</item>
+    </style>
+</resources>

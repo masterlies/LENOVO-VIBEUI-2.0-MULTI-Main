@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>По подразбиране</item>
+        <item>Пиано</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Забележка</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Пол</item>
+        <item>Телефон</item>
+        <item>Рожден ден</item>
+        <item>Местоположение</item>
+        <item>Училище</item>
+        <item>Фирма</item>
+        <item>Имейл</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Пол</item>
+        <item>Мъж</item>
+        <item>Жена</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Щастлив</item>
+        <item>Тъжен</item>
+        <item>Намигване</item>
+        <item>Изплезен език</item>
+        <item>Изненадано</item>
+        <item>Целувка</item>
+        <item>Прозяване</item>
+        <item>Страхотно</item>
+        <item>Пари в устата</item>
+        <item>Крак в устата</item>
+        <item>Смутен</item>
+        <item>Ангел</item>
+        <item>Нерешен</item>
+        <item>Плачещ</item>
+        <item>Защита уста</item>
+        <item>Смеещ се</item>
+        <item>Объркан</item>
+        <item>Сърце</item>
+        <item>Ядосан</item>
+        <item>Самодоволна усмивка</item>
+        <item>Безизразно лице</item>
+        <item>изтриване</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Къде се намирате?</item>
+        <item>Какво правите?</item>
+        <item>Обади се! Моля!</item>
+        <item>Съжалявам, в момента съм на среща.</item>
+        <item>Ще ти се обадя скоро.</item>
+        <item>Не се притеснявай! Добре съм.</item>
+        <item>Пътувам към къщи.</item>
+        <item>Ще пристигна скоро.</item>
+        <item>Гледай да дойдеш!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Ограничен режим</item>
+        <item>Режим на предупреждение</item>
+        <item>Свободен режим</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Високо</item>
+        <item>Нормално</item>
+        <item>Ниско</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Азбука на GSM</item>
+        <item>Unicode</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Телефон</item>
+        <item>SIM карта</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Устройство</item>
+        <item>SIM карта</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_values">
+        <item>Телефон</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Следвай размера на шрифта на системата</item>
+        <item>Дребен</item>
+        <item>Среден</item>
+        <item>Едър</item>
+        <item>Много едър</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Директно препращане</item>
+        <item>Указване на име</item>
+        <item>Указване на име и номер</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Директно препращане</item>
+        <item>Указване на име</item>
+        <item>Указване на име и номер</item>
+        <item>Запитване всеки път (Директно препращане в състояние на автоматично препращане)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Телефон</item>
+        <item>UIM карта</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
+        <item>10 секунди</item>
+        <item>Друго…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Винаги</item>
+        <item>Само при тих режим</item>
+        <item>Никога</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>По дата</item>
+        <item>По номер</item>
+        <item>По контакт</item>
+    </string-array>
+</resources>

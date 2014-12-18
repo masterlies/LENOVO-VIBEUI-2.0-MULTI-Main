@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Lembut</item>
+        <item>Default</item>
+        <item>Terang</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Default</item>
+        <item>Tinggi</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Dingin</item>
+        <item>Default</item>
+        <item>Hangat</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Default</item>
+        <item>Pertajam</item>
+    </string-array>
+</resources>

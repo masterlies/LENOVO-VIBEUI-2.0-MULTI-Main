@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Informaţii</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Revocare</string>
+    <string name="app_name">Busolă</string>
+    <string name="calibrate">Calibrare</string>
+    <string name="latitude">Latitudine</string>
+    <string name="longitude">Longitudine</string>
+    <string name="calibrate_success">Calibrare completă</string>
+    <string name="ignore">Ignorare</string>
+    <string name="cannot_get_location">Nu se poate obţine locaţia.</string>
+    <string name="location_north">Nord</string>
+    <string name="location_south">Sud</string>
+    <string name="location_east">Est</string>
+    <string name="location_west">Vest</string>
+    <string name="direction_north">Nord</string>
+    <string name="direction_south">Sud</string>
+    <string name="direction_east">Est</string>
+    <string name="direction_west">Vest</string>
+    <string name="direction_east_north">Nord-est</string>
+    <string name="direction_east_south">Sud-est</string>
+    <string name="direction_west_north">Nord-vest</string>
+    <string name="direction_west_south">Sud-vest</string>
+    <string name="Tips">Este posibil ca în apropiere să existe interferenţe magnetice. Mişcaţi aparatul de câteva ori în forma cifrei „8”, după cum arată în imagine. După ce calibrarea s-a efectuat cu succes, dialogul se va închide automat.</string>
+    <string name="Warn">Este posibil ca în apropiere să existe interferenţe magnetice</string>
+    <string name="click_to_location">Faceţi clic pentru a obţine locaţia GPS</string>
+    <string name="warn_message">Permiteţi obţinerea de informaţii despre locaţia curentă prin GPS sau din locaţia de reţea?</string>
+    <string name="no_warn_later">Nu doresc să se afișeze din nou.</string>
+    <string name="start_calibration">Scuturare telefon pentru calibrare</string>
+    <string name="no_location_server">Serviciul de localizare este dezactivat</string>
+    <string name="DoNotSHowAgain">Nu afişaţi din nou</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>zámek obrazovky</item>
+        <item>spouštěč</item>
+        <item>ikony</item>
+        <item>tapeta</item>
+        <item>uživatelské rozhraní systému</item>
+        <item>aplikace Ideafriend</item>
+        <item>obrazovka volání</item>
+        <item>systémový widget</item>
+        <item>zavádění ukončeno</item>
+        <item>písmo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Yumuşak</item>
+        <item>Varsayılan</item>
+        <item>Parlak</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Varsayılan</item>
+        <item>Yükseklik</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Serin</item>
+        <item>Varsayılan</item>
+        <item>Ilık</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Varsayılan</item>
+        <item>Keskin</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USIM набор с инструменти1</string>
+    <string name="uim_name">UIM Набор с инструменти</string>
+    <string name="app_name2">USIM набор с инструменти2</string>
+    <string name="sim_name">Инструментариум на USIM картата</string>
+    <string name="app_name3">USIM набор с инструменти3</string>
+    <string name="sim_name1">USIM набор с инструменти1</string>
+    <string name="sim_name2">USIM набор с инструменти2</string>
+    <string name="menu_end_session">Прекратяване на сесията</string>
+    <string name="help">Помощ</string>
+    <string name="menu_back">Назад</string>
+    <string name="service_name">Имe на услугата</string>
+    <string name="stk_no_service">Няма налична услуга</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Отказ</string>
+    <string name="button_yes">Да</string>
+    <string name="button_no">Не</string>
+    <string name="alphabet">Азбучен</string>
+    <string name="digits">Цифров (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Извършва се обаждане...</string>
+    <string name="default_setup_call_msg">Повикването се конфигурира</string>
+    <string name="stk_app_state">Състояние на приложението</string>
+    <string name="enable_app">Активирано</string>
+    <string name="disable_app">Деактивирано</string>
+    <string name="emptytext">Картата не е готова или липсва услуга</string>
+    <string name="stk_dialog_title">Инструментариум на USIM картата</string>
+    <string name="default_tone_dialog_msg">Възпроизвеждане на тон</string>
+    <string name="default_open_channel_msg">Да се отвори ли каналът?</string>
+    <string name="default_send_data_msg">Изпращат се данни</string>
+    <string name="default_receive_data_msg">Получават се данни</string>
+    <string name="default_close_channel_msg">Каналът е затворен</string>
+    <string name="stk_dialog_accept">ДА</string>
+    <string name="stk_dialog_reject">НЕ</string>
+    <string name="stk_simstate_wrong">USIM %1$d не е достъпна сега!</string>
+</resources>

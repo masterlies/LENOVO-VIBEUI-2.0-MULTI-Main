@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Establecer como ciudad predeterminada</item>
+        <item>Eliminar esta ciudad</item>
+    </string-array>
+</resources>

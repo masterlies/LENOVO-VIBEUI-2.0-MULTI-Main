@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Mặc định</item>
+        <item>Piano</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Tổ chức</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Giới tính</item>
+        <item>Điện thoại</item>
+        <item>Ngày sinh</item>
+        <item>Vị trí</item>
+        <item>Trường</item>
+        <item>Công ty</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Bí mật</item>
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Vui</item>
+        <item>Buồn</item>
+        <item>Nháy mắt</item>
+        <item>Lè lưỡi</item>
+        <item>Ngạc nhiên</item>
+        <item>Hôn</item>
+        <item>Hét</item>
+        <item>Ngầu</item>
+        <item>Ngậm tiền</item>
+        <item>Lỡ lời</item>
+        <item>Xấu hổ</item>
+        <item>Thiên thần</item>
+        <item>Do dự</item>
+        <item>Khóc</item>
+        <item>Đóng dấu môi</item>
+        <item>Cười to</item>
+        <item>Bối rối</item>
+        <item>Trái tim</item>
+        <item>Giận dữ</item>
+        <item>Cười điệu</item>
+        <item>Bộ mặt lãnh đạm</item>
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Bạn ở đâu?</item>
+        <item>Bạn đang làm gì?</item>
+        <item>Gọi lại nhé!</item>
+        <item>Xin lỗi, giờ tôi bận họp.</item>
+        <item>Sẽ sớm gọi cho bạn.</item>
+        <item>Đừng lo lắng!Tôi ổn.</item>
+        <item>Đang về nhà.</item>
+        <item>Sẽ đến sớm.</item>
+        <item>Nhớ đến đấy nhé!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Chế độ hạn chế</item>
+        <item>Chế độ cảnh báo</item>
+        <item>Chế độ tự do</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_values">
+        <item>RESTRICTED</item>
+        <item>WARNING</item>
+        <item>FREE</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_choices">
+        <item>100K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Cao</item>
+        <item>Bình thường</item>
+        <item>Thấp</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_values">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Bảng chữ cái GSM</item>
+        <item>Unicode</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_values">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Điện thoại</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_values">
+        <item>Phone</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Thiết bị</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Theo kích cỡ phông chữ hệ thống</item>
+        <item>Nhỏ</item>
+        <item>Trung bình</item>
+        <item>Lớn</item>
+        <item>Cực lớn</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Chuyển tiếp trực tiếp</item>
+        <item>Thêm tên người gửi</item>
+        <item>Thêm tên và số người gửi</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Chuyển tiếp trực tiếp</item>
+        <item>Thêm tên người gửi</item>
+        <item>Thêm tên và số người gửi</item>
+        <item>Hỏi mỗi lần (chuyển tiếp trực tiếp trong khi tự động chuyển tiếp)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Điện thoại</item>
+        <item>Thẻ UIM</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 giây</item>
+        <item>2 giây</item>
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+        <item>10 giây</item>
+        <item>Khác…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Theo ngày</item>
+        <item>Theo số</item>
+        <item>Theo danh bạ</item>
+    </string-array>
+</resources>

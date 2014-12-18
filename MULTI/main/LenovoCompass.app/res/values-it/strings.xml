@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Info</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Annulla</string>
+    <string name="app_name">Bussola</string>
+    <string name="calibrate">Calibratura</string>
+    <string name="latitude">Latitudine</string>
+    <string name="longitude">Longitudine</string>
+    <string name="calibrate_success">Calibrazione completata</string>
+    <string name="ignore">Ignora</string>
+    <string name="cannot_get_location">Impossibile recuperare la posizione.</string>
+    <string name="location_north">PN</string>
+    <string name="location_south">PS</string>
+    <string name="location_east">PE</string>
+    <string name="location_west">PO</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">O</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NO</string>
+    <string name="direction_west_south">SO</string>
+    <string name="Tips">"Potrebbe esserci un'interferenza magnetica nelle vicinanze. Seguire l'immagine sopra per ruotare '8' diverse volte. La finestra di dialogo chiuderà automaticamente quando la calibrazione è stata eseguita correttamente."</string>
+    <string name="Warn">"Potrebbe esserci un'interferenza magnetica nelle vicinanze"</string>
+    <string name="click_to_location">Fare clic per ottenere la posizione GPS</string>
+    <string name="warn_message">Si desidera ottenere le informazioni sulla posizione corrente tramite la posizione di rete o GPS?</string>
+    <string name="no_warn_later">Non visualizzare più questo messaggio</string>
+    <string name="start_calibration">Scuoti il telefono per la calibrazione</string>
+    <string name="no_location_server">Servizio di località disabilitato</string>
+    <string name="DoNotSHowAgain">Don visualizzare di nuovo</string>
+</resources>

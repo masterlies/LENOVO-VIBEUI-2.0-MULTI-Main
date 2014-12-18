@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Lỗi màn hình khóa. Màn hình sẽ nhập chế độ bảo mật. Vui lòng chờ màn hình khóa khởi động lại...</string>
+</resources>

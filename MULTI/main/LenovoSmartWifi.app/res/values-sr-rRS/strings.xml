@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_activity">Povezivanje WLAN mreže sa lokacijom</string>
+    <string name="dialog_title">Preuzmi</string>
+    <string name="dialog_text">Veza za prenos podataka je aktivirana. Prenos podataka se može naplaćivati. Želite li da se povežete na dostupnu WLAN mrežu?</string>
+    <string name="disable_dialog_title">Želite li da onemogućite WLAN?</string>
+    <string name="disable_dialog_text">Trenutna lokacija je van dometa povezane pristupne tačke, želite li da onemogućite WLAN?</string>
+    <string name="show_dialog">Ne podsećaj me</string>
+    <string name="disable_show_dialog">Ne podsećaj me</string>
+    <string name="wifi_enable_text">Opcije pristupne tačke</string>
+    <string name="wifi_enable_summary">Izaberite da li želite da se postavlja pitanje ili da se telefon automatski poveže sa dostupnom WLAN mrežom ako telefon koristi prenos podataka preko 3G mreže.</string>
+    <string name="wifi_disable_text">Opcije za mrežu van dometa</string>
+    <string name="wifi_disable_summary">Izaberite da li želite da se postavi pitanje ili da se WLAN veza automatski onemogući ako je pristupna tačka van dometa.</string>
+    <string name="wifi_setting_summary">Automatsko omogućavanje ove funkcije kako bi WLAN veza imala veći prioritet od 3G veze za prenos podataka.</string>
+    <string name="wifi_popup_tip">Iskačuća poruka</string>
+    <string name="wifi_auto_enable">Automatski poveži WLAN</string>
+    <string name="wifi_auto_disable">Automatski prekini WLAN vezu</string>
+    <string name="wifi_popup_0">Povežite povezanu pristupnu tačku da bi se dijalog za povezivanje prikazao kada sledeći put budete u ovoj oblasti</string>
+    <string name="wifi_popup_1">Povežite povezanu pristupnu tačku da bi automatski bila omogućena kada sledeći put budete u ovoj oblasti</string>
+    <string name="wifi_popup_2">Ne podsećaj me</string>
+    <string name="confirm_yes">Da</string>
+    <string name="confirm_no">Ne</string>
+    <string name="enable_wifi_hint">Uređaj je detektovao da pristupate mreži preko GPRS veze. Da biste smanjili prenos podataka preko mobilne mreže, možete da pristupite bežičnoj mreži preko WLAN veze na lokaciji</string>
+    <string name="disable_wifi_hint">Veza sa WLAN mrežom na lokaciji je neaktivna, pa će automatski biti isključena kako bi se uštedela energija</string>
+</resources>

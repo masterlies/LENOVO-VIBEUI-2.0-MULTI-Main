@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Importálás híváselőzményekből</item>
+        <item>Importálás SMS-előzményekből</item>
+        <item>Importálás névjegyek közül</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Nincs riasztás</item>
+        <item>Riasztás értesítési sávon</item>
+        <item>Riasztás értesítési sávon + hangjelzés</item>
+        <item>Riasztás értesítési sávon + rezgés</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Fogad</item>
+        <item>Elutasít</item>
+        <item>Elutasítás SMS-ben</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Nincs emlékeztető</item>
+        <item>Emlékeztető értesítési sávon</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>E-mail fiók szerkesztése</item>
+        <item>Mentés most</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Törlés</item>
+        <item>Módosítás</item>
+        <item>Üzenet küldése</item>
+        <item>Hívás</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Üzenetek és hívások</item>
+        <item>Bejövő hívás</item>
+        <item>Üzenet</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Csak kapcsolatok</item>
+        <item>Csak fehérlista</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Importálás bejövő hívások közül</item>
+        <item>Importálás SMS-előzményekből</item>
+        <item>Importálás névjegyek közül</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Csak a feketelistát tiltja</item>
+        <item>Csak kapcsolatok engedélyezése</item>
+        <item>Csak fehérlista engedélyezése</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Importálás híváselőzményekből</item>
+        <item>Importálás SMS-előzményekből</item>
+        <item>Importálás névjegyek közül</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Kapcsolja ki a feketelistát.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Hozzáadás híváselőzményekből</item>
+        <item>Hozzáadás névjegyek közül</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Hozzáadás SMS-előzményekből</item>
+        <item>Hozzáadás névjegyek közül</item>
+        <item>Kézi hozzáadás</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Feketelista kikapcsolása</item>
+        <item>Jelentés</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Hívás</item>
+        <item>SMS küldése</item>
+        <item>Fehérlista kikapcsolása</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Kézi frissítés</item>
+        <item>Naponta</item>
+        <item>Hetente</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Édesanyám neve?</item>
+        <item>Kedvenc gyümölcsöm?</item>
+        <item>Édesapám születésnapja?</item>
+        <item>Kedvenc zeneszámom?</item>
+        <item>Háziállatom neve?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>10 percenként</item>
+        <item>20 percenként</item>
+        <item>30 percenként</item>
+        <item>Óránként</item>
+        <item>2 óránként</item>
+        <item>3 óránként</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Foglalt jelzés visszaadása</item>
+        <item>Kikapcsolás visszaadása</item>
+        <item>Leállítás visszaadása</item>
+        <item>Üres szám visszaadása</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Beállítások</item>
+        <item>Frissítés</item>
+        <item>Névjegy</item>
+    </string-array>
+</resources>

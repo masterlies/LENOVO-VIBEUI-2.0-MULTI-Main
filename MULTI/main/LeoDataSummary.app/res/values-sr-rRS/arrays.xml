@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Tiho</item>
+        <item>Podrazumevano</item>
+        <item>Svetlo</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Podrazumevano</item>
+        <item>Jako</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Hladno</item>
+        <item>Podrazumevano</item>
+        <item>Toplo</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Podrazumevano</item>
+        <item>Oštrije</item>
+    </string-array>
+</resources>

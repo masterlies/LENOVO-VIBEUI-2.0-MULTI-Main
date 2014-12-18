@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Faible</item>
+        <item>Par défaut</item>
+        <item>Lumineux</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Par défaut</item>
+        <item>Élevé</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Cool</item>
+        <item>Par défaut</item>
+        <item>Couleurs chaudes</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Par défaut</item>
+        <item>Netteté</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Изчакване</item>
+        <item>Архивиране</item>
+        <item>Архивирано</item>
+        <item>Грешка</item>
+        <item>ОК</item>
+        <item>ОК</item>
+        <item>Отменено</item>
+        <item>ОК</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Изчакване</item>
+        <item>Изтегляне</item>
+        <item>Деинсталиране</item>
+        <item>Грешка</item>
+        <item>Актуализиране</item>
+        <item>Инсталирани</item>
+        <item>Отменено</item>
+        <item>Инсталиране</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Промяна на име на албум</item>
+        <item>Изтрий албум</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit е безплатно мобилно приложение, но мобилните оператори начисляват такси за трафика на данни, генериран при използването му.</item>
+        <item>Да.</item>
+        <item>SYNCit съхранява информацията на потребителя с ниво на шифриране като при онлайн банкиране. То със сигурност може да предпазва личните данни и сигурността на информацията.</item>
+        <item>SYNCit автоматично ще слее дублираните контакти в телефона ви.</item>
+        <item>Разбира се, че можете, ако системата на телефона ви е една от следните: Android, iOS, Symbian или поддържа Java (можете да намерите подходящата версия за използване).</item>
+        <item>Да, поддържа Symbian, iOS, Android и Java платформи.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>SYNCit начислява ли такси?</item>
+        <item>SYNCit и Android Backup един и същ софтуер ли са?</item>
+        <item>SYNCit безопасно ли е? Няма ли да открадне телефонния ми номер или архивираните ми данни?</item>
+        <item>Защо контактите ми намаляват след архивиране?</item>
+        <item>Телефонът ми не е произведен от Lenovo, мога ли все пак да използвам SYNCit?</item>
+        <item>SYNCit поддържа ли други платформи?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Контакти</item>
+        <item>Съобщения</item>
+        <item>Списъци повиквания</item>
+    </string-array>
+</resources>

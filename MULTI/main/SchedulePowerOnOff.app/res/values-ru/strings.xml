@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_off">Отключение по расписанию</string>
+    <string name="yes">ОК</string>
+    <string name="no">Отмена</string>
+    <string name="schedule_power_on_off_settings_title">Расписание вкл./выкл. питания</string>
+    <string name="schedule_power_on_off_time">Время</string>
+    <string name="schedule_power_on_off_repeat">Повтор</string>
+    <string name="schedule_power_on_off_set">Установка расписания вкл./выкл. питания</string>
+    <string name="schedule_power_on_set">Расписание включения</string>
+    <string name="schedule_power_off_set">Расписание отключения</string>
+    <string name="enable_schpwr">Включить</string>
+    <string name="disable_schpwr">Отключить</string>
+    <string name="day">1 день</string>
+    <string name="days">" %s дн."</string>
+    <string name="hour">1 час</string>
+    <string name="hours">%s час.</string>
+    <string name="minute">1 мин.</string>
+    <string name="minutes">" %s мин."</string>
+    <string name="every_day">каждый день</string>
+    <string name="never">Никогда</string>
+    <string name="done">Готово</string>
+    <string name="revert">Отмена</string>
+    <string name="schpwr_shutdown_message">Устройство автоматически отключится через: %s сек.</string>
+    <string name="schpwr_shutdown_message_second">Устройство отключится через: %s сек.</string>
+    <string name="schpwr_power_on">ВКЛ.</string>
+    <string name="schpwr_power_off">ОТКЛ.</string>
+    <string name="schpwr_time_invalid">Время включения и отключения должно отличаться более, чем на %d мин</string>
+    <string name="schedule_power_off_time_out_title">Уведомление об истечении срока</string>
+    <string name="schedule_power_off_time_out_summary">Завершен период запланированного отключения</string>
+</resources>

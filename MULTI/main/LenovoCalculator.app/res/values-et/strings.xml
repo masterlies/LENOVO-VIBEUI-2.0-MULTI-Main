@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulaator</string>
+    <string name="error">Tõrge</string>
+    <string name="advanced">Täpsem</string>
+    <string name="clear_history">Kustuta ajalugu</string>
+    <string name="copy">Kopeeri</string>
+    <string name="paste">Kleebi</string>
+    <string name="only_digit">Kleepida saab vaid numbreid</string>
+    <string name="basic">Põhiline</string>
+    <string name="copy_success">Kopeeritud</string>
+    <string name="full_input">Suurim väärtus sisestatud</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/healthCheckup_home_page_bg" android:background="@drawable/ww_home_bg" android:layout_width="fill_parent" android:layout_height="180.0dip">
+        <TextView android:textSize="15.0dip" android:textStyle="bold" android:textColor="@color/baise" android:id="@id/tv_home_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:layout_marginTop="12.0dip" android:text="@string/ww_lenovo_safe" />
+        <ImageView android:id="@id/home_set" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="11.0dip" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/iv_home_page_logo" android:background="@drawable/lenovo_logo" android:layout_width="82.0dip" android:layout_height="98.0dip" android:layout_marginLeft="35.0dip" android:layout_marginTop="26.0dip" android:layout_below="@id/tv_home_logo" />
+        <TextView android:textSize="19.0dip" android:textStyle="bold" android:textColor="@drawable/ww_homepage_healthcheck_bg_selector" android:ellipsize="end" android:gravity="center" android:id="@id/button_healthCheckup_home_page" android:background="@drawable/ww_homepage_runcheck_bg" android:paddingLeft="3.0dip" android:paddingRight="3.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="36.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="103.0dip" android:layout_marginRight="8.0dip" android:maxWidth="180.0dip" android:minWidth="140.0dip" android:text="@string/health_checkup" android:singleLine="true" android:layout_toRightOf="@id/iv_home_page_logo" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ListView android:id="@id/listview_homepage" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:fadeScrollbars="false" />
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktpersonas ar tālruņa numuru</item>
+        <item quantity="one">1 kontaktpersona ar tālruņa numuru</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontaktpersonas</item>
+        <item quantity="one">1 kontaktpersona</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Atrastas %d kontaktpersonas</item>
+        <item quantity="one">Atrasta 1 kontaktpersona</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d atrastas</item>
+        <item quantity="one">1 atrasta</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Sapludināts no %0$d avotiem</item>
+        <item quantity="one">Nav sapludināts</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupas</item>
+        <item quantity="one">1 grupa</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d personas no %2$s</item>
+        <item quantity="one">%1$d kontaktpersonas no %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d personas</item>
+        <item quantity="one">%1$d personas</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d balss pasti</item>
+        <item quantity="one">Balss pasts</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">atrasti %d zvanu žurnāli</item>
+        <item quantity="one">atrasts 1 zvanu žurnāls</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Meklēt kontaktpersonas | Kopumā %d kontaktpersona</item>
+        <item quantity="one">Meklēt kontaktpersonas | Kopumā 1 kontaktpersona</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Tiks dzēstas %1$s sarunas.</item>
+        <item quantity="one">Sistēma izdzēsīs 1 sarunu</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d nelasīti ziņojumi.</item>
+        <item quantity="one">%d nelasīti ziņojumi.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekunde(-s)</item>
+        <item quantity="one">%s sekunde(-s)</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s meklēšanas rezultāti: %2$s</item>
+        <item quantity="one">%1$s meklēšanas rezultāti: %2$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s personas</item>
+        <item quantity="one">%1$s personas</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">sūta %d atskaites par lasīšanu</item>
+        <item quantity="one">sūta %d atskaites par lasīšanu</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d atlasīti</item>
+        <item quantity="one">%d atlasīti</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Atzīmēt %1$s sarunu kā lasītu</item>
+        <item quantity="one">Atzīmēt 1 sarunu kā lasītu</item>
+    </plurals>
+</resources>

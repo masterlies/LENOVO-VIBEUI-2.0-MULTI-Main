@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_show_type_array">
+        <item>Az első 4 szám</item>
+        <item>Utolsó 4 szám</item>
+        <item>Ne jelenjen meg</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>Egyszer</item>
+        <item>Mindig</item>
+        <item>Soha</item>
+    </string-array>
+</resources>

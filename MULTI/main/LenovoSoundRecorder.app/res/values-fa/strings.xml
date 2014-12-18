@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ضبط کننده صدا</string>
+    <string name="left_timer_format" formatted="false">مدت زمان باقیمانده: %02dساعت و %02dدقیقه</string>
+    <string name="recording">ضبط %1$s</string>
+    <string name="label_quality">کیفیت ضبط را انتخاب کنید</string>
+    <string name="remain_time">مدت زمان باقیمانده</string>
+    <string name="button_ok">تأیید</string>
+    <string name="button_cancel">لغو</string>
+    <string name="audio_db_artist_name">موارد ضبط شده شما</string>
+    <string name="audio_db_album_name">موارد ضبط شده صوتی</string>
+    <string name="audio_db_playlist_name">موارد ضبط شده من</string>
+    <string name="exit_tip">آیا واقعاً می خواهید از ضبط صوت خارج شوید؟</string>
+    <string name="error_zero_audio">امکان ضبط صدا با مدت زمان کمتر از 0 ثانیه وجود ندارد</string>
+    <string name="error_busy_in_call">لطفاً قطع کنید و سپس از ضبط صوت استفاده کنید!</string>
+    <string name="error_no_space">فضای خالی کافی نیست، امکان ضبط کردن وجود ندارد.</string>
+    <string name="error_sdcard_access">امکان دسترسی به کارت SD وجود ندارد.</string>
+    <string name="error_internal">ضبط در حال انجام است، لطفاً ابتدا آن را ببندید!</string>
+    <string name="error_mediadb_new_record">صدای ضبط شده ذخیره نشد.</string>
+    <string name="error_app_unsupported">فرمت پشتیبانی نمی شود</string>
+    <string name="error_insert_sd_card">لطفا SD کارت را وارد کنید</string>
+    <string name="error_storage_is_full">ذخیره سازی پر است</string>
+    <string name="error_max_length">به حداکثر طول مجاز رسیده اید</string>
+    <string name="contextmenu_item_delete">ﺥﺬﻓ</string>
+    <string name="contextmenu_item_rename">تغيير نام</string>
+    <string name="contextmenu_item_send_title">ارسال</string>
+    <string name="contextmenu_item_setasringtone">آهنگ زنگ</string>
+    <string name="label_setringtone_success">مورد ضبط شده \"%1$s\" به عنوان آهنگ زنگ تنظیم شد</string>
+    <string name="setringtone_fail">هنگامی که دستگاه در حالت بیصدا و لرزش است، نیازی به تنظیم صدای زنگ نیست</string>
+    <string name="del_selfile_tip">مطمئنید که می خواهید فایل صدای ضبط شده را حذف کنید؟</string>
+    <string name="label_delete_success">با موفقیت حذف شد!</string>
+    <string name="input_toolong">تعداد زیادی نویسه وارد شده است</string>
+    <string name="file_name_exist">متأسفیم، نام فایل نباید تکراری باشد</string>
+    <string name="empty_len">نام فایل نباید خالی باشد.</string>
+    <string name="namebad">نام فایل حاوی نویسه های غیرمجاز است: \\ : ? * > \" | / و سایر موارد..</string>
+    <string name="delete_tip">حذف مورد ضبط شده</string>
+    <string name="not_select">شما هیچ گزینه ای را انتخاب نکرده اید</string>
+    <string name="am_file">%1$s : %2$s صبح</string>
+    <string name="pm_file">%1$s : %2$s عصر</string>
+    <string name="selected_number_of">%1$s مورد انتخاب شد</string>
+    <string name="saved_file_reminder">فایل به عنوان \"%1$sذخیره شد</string>
+    <string name="delete_recorded">فایل صوتی ضبط شده را حذف کنید</string>
+    <string name="delete_muti_msg">در حال حذف، لطفاً منتظر بمانید...</string>
+    <string name="rename_record_file">تغییر نام فایل ضبط شده</string>
+    <string name="soundrecorder_list">لیست ضبط صوت</string>
+    <string name="callrecorder_list">لیست ضبط صوت تماس</string>
+    <string name="mediarecorder_list">لیست ضبط صوت رسانه</string>
+    <string name="high_quality">حالت مصاحبه (زیاد)</string>
+    <string name="medium_quality">حالت مکالمه (متوسط)</string>
+    <string name="low_quality">حالت تعامل (کم)</string>
+    <string name="exit_record_play">قبل از پخش لطفاً ضبط را متوقف کنید</string>
+    <string name="exit_play_edit">برای تغییر مورد ضبط شده ابتدا پخش را متوقف کنید</string>
+    <string name="exit_playOrRecord_delete">قبل از وارد شدن به حالت حذف بسته ای، لطفاً پخش یا ضبط را متوقف کنید</string>
+    <string name="exit_toast">برای خروج از ضبط صوت دوباره کلیک کنید</string>
+    <string name="playlist_text">لیست ضبط</string>
+    <string name="fileDir_not_exist">مسیر انتخاب شده برای فایل صوتی موجود نیست!</string>
+</resources>

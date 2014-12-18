@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Phương pháp nhập mặc định</item>
+        <item>Phần mềm desktop mặc định</item>
+        <item>Phần mềm Internet mặc định</item>
+        <item>Phần mềm quay số mặc định</item>
+        <item>Phần mềm SMS mặc định</item>
+        <item>Phần mềm Email mặc định</item>
+        <item>Trình xem ảnh mặc định</item>
+        <item>Phần mềm camera mặc định</item>
+        <item>Phần mềm video mặc định</item>
+        <item>Phần mềm video trực tuyến mặc định</item>
+        <item>Phần mềm âm thanh mặc định</item>
+        <item>Phần mềm âm thanh trực tuyến mặc định</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Thiết bị khởi động</item>
+        <item>Trên điện thoại</item>
+        <item>Nhận SMS</item>
+        <item>Nối mạng thiết bị</item>
+        <item>Cài đặt phần mềm</item>
+        <item>Mở khóa màn hình đen</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Đề xuất hệ thống</item>
+        <item>Buộc cài đặt trên điện thoại</item>
+        <item>Buộc cài đặt trên thẻ nhớ mặc định</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Bật nguồn</item>
+        <item>Kết nối Internet</item>
+        <item>Gọi</item>
+        <item>SMS</item>
+        <item>Đọc danh bạ</item>
+        <item>Nhận địa điểm</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

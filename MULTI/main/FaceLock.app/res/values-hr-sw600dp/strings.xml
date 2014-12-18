@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Pogledajte tabletno računalo da biste ga otključali.</string>
+    <string name="tutorial_info_text">"Napominjemo sljedeće:
+
+ "<li><ul>"Otključavanje licem manje je sigurno od uzorka, PIN-a ili zaporke.
+
+ "<li>Netko sličan vama može otključati vaše tabletno računalo.</li>"
+
+ "<li>Podaci za identifikaciju vašeg lica čuvaju se na tabletnom računalu kao privatni.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Pronađite mjesto u zatvorenom prostoru koje nije ni pretamno, a ni presvijetlo.
+
+ "<li>Tabletno računalo držite u razini očiju.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_info_text">"Da biste otključali tabletno računalo, samo ga pogledajte.
+
+Savjet: poboljšajte podudaranje lica tako da snimite svoje lice u različitim uvjetima."</string>
+    <string name="addtosetup_info_text">"Primjeri:
+
+ "<li><ul>"pri različitom osvjetljenju
+
+ "<li>s dioptrijskim naočalama ili bez njih</li>"
+
+ "<li>s bradom ili obrijan</li>"
+
+ "</ul></li>"
+Tabletno računalo držite u razini očiju."</string>
+</resources>

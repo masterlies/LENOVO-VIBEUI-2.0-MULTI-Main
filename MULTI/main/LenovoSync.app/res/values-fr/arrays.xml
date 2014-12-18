@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>En attente</item>
+        <item>En cours de sauvegarde</item>
+        <item>Sauvegardé</item>
+        <item>Erreur</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Annulé</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>En attente</item>
+        <item>En cours de téléchargement</item>
+        <item>Désinstaller</item>
+        <item>Erreur</item>
+        <item>Mise à jour</item>
+        <item>Installé</item>
+        <item>Annulé</item>
+        <item>Installation</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>"Modifier le nom de l'album"</item>
+        <item>"Supprimer l'album"</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"SYNCit est une application mobile gratuite. Mais les coûts relatifs au trafic réseau généré par le chargement et l'utilisation sont facturés par les opérateurs."</item>
+        <item>Oui.</item>
+        <item>"SYNCit stocke les informations de l'utilisateur en les chiffrant au niveau de l'archivage. Cela permet de préserver la sécurité des données et des informations et de s'assurer qu'elles ne seront jamais victimes d'une fuite."</item>
+        <item>SYNCit fusionne automatiquement les contacts dupliqués dans votre téléphone.</item>
+        <item>"Bien sûr, c'est possible. Si le système d'exploitation de votre téléphone est l'un des systèmes suivants : Android, iOS, Symbian ou s'il prend en charge Java, vous pouvez trouver la version correspondante à utiliser."</item>
+        <item>Oui, il prend en charge Symbian , iOS, Android et la plate-forme Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Est-ce que SYNCit facture des frais ?</item>
+        <item>SYNCit et Android Backup sont-ils le même logiciel ?</item>
+        <item>SYNCit est-il sûr ? Va-t-il voler mon numéro de téléphone ou mes données sauvegardées ?</item>
+        <item>Pourquoi le nombre de mes contacts est-il réduit après une sauvegarde ?</item>
+        <item>"Le fabricant de mon téléphone n'est pas Lenovo. Puis-je utiliser SYNCit?"</item>
+        <item>"SYNCit prend-il en charge d'autres plates-formes ?"</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Contacts</item>
+        <item>Messages</item>
+        <item>"Journaux d'appels"</item>
+    </string-array>
+</resources>

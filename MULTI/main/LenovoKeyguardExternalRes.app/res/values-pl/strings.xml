@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Błąd ekranu blokowania. Ekran przejdzie do trybu bezpieczeństwa. Zaczekaj na ponowne uruchomienie ekranu blokowania...</string>
+</resources>

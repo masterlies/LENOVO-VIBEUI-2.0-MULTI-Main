@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Dịu</item>
+        <item>Mặc định</item>
+        <item>Sáng</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Mặc định</item>
+        <item>Cao</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Lạnh</item>
+        <item>Mặc định</item>
+        <item>Ấm</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Mặc định</item>
+        <item>Sắc nét</item>
+    </string-array>
+</resources>

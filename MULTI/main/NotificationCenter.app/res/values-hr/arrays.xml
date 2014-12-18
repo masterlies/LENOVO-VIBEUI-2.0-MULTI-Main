@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lenovo_signal_text_list">
+        <item>Jakost signala (vrlo loša)</item>
+        <item>Jakost signala (loša)</item>
+        <item>Jakost signala (umjerena)</item>
+        <item>Jakost signala (dobra)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Grafički</item>
+        <item>Postotak</item>
+    </string-array>
+</resources>

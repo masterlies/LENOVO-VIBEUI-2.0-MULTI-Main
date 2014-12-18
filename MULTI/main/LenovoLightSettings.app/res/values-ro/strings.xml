@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Lumină</string>
+    <string name="breath_settings">Interval cicluri</string>
+    <string name="breath_delay">Interv. cicl. ef. lumină</string>
+    <string name="breath_delay_info">Set. interv. scurt îns. cons. m. mare de energ.</string>
+    <string name="light_switch_settings">Setări lumină</string>
+    <string name="coming_call">Intrare apel</string>
+    <string name="miss_call">Apel pierd.</string>
+    <string name="unread_msg">Mesaj necitit</string>
+    <string name="battery_low_msg">Mesaj bat. descărc.</string>
+    <string name="sina_weibo_notify">SinaWeibo Notify</string>
+    <string name="qq_weibo_notify">TencentWeibo Notify</string>
+    <string name="other_app_notify">Altele</string>
+    <string name="other_app_summary">weixin，QQ，sina weibo</string>
+    <string name="music_play">Muzică</string>
+    <string name="screen_on">Ecran act.</string>
+    <string name="screen_off">Ecran dezact.</string>
+    <string name="power_on_off">Alim.por/opr</string>
+    <string name="charging">Se încarcă</string>
+    <string name="low_battery">Bat. desc.</string>
+    <string name="color_settings">Setări culoare</string>
+    <string name="color_settings_info">Setări cul. pt. fiecare lumină</string>
+    <string name="color_coming_call">Cul. lumină intrare apel</string>
+    <string name="color_miss_call">Cul. lumină apel pierd.</string>
+    <string name="color_unread_msg">Cul. lumină mesaj necitit</string>
+    <string name="color_sina_weibo_notify">Light Color of SinaWeibo Notify</string>
+    <string name="color_qq_weibo_notify">Light Color of TencentWeibo Notify</string>
+    <string name="color_music">Cul. lumină Muzică</string>
+    <string name="color_screen_on">Cul. lumină ecran act.</string>
+    <string name="color_screen_off">Cul. lumină ecran dezact.</string>
+    <string name="light_show">Afiş. lum.</string>
+    <string name="light_show_info">Afiş. lum. în partea inf. a ecr.</string>
+    <string name="stop">Stop</string>
+    <string name="closed">închis</string>
+    <string name="open">desc.</string>
+    <string name="multiselect_alert_info">E nev. de cel puţ. o cul.</string>
+    <string name="select_color_title">Setări culoare</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Revocare</string>
+    <string name="click_screen">Ecran act.</string>
+    <string name="calling">Apelare</string>
+</resources>

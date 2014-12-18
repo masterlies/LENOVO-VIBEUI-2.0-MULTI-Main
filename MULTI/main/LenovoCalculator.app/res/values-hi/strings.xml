@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कैल्क्युलेटर</string>
+    <string name="error">त्रुटि</string>
+    <string name="advanced">उन्नत</string>
+    <string name="clear_history">इतिहास साफ़ करें</string>
+    <string name="copy">प्रतिलिपि बनाएं</string>
+    <string name="paste">चिपकाएं</string>
+    <string name="only_digit">आप केवल संख्याएं पेस्ट कर सकते हैं</string>
+    <string name="basic">बुनियादी</string>
+    <string name="copy_success">कॉपी किया गया</string>
+    <string name="full_input">अधिकतम अंक सीमा से अधिक हुआ</string>
+</resources>

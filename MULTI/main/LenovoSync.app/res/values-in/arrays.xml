@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Menunggu</item>
+        <item>Mencadangkan</item>
+        <item>Dicadangkan</item>
+        <item>Kesalahan</item>
+        <item>Oke</item>
+        <item>Oke</item>
+        <item>Dibatalkan</item>
+        <item>Oke</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Menunggu</item>
+        <item>Mengunduh</item>
+        <item>Hapus instalasi</item>
+        <item>Kesalahan</item>
+        <item>Perbarui</item>
+        <item>Diinstal</item>
+        <item>Dibatalkan</item>
+        <item>Menginstal</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Ganti Nama Album</item>
+        <item>Hapus Album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit adalah aplikasi seluler gratis, biaya pemakaian data yang ditimbulkan karena penggunaan akan dikenakan oleh operator.</item>
+        <item>Ya, mereka sama.</item>
+        <item>SYNCit menyimpan informasi pengguna menggunakan enkripsi tingkat perbankan online. SYNCit pasti dapat menjaga keamanan data dan informasi pribadi dari kebocoran.</item>
+        <item>Sink Lenovo dengan otomatis menggabung kontak yang digandakan di telepon Anda.</item>
+        <item>Tentu saja Anda dapat. Jika sistem telepon Anda adalah salah satu yang berikut: Android, iOS, Symbian atau mendukung java, Anda dapat menemukan versi yang cocok untuk menggunakannya.</item>
+        <item>Ya, SYNCit mendukung platform Symbian, iOS, Android dan Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Apakah SYNCit membutuhkan biaya data?</item>
+        <item>Apakah SYNCit adalah perangkat lunak yang sama dengan Android Backup?</item>
+        <item>Apakah SYNCit aman? Apakah perangkat lunak ini akan mencuri nomor telepon atau cadangan data saya?</item>
+        <item>Mengapa setelah dicadangkan kontak saya berkurang?</item>
+        <item>Ponsel saya tidak diproduksi oleh Lenovo. Bisakah saya menggunakan SYNCit?</item>
+        <item>Apakah SYNCit mendukung platform lain?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontak</item>
+        <item>Pesan</item>
+        <item>Daftar Panggilan</item>
+    </string-array>
+</resources>

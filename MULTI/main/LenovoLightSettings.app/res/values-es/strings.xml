@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Luz</string>
+    <string name="breath_settings">Configuración de respiración</string>
+    <string name="breath_delay">Ciclo de respiración</string>
+    <string name="breath_delay_info">Al establecer un menor retraso, se consumirá más energía</string>
+    <string name="light_switch_settings">Configuración de luz</string>
+    <string name="coming_call">Llamada entrante</string>
+    <string name="miss_call">Llamada perdida</string>
+    <string name="unread_msg">Mensaje no leído</string>
+    <string name="battery_low_msg">Mensaje de batería baja</string>
+    <string name="other_app_notify">Otra</string>
+    <string name="music_play">Música</string>
+    <string name="screen_on">Pantalla encendida</string>
+    <string name="screen_off">Pantalla apagada</string>
+    <string name="power_on_off">Encendido/apagado</string>
+    <string name="charging">Cargando</string>
+    <string name="low_battery">Batería baja</string>
+    <string name="color_settings">Configuración de color</string>
+    <string name="color_settings_info">Configuración de color de cada luz</string>
+    <string name="color_coming_call">Color de luz de llamada entrante</string>
+    <string name="color_miss_call">Color de luz de llamada perdida</string>
+    <string name="color_unread_msg">Color de luz de mensaje no leído</string>
+    <string name="color_music">Color de luz de música</string>
+    <string name="color_screen_on">Color de luz de pantalla encendida</string>
+    <string name="color_screen_off">Color de luz de pantalla apagada</string>
+    <string name="light_show">Show de luz</string>
+    <string name="light_show_info">Show de luz reproduciéndose</string>
+    <string name="stop">Detener</string>
+    <string name="closed">cerrado</string>
+    <string name="open">abierto</string>
+    <string name="multiselect_alert_info">¡Se necesita al menos 1 color!</string>
+</resources>

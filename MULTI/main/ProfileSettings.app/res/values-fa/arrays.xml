@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>عمومی</item>
+        <item>بی صدا</item>
+        <item>لرزش</item>
+        <item>خارج از ساختمان</item>
+        <item>رانندگی</item>
+    </string-array>
+</resources>

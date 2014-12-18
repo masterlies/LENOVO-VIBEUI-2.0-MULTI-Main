@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_recents_right_glow_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_left_margin">0.0dip</dimen>
+    <dimen name="status_bar_recents_text_description_padding">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_width">156.0dip</dimen>
+    <dimen name="status_bar_recents_app_label_left_margin">12.0dip</dimen>
+    <dimen name="status_bar_recents_item_padding">2.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_left_margin">8.0dip</dimen>
+    <dimen name="status_bar_recents_app_icon_top_margin">8.0dip</dimen>
+    <item type="dimen" name="navigation_bar_size">@dimen/android_internal_navigation_bar_width</item>
+    <dimen name="quick_settings_cell_height">100.0dip</dimen>
+    <dimen name="recents_thumb_view_width">160.0dip</dimen>
+    <dimen name="recents_thumb_view_height">90.0dip</dimen>
+    <dimen name="recents_recent_item_info_bottom">60.0dip</dimen>
+    <dimen name="recents_content_switch_view_height">88.0dip</dimen>
+    <dimen name="recents_recent_split_view_select_height">40.0dip</dimen>
+    <dimen name="recents_recent_clean_button_view_offset_height">50.0dip</dimen>
+    <dimen name="recents_recent_item_view_top_ex">110.0dip</dimen>
+    <dimen name="recents_app_label_width">110.0dip</dimen>
+    <dimen name="status_bar_recents_thumbnail_top_margin">28.0dip</dimen>
+</resources>

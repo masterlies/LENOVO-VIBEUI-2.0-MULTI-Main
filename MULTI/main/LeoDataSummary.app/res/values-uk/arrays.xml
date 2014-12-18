@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>"М'який"</item>
+        <item>За замовчуванням</item>
+        <item>Ясний</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>За замовчуванням</item>
+        <item>Високий</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Холодний</item>
+        <item>За замовчуванням</item>
+        <item>Теплий</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>За замовчуванням</item>
+        <item>Підвищити різкість</item>
+    </string-array>
+</resources>

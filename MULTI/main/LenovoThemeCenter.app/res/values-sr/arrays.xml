@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>zaključaniekran</item>
+        <item>pokretač</item>
+        <item>ikone</item>
+        <item>pozadina</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>ekran sa pozivom</item>
+        <item>systemwidget</item>
+        <item>isključivanje/uključivanje sistema</item>
+        <item>font</item>
+    </string-array>
+</resources>

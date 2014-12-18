@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Svetlo</string>
+    <string name="breath_settings">Nastavenia dychu</string>
+    <string name="breath_delay">Cyklus dychu</string>
+    <string name="breath_delay_info">Čím menšie nastavené oneskorenie, tým väčšie nároky na spotrebu energie</string>
+    <string name="light_switch_settings">Nastavenie svetla</string>
+    <string name="coming_call">Prichádzajúce volanie</string>
+    <string name="miss_call">Zmeškané volania</string>
+    <string name="unread_msg">Neprečítané správy</string>
+    <string name="battery_low_msg">Hlásenie o takmer vybitom akumulátore</string>
+    <string name="sina_weibo_notify">Oznámenie SinaWeibo</string>
+    <string name="qq_weibo_notify">Oznámenie TencentWeibo</string>
+    <string name="other_app_notify">Iné</string>
+    <string name="other_app_summary">weixin，QQ，weibo</string>
+    <string name="music_play">Hudba</string>
+    <string name="screen_on">Zapnúť displej</string>
+    <string name="screen_off">Vypnúť displej</string>
+    <string name="power_on_off">Vypínač</string>
+    <string name="charging">Nabíjanie</string>
+    <string name="low_battery">Takmer vybitý akumulátor</string>
+    <string name="color_settings">Nastavenie farieb</string>
+    <string name="color_settings_info">Nastavenie farieb pre každé svetlo</string>
+    <string name="color_coming_call">Farba svetla pre prichádzajúce volanie</string>
+    <string name="color_miss_call">Farba svetla pre zmeškané volanie</string>
+    <string name="color_unread_msg">Farba svetla pre neprečítanú správu</string>
+    <string name="color_sina_weibo_notify">Farba svetla pre oznámenie SinaWeibo</string>
+    <string name="color_qq_weibo_notify">Farba svetla pre oznámenie TencentWeibo</string>
+    <string name="color_music">Farba svetla pre hudbu</string>
+    <string name="color_screen_on">Farba svetla pri zapnutom displeji</string>
+    <string name="color_screen_off">Farba svetla pri vypnutom displeji</string>
+    <string name="light_show">Svetelná šou</string>
+    <string name="light_show_info">Svetelná šou prehrávaná v spodnej časti</string>
+    <string name="light_show_info_top">Svetelná šou prehrávaná hore</string>
+    <string name="stop">Stop</string>
+    <string name="closed">Vyp</string>
+    <string name="open">Zap</string>
+    <string name="multiselect_alert_info">Potrebná minimálne jedna farba!</string>
+</resources>

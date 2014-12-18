@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Výchozí metody zadávání</item>
+        <item>Výchozí počítačový software</item>
+        <item>Výchozí internetový software</item>
+        <item>Výchozí software vytáčení</item>
+        <item>Výchozí software SMS</item>
+        <item>Výchozí e-mailový software</item>
+        <item>Výchozí prohlížeč obrázků</item>
+        <item>Výchozí software kamery</item>
+        <item>Výchozí videosoftware</item>
+        <item>Výchozí software online videa</item>
+        <item>Výchozí zvukový software</item>
+        <item>Výchozí software online zvuku</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Spouštěcí zařízení</item>
+        <item>V telefonu</item>
+        <item>Přijímání SMS</item>
+        <item>Připojení zařízení k síti</item>
+        <item>Instalace softwaru</item>
+        <item>Odemknutí černé obrazovky</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Doporučení systému</item>
+        <item>Vynutit instalaci do telefonu</item>
+        <item>Vynutit instalaci na výchozí paměťovou kartu</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Zapnout</item>
+        <item>Připojení k internetu</item>
+        <item>Hovor</item>
+        <item>SMS</item>
+        <item>Číst adresář</item>
+        <item>Získat polohu</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

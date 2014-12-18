@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_name">WLAN hesabı paylaş</string>
+    <string name="prompt">"WLAN'ı arkadaşlarınızla paylaşmak için telefonları birbirine yaklaştırın!"</string>
+    <string name="current_wifi">Geçerli WLAN bağlantısı:</string>
+    <string name="hotknot_help">Nasıl paylaşılır? Geçerli arayüzde telefonun üst yarılarını arka arkaya tutun (NFC aktarımı) Bağlı WLAN hesabını paylaşmak için ekrandaki yönergeleri izleyin.</string>
+    <string name="title_receive">Alınıyor</string>
+    <string name="wlan_connecting">WLAN hesabı alınıyor...</string>
+    <string name="title_finish">Başarıyla alındı</string>
+    <string name="wlan_finish">WLAN hesabı başarıyla alındı. %1$s ile bağlantı kurun ve çevrimiçi olun!</string>
+    <string name="send_ap_no_connected">Paylaşılamıyor (bağlı WLAN hesabı bulunamadı)</string>
+    <string name="hotknot_help_note">Not: Alan telefonunWLANhesabı paylaşımını desteklemesi gerekir (işlevi girişi ile)</string>
+    <string name="wifi_share">WLAN paylaşımı</string>
+</resources>

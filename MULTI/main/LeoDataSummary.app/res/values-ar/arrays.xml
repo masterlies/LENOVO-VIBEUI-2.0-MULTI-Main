@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>معتدل</item>
+        <item>افتراضي</item>
+        <item>ساطع</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>افتراضي</item>
+        <item>عالٍ</item>
+    </string-array>
+    <string-array name="hue">
+        <item>هادئ</item>
+        <item>افتراضي</item>
+        <item>دافئ</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>افتراضي</item>
+        <item>زيادة الحدة</item>
+    </string-array>
+</resources>

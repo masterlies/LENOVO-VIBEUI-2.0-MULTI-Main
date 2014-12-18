@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Métodos de entrada padrão</item>
+        <item>Software da área de trabalho padrão</item>
+        <item>Software da internet padrão</item>
+        <item>Software da discagem padrão</item>
+        <item>Software de SMS padrão</item>
+        <item>Software de e-mail padrão</item>
+        <item>Visualizador de imagem padrão</item>
+        <item>Software de câmera padrão</item>
+        <item>Software de vídeo padrão</item>
+        <item>Software de vídeo on-line padrão</item>
+        <item>Software de áudio padrão</item>
+        <item>Software de áudio on-line padrão</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Dispositivo para inicialização</item>
+        <item>No telefone</item>
+        <item>Recebimento de SMS</item>
+        <item>Rede de equipamentos</item>
+        <item>Instalação de software</item>
+        <item>Desbloqueio de tela preta</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Recomendações do sistema</item>
+        <item>Forçar instalação no telefone</item>
+        <item>Forçar instalação no cartão de memória padrão</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Ligar</item>
+        <item>Conexão com a internet</item>
+        <item>Chamar</item>
+        <item>SMS</item>
+        <item>Ler catálogo de endereços</item>
+        <item>Obter o local</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

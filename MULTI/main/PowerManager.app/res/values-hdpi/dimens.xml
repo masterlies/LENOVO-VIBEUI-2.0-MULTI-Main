@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_small">12.0sp</dimen>
+    <dimen name="text_size_middle">16.0sp</dimen>
+    <dimen name="power_checkboxtextwrap">16.0dip</dimen>
+    <dimen name="classicmode_margin_left_and_right">34.0dip</dimen>
+    <dimen name="line_view_height">1.0px</dimen>
+    <dimen name="tab_height">32.0dip</dimen>
+    <dimen name="title_height">52.0dip</dimen>
+    <dimen name="button_height">36.0dip</dimen>
+    <dimen name="list_item_height">60.0dip</dimen>
+    <dimen name="margin_size">16.0dip</dimen>
+    <dimen name="tab_margin_size">70.0dip</dimen>
+</resources>

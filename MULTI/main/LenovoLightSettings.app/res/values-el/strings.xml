@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Φωτισμός</string>
+    <string name="breath_settings">Ρυθμίσεις χρον. διαστ. κύκλου λειτουργίας</string>
+    <string name="breath_delay">Χρον. διάστημα κύκλου λειτουργίας</string>
+    <string name="breath_delay_info">Όσο μικρότερη καθυστέρηση ορίζεται, τόσο περισσότερη ενέργεια καταναλώνεται</string>
+    <string name="light_switch_settings">Ρυθμίσεις φωτισμού</string>
+    <string name="coming_call">Εισερχόμενη κλήση</string>
+    <string name="miss_call">Αναπάντητη κλήση</string>
+    <string name="unread_msg">Μη αναγνωσμένο μήνυμα</string>
+    <string name="battery_low_msg">Μήνυμα χαμηλής στάθμης μπαταρίας</string>
+    <string name="sina_weibo_notify">SinaWeibo Notify</string>
+    <string name="qq_weibo_notify">TencentWeibo Notify</string>
+    <string name="other_app_notify">Άλλο</string>
+    <string name="other_app_summary">weixin，QQ，sina weibo</string>
+    <string name="music_play">Μουσική</string>
+    <string name="screen_on">Οθόνη ενεργοποιημένη</string>
+    <string name="screen_off">Οθόνη απενεργοποιημένη</string>
+    <string name="power_on_off">Ενεργοποίηση/απενεργοποίηση</string>
+    <string name="charging">Φόρτιση</string>
+    <string name="low_battery">Χαμηλή στάθμη μπαταρίας</string>
+    <string name="color_settings">Ρυθμίσεις χρωμάτων</string>
+    <string name="color_settings_info">Ρυθμίσεις χρωμάτων κάθε είδους φωτισμού</string>
+    <string name="color_coming_call">Χρώμα φωτισμού εισερχόμενης κλήσης</string>
+    <string name="color_miss_call">Χρώμα φωτισμού αναπάντητης κλήσης</string>
+    <string name="color_unread_msg">Χρώμα φωτισμού μη αναγνωσμένου μηνύματος</string>
+    <string name="color_sina_weibo_notify">Light Color of SinaWeibo Notify</string>
+    <string name="color_qq_weibo_notify">Light Color of TencentWeibo Notify</string>
+    <string name="color_music">Χρώμα φωτισμού μουσικής</string>
+    <string name="color_screen_on">Χρώμα φωτισμού ενεργοποιημένης οθόνης</string>
+    <string name="color_screen_off">Χρώμα φωτισμού απενεργοποιημένης οθόνης</string>
+    <string name="light_show">Επίδειξη φωτισμού</string>
+    <string name="light_show_info">Η επίδειξη φωτισμού αναπαράγεται στο κάτω μέρος</string>
+    <string name="stop">Διακοπή</string>
+    <string name="closed">έχει κλείσει</string>
+    <string name="open">άνοιγμα</string>
+    <string name="multiselect_alert_info">Είναι απαραίτητο ένα τουλάχιστον χρώμα!</string>
+    <string name="select_color_title">Ρυθμίσεις χρωμάτων</string>
+    <string name="ok">OΚ</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="click_screen">Οθόνη ενεργοποιημένη</string>
+    <string name="calling">Γίνεται κλήση</string>
+</resources>

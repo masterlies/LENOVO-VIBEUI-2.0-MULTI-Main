@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">รหัสลับ</string>
+    <string name="hardversion">เวอร์ชันฮาร์ดแวร์:</string>
+    <string name="softversion">เวอร์ชันซอฟต์แวร์:</string>
+    <string name="frameworkversion">เวอร์ชันกรอบการทำงาน:</string>
+    <string name="osversion">เวอร์ชัน OS:</string>
+    <string name="modemversion">เวอร์ชันโมเด็ม:</string>
+    <string name="meid_activity_title">รุ่น PRL</string>
+    <string name="btn_post">เปิดทำงาน</string>
+    <string name="btn_neg">ปิดทำงาน</string>
+    <string name="enable_fdn">เปิดทำงาน</string>
+    <string name="disable_fdn">ปิดทำงาน</string>
+    <string name="reboot">รีสตาร์ท</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="default_state">ข้อผิดพลาด:</string>
+    <string name="alert_string">แจ้งเตือน!</string>
+    <string name="alert_message_string">การกดปุ่ม [OK] จะเป็นการคืนกลับสู่ค่าโรงงานและล้างข้อมูลของผู้ใช้ทั้งหมด แนะนำให้ผู้ใช้ทั่วไปใช้ความระมัดระวัง!</string>
+    <string name="alert_message_ums_string">การกดปุ่ม [OK] จะเป็นการกำหนดให้ usb.config อยู่ในโหมด mass_storage เพื่อการดีบัก แนะนำให้ผู้ใช้ทั่วไปใช้ความระมัดระวัง!</string>
+    <string name="alert_ok">ตกลง</string>
+    <string name="alert_no">ไม่</string>
+    <string name="framework_inf">เวอร์ชันภายใน</string>
+    <string name="commit_cate">บันทึก</string>
+    <string name="summary_on">ในวันที่</string>
+    <string name="summary_off">ปิด</string>
+    <string name="report_log_summary">รายงาน</string>
+    <string name="report_log_title">รายงาน</string>
+    <string name="yes_exit">ใช่</string>
+    <string name="no_exit">ไม่</string>
+    <string name="enable">เปิดใช้งาน</string>
+    <string name="disable">ปิดใช้งานแล้ว</string>
+    <string name="regulatory_information">ข้อมูลเกี่ยวกับกฎระเบียบ</string>
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">전원 관리자</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="power_consume_app_freeze">정지</string>
+    <string name="power_consume_app_unfreeze">정지 해제</string>
+    <string name="power_consume_app_uninstall">제거</string>
+    <string name="power_consume_app_details">세부정보</string>
+    <string name="battery_usage_use">사용된 배터리: %s</string>
+    <string name="consumption_call">음성 통화</string>
+    <string name="consumption_screen">화면</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">무선통신</string>
+    <string name="consumption_bluetooth">블루투스</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">미디어</string>
+    <string name="power_battery">거듭제곱</string>
+    <string name="power_charge">충전 중</string>
+    <string name="power_consume">사용법</string>
+    <string name="power_settings">설정</string>
+    <string name="power_mode">모드</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">CPU 총 소비 시간</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">켜진 상태로 유지</string>
+    <string name="usage_type_alarm">절전 모드 해제 시스템</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi 작동 중</string>
+    <string name="usage_type_data_send">보낸 데이터</string>
+    <string name="usage_type_data_recv">수신된 데이터</string>
+    <string name="usage_type_audio">오디오</string>
+    <string name="usage_type_video">동영상</string>
+    <string name="usage_type_on_time">실행 시간</string>
+    <string name="usage_type_no_coverage">신호 시간 없음</string>
+    <string name="battery_history_days" formatted="false">%d일 %d시간 %d분 %d초</string>
+    <string name="battery_history_hours" formatted="false">%d시간 %d분 %d초</string>
+    <string name="battery_history_minutes" formatted="false">%d분 %d초</string>
+    <string name="battery_history_seconds">%d초</string>
+    <string name="battery_hour_minute" formatted="false">%d시간 %d분</string>
+    <string name="battery_hour">%d시간</string>
+    <string name="battery_minute">%d분</string>
+    <string name="battery_wakelock" formatted="false">%d회 %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d일 %d시간 %d분 %s초</string>
+    <string name="battery_wakelock_hours" formatted="false">%d시간 %d분 %s초</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d분 %s초</string>
+    <string name="battery_wakelock_seconds">%s초</string>
+    <string name="battery_alarm_time">%d회</string>
+    <string name="battery_screen_time">충전후 사용시간</string>
+    <string name="usage_type_wakelock_screen">화면 절전 방지</string>
+    <string name="usage_type_wakelock_cpu">CPU 절전 방지</string>
+    <string name="usage_type_sensor">사용 센서</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">기타</string>
+    <string name="battery_screen_on_time">사용: %s</string>
+    <string name="battery_screen_off_time">대기: %s</string>
+    <string name="enter_setting">실행 설정</string>
+    <string name="battery_tab_title_consume">전력 소모량</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d일, %d시간 %d분</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d일 %d분</string>
+    <string name="battery_history_minutes_without_seconds">%d분</string>
+    <string name="battery_sensor_info" formatted="false">%d / %s</string>
+    <string name="hour">시</string>
+    <string name="minute">분</string>
+    <string name="second">초</string>
+    <string name="application_not_found">애플리케이션 세부 설정을 찾지 못함</string>
+    <string name="mode_turnOff">사용 안함</string>
+    <string name="mode_turnOn">설정</string>
+    <string name="main_switch_dialog_super">대기 시간(수일)동안 통화 및 메시지 기능만 사용하고 모든 다른 기능은 사용할 수 없도록 설정합니다.</string>
+    <string name="deep_clear_result_to_white_list_new">선택한 앱은 영향을 받지 않습니다.</string>
+    <string name="temporary_no_app">애플리케이션 없음</string>
+    <string name="progress_loading">잠시 기다려 주십시오…</string>
+    <string name="failed_switch_app_state">죄송합니다. 작업에 실패했습니다. 과부하가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="package_manger_list_type_third">사용자 애플리케이션</string>
+    <string name="package_manger_list_type_system">시스템 애플리케이션</string>
+    <string name="btn_return">돌아가기</string>
+    <string name="main_switcher">시간 전환</string>
+    <string name="switcher_detail">일정 기간 내에 지정한 모드를 사용 가능하도록 자동 설정</string>
+    <string name="switcher">시간 전환</string>
+    <string name="switcher_start_time">시작 시간</string>
+    <string name="switcher_end_time">종료 시간</string>
+    <string name="switcher_tag">이 기간 동안 사용</string>
+    <string name="switcher_target_custom">사용자 정의</string>
+    <string name="mode_changed_dialog">모드 전환</string>
+    <string name="no_remind">메시지 표시 안 함</string>
+    <string name="new_sim">새 SIM</string>
+    <string name="application_not_found_activity">애플리케이션을 찾지 못했습니다.</string>
+    <string name="classicmode_lable_phone">전화번호</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">연락처</string>
+    <string name="failed_get_safecenter_whitelist">Lenovo 안전 센터 화이트리스트 동기화에 실패했습니다. 최신 버전의 Lenovo 안전 센터를 다시 설치하십시오.</string>
+    <string name="application_not_support_be_launched">보안 설정으로 인해 다른 앱이 이 앱을 사용할 수 없습니다.</string>
+    <string name="classic_phone_dialog_entering">데이터 초기화 중입니다. 잠시 기다려 주십시오…</string>
+    <string name="classic_phone_dialog_existing">데이터를 복원하고 있습니다. 잠시 기다려 주십시오…</string>
+    <string name="consumption_app_button">소프트웨어</string>
+    <string name="consumption_hardware_button">하드웨어</string>
+    <string name="power_setting_menu_classic_phone">최대 절전 모드</string>
+    <string name="power_setting_menu_smart">화면, CPU 및 GPU 절전</string>
+    <string name="power_setting_menu_app_deep_clear">화면이 꺼졌을 때 앱 사용 안 함</string>
+    <string name="power_setting_menu_consumption">전원 소모 세부 사항</string>
+    <string name="statistic_assist_title">보조 통계 기능</string>
+    <string name="power_consumption_title">절전 기능</string>
+    <string name="fragment_tab_deepclear">화면이 꺼졌을 때 앱 사용 안 함</string>
+    <string name="deep_clear_detail">사용 안 함으로 설정할 경우, 앱으로 인해 절전 모드가 해제되지 않음</string>
+    <string name="dialog_timing_text">최대 절전 모드로 전환하시겠습니까?</string>
+    <string name="switcher_summery">지정한 시간 동안 최대 절전 모드로 자동 전환</string>
+    <string name="switcher_summery_close">사용 가능으로 설정하면 지정한 시간 동안 최대 절전 모드로 자동 전환</string>
+    <string name="classicmode_hit_text">최대 절전</string>
+    <string name="classic_phone_desktop_shortcut">최대 절전</string>
+    <string name="classic_phone_dialog_title">최대 절전 프롬프트</string>
+    <string name="classic_phone_dialog_enter">최대 절전 모드로 전환하시겠습니까? 비교적 오랜 시간 동안 사용 중이었습니다. 잠시 쉬었다 사용하시기 바랍니다.</string>
+    <string name="classic_phone_dialog_exist">최대 절전 모드를 종료하시겠습니까?</string>
+    <string name="classic_phone_failed_to_start_service">최대 절전 모드 실행에 실패했습니다. 죄송합니다.</string>
+    <string name="create_classicmode_desktop_shortcut">바탕화면에 최대 절전 바로 가기 만들기</string>
+    <string name="classicmode_exit_hint_text">최대 절전을 종료하려면 닫기 버튼을 누르십시오.</string>
+    <string name="setttings_screen_smart_brightness2">절전 비전 엔진</string>
+    <string name="setttings_screen_smart_brightness_detail">사인파 밝기 조정 기술을 통해 5–20%까지 전력 소모를 줄일 수 있습니다.</string>
+    <string name="power_engine_vmx_title">절전 컴퓨팅 엔진</string>
+    <string name="power_engine_vmx_detail">10–25%의 전원 소비 절감을 위해 CPU를 자동 조정</string>
+    <string name="power_engine_fps_title">절전 그래픽 엔진</string>
+    <string name="power_engine_fps_detail">10–25%의 전원 소비 절감을 위한 GPU 최적화</string>
+    <string name="power_engine_summery_close">사용하도록 설정할 경우 화면, CPU 및 GPU 전원 소비를 자동으로 줄임</string>
+    <string name="power_engine_summery_close2">사용하도록 설정할 경우 화면 및 GPU 전원 소비를 자동으로 줄임</string>
+    <string name="power_engine_summery_close3">사용하도록 설정할 경우 화면 전원 소비를 자동으로 줄임</string>
+    <string name="power_engine_summery_close4">사용하도록 설정할 경우 화면 및 CPU 전원 소비를 자동으로 줄임</string>
+    <string name="power_setting_menu_smart2">화면 전원 보호기</string>
+    <string name="power_setting_menu_smart3">화면, CPU 및 GPU 절전</string>
+    <string name="power_setting_menu_smart4">화면 및 GPU 절전</string>
+    <string name="power_setting_menu_smart5">화면 및 CPU 절전</string>
+    <string name="power_setting_current_battery" formatted="false">현재 충전율: %s%s</string>
+    <string name="classicmode_lable_clock">시계</string>
+</resources>

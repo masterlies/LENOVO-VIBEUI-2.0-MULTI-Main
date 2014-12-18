@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">تنظیمات</string>
+    <string name="prompt">‏%s تلاش می‌کند یک اتصال VPN ایجاد کند.</string>
+    <string name="current_wifi">اتصال WLAN کنونی:</string>
+    <string name="hotknot_help">چگونه به اشتراک بگذاریم: در رابط کاربر کنونی، نیمه بالایی دو گوشی را به صورت پشت به پشت با هم نگه دارید (انتقال NFC). برای اشتراک‌گذاری حساب WLAN متصل شده از دستورالعمل‌ها پیروی کنید.</string>
+    <string name="title_receive">در حال دریافت</string>
+    <string name="wlan_connecting">در حال دریافت حساب WLAN...</string>
+    <string name="title_finish">با موفقیت دریافت شد</string>
+    <string name="wlan_finish">حساب WLAN با موفقیت دریافت شد. با اتصال به %1$s آنلاین خواهید شد!</string>
+    <string name="send_ap_no_connected">نمی‌تواند به اشتراک گذاشته شود (حساب WLAN متصل شده یافت نشد)</string>
+    <string name="hotknot_help_note">توجه: گوشی دریافت‌کننده باید از اشتراک‌گذاری حساب WLAN پشتیبانی کند (با ورود عملکرد)</string>
+    <string name="wifi_share">اشتراک‌گذاری WLAN</string>
+</resources>

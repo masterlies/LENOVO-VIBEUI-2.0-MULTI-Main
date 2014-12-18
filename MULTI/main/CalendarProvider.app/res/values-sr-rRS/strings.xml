@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Skladištenje kalendara</string>
+    <string name="upgrade_msg">Nadograđivanje baze podataka o kontaktima.</string>
+    <string name="calendar_default_name">Podrazumevano</string>
+    <string name="calendar_info">Informacije o kalendaru</string>
+    <string name="calendar_info_error">Greška</string>
+    <string name="calendar_info_no_calendars">Nema kalendara</string>
+    <string name="calendar_info_events">Događaji: %1$d</string>
+    <string name="calendar_info_events_dirty">Događaji: %1$d, nesačuvani: %2$d</string>
+    <string name="provider_label">Kalendar</string>
+    <string name="debug_tool_delete_button">Izbriši sada</string>
+    <string name="debug_tool_start_button">Započni</string>
+    <string name="debug_tool_message">Ovim ćete 1) napraviti kopiju baze podataka kalendara na SD kartici/USB memoriji koju svaka aplikacija može da pročita i 2) poslaćete je e-poštom. Obavezno izbrišite kopiju odmah nakon kopiranja na uređaj ili prijema poruke e-pošte.</string>
+    <string name="debug_tool_email_sender_picker">Izaberite program za slanje datoteke</string>
+    <string name="debug_tool_email_subject">Priložena je alatka za uklanjanje grešaka u Kalendaru</string>
+    <string name="debug_tool_email_body">U prilogu se nalazi baza podataka mog kalendara sa svim zakazanim obavezama i ličnim podacima. Postupajte pažljivo.</string>
+</resources>

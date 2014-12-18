@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Ειδήσεις</item>
+        <item>Αθλητικά</item>
+        <item>Δραματικές σειρές</item>
+        <item>Μουσικά βίντεο</item>
+        <item>Ταινίες</item>
+        <item>Κωμωδίες</item>
+        <item>Δράσης</item>
+        <item>Μιούζικαλ</item>
+        <item>Κινούμενα σχέδια</item>
+        <item>Βαριετέ</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Αναπαραγωγή</item>
+        <item>Μετονομασία</item>
+        <item>Διαγραφή</item>
+        <item>Πληροφορίες</item>
+        <item>Κοινή χρήση</item>
+        <item>Πολλαπλή επιλογή</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Αναπαραγωγή</item>
+        <item>Μετονομασία</item>
+        <item>Διαγραφή</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Αναπαραγωγή</item>
+        <item>Διαγραφή</item>
+        <item>Εκκαθάριση λίστας</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Αναπαραγωγή</item>
+        <item>Προσθήκη αυτού του βίντεο</item>
+    </string-array>
+</resources>

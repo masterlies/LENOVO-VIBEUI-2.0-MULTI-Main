@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>عام</item>
+        <item>صامت</item>
+        <item>اهتزاز</item>
+        <item>الوضع الخارجي</item>
+        <item>قيادة</item>
+    </string-array>
+</resources>

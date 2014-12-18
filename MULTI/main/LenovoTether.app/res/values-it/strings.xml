@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Configura hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Protezione: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">"L'SSID non può contenere più di 32 caratteri"</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Protezione: %2$s
+Password: %3$s"</string>
+    <string name="wifi_cancel">Annulla</string>
+    <string name="wifi_save">Salva</string>
+    <string name="wifi_ssid">SSID rete</string>
+    <string name="wifi_security">Protezione</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_show_password">Mostra password</string>
+    <string name="credentials_password_too_short">La password deve contenere almeno 8 caratteri.</string>
+    <string name="wifi_channel">Canale preferito</string>
+    <string name="wifi_channel_width">Larghezza canale</string>
+    <string name="wifi_tether_auto_channel_text">Automatico</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Hotspot personale abilitato</string>
+    <string name="tethered_notification_message">Tocca per configurare</string>
+    <string name="tether_about_title">Introduzione funzione</string>
+    <string name="wlan_connection_title">Hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Condivisione rete Bluetooth</string>
+    <string name="usb_share_title">Condivisione rete USB</string>
+    <string name="about_wlan">"Impostando l'hotspot WLAN in questo dispositivo, si consente ad altri dispositivi WLAN di connettersi alla rete mobile di questo dispositivo per la navigazione Web"</string>
+    <string name="about_usb">Abilitando la condivisione della rete USB in questo dispositivo, si consente ai dispositivi connessi di utilizzare la rete mobile di questo dispositivo per la navigazione Web</string>
+    <string name="about_bt">Abilitando la condivisione della rete Bluetooth in questo dispositivo, si consente ad altri dispositivi Bluetooth di utilizzare la rete mobile di questo dispositivo per la navigazione Web</string>
+    <string name="about_usb_other">"Altre note: 
+ 1. Durante la connessione USB, non è possibile installare la scheda SD del dispositivo sul computer
+ 2. La connessione si applica solo a Windows Vista, Windows 7, Windows 8 e Linux"</string>
+    <string name="wifi_tether_settings_title">Informazioni configurazione WLAN</string>
+    <string name="wifi_ap_client_block_title">Blocca</string>
+    <string name="wifi_ap_client_unblock_title">Sblocca</string>
+    <string name="wifi_ap_connected_title">Utenti connessi</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d connesso, %2$d bloccato</string>
+    <string name="open_title">Abilita suggerimenti</string>
+    <string name="open_mess">Per utilizzare %1$s, è necessario abilitare la connessione dati</string>
+    <string name="open_mess_all">Per utilizzare %1$s, è necessario abilitare la rete WLAN o la connessione dati</string>
+    <string name="cancel">Annulla</string>
+    <string name="go_settings">Vai alle impostazioni</string>
+    <string name="open_mess_alert">"La rete mobile è abilitata. L'utilizzo della funzione %1$s potrebbe causare un aumento del traffico di dati e maggiori addebiti. Abilitarla?"</string>
+    <string name="open">Abilita</string>
+</resources>

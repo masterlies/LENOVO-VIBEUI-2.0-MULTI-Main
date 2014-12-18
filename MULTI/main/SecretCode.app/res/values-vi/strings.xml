@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mã bí mật</string>
+    <string name="hardversion">Phiên bản phần cứng:</string>
+    <string name="softversion">Phiên bản phần mềm:</string>
+    <string name="frameworkversion">Phiên bản Framework:</string>
+    <string name="osversion">Phiên bản HĐH:</string>
+    <string name="modemversion">Phiên bản Modem:</string>
+    <string name="meid_activity_title">P.bản PRL</string>
+    <string name="btn_post">Bật</string>
+    <string name="btn_neg">Tắt</string>
+    <string name="enable_fdn">Bật</string>
+    <string name="disable_fdn">Tắt</string>
+    <string name="reboot">Khởi động lại</string>
+    <string name="cancel">Hủy</string>
+    <string name="default_state">Lỗi:</string>
+    <string name="alert_string">Cảnh báo!</string>
+    <string name="alert_message_string">Nhấn phím [OK] sẽ trở về cài đặt gốc và xóa tất cả dữ liệu người dùng, người dùng nên thận trọng!</string>
+    <string name="alert_message_ums_string">Nhấn phím [OK] sẽ đặt usb.config sang chế độ mass_storage để gỡ lỗi, người dùng nên thận trọng!</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">KHÔNG</string>
+    <string name="framework_inf">Phiên bản nội bộ</string>
+    <string name="commit_cate">Lưu</string>
+    <string name="summary_on">BẬT</string>
+    <string name="summary_off">TẮT</string>
+    <string name="report_log_summary">Báo cáo</string>
+    <string name="report_log_title">Báo cáo</string>
+    <string name="yes_exit">Có</string>
+    <string name="no_exit">Không</string>
+    <string name="enable">Bật</string>
+    <string name="disable">Đã tắt</string>
+    <string name="regulatory_information">Thông tin về quy định</string>
+</resources>

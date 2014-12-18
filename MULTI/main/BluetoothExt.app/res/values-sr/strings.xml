@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Опрема за аутомобил</string>
+    <string name="bluetooth_remember_choice">Увек дозволи</string>
+    <string name="dun_notif_message">Додирните да бисте се повезали са уређајем „%1$s“.</string>
+    <string name="dun_acceptance_timeout_message">Истекло је време за прихватање везе са уређајем %1$s</string>
+    <string name="ftp_session_key_dialog_title">Унесите кључ сесије за %1$s</string>
+    <string name="ftp_session_key_dialog_header">Потребан је кључ сесије за Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Истекло је време за прихватање везе са уређајем %1$s</string>
+    <string name="ftp_authentication_timeout_message">Истекло је време за унос кључа сесије помоћу %1$s</string>
+    <string name="ftp_notif_ticker">Захтев за Bluetooth повезивање</string>
+    <string name="ftp_notif_message">Додирните да бисте се повезали са уређајем „%1$s“.</string>
+    <string name="map_session_key_dialog_title">Унесите кључ сесије за %1$s</string>
+    <string name="map_session_key_dialog_header">Потребан је кључ сесије за Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Истекло је време за прихватање везе са уређајем %1$s</string>
+    <string name="map_authentication_timeout_message">Истекло је време за унос кључа сесије помоћу %1$s</string>
+    <string name="map_notif_ticker">Захтев за Bluetooth повезивање</string>
+    <string name="map_notif_message">Додирните да бисте се повезали са уређајем „%1$s“.</string>
+    <string name="sap_notif_message">Додирните да бисте се повезали са уређајем „%1$s“.</string>
+    <string name="sap_acceptance_timeout_message">Истекло је време за прихватање везе са уређајем %1$s</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s жели да приступи вашој SIM картици. Одобрити приступ за %2$s?</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snemalnik zvoka</string>
+    <string name="left_timer_format" formatted="false">Preostali čas: %02d u %02d m</string>
+    <string name="recording">Snemanje %1$s</string>
+    <string name="label_quality">Izberite kakovost snemanja</string>
+    <string name="remain_time">Preostali čas</string>
+    <string name="button_ok">V redu</string>
+    <string name="button_cancel">Prekliči</string>
+    <string name="audio_db_artist_name">Vaši posnetki</string>
+    <string name="audio_db_album_name">Zvočni posnetki</string>
+    <string name="audio_db_playlist_name">Moji posnetki</string>
+    <string name="exit_tip">Ali zares želite zapreti snemalnik?</string>
+    <string name="error_zero_audio">Zvoka, krajšega od 0 sekund, ni mogoče posneti.</string>
+    <string name="error_busy_in_call">Končajte klic in nato uporabite snemalnik.</string>
+    <string name="error_no_space">Ni dovolj prostora, snemanje ni mogoče.</string>
+    <string name="error_sdcard_access">Dostop do kartice SD ni mogoč.</string>
+    <string name="error_internal">Snemalnik se izvaja, najprej ga zaprite.</string>
+    <string name="error_mediadb_new_record">Posnetega zvoka ni mogoče shraniti.</string>
+    <string name="error_app_unsupported">Nepodprta oblika</string>
+    <string name="error_insert_sd_card">Vstavite kartico SD</string>
+    <string name="error_storage_is_full">Shramba je polna</string>
+    <string name="error_max_length">Dosežena je največja dolžina</string>
+    <string name="contextmenu_item_delete">Izbriši</string>
+    <string name="contextmenu_item_rename">Preimenuj</string>
+    <string name="contextmenu_item_send_title">Pošlji</string>
+    <string name="contextmenu_item_setasringtone">Zvonjenje</string>
+    <string name="label_setringtone_success">Posnetek »%1$s« je bil uspešno nastavljen kot zvonjenje.</string>
+    <string name="setringtone_fail">Ko je naprava v tihem ali vibracijskem načinu, ni treba nastaviti zvonjenja.</string>
+    <string name="del_selfile_tip">Ali ste prepričani, da želite izbrisati posneto zvočno datoteko?</string>
+    <string name="label_delete_success">Izbris uspešen.</string>
+    <string name="input_toolong">Vnesli ste preveč znakov.</string>
+    <string name="file_name_exist">Oprostite, imena datoteke ne smete ponoviti.</string>
+    <string name="empty_len">Ime datoteke ne sme biti prazno.</string>
+    <string name="namebad">Ime datoteke vsebujejo neveljavne znake: \\ : ? * > \" | / ipd.</string>
+    <string name="delete_tip">Izbris posnetka</string>
+    <string name="not_select">Izbrali niste nobene možnosti.</string>
+    <string name="am_file">%1$s: %2$s dop</string>
+    <string name="pm_file">%1$s: %2$s pop</string>
+    <string name="selected_number_of">Izbrano: %1$s</string>
+    <string name="saved_file_reminder">Datoteka je shranjena kot »%1$s«</string>
+    <string name="delete_recorded">Izbris posnete zvočne datoteke</string>
+    <string name="delete_muti_msg">Izbris, počakajte ...</string>
+    <string name="rename_record_file">Preimenovanje posnete datoteke</string>
+    <string name="soundrecorder_list">Seznam snemalnika zvokov</string>
+    <string name="callrecorder_list">Seznam snemalnika klicev</string>
+    <string name="mediarecorder_list">Seznam snemalnika predstavnosti</string>
+    <string name="high_quality">Način za razgovor (visoko)</string>
+    <string name="medium_quality">Način za pogovor (srednje)</string>
+    <string name="low_quality">Način za interakcijo (nizko)</string>
+    <string name="exit_record_play">Pred predvajanjem ustavite snemanje.</string>
+    <string name="exit_play_edit">Če želite spremeniti posnetek, najprej ustavite predvajanje.</string>
+    <string name="exit_playOrRecord_delete">Pred prehodom v način paketnega izbrisa ustavite predvajanje ali snemanje.</string>
+    <string name="exit_toast">Še enkrat se dotaknite, če želite zapreti predvajalnik zvokov.</string>
+    <string name="playlist_text">Seznam posnetkov</string>
+    <string name="fileDir_not_exist">Pot, izbrana za zvočno datoteko, ne obstaja.</string>
+</resources>

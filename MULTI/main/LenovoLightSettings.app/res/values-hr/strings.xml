@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Osvjetljenje</string>
+    <string name="breath_settings">Postavke disanja</string>
+    <string name="breath_delay">Ciklus disanja</string>
+    <string name="breath_delay_info">Što je odgoda kraća, potrošit će se više energije</string>
+    <string name="light_switch_settings">Postavke osvjetljenja</string>
+    <string name="coming_call">Dolazni poziv</string>
+    <string name="miss_call">Propušteni pozivi</string>
+    <string name="unread_msg">Nepročitane poruke</string>
+    <string name="battery_low_msg">Poruka o ispražnjenosti baterije</string>
+    <string name="sina_weibo_notify">SinaWeibo obavijesti</string>
+    <string name="qq_weibo_notify">TencentWeibo obavijesti</string>
+    <string name="other_app_notify">Ostalo</string>
+    <string name="other_app_summary">weixin，QQ，weibo</string>
+    <string name="music_play">Glazba</string>
+    <string name="screen_on">Zaslon uključen</string>
+    <string name="screen_off">Zaslon isključen</string>
+    <string name="power_on_off">Uključivanje i isključivanje napajanja</string>
+    <string name="charging">Punjenje</string>
+    <string name="low_battery">Slaba baterija</string>
+    <string name="color_settings">Postavke boje</string>
+    <string name="color_settings_info">Postavke boje za svako osvjetljenje</string>
+    <string name="color_coming_call">Boja osvjetljenja pri dolaznom pozivu</string>
+    <string name="color_miss_call">Boja osvjetljenja za propušten poziv</string>
+    <string name="color_unread_msg">Boja osvjetljenja za nepročitanu poruku</string>
+    <string name="color_sina_weibo_notify">Boja osvjetljenja za SinaWeibo obavijest</string>
+    <string name="color_qq_weibo_notify">Boja osvjetljenja za TencentWeibo obavijest</string>
+    <string name="color_music">Boja osvjetljenja za glazbu</string>
+    <string name="color_screen_on">Boja osvjetljenja zaslona uključena</string>
+    <string name="color_screen_off">Boja osvjetljenja zaslona isključena</string>
+    <string name="light_show">Light Show</string>
+    <string name="light_show_info">Light show se prikazuje na dnu</string>
+    <string name="light_show_info_top">Light show se prikazuje na vrhu</string>
+    <string name="stop">Zaustavi</string>
+    <string name="closed">Isključeno</string>
+    <string name="open">Uključeno</string>
+    <string name="multiselect_alert_info">Potrebna je najmanje jedna boja!</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Code secret</string>
+    <string name="hardversion">Version du matériel :</string>
+    <string name="softversion">Version du logiciel :</string>
+    <string name="frameworkversion">"Version de l'infrastructure :"</string>
+    <string name="osversion">"Version du système d'exploitation :"</string>
+    <string name="modemversion">Version du modem :</string>
+    <string name="meid_activity_title">Version PRL</string>
+    <string name="btn_post">Activer</string>
+    <string name="btn_neg">Désactiver</string>
+    <string name="enable_fdn">Activer</string>
+    <string name="disable_fdn">Désactiver</string>
+    <string name="reboot">Redémarrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="default_state">Erreur :</string>
+    <string name="alert_string">Alerte !</string>
+    <string name="alert_message_string">"Si vous appuyez sur la touche [OK], les paramètres d'usine seront restaurés et les données utilisateur seront supprimées. Nous vous recommandons d'effectuer cette opération avec précaution !"</string>
+    <string name="alert_message_ums_string">"Si vous appuyez sur la touche [OK], la configuration USB passe en mode stockage de masse pour le débogage. Nous vous recommandons d'effectuer cette opération avec précaution !"</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">NON</string>
+    <string name="framework_inf">Version interne</string>
+    <string name="commit_cate">Sauvegarder</string>
+    <string name="summary_on">OUI</string>
+    <string name="summary_off">NON</string>
+    <string name="report_log_summary">Rapport</string>
+    <string name="report_log_title">Rapport</string>
+    <string name="yes_exit">Oui</string>
+    <string name="no_exit">Non</string>
+    <string name="enable">Activer</string>
+    <string name="disable">Désactivé</string>
+    <string name="regulatory_information">Infos réglementaires</string>
+</resources>

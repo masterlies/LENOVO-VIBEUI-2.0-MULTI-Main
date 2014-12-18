@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">개인 핫스팟</string>
+    <string name="wifi_tether_configure_ap_text">WLAN 핫스팟 구성</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+보안: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID는 32자 이하이어야 합니다.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+보안: %2$s
+암호: %3$s"</string>
+    <string name="wifi_cancel">취소</string>
+    <string name="wifi_save">저장</string>
+    <string name="wifi_ssid">네트워크 SSID</string>
+    <string name="wifi_security">보안</string>
+    <string name="wifi_password">암호</string>
+    <string name="wifi_show_password">암호를 표시합니다</string>
+    <string name="credentials_password_too_short">암호는 최소 8자 이상이어야 합니다.</string>
+    <string name="wifi_channel">선호 채널</string>
+    <string name="wifi_channel_width">채널 대역폭</string>
+    <string name="wifi_tether_auto_channel_text">자동</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">개인 핫스팟 사용 설정</string>
+    <string name="tethered_notification_message">터치하여 구성하기</string>
+    <string name="tether_about_title">기능 소개</string>
+    <string name="wlan_connection_title">WLAN 핫스팟</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Bluetooth 네트워크 공유</string>
+    <string name="usb_share_title">USB 네트워크 공유</string>
+    <string name="about_wlan">이 장치에서 WLAN 핫스팟을 설정하면 다른 WLAN 장치가 이 장치의 모바일 네트워크를 통해 웹 서핑을 할 수 있음</string>
+    <string name="about_usb">이 장치에서 USB 네트워크 공유를 사용 설정하면 연결된 장치가 이 장치의 모바일 네트워크를 통해 웹 서핑을 할 수 있음</string>
+    <string name="about_bt">이 장치에서 Bluetooth 네트워크 공유를 사용 설정하면 다른 Bluetooth 장치가 이 장치의 모바일 네트워크를 통해 웹 서핑을 할 수 있음</string>
+    <string name="about_usb_other">"기타 참고: 
+ 1. USB가 연결되어 있는 동안 장치의 SD 카드를 컴퓨터에 장착할 수 없음
+ 2. 이 연결 방식은 Windows Vista, Windows 7, Windows 8 및 Linux에만 해당됨"</string>
+    <string name="wifi_tether_settings_title">WLAN 구성 정보</string>
+    <string name="wifi_ap_client_block_title">차단</string>
+    <string name="wifi_ap_client_unblock_title">차단 해제</string>
+    <string name="wifi_ap_connected_title">연결된 사용자</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d이(가) 연결됨, %2$d이(가) 차단됨</string>
+    <string name="open_title">팁 사용</string>
+    <string name="open_mess">데이터 연결 기능을 활성화해야 %1$s을(를) 사용할 수 있습니다.</string>
+    <string name="open_mess_all">WLAN 또는 데이터 연결 기능을 활성화해야 %1$s을(를) 사용할 수 있습니다.</string>
+    <string name="cancel">취소</string>
+    <string name="go_settings">설정으로 이동</string>
+    <string name="open_mess_alert">모바일 네트워크를 사용할 수 있습니다.%1$s 기능을 사용하면 데이터 트래픽 및 수수료가 발생할 수 있습니다.사용하시겠습니까?</string>
+    <string name="open">사용</string>
+</resources>

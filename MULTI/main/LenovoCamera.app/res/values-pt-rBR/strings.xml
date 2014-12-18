@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUS_CANCELBUTTON">Cancelar</string>
+    <string name="SUS_CANCEL">Mais tarde</string>
+    <string name="SUS_DOWNLOAD_TITLE">A transferir o IdeaFriend!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Transferência concluída!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Rede não disponível!</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Ligar WLAN!</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Armazenamento insuficiente!</string>
+    <string name="SUS_MSG_LATESTVERSION">Versão actual!</string>
+    <string name="SUS_MSG_NOTFOUND">Sem Actualizações!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Falha na actualização. Tente de novo!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Actualmente a actualizar!</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abortar</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Ocultar caixa de diálogo após</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">segundos.)</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">OK</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Toque para instalar!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Toque para instalar:</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Tempo limite da rede atingido. A tentar de novo...</string>
+    <string name="SUS_NOTIFICATION_TITLE">Pedido</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">A actualizar... Aguarde!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Não pedir</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Pedir quando encontrada nova versão</string>
+    <string name="SUS_UPDATEDESC">Descrição:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Transferência recomendada com WLAN!</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Nome:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Tamanho:</string>
+    <string name="SUS_UPDATE">Actualizar</string>
+    <string name="SUS_VERSIONUPDATE">Nova versão encontrada!</string>
+    <string name="lenovo_about">Sobre</string>
+    <string name="lenovo_about_netconnect_alert">Esta operação utilizará a rede, deseja continuar?</string>
+    <string name="lenovo_about_prompt">Mensagem</string>
+    <string name="ab_version_introduction">Introdução à função</string>
+    <string name="ab_contacts">Método de contato</string>
+    <string name="ab_feedback">Feedback</string>
+    <string name="ab_checking_update">Procurando atualizações...</string>
+    <string name="ab_downloading_update">Baixando atualizações...</string>
+    <string name="ab_website">Web Site Oficial</string>
+    <string name="ab_patch_update">Atualização de redução de tráfego</string>
+    <string name="SUS_CURRENT_VERSION">Versão Actual</string>
+    <string name="SUS_NEW_VERSION">Versão Mais Recente</string>
+    <string name="SUS_FIND_NEW_VERSION">Nova Versão Disponível para Si</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">A instalar a aplicação.</string>
+    <string name="SUS_BTN_UPDATINGPROMPT">Atualizando…</string>
+</resources>

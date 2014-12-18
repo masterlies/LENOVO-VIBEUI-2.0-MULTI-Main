@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_show_type_array">
+        <item>Primeiros 4 dígitos</item>
+        <item>Últimos 4 dígitos</item>
+        <item>Não apresentar</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>Uma vez</item>
+        <item>Sempre</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>

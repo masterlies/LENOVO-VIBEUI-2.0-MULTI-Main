@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pohrana za telefon/poruke</string>
+    <string name="ppp_number">ppp_broj</string>
+    <string name="read_only">samo_za_čitanje</string>
+    <string name="localized_name">Lokalizirani_naziv</string>
+</resources>

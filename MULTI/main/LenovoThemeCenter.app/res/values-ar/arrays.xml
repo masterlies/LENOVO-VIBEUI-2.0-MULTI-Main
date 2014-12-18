@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>قفل الشاشة</item>
+        <item>المشغل</item>
+        <item>رموز</item>
+        <item>خلفية</item>
+        <item>واجهة مستخدم النظام</item>
+        <item>ideafriend</item>
+        <item>شاشة الاستدعاء</item>
+        <item>عنصر النظام</item>
+        <item>إغلاق التمهيد</item>
+        <item>الخط</item>
+    </string-array>
+</resources>

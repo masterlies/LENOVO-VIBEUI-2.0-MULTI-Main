@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Налаштування</string>
+    <string name="app_name">Поділитися обліковим записом WLAN</string>
+    <string name="prompt">"Розташуйте телефони близько один до одного, щоб поділитися з'єднанням WLAN із друзями!"</string>
+    <string name="current_wifi">"Поточне з'єднання WLAN: "</string>
+    <string name="hotknot_help">"Як поділитись підключенням: тримаючи відкритим це вікно, піднесіть верхні частини задніх кришок телефонів одна до одної для забезпечення зв'язку по NFC. Після цього виконуйте вказівки на екрані пристрою."</string>
+    <string name="title_receive">Отримання:</string>
+    <string name="wlan_connecting">Отримання облікового запису WLAN...</string>
+    <string name="title_finish">Отримано успішно</string>
+    <string name="wlan_finish">"Обліковий запис WLAN отримано успішно. Під'єднайтеся до %1$s – і ви онлайн!"</string>
+    <string name="send_ap_no_connected">"Неможливо поділитися (не знайдено з'єднаний обліковий запис WLAN)"</string>
+    <string name="hotknot_help_note">Примітка: інший телефон має також підтримувати спільне використання підключення WLAN.</string>
+    <string name="wifi_share">Спільне використання WLAN</string>
+</resources>

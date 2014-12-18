@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Налаштування принтера</string>
+    <string name="print_button">Друк</string>
+    <string name="save_button">Зберегти</string>
+    <string name="label_destination">Місце признач-ня</string>
+    <string name="label_copies">Копії</string>
+    <string name="label_paper_size">Розмір паперу</string>
+    <string name="label_color">Колір</string>
+    <string name="label_orientation">Орієнтація</string>
+    <string name="label_pages">Сторінки (%1$s)</string>
+    <string name="pages_range_example">напр.,1–5, 8, 11–13</string>
+    <string name="print_preview">Версія для друку</string>
+    <string name="install_for_print_preview">Установити засіб перегляду PDF</string>
+    <string name="printing_app_crashed">Програма друку аварійно завершила роботу</string>
+    <string name="page_count_unknown">Сторінки</string>
+    <string name="generating_print_job">Створюється завдання друку</string>
+    <string name="save_as_pdf">Зберегти як PDF</string>
+    <string name="all_printers">Усі принтери…</string>
+    <string name="print_dialog">Діалогове вікно друку</string>
+    <string name="search">Пошук</string>
+    <string name="all_printers_label">Усі принтери</string>
+    <string name="add_print_service_label">Додати службу</string>
+    <string name="print_search_box_shown_utterance">Вікно пошуку показано</string>
+    <string name="print_search_box_hidden_utterance">Вікно пошуку сховано</string>
+    <string name="print_add_printer">Додати принтер</string>
+    <string name="print_select_printer">Вибрати принтер</string>
+    <string name="print_forget_printer">Ігнорувати принтер</string>
+    <string name="choose_print_service">Вибрати службу друку</string>
+    <string name="print_searching_for_printers">Пошук принтерів</string>
+    <string name="print_no_printers">Принтери не знайдено</string>
+    <string name="printing_notification_title_template">Завдання \"%1$s\" друкується</string>
+    <string name="cancelling_notification_title_template">Завдання \"%1$s\" скасовується</string>
+    <string name="failed_notification_title_template">Помилка завдання \"%1$s\"</string>
+    <string name="blocked_notification_title_template">Завдання \"%1$s\" заблоковано</string>
+    <string name="cancel">Скасувати</string>
+    <string name="restart">Перезапустити</string>
+    <string name="no_connection_to_printer">Немає з’єднання з принтером</string>
+    <string name="reason_unknown">невідомо</string>
+    <string name="printer_unavailable">Завдання \"%1$s\" не доступне</string>
+    <string name="print_error_default_message">Не вдалося створити завдання друку</string>
+</resources>

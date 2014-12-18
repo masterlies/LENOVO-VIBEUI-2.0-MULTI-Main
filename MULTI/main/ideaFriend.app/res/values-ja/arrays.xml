@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>デフォルト</item>
+        <item>ピアノ</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>組織</item>
+        <item>メモ</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>性別</item>
+        <item>携帯電話</item>
+        <item>誕生日</item>
+        <item>位置情報</item>
+        <item>学校</item>
+        <item>会社</item>
+        <item>メール</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>秘密</item>
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>ハッピー</item>
+        <item>悲しい</item>
+        <item>ウィンク</item>
+        <item>舌を出す</item>
+        <item>驚く</item>
+        <item>キス</item>
+        <item>叫ぶ</item>
+        <item>クール</item>
+        <item>口にお金</item>
+        <item>しまった</item>
+        <item>困惑</item>
+        <item>天使</item>
+        <item>迷う</item>
+        <item>泣く</item>
+        <item>秘密</item>
+        <item>笑う</item>
+        <item>混乱</item>
+        <item>ハート</item>
+        <item>不機嫌</item>
+        <item>にやにや笑う</item>
+        <item>無表情</item>
+        <item>削除</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>どこにいるの?</item>
+        <item>何してるの?</item>
+        <item>至急、すぐに電話してください。</item>
+        <item>ごめんなさい。会議中です。</item>
+        <item>すぐ電話します。</item>
+        <item>心配しないで! 私は大丈夫。</item>
+        <item>家に帰る途中。</item>
+        <item>もうすぐ着きます。</item>
+        <item>絶対来てね!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>制限モード</item>
+        <item>警告モード</item>
+        <item>フリー・モード</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM アルファベット</item>
+        <item>Unicode</item>
+        <item>自動</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>携帯電話</item>
+        <item>SIM カード</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>デバイス</item>
+        <item>SIM カード</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>システムのフォント・サイズに従う</item>
+        <item>小</item>
+        <item>中</item>
+        <item>大</item>
+        <item>最大</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>そのまま転送する</item>
+        <item>名前の表示</item>
+        <item>名前と番号の表示</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>そのまま転送する</item>
+        <item>送信者の名前を追加する</item>
+        <item>送信者の名前と番号を追加する</item>
+        <item>毎回確認する (自動転送時はそのまま転送)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>携帯電話</item>
+        <item>UIM カード</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 秒</item>
+        <item>2 秒</item>
+        <item>3 秒</item>
+        <item>4 秒</item>
+        <item>5 秒</item>
+        <item>6 秒</item>
+        <item>7 秒</item>
+        <item>8 秒</item>
+        <item>9 秒</item>
+        <item>10 秒</item>
+        <item>その他...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>毎回</item>
+        <item>サイレント時のみ</item>
+        <item>設定しない</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>日付</item>
+        <item>電話番号</item>
+        <item>連絡先</item>
+    </string-array>
+</resources>

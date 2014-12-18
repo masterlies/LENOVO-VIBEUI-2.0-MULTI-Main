@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Predefinito</item>
+        <item>Pianoforte</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizzazione</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Sesso</item>
+        <item>Tel.</item>
+        <item>Compleanno</item>
+        <item>Località</item>
+        <item>Scuola</item>
+        <item>Società</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Labbra cucite</item>
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Felice</item>
+        <item>Triste</item>
+        <item>Ammiccante</item>
+        <item>Linguaccia</item>
+        <item>Sorpreso</item>
+        <item>Bacio</item>
+        <item>Urla</item>
+        <item>Atteggiato</item>
+        <item>Soldi in bocca</item>
+        <item>Piede in bocca</item>
+        <item>Imbarazzato</item>
+        <item>Angelo</item>
+        <item>Indeciso</item>
+        <item>Piange</item>
+        <item>Labbra cucite</item>
+        <item>Risata</item>
+        <item>Confuso</item>
+        <item>Cuore</item>
+        <item>Arrabbiato</item>
+        <item>Sorrisetto</item>
+        <item>Impassibile</item>
+        <item>Elimina</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Dove sei?</item>
+        <item>Cosa stai facendo?</item>
+        <item>Urgente! Chiama immediatamente.</item>
+        <item>Spiacente, ho una riunione ora.</item>
+        <item>Ti chiamo subito.</item>
+        <item>Non preoccuparti! Sto bene.</item>
+        <item>Sto tornando.</item>
+        <item>Arriverò presto.</item>
+        <item>Non puoi mancare!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Modalità limitata</item>
+        <item>Modalità avviso</item>
+        <item>Modalità libera</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Alta</item>
+        <item>Normale</item>
+        <item>Bassa</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Alfabeto GSM</item>
+        <item>Unicode</item>
+        <item>Automatico</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Tel.</item>
+        <item>Scheda SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Dispositivo</item>
+        <item>Scheda SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Segui dimensione carattere di sistema</item>
+        <item>Piccolo</item>
+        <item>Medio</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Inoltra direttamente</item>
+        <item>Indica nome</item>
+        <item>Indica nome e numero</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Inoltra direttamente</item>
+        <item>Aggiungi nome mittente</item>
+        <item>Aggiungi nome e numero mittente</item>
+        <item>"Chiedi sempre (inoltra direttamente durante l'inoltro automatico)"</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefono</item>
+        <item>Scheda UIM</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 secondo</item>
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+        <item>6 secondi</item>
+        <item>7 secondi</item>
+        <item>8 secondi</item>
+        <item>9 secondi</item>
+        <item>10 secondi</item>
+        <item>Altro...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo quando silenzioso</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Per data</item>
+        <item>Per numero</item>
+        <item>Per contatto</item>
+    </string-array>
+</resources>

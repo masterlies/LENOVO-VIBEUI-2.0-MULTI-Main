@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ažuriranja sustava</string>
+    <string name="meid_activity_title">PRL verzija</string>
+    <string name="btn_post">Omogući</string>
+    <string name="btn_neg">Onemogući</string>
+    <string name="enable_fdn">Omogući</string>
+    <string name="disable_fdn">Onemogući</string>
+    <string name="reboot">Ponovno pokreni</string>
+    <string name="cancel">Odustani</string>
+    <string name="alert_ok">U redu</string>
+    <string name="alert_no">NE</string>
+    <string name="commit_cate">Spremi</string>
+    <string name="summary_on">Uključeno</string>
+    <string name="summary_off">Isključeno</string>
+    <string name="report_log_summary">Izvješće</string>
+    <string name="report_log_title">Izvješće</string>
+    <string name="save_success">Uspješno spremljeno</string>
+    <string name="yes_exit">Da</string>
+    <string name="no_exit">Ne</string>
+    <string name="enable">Omogući</string>
+    <string name="disable">Onemogući</string>
+    <string name="regulatory_information">Informacije o propisima</string>
+</resources>

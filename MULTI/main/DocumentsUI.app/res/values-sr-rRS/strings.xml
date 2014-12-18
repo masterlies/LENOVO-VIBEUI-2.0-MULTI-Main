@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumenti</string>
+    <string name="title_open">Otvori sa</string>
+    <string name="title_save">Sačuvaj u</string>
+    <string name="menu_create_dir">Napravi direktorijum</string>
+    <string name="menu_grid">Prikaz mreže</string>
+    <string name="menu_list">Prikaz liste</string>
+    <string name="menu_sort">Sortiraj prema</string>
+    <string name="menu_search">Pretraži</string>
+    <string name="menu_settings">Podešavanja</string>
+    <string name="menu_open">Otvori</string>
+    <string name="menu_save">Sačuvaj</string>
+    <string name="menu_share">Deli</string>
+    <string name="menu_delete">Izbriši</string>
+    <string name="mode_selected_count">Izabrano je %1$d</string>
+    <string name="sort_name">Prema imenu</string>
+    <string name="sort_date">Prema datumu izmene</string>
+    <string name="sort_size">Prema veličini</string>
+    <string name="drawer_open">Prikaži osnovne elemente</string>
+    <string name="drawer_close">Sakrij osnovne elemente</string>
+    <string name="save_error">Čuvanje dokumenta nije uspelo</string>
+    <string name="create_error">Direktorijum nije napravljen</string>
+    <string name="query_error">Slanje upita za dokumente nije uspelo</string>
+    <string name="root_recent">Nedavno</string>
+    <string name="root_available_bytes">Slobodno je %1$s</string>
+    <string name="root_type_service">Usluge skladištenja</string>
+    <string name="root_type_shortcut">Prečice</string>
+    <string name="root_type_device">Uređaji</string>
+    <string name="root_type_apps">Još aplikacija</string>
+    <string name="pref_advanced_devices">Prikaži napredne uređaje</string>
+    <string name="pref_file_size">Prikaži veličinu datoteke</string>
+    <string name="pref_device_size">Prikaži veličinu uređaja</string>
+    <string name="empty">Nema stavki</string>
+    <string name="toast_no_application">Nije moguće otvoriti datoteku</string>
+    <string name="toast_failed_delete">Nije moguće izbrisati neke dokumente</string>
+    <string name="share_via">Delite preko</string>
+    <string name="toast_not_show_thumbnail">Nije moguće prikazati sličice na uređajima sa malom količinom memorije</string>
+</resources>

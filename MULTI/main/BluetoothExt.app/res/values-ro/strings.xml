@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Set de maşină</string>
+    <string name="bluetooth_remember_choice">Permiteţi întotdeauna</string>
+    <string name="dun_notif_ticker">Solicitare DUN Bluetooth</string>
+    <string name="dun_notif_title">Soli. cheie sesiune pt. DUN</string>
+    <string name="dun_notif_message">Atingeţi pentru conectare la \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
+    <string name="bluetooth_dun_request">Solicitare DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s doreşte să utilizeze DUN. Acordaţi accesul %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s doreşte acces la folderele telefonului dvs. Acordaţi accesul %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Acces folder telefon</string>
+    <string name="ftp_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
+    <string name="ftp_session_key_dialog_header">Cheie de sesiune Bluetooth solicitată</string>
+    <string name="ftp_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
+    <string name="ftp_authentication_timeout_message">A expirat timpul de introducere a cheii de sesiune cu %1$s</string>
+    <string name="ftp_notif_ticker">Solicit. conexiune Bluetooth</string>
+    <string name="ftp_notif_title">Soli. cheie sesiune pt. FTP</string>
+    <string name="ftp_notif_message">Atingeţi pentru conectare la \"%1$s\".</string>
+    <string name="ftp_notif_active_session">Sesiune Bluetooth FTP activă</string>
+    <string name="ftp_notif_connected">Acces transfer fişiere prin Bluetooth la \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Solicitare FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s doreşte acces la fişierele şi folderele dvs. Acordaţi accesul %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s doreşte acces la folderele telefonului dvs. Acordaţi accesul %2$s?</string>
+    <string name="map_acceptance_dialog_header">Acces folder telefon</string>
+    <string name="map_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
+    <string name="map_session_key_dialog_header">Cheie de sesiune Bluetooth solicitată</string>
+    <string name="map_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
+    <string name="map_authentication_timeout_message">A expirat timpul de introducere a cheii de sesiune cu %1$s</string>
+    <string name="map_notif_ticker">Solicit. conexiune Bluetooth</string>
+    <string name="map_notif_active_session">Sesiune Bluetooth MAP activă</string>
+    <string name="map_notif_connected">Acces prin mesaj Bluetooth la \"%1$s\".</string>
+    <string name="map_notif_title">Soli. cheie sesiune pt. MAP</string>
+    <string name="map_notif_message">Atingeţi pentru conectare la \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">Conexiunea Bluetooth MAP a eşuat.</string>
+    <string name="bluetooth_mas_request">Solicitare acces mesaj</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s doreşte să vă acceseze mesajele. Acordaţi accesul %2$s?</string>
+    <string name="sap_notif_ticker">Solicitare acces Bluetooth la SIM</string>
+    <string name="sap_notif_title">Soli. cheie sesiune pt. SAP</string>
+    <string name="sap_notif_message">Atingeţi pentru conectare la \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
+    <string name="bluetooth_sap_request">Solicitare SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s doreşte să vă acceseze SIM-ul. Acordaţi accesul %2$s?</string>
+</resources>

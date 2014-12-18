@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قفل با یک کلید</string>
+    <string name="get_screen_lock_admin">قفل صفحه سرپرست دستگاه را دریافت کنید</string>
+</resources>

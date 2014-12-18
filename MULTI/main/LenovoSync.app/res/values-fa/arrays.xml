@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_item_titles">
+        <item>@string/onekey_module_sync</item>
+        <item>@string/combine_contacts</item>
+        <item>@string/one_key_title</item>
+        <item>@string/contact_sim_list_title</item>
+        <item>@string/exit_check_updte</item>
+    </string-array>
+    <string-array name="app_backup_states">
+        <item>در حال انتظار</item>
+        <item>در حال تهیه نسخه پشتیبان</item>
+        <item>نسخه پشتیبان تهیه شد</item>
+        <item>خطا</item>
+        <item>تأیید</item>
+        <item>تأیید</item>
+        <item>لغو شد</item>
+        <item>تأیید</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>در حال انتظار</item>
+        <item>در حال دانلود</item>
+        <item>لغو نصب</item>
+        <item>خطا</item>
+        <item>به روز رسانی</item>
+        <item>نصب شد</item>
+        <item>لغو شد</item>
+        <item>در حال نصب</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>تغییر نام آلبوم</item>
+        <item>حذف آلبوم</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>‏SYNCit یک برنامه تلفن همراه رایگان است، اما هزینه استفاده از ترافیک شبکه که به واسطه کار با این برنامه به وجود می آید از طرف اپراتورها اعمال می شود.</item>
+        <item>بله، وجود دارند.</item>
+        <item>‏SYNCit اطلاعات کاربر را همانند سطح رمزگذاری بانکداری آنلاین ذخیره می کند. به طور قطع از فاش شدن داده های شخصی و اطلاعات امنیتی جلوگیری می کند.</item>
+        <item>‏SYNCit به طور خودکار مخاطبین تکراری را در تلفن شما ادغام می کند.</item>
+        <item>البته که می توانید، اگر سیستم تلفن شما یکی از موارد زیر باشد: Android، Ios، Symbian، یا از Java پشتیبانی کند، می توانید نسخه مطابق را جهت استفاده پیدا کنید.</item>
+        <item>بله، از Symbian، iOS، Android و پلتفورم Java پشتیبانی می کند.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>آیا SYNCit هزینه دارد؟</item>
+        <item>آیا SYNCit و نسخه پشتیبان Android نرم افزار مشابه هستند؟</item>
+        <item>آیا SYNCit ایمن است؟ آیا شماره تلفن یا داده های پشتیبان من را سرقت می کند؟</item>
+        <item>چرا پس از تهیه نسخه پشتیبان تعداد مخاطبین من کم شد؟</item>
+        <item>تلفن من توسط Lenovo ساخته نشده است، آیا می توانم از SYNCit استفاده کنم؟</item>
+        <item>آیا SYNCit از پلتفورم های دیگر پشتیبانی می کند؟</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>مخاطبین</item>
+        <item>پیام ها</item>
+        <item>گزارش های تماس</item>
+    </string-array>
+</resources>

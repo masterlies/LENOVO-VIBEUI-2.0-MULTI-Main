@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Lembut</item>
+        <item>Lalai</item>
+        <item>Cerah</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Lalai</item>
+        <item>Ketinggian</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Kool</item>
+        <item>Lalai</item>
+        <item>Panas</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Lalai</item>
+        <item>Tajamkan</item>
+    </string-array>
+</resources>

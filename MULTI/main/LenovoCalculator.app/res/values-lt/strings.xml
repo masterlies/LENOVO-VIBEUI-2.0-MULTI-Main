@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skaičiuotuvas</string>
+    <string name="error">Klaida</string>
+    <string name="advanced">Daugiau</string>
+    <string name="clear_history">Valyti retrospektyvą</string>
+    <string name="copy">Kopijuoti</string>
+    <string name="paste">Įklijuoti</string>
+    <string name="only_digit">Galima įklijuoti tik skaičius</string>
+    <string name="basic">Pagrindinė</string>
+    <string name="copy_success">Nukopijuota</string>
+    <string name="full_input">Jau įvesta maksimali vertė</string>
+</resources>

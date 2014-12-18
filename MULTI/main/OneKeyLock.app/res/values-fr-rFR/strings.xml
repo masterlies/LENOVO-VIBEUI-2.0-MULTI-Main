@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Verrouillage à l'aide d'une seule touche"</string>
+    <string name="get_screen_lock_admin">"Obtenir les droits de verrouillage de l'écran"</string>
+</resources>

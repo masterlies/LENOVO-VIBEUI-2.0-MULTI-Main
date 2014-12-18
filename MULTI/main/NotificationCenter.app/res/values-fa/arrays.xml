@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3ثانیه</item>
+        <item>6ثانیه</item>
+        <item>9ثانیه</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>قدرت سیگنال (خیلی ضعیف)</item>
+        <item>قدرت سیگنال (ضعیف)</item>
+        <item>قدرت سیگنال (معمولی)</item>
+        <item>قدرت سیگنال (قوی)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>گرافیکی</item>
+        <item>درصد</item>
+    </string-array>
+</resources>

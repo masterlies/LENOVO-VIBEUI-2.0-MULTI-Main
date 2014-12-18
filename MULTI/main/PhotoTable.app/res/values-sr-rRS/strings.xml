@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Čuvari ekrana sa slikama</string>
+    <string name="table_screensaver_name">Sto za slike</string>
+    <string name="flipper_screensaver_name">Ram za slike</string>
+    <string name="posts_album_name">Slike iz postova</string>
+    <string name="unknown_album_name">Neimenovani album</string>
+    <string name="stock_photo_album_name">Stok fotografije</string>
+    <string name="local_source_name">Slike na uređaju</string>
+    <string name="need_to_configure">Nije izabrana nijedna slika.</string>
+    <string name="photodream_select_all">Izaberi sve</string>
+    <string name="photodream_select_none">Opozovi sve</string>
+    <string name="no_photos">Nema slika na uređaju.</string>
+</resources>

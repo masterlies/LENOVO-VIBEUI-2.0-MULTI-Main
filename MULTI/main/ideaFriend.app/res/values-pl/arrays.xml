@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>Domyślne</item>
+        <item>Pianino</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizacja</item>
+        <item>Komentarze</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Płeć</item>
+        <item>Telefon</item>
+        <item>Urodziny</item>
+        <item>Lokalizacja</item>
+        <item>Szkoła</item>
+        <item>Firma</item>
+        <item>Poczta e-mail</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Buzia na kłódkę</item>
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Zadowolenie</item>
+        <item>Smutek</item>
+        <item>Przymrużenie oka</item>
+        <item>Wytknięty język</item>
+        <item>Zaskoczenie</item>
+        <item>Całus</item>
+        <item>Krzyk</item>
+        <item>Opanowanie</item>
+        <item>Szpan</item>
+        <item>Gafa</item>
+        <item>Zawstydzenie</item>
+        <item>Anioł</item>
+        <item>Brak zdecydowania</item>
+        <item>Płacz</item>
+        <item>Buzia na kłódkę</item>
+        <item>Śmiech</item>
+        <item>Zmieszanie</item>
+        <item>Serce</item>
+        <item>Złość</item>
+        <item>Uśmieszek</item>
+        <item>Pokerowa twarz</item>
+        <item>Usunąć</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Gdzie jesteś?</item>
+        <item>Co robisz?</item>
+        <item>Pilne! Oddzwoń natychmiast.</item>
+        <item>Przepraszam. Mam spotkanie.</item>
+        <item>Oddzwonię za chwilę.</item>
+        <item>Nie martw się. Wszystko gra.</item>
+        <item>Jestem w drodze do domu.</item>
+        <item>Niedługo będę.</item>
+        <item>Jestem prawie na miejscu.</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Tryb zastrzeżony</item>
+        <item>Tryb ostrzegawczy</item>
+        <item>Tryb swobodny</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Wysoki</item>
+        <item>Średni</item>
+        <item>Niski</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Alfabet GSM</item>
+        <item>Autom.</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>Nowa karta SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Urządzenie</item>
+        <item>Nowa karta SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Domyślne</item>
+        <item>Mały</item>
+        <item>Średni</item>
+        <item>Duży</item>
+        <item>Bardzo duży</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Prześlij bezpośrednio</item>
+        <item>Dodaj imię nadawcy</item>
+        <item>Dodaj imię i numer nadawcy</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Prześlij bezpośrednio</item>
+        <item>Dodaj imię nadawcy</item>
+        <item>Dodaj imię i numer nadawcy</item>
+        <item>Pytaj za każdym razem (przesyłaj bezpośrednio w trybie przesyłania automatycznego)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>Karta UIM</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>Inne</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Zawsze</item>
+        <item>Tylko w trybie wyciszenia</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Wg daty</item>
+        <item>Wg numeru</item>
+        <item>Wg kontaktu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Varsayılan giriş yöntemleri</item>
+        <item>Varsayılan masaüstü yazılımı</item>
+        <item>Varsayılan İnternet yazılımı</item>
+        <item>Varsayılan çevirmeli bağlantı yazılımı</item>
+        <item>Varsayılan SMS yazılımı</item>
+        <item>Varsayılan E-posta yazılımı</item>
+        <item>Varsayılan resim görüntüleyicisi</item>
+        <item>Varsayılan kamera yazılımı</item>
+        <item>Varsayılan video yazılımı</item>
+        <item>Varsayılan Çevrimiçi video yazılımı</item>
+        <item>Varsayılan ses yazılımı</item>
+        <item>Varsayılan Çevrimiçi ses yazılımı</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Önyükleme cihazı</item>
+        <item>Telefonda</item>
+        <item>SMS alınıyor</item>
+        <item>Ekipman Ağ İletişimi</item>
+        <item>Yazılım Kurulumu</item>
+        <item>Siyah ekran kilidi açma</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Sistem önerileri</item>
+        <item>Telefona kurmaya zorla</item>
+        <item>Varsayılan bellek kartına kurmaya zorla</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Aç</item>
+        <item>İnternet bağlantısı</item>
+        <item>Çağrı</item>
+        <item>SMS</item>
+        <item>Adres defterini oku</item>
+        <item>Konumu al</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

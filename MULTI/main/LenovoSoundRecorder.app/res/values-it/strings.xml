@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registratore</string>
+    <string name="left_timer_format" formatted="false">Tempo rimasto: %02dh%02dm</string>
+    <string name="recording">Registrazione %1$s</string>
+    <string name="label_quality">Selezionare qualità di registrazione</string>
+    <string name="remain_time">Tempo rimasto</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="audio_db_artist_name">Artista registrazione</string>
+    <string name="audio_db_album_name">Registrazioni</string>
+    <string name="audio_db_playlist_name">Registrazioni personali</string>
+    <string name="exit_tip">Uscire dal registratore?</string>
+    <string name="error_zero_audio">Impossibile registrare audio di 0 secondi.</string>
+    <string name="error_busy_in_call">Si prega di riagganciare e quindi utilizzare il registratore!</string>
+    <string name="error_no_space">Spazio libero insufficiente, impossibile registrare.</string>
+    <string name="error_sdcard_access">Impossibile accedere alla scheda SD</string>
+    <string name="error_internal">Registrazione in esecuzione, prima chiuderla.</string>
+    <string name="error_mediadb_new_record">Impossibile salvare audio registrato</string>
+    <string name="error_app_unsupported">Formato non supportato</string>
+    <string name="error_insert_sd_card">Inserire una scheda SD</string>
+    <string name="error_storage_is_full">Memoria piena</string>
+    <string name="error_max_length">Massima lunghezza raggiunta</string>
+    <string name="contextmenu_item_delete">Elimina</string>
+    <string name="contextmenu_item_rename">Rinomina</string>
+    <string name="contextmenu_item_send_title">Invia</string>
+    <string name="contextmenu_item_setasringtone">Imposta come suoneria</string>
+    <string name="label_setringtone_success">La registrazione \"%1$s\" è stata impostata come suoneria</string>
+    <string name="setringtone_fail">Non è necessario impostare la suoneria in modalità vibrazione o silenziosa</string>
+    <string name="del_selfile_tip">Eliminare i file audio selezionati?</string>
+    <string name="label_delete_success">Eliminazione riuscita.</string>
+    <string name="input_toolong">Troppi caratteri immessi</string>
+    <string name="file_name_exist">Spiacenti, il nome file non può essere ripetuto</string>
+    <string name="empty_len">Il nome file non può essere vuoto.</string>
+    <string name="namebad">Il nome file contiene caratteri non validi: \\ : ? * > \" | / ecc.</string>
+    <string name="delete_tip">Elimina registrazione</string>
+    <string name="not_select">Nessuna opzione selezionata</string>
+    <string name="am_file">%1$s:%2$s am</string>
+    <string name="pm_file">%1$s:%2$s pm</string>
+    <string name="selected_number_of">%1$s selezionati</string>
+    <string name="saved_file_reminder">Il file viene salvato come \"%1$s\"</string>
+    <string name="delete_recorded">Elimina registrazione file</string>
+    <string name="delete_muti_msg">Eliminazione in corso, attendere.</string>
+    <string name="rename_record_file">Rinomina file</string>
+    <string name="soundrecorder_list">Registrazioni</string>
+    <string name="callrecorder_list">Registrazioni chiamate</string>
+    <string name="mediarecorder_list">Registrazioni supporti</string>
+    <string name="high_quality">Modalità intervista (Alta)</string>
+    <string name="medium_quality">Modalità conversazione (Media)</string>
+    <string name="low_quality">Modalità interazione (Bassa)</string>
+    <string name="exit_record_play">Terminare la registrazione prima della riproduzione</string>
+    <string name="exit_play_edit">Terminare la riproduzione prima della modifica</string>
+    <string name="exit_playOrRecord_delete">Interrompere la riproduzione o la registrazione prima di passare alla modalità Eliminazione batch.</string>
+    <string name="exit_toast">"Fare clic nuovamente per uscire dall'app"</string>
+    <string name="playlist_text">Elenco registrazione</string>
+    <string name="fileDir_not_exist">Il percorso selezionato per il file audio non esiste</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Info</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Batal</string>
+    <string name="app_name">Kompas</string>
+    <string name="calibrate">Kalibrasi</string>
+    <string name="latitude">Garis lintang</string>
+    <string name="longitude">Garis bujur</string>
+    <string name="calibrate_success">Kalibrasi selesai</string>
+    <string name="ignore">Abaikan</string>
+    <string name="cannot_get_location">Tidak mendapatkan lokasi.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">"Mungkin ada interferensi magnetik di sekitar, ikuti gambar di atas untuk membuat angka '8' beberapa kali. Dialog akan tertutup secara otomatis saat kalibrasi berhasil dilakukan."</string>
+    <string name="Warn">Mungkin ada interferensi magnetik di sekitar</string>
+    <string name="click_to_location">Klik untuk mendapatkan lokasi GPS</string>
+    <string name="warn_message">Izinkan info lokasi saat ini diperoleh melalui lokasi jaringan atau GPS?</string>
+    <string name="no_warn_later">Jangan tampilkan lagi</string>
+    <string name="start_calibration">Guncang ponsel untuk mengkalibrasi</string>
+    <string name="no_location_server">Layanan lokasi dinonaktifkan</string>
+    <string name="DoNotSHowAgain">Jangan Tampilkan Lagi</string>
+</resources>

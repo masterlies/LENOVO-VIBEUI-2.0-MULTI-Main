@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Uudised</item>
+        <item>Sport</item>
+        <item>Draama</item>
+        <item>Muusikavideod</item>
+        <item>Filmid</item>
+        <item>Komöödia</item>
+        <item>Märul</item>
+        <item>Muusikal</item>
+        <item>Animatsioon</item>
+        <item>Mitmesugust</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Esita</item>
+        <item>Nimeta ümber</item>
+        <item>Kustuta</item>
+        <item>Teave</item>
+        <item>Jaga</item>
+        <item>Mitme valimine</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Esita</item>
+        <item>Nimeta ümber</item>
+        <item>Kustuta</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Esita</item>
+        <item>Kustuta</item>
+        <item>Tühjenda loend</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Esita</item>
+        <item>Lisa see video</item>
+    </string-array>
+</resources>

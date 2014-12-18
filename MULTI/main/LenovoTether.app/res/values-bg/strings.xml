@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Хотспот</string>
+    <string name="wifi_tether_configure_ap_text">Конфигуриране на WLAN хотспот</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Защита: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID не може да е по-дълъг от 32 знака</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Защита: %2$s
+Парола: %3$s"</string>
+    <string name="wifi_cancel">Отказ</string>
+    <string name="wifi_save">Записване</string>
+    <string name="wifi_ssid">Мрежов SSID</string>
+    <string name="wifi_security">Защита</string>
+    <string name="wifi_password">Парола</string>
+    <string name="wifi_show_password">Покажете паролата</string>
+    <string name="credentials_password_too_short">Паролата трябва да съдържа поне 8 знака.</string>
+    <string name="wifi_channel">Предпочитан канал</string>
+    <string name="wifi_channel_width">Ширина на канала</string>
+    <string name="wifi_tether_auto_channel_text">Автоматично</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Личният хотспот е разрешен</string>
+    <string name="tethered_notification_message">Докоснете за конфигуриране</string>
+    <string name="tether_about_title">Представяне на функция</string>
+    <string name="wlan_connection_title">WLAN хотспот</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Bluetooth мрежово споделяне</string>
+    <string name="usb_share_title">USB мрежово споделяне</string>
+    <string name="about_wlan">Чрез задаване на WLAN хотспот на посоченото устройство, то позволява на други WLAN устройства да се свързват с мобилната му мрежа за сърфиране в интернет</string>
+    <string name="about_usb">Чрез разрешаване на USB мрежовото споделяне на посоченото устройство устройството позволява на свързаните устройства да използват мобилната мрежа на устройството за сърфиране в интернет</string>
+    <string name="about_bt">Чрез разрешаване на Bluetooth мрежовото споделяне на посоченото устройство устройството позволява на други Bluetooth устройства да използват мобилната мрежа на устройството за сърфиране в интернет</string>
+    <string name="about_usb_other">"Други забележки:
+ 1. При установена USB връзка не може да инсталирате SD картата на устройството на компютъра 
+ 2. Връзката се прилага само за Windows Vista, Windows 7, Windows 8 и Linux"</string>
+    <string name="wifi_tether_settings_title">Информация за WLAN конфигурацията</string>
+    <string name="wifi_ap_client_block_title">Блокиране</string>
+    <string name="wifi_ap_client_unblock_title">Деблокиране</string>
+    <string name="wifi_ap_connected_title">Свързани потребители</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d свързани, %2$d блокирани</string>
+    <string name="open_title">Разрешаване на съветите</string>
+    <string name="open_mess">За да използвате %1$s, е необходимо да разрешите функцията за връзка за данни</string>
+    <string name="open_mess_all">За да използвате %1$s, е необходимо да разрешите WLAN връзката или функцията за връзка за данни</string>
+    <string name="cancel">Отказ</string>
+    <string name="go_settings">Към настройките</string>
+    <string name="open_mess_alert">Мобилната мрежа е разрешена. Използването на функцията %1$s може да генерира още трафик и такси за данни. Искате ли да я разрешите?</string>
+    <string name="open">Разреши</string>
+</resources>

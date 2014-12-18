@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Novosti</item>
+        <item>Sport</item>
+        <item>Drama</item>
+        <item>Muzički video</item>
+        <item>Film</item>
+        <item>Komedija</item>
+        <item>Šta uraditi</item>
+        <item>Muzički</item>
+        <item>Animirani</item>
+        <item>Raznovrstan</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Reprodukuj</item>
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
+        <item>Informacije</item>
+        <item>Podeli</item>
+        <item>Višestruki izbor</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Reprodukuj</item>
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Reprodukuj</item>
+        <item>Izbriši</item>
+        <item>Obriši listu</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Reprodukuj</item>
+        <item>Dodaj ovaj video</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_item_titles">
+        <item>@string/onekey_module_sync</item>
+        <item>@string/combine_contacts</item>
+        <item>@string/one_key_title</item>
+        <item>@string/contact_sim_list_title</item>
+        <item>@string/exit_check_updte</item>
+    </string-array>
+    <string-array name="app_backup_states">
+        <item>Čakanje</item>
+        <item>Varnostno kopiranje</item>
+        <item>Varnostno kopirano</item>
+        <item>Napaka</item>
+        <item>V redu</item>
+        <item>V redu</item>
+        <item>Preklicano</item>
+        <item>V redu</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Čakanje</item>
+        <item>Prenašanje</item>
+        <item>Odstrani</item>
+        <item>Napaka</item>
+        <item>Posodobi</item>
+        <item>Nameščeno</item>
+        <item>Preklicano</item>
+        <item>Nameščanje</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Spremeni ime albuma</item>
+        <item>Izbriši album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit je brezplačna mobilna aplikacija, toda operaterji zaračunajo stroške za omrežni promet, ki nastanejo med uporabo.</item>
+        <item>Da, so.</item>
+        <item>SYNCit shranjuje podatke uporabnikov z ravnijo šifriranja spletnega bančništva. Vsekakor lahko prepreči uhajanje osebnih podatkov in informacij.</item>
+        <item>Programska oprema SYNCit samodejno združi podvojene stike v telefonu.</item>
+        <item>Seveda lahko, če v telefonu uporabljate enega od naslednjih sistemov: za Android, Ios, Symbian ali podprti sistem Java lahko poiščete ustrezno različico za uporabo.</item>
+        <item>Da, podpira okolje Symbian, iOS, Android in Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Ali je programska oprema SYNCit plačljiva?</item>
+        <item>Ali sta SYNCit in Varnostno kopiranje Android ista programska oprema?</item>
+        <item>Ali je programska oprema SYNCit varna? Ali bo ukradla mojo telefonsko številko ali moje varnostno kopirane podatke?</item>
+        <item>Zakaj se število mojih stikov po varnostnem kopiranju zmanjša?</item>
+        <item>Moj telefon ni znamke Lenovo. Ali lahko vseeno uporabljam programsko opremo SYNCit?</item>
+        <item>Ali SYNCit podpira druga okolja?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Stiki</item>
+        <item>Sporočila</item>
+        <item>Dnevniki klicev</item>
+    </string-array>
+</resources>

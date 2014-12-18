@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Мягкий</item>
+        <item>По умолчанию</item>
+        <item>Яркий</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>По умолчанию</item>
+        <item>Высота</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Прохладный</item>
+        <item>По умолчанию</item>
+        <item>Теплый</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>По умолчанию</item>
+        <item>Резко</item>
+    </string-array>
+</resources>

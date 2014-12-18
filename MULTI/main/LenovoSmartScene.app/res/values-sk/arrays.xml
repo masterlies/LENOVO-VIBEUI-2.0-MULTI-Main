@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_name">
+        <item>Karta 1</item>
+        <item>Karta 2</item>
+        <item>Vyp.</item>
+    </string-array>
+</resources>

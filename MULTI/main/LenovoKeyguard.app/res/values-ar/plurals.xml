@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف على الأقل.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف الصغيرة على الأقل.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد صغير على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأحرف الكبيرة على الأقل.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد كبير على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الأرقام العددية.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رقم عددي واحد على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الرموز الخاصة على الأقل.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">‏يجب أن تحتوي كلمة المرور على %d من الرموز على الأقل التي ليست أحرفًا.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف واحد على الأقل ليس من الأحرف الأبجدية.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">رمز PIN لبطاقة %1$s غير صحيح، ولديك %2$d من المحاولات المتبقية.</item>
+        <item quantity="one">رمز PIN لبطاقة %1$s غير صحيح، ولديك %2$d من المحاولات المتبقية. في حال كان الرمز غير صحيح مرة أخرى، فاتصل بالمشغل لإلغاء تأمين الجهاز.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">رمز PUK لبطاقة %1$s غير صحيح، ولديك%2$d من المحاولات المتبقية. في حال كان الرمز غير صحيح مرة أخرى، لن تعود بطاقة %1$s متوفرة بشكل نهائي.</item>
+        <item quantity="one">رمز PUK لبطاقة %1$s غير صحيح، ولديك%2$d من المحاولات المتبقية. في حال كان الرمز غير صحيح مرة أخرى، لن تعود بطاقة %1$s متوفرة بشكل نهائي.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">‏رمز \"رقم التعريف الشخصي\" لبطاقة SIM غير صحيح، يتبقى لديك %d من المحاولات.</item>
+        <item quantity="one">‏رمز \"رقم التعريف الشخصي\" لبطاقة SIM غير صحيح، ويتبقى لديك محاولة واحدة (%d) يتعين عليك بعدها الاتصال بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">‏رمز PUK لبطاقة SIM غير صالح، ويتبقى لديك %d من المحاولات، تصبح بعدها بطاقة SIM غير صالحة للاستخدام بشكل دائم.</item>
+        <item quantity="one">‏رمز PUK لبطاقة SIM غير صالح، ويتبقى لديك محاولة واحدة (%d)، تصبح بعدها بطاقة SIM غير صالحة للاستخدام بشكل دائم.</item>
+    </plurals>
+</resources>

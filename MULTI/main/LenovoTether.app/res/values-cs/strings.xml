@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurovat hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Zabezpečení: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID nemůže být delší než 32 znaků</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Zabezpečení: %2$s
+Heslo: %3$s"</string>
+    <string name="wifi_cancel">Storno</string>
+    <string name="wifi_save">Uložit</string>
+    <string name="wifi_ssid">SSID sítě</string>
+    <string name="wifi_security">Zabezpečení</string>
+    <string name="wifi_password">Heslo</string>
+    <string name="wifi_show_password">Zobrazte heslo</string>
+    <string name="credentials_password_too_short">Heslo musí mít alespoň 8 znaků.</string>
+    <string name="wifi_channel">Preferovaný kanál</string>
+    <string name="wifi_channel_width">Šířka kanálu</string>
+    <string name="wifi_tether_auto_channel_text">Automaticky</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Osobní hotspot povolen</string>
+    <string name="tethered_notification_message">Stiskněte ke konfiguraci</string>
+    <string name="tether_about_title">Úvod a popis funkcí</string>
+    <string name="wlan_connection_title">Hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Sdílení bluetooth sítě</string>
+    <string name="usb_share_title">Sdílení USB sítě</string>
+    <string name="about_wlan">Nastavením hotspotu WLAN na tomto zařízení umožníte ostatním zařízením WLAN připojit se k mobilní síti tohoto zařízení a procházet internet</string>
+    <string name="about_usb">Povolením sdílení USB sítě na tomto zařízení umožníte připojeným zařízením používat mobilní síť tohoto zařízení k procházení internetu</string>
+    <string name="about_bt">Povolením sdílení bluetooth sítě na tomto zařízení umožníte ostatním zařízením s bluetooth používat mobilní síť tohoto zařízení k procházení internetu</string>
+    <string name="about_usb_other">"Další poznámky:
+ 1. Během USB připojení nemůžete instalovat SD kartu ze zařízení do počítače 
+ 2. Připojení se týká pouze systémů Windows Vista, Windows 7, Windows 8 a Linux"</string>
+    <string name="wifi_tether_settings_title">Informace o konfiguraci WLAN</string>
+    <string name="wifi_ap_client_block_title">Blokovat</string>
+    <string name="wifi_ap_client_unblock_title">Odblokovat</string>
+    <string name="wifi_ap_connected_title">Připojení uživatelé</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d připojeno, %2$d blokováno</string>
+    <string name="open_title">Povolit nápovědu</string>
+    <string name="open_mess">Chcete-li používat %1$s, je nutné povolit datové připojení</string>
+    <string name="open_mess_all">Chcete-li používat %1$s, je nutné povolit síť WLAN nebo datové připojení</string>
+    <string name="cancel">Storno</string>
+    <string name="go_settings">Přejít k nastavení</string>
+    <string name="open_mess_alert">Je povolena mobilní síť. Použití funkce %1$s může vést k větším datovým přenosům a poplatkům. Chcete ji zapnout?</string>
+    <string name="open">Povolit</string>
+</resources>

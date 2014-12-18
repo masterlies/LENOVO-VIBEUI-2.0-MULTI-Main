@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Manager</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Peruuta</string>
+    <string name="power_consume_app_freeze">Jäädytä</string>
+    <string name="power_consume_app_unfreeze">Vapauta</string>
+    <string name="power_consume_app_uninstall">Poista</string>
+    <string name="power_consume_app_details">Tiedot</string>
+    <string name="battery_usage_use">Akun käyttö: %s</string>
+    <string name="consumption_call">Äänipuhelut</string>
+    <string name="consumption_screen">Ruutu</string>
+    <string name="consumption_wlan">Wifi</string>
+    <string name="consumption_cpu">Suoritin</string>
+    <string name="consumption_radio">Radio</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android-käyttöjärjestelmä</string>
+    <string name="power_media">Media</string>
+    <string name="power_battery">Teho</string>
+    <string name="power_charge">Ladataan</string>
+    <string name="power_consume">Käyttö</string>
+    <string name="power_settings">Asetukset</string>
+    <string name="power_mode">Tila</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Keskusyksikön kokonaiskulutusaika</string>
+    <string name="usage_type_cpu_foreground">Suoritin</string>
+    <string name="usage_type_wake_lock">Pysy käynnissä</string>
+    <string name="usage_type_alarm">Herätä järjestelmä</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi on käytössä</string>
+    <string name="usage_type_data_send">Tiedot lähetetty</string>
+    <string name="usage_type_data_recv">Tiedot vastaanotettu</string>
+    <string name="usage_type_audio">Ääni</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Käynnissäoloaika</string>
+    <string name="usage_type_no_coverage">Aika ilman signaalia</string>
+    <string name="battery_history_days" formatted="false">%d vrk %d h %d min %d s</string>
+    <string name="battery_history_hours" formatted="false">%d h %d min %d s</string>
+    <string name="battery_history_minutes" formatted="false">%d min %d s</string>
+    <string name="battery_history_seconds">%ds</string>
+    <string name="battery_hour_minute" formatted="false">%d h %d min</string>
+    <string name="battery_hour">%d h</string>
+    <string name="battery_minute">%d min</string>
+    <string name="battery_wakelock" formatted="false">%d kerta(a), aika %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d vrk %d h %d min %s s</string>
+    <string name="battery_wakelock_hours" formatted="false">%d h %d min%s s</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d min %s s</string>
+    <string name="battery_wakelock_seconds">%ss</string>
+    <string name="battery_alarm_time">%d kerta(a)</string>
+    <string name="battery_screen_time">Edellisestä täydestä latauksesta</string>
+    <string name="usage_type_wakelock_screen">Estä näytön lepotila</string>
+    <string name="usage_type_wakelock_cpu">Estä suorittimen lepotila</string>
+    <string name="usage_type_sensor">Käytön tunnistin</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Muut</string>
+    <string name="battery_screen_on_time">Käytössä: %s</string>
+    <string name="battery_screen_off_time">Valmiustilassa: %s</string>
+    <string name="enter_setting">Käynnistysasetukset</string>
+    <string name="battery_tab_title_consume">Virrankulutus</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d vrk %d h %d min</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d h %d min</string>
+    <string name="battery_history_minutes_without_seconds">%d min</string>
+    <string name="battery_sensor_info" formatted="false">%d kerta(a), aika yhteensä: %s</string>
+    <string name="hour">t</string>
+    <string name="minute">min</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Sovelluksen lisätietoja ei löytynyt</string>
+    <string name="mode_turnOff">Pois</string>
+    <string name="mode_turnOn">Käytössä</string>
+    <string name="main_switch_dialog_super">Se ei estä kaikkia toimintoja, paitsi puhelu- ja tekstiviestitoimintoja, ennen kuin laite on ollut valmiustilassa useita päiviä</string>
+    <string name="deep_clear_result_to_white_list_new">Ei koske valittua sovellusta</string>
+    <string name="temporary_no_app">Ei sovellusta</string>
+    <string name="progress_loading">Odota…</string>
+    <string name="failed_switch_app_state">Toiminto on epäonnistunut. Yritä uudelleen myöhemmin.</string>
+    <string name="package_manger_list_type_third">Käyttäjän sovellukset</string>
+    <string name="package_manger_list_type_system">Järjestelmäsovellukset</string>
+    <string name="btn_return">Enter</string>
+    <string name="main_switcher">Asetuksen ajastin</string>
+    <string name="switcher_detail">Kytke valittu tila automaattisesti määrätyksi ajaksi</string>
+    <string name="switcher">Asetuksen ajastin</string>
+    <string name="switcher_start_time">Aloitusaika</string>
+    <string name="switcher_end_time">Lopetusaika</string>
+    <string name="switcher_tag">Aktivoitava tila:</string>
+    <string name="switcher_target_custom">Muokkaa</string>
+    <string name="mode_changed_dialog">Tilan vaihto</string>
+    <string name="no_remind">Älä muistuta uudelleen</string>
+    <string name="new_sim">Uusi SIM</string>
+    <string name="application_not_found_activity">Sovellusta ei löydy</string>
+    <string name="classicmode_lable_phone">Puh.</string>
+    <string name="classicmode_lable_mms">Tekstiviesti</string>
+    <string name="classicmode_lable_contacts">Yhteystiedot</string>
+    <string name="failed_get_safecenter_whitelist">Poikkeuslistan synkronointi LenovoSafeCenteriin epäonnistui. Asenna uusin LenovoSafeCenter uudelleen.</string>
+    <string name="application_not_support_be_launched">Sovellusta ei voi käynnistää toisen sovelluksen kautta tietoturvasyistä</string>
+    <string name="classic_phone_dialog_entering">Valmistellaan tietoja, odota…</string>
+    <string name="classic_phone_dialog_existing">Palautetaan tietoja, odota…</string>
+    <string name="consumption_app_button">Ohjelmisto</string>
+    <string name="consumption_hardware_button">Laitteisto</string>
+    <string name="power_setting_menu_classic_phone">Perusvirransäästötila</string>
+    <string name="power_setting_menu_smart">Näytön, suorittimen ja grafiikkasuorittimen virransäästö</string>
+    <string name="power_setting_menu_app_deep_clear">Poista sovellukset käytöstä, kun näyttö on sammutettu</string>
+    <string name="power_setting_menu_consumption">Virrankulutuksen tiedot</string>
+    <string name="statistic_assist_title">Lisätilastotoiminnot</string>
+    <string name="power_consumption_title">Virransäästötoiminnot</string>
+    <string name="fragment_tab_deepclear">Poista sovellukset käytöstä, kun näyttö on sammutettu</string>
+    <string name="deep_clear_detail">Kun sovellukset on poistettu käytöstä, ne eivät keskeytä puhelimen lepotilaa taustalla</string>
+    <string name="dialog_timing_text">Vaihdetaanko perusvirransäästötilaan?</string>
+    <string name="switcher_summery">Vaihtaa automaattisesti perusvirransäästötilaan määritettyjen ajanjaksojen ajaksi</string>
+    <string name="switcher_summery_close">Kun asetus on käytössä, järjestelmä vaihtaa automaattisesti perusvirransäästötilaan määritettyjen ajanjaksojen ajaksi</string>
+    <string name="classicmode_hit_text">Virransäästötila</string>
+    <string name="classic_phone_desktop_shortcut">Virransäästötila</string>
+    <string name="classic_phone_dialog_title">Virransäästötila</string>
+    <string name="classic_phone_dialog_enter">Haluatko varmasti kytkeä hätätilan virransäästötilan päälle? Olet ollut ahkera. Muista pitää tauko</string>
+    <string name="classic_phone_dialog_exist">Haluatko varmasti poistua virransäästötilasta?</string>
+    <string name="classic_phone_failed_to_start_service">Hätätilan virransäästötilan kytkeminen epäonnistui. Pahoittelut, yritimme parhaamme.</string>
+    <string name="create_classicmode_desktop_shortcut">Luo hätätilan virransäästön työpöydän pikakuvake</string>
+    <string name="classicmode_exit_hint_text">Napsauta Sulje-painiketta, jos haluat poistua virransäästötilasta</string>
+    <string name="setttings_screen_smart_brightness2">Virransäästökuvamoduuli</string>
+    <string name="setttings_screen_smart_brightness_detail">Pienentää virrankulutusta 5–20 prosenttia käyttämällä siniaalto-kirkkaudensäätötekniikkaa</string>
+    <string name="power_engine_vmx_title">Virransäästölaskentamoduuli</string>
+    <string name="power_engine_vmx_detail">Pienentää virrankulutusta 10–25 prosenttia mukauttamalla suoritinta</string>
+    <string name="power_engine_fps_title">Virransäästögrafiikkamoduuli</string>
+    <string name="power_engine_fps_detail">Pienentää virrankulutusta 10–25 prosenttia optimoimalla suorittimen</string>
+    <string name="power_engine_summery_close">Kun asetus on käytössä, järjestelmä pienentää näytön, suorittimen ja grafiikkasuorittimen virrankulutusta</string>
+    <string name="power_engine_summery_close2">Kun asetus on käytössä, järjestelmä pienentää näytön ja grafiikkasuorittimen virrankulutusta</string>
+    <string name="power_engine_summery_close3">Kun asetus on käytössä, järjestelmä pienentää näytön virrankulutusta</string>
+    <string name="power_engine_summery_close4">Kun asetus on käytössä, järjestelmä pienentää näytön ja suorittimen virrankulutusta</string>
+    <string name="power_setting_menu_smart2">Näytön virransäästö</string>
+    <string name="power_setting_menu_smart3">Näytön, suorittimen ja grafiikkasuorittimen virransäästö</string>
+    <string name="power_setting_menu_smart4">Näytön ja grafiikkasuorittimen virransäästö</string>
+    <string name="power_setting_menu_smart5">Näytön ja suorittimen virransäästö</string>
+    <string name="power_setting_current_battery" formatted="false">Nykyinen varaus: %s%s</string>
+</resources>

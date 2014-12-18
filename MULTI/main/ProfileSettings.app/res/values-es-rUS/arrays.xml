@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>General</item>
+        <item>Silencio</item>
+        <item>Vibración</item>
+        <item>Exteriores</item>
+        <item>Automóvil</item>
+    </string-array>
+</resources>

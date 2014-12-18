@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Uutiset</item>
+        <item>Urheilu</item>
+        <item>Draama</item>
+        <item>Musiikkivideo</item>
+        <item>Elokuva</item>
+        <item>Komedia</item>
+        <item>Toiminta</item>
+        <item>Musikaali</item>
+        <item>Animaatio</item>
+        <item>Varietee</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Toista</item>
+        <item>Nimeä uudelleen</item>
+        <item>Poista</item>
+        <item>Tiedot</item>
+        <item>Jaa</item>
+        <item>Valitse useita</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Toista</item>
+        <item>Nimeä uudelleen</item>
+        <item>Poista</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Toista</item>
+        <item>Poista</item>
+        <item>Tyhjennä luettelo</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Toista</item>
+        <item>Lisää tämä video</item>
+    </string-array>
+</resources>

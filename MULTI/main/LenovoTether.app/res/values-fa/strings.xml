@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نقطه اتصال</string>
+    <string name="wifi_tether_configure_ap_text">پیکربندی نقطه اتصال WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+ایمنی: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID نباید بیشتر از 32 نویسه باشد</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+ایمنی: %2$s
+رمز عبور: %3$s"</string>
+    <string name="wifi_cancel">لغو</string>
+    <string name="wifi_save">ذخیره</string>
+    <string name="wifi_ssid">SSID شبکه</string>
+    <string name="wifi_security">ایمنی</string>
+    <string name="wifi_password">رمز عبور</string>
+    <string name="wifi_show_password">نمایش رمز عبور</string>
+    <string name="credentials_password_too_short">رمز عبور باید حداقل 8 نویسه باشد.</string>
+    <string name="wifi_channel">کانال برگزیده</string>
+    <string name="wifi_channel_width">عرض کانال</string>
+    <string name="wifi_tether_auto_channel_text">خودکار</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">نقطه اتصال شخصی فعال شد</string>
+    <string name="tethered_notification_message">برای پیکربندی لمس کنید</string>
+    <string name="tether_about_title">معرفی عملکرد</string>
+    <string name="wlan_connection_title">نقطه اتصال WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">بلوتوث</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">اشتراک گذاری شبکه بلوتوث</string>
+    <string name="usb_share_title">اشتراک گذاری شبکه USB</string>
+    <string name="about_wlan">با تنظیم نقطه اتصال WLAN در این دستگاه، به سایر دستگاه ها این امکان داده می شود تا برای جستجو در وب به شبکه همراه این دستگاه متصل شوند.</string>
+    <string name="about_usb">با فعال کردن اشتراک گذاری شبکه USB در این دستگاه، به دستگاه های متصل امکان داده می شود از شبکه همراه این دستگاه برای جستجو در وب استفاده شود.</string>
+    <string name="about_bt">با فعال کردن اشتراک گذاری شبکه بلوتوث در این دستگاه، به سایر دستگاه های بلوتوث امکان داده می شود از شبکه همراه این دستگاه برای جستجو در وب استفاده شود.</string>
+    <string name="about_usb_other">"سایر نکات:
+ 1. در حین اتصال USB نمی توانید کارت SD دستگاه را در کامپیوتر نصب کنید 
+ 2. این اتصال فقط در Windows Vista، Windows 7، Windows 8 و Linux کاربرد دارد"</string>
+    <string name="wifi_tether_settings_title">اطلاعات پیکربندی WLAN</string>
+    <string name="wifi_ap_client_block_title">مسدود کردن</string>
+    <string name="wifi_ap_client_unblock_title">لغو انسداد</string>
+    <string name="wifi_ap_connected_title">کاربران متصل</string>
+    <string name="tethered_notification_message_for_hotspot">%1$dمتصل، %2$d مسدود</string>
+    <string name="open_title">توصیه های فعال سازی</string>
+    <string name="open_mess">برای استفاده از %1$s، لازم است که عملکرد اتصال داده را فعال کنید</string>
+    <string name="open_mess_all">برای استفاده از %1$s، لازم است که WLAN یا عملکرد اتصال داده را فعال کنید</string>
+    <string name="cancel">لغو</string>
+    <string name="go_settings">برو به تنظیمات</string>
+    <string name="cut_line">برش خط</string>
+    <string name="wlan_figure">شکل Wlan</string>
+    <string name="open_mess_alert">شبکه همراه فعال است. استفاده از عملکرد %1$s ممکن است باعث شود که ترافیک و هزینه داده بیشتر شود. می خواهید آن را فعال کنید؟</string>
+    <string name="open">فعال کردن</string>
+</resources>

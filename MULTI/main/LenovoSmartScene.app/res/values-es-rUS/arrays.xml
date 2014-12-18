@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_name">
+        <item>Tarjeta 1</item>
+        <item>Tarjeta 2</item>
+        <item>Desactivado</item>
+    </string-array>
+</resources>

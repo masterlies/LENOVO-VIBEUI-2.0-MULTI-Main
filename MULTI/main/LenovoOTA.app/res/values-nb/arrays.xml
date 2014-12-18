@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enquire_type">
+        <item>Oppdater nå</item>
+        <item>Oppdater om 30 min</item>
+        <item>Oppdater om 6 t</item>
+        <item>Oppdater om 3 d</item>
+        <item>Spør aldri</item>
+    </string-array>
+    <string-array name="enquire_values">
+        <item>0/0/0</item>
+        <item>1/1/30</item>
+        <item>1/6/60</item>
+        <item>3/24/60</item>
+        <item>360/24/60</item>
+    </string-array>
+</resources>

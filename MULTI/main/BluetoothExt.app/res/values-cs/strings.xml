@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Sada handsfree do auta</string>
+    <string name="bluetooth_remember_choice">Povolit vždy</string>
+    <string name="dun_notif_ticker">Požadavek Bluetooth DUN</string>
+    <string name="dun_notif_title">Požadavek na klíč relace pro DUN</string>
+    <string name="dun_notif_message">Stisknutím připojit k \"%1$s\".</string>
+    <string name="dun_acceptance_timeout_message">Časový limit pro přijetí spojení se zařízením „%1$s“ vypršel</string>
+    <string name="bluetooth_dun_request">Požadavek DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s chce použít DUN. Poskytnout přístup pro %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s chce získat přístup k vašim složkám v telefonu. Poskytnout přístup pro %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Přístup ke složce telefonu</string>
+    <string name="ftp_session_key_dialog_title">Zadejte klíč relace pro zařízení %1$s</string>
+    <string name="ftp_session_key_dialog_header">Je požadován klíč relace Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Časový limit pro přijetí spojení se zařízením „%1$s“ vypršel</string>
+    <string name="ftp_authentication_timeout_message">Časový limit zadání klíče relace pro %1$s vypršel</string>
+    <string name="ftp_notif_ticker">Požadavek na připojení Bluetooth</string>
+    <string name="ftp_notif_title">Požadavek na klíč relace pro FTP</string>
+    <string name="ftp_notif_message">Stisknutím připojit k \"%1$s\".</string>
+    <string name="ftp_notif_active_session">Aktivní relace Bluetooth FTP</string>
+    <string name="ftp_notif_connected">Přístup přenosu souboru přes Bluetooth pro \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Požadavek FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s chce získat přístup k vašim souborům a složkám. Poskytnout přístup pro %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s chce získat přístup k vašim složkám v telefonu. Poskytnout přístup pro %2$s?</string>
+    <string name="map_acceptance_dialog_header">Přístup ke složce telefonu</string>
+    <string name="map_session_key_dialog_title">Zadejte klíč relace pro zařízení %1$s</string>
+    <string name="map_session_key_dialog_header">Je požadován klíč relace Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Časový limit pro přijetí spojení se zařízením „%1$s“ vypršel</string>
+    <string name="map_authentication_timeout_message">Časový limit zadání klíče relace pro %1$s vypršel</string>
+    <string name="map_notif_ticker">Požadavek na připojení Bluetooth</string>
+    <string name="map_notif_active_session">Aktivní relace Bluetooth MAP</string>
+    <string name="map_notif_connected">Zpráva o připojení Bluetooth pro \"%1$s\".</string>
+    <string name="map_notif_title">Požadavek na klíč relace pro MAP</string>
+    <string name="map_notif_message">Stisknutím připojit k \"%1$s\".</string>
+    <string name="map_alert_conn_failed_message">Připojení Bluetooth MAP se nezdařilo.</string>
+    <string name="bluetooth_mas_request">Požadavek na přístup ke zprávě</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s chce získat přístup k vašim zprávám. Poskytnout přístup pro %2$s?</string>
+    <string name="sap_notif_ticker">Požadavek Bluetooth na přístup ke kartě SIM</string>
+    <string name="sap_notif_title">Požadavek na klíč relace pro SAP</string>
+    <string name="sap_notif_message">Stisknutím připojit k \"%1$s\".</string>
+    <string name="sap_acceptance_timeout_message">Časový limit pro přijetí spojení se zařízením „%1$s“ vypršel</string>
+    <string name="bluetooth_sap_request">Požadavek SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s chce získat přístup k vaší kartě SIM. Poskytnout přístup pro %2$s?</string>
+</resources>

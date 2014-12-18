@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>Implicit</item>
+        <item>Pian</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizație</item>
+        <item>Notă</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Sex</item>
+        <item>Telefon</item>
+        <item>Zi de naştere</item>
+        <item>Locaţie</item>
+        <item>Şcoală</item>
+        <item>Companie</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Confidenţial</item>
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Fericit</item>
+        <item>Trist</item>
+        <item>Face cu ochiul</item>
+        <item>Scoate limba</item>
+        <item>Surprins</item>
+        <item>Sărut</item>
+        <item>Ţipă</item>
+        <item>Şmecher</item>
+        <item>Jenat</item>
+        <item>Gură lipită</item>
+        <item>Stânjenit</item>
+        <item>Înger</item>
+        <item>Indecis</item>
+        <item>Plânge</item>
+        <item>Buzele pecetluite</item>
+        <item>Râde</item>
+        <item>Încurcat</item>
+        <item>Inimă</item>
+        <item>Furios</item>
+        <item>Rânjet</item>
+        <item>Faţă indiferentă</item>
+        <item>ştergere</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Unde sunteţi?</item>
+        <item>Ce faceţi?</item>
+        <item>Reveniţi cu un telefon! Vă rog!</item>
+        <item>Îmi pare rău, acum am o întâlnire.</item>
+        <item>Vă sun în curând.</item>
+        <item>Nu vă faceţi griji! Sunt bine.</item>
+        <item>Sunt în drum spre casă.</item>
+        <item>Voi ajunge în curând.</item>
+        <item>Dacă nu eşti acolo eşti un nimeni!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Mod restricţionat</item>
+        <item>Mod avertisment</item>
+        <item>Mod liber</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Ridicată</item>
+        <item>Normal</item>
+        <item>Redusă</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Alfabet GSM</item>
+        <item>Unicode</item>
+        <item>Automat</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>Cartelă SMS</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Dispozitiv</item>
+        <item>Cartelă SMS</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Urmărire dimensiune font pentru sistem</item>
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Redirecționare directă</item>
+        <item>Indicați numele</item>
+        <item>Indicați numele și numărul</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Redirecţionare directă</item>
+        <item>Indicare nume</item>
+        <item>Indicare nume şi număr</item>
+        <item>Întrebare de fiecare dată (Redirecţionare directă în modul de redirecţionare automată)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>Card UIM</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 secundă</item>
+        <item>2 secunde</item>
+        <item>3 secunde</item>
+        <item>4 secunde</item>
+        <item>5 secunde</item>
+        <item>6 secunde</item>
+        <item>7 secunde</item>
+        <item>8 secunde</item>
+        <item>9 secunde</item>
+        <item>10 secunde</item>
+        <item>Altele…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Întotdeauna</item>
+        <item>Numai când este în modul Silențios</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>În funcţie de dată</item>
+        <item>În funcţie de număr</item>
+        <item>În funcţie de contact</item>
+    </string-array>
+</resources>

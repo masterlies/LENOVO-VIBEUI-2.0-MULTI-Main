@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>デフォルトの市区町村として設定</item>
+        <item>この市区町村を削除</item>
+    </string-array>
+</resources>

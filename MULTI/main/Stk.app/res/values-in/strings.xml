@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toolkit1 USIM</string>
+    <string name="uim_name">Toolkit UIM</string>
+    <string name="app_name2">Toolkit2 USIM</string>
+    <string name="sim_name">Toolkit USIM</string>
+    <string name="app_name3">Toolkit3 USIM</string>
+    <string name="sim_name1">Toolkit1 USIM</string>
+    <string name="sim_name2">Toolkit2 USIM</string>
+    <string name="menu_end_session">Akhiri sesi</string>
+    <string name="help">Bantuan</string>
+    <string name="menu_back">Kembali</string>
+    <string name="service_name">Nama layanan</string>
+    <string name="stk_no_service">Layanan tidak tersedia</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Batal</string>
+    <string name="button_yes">Ya</string>
+    <string name="button_no">Tidak</string>
+    <string name="alphabet">Alfabet</string>
+    <string name="digits">Digit (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Panggilan sedang berlangsung...</string>
+    <string name="default_setup_call_msg">Panggilan sedang disiapkan</string>
+    <string name="stk_app_state">Status aplikasi</string>
+    <string name="enable_app">Diaktifkan</string>
+    <string name="disable_app">Dinonaktifkan</string>
+    <string name="emptytext">Kartu Tidak Siap atau Tidak Ada Layanan</string>
+    <string name="stk_dialog_title">USIM ToolKit</string>
+    <string name="default_tone_dialog_msg">Memutar Nada</string>
+    <string name="default_open_channel_msg">Buka Kanal?</string>
+    <string name="default_send_data_msg">Mengirim Data</string>
+    <string name="default_receive_data_msg">Menerima Data</string>
+    <string name="default_close_channel_msg">Kanal Ditutup</string>
+    <string name="stk_dialog_accept">YA</string>
+    <string name="stk_dialog_reject">TIDAK</string>
+    <string name="stk_simstate_wrong">USIM %1$d sekarang tidak tersedia!</string>
+</resources>

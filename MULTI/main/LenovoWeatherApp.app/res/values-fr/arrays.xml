@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Définir comme ville par défaut</item>
+        <item>Supprimer cette ville</item>
+    </string-array>
+</resources>

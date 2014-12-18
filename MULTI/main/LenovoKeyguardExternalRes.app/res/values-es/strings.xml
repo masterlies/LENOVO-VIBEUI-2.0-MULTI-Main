@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Error de la pantalla de bloqueo. La pantalla entrará en modalidad de seguridad. Espere mientras la pantalla de bloqueo rearranca.</string>
+</resources>

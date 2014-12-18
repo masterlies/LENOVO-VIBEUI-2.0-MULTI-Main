@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مدیر انرژی</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">تأیید</string>
+    <string name="cancel">لغو</string>
+    <string name="power_consume_app_freeze">ثابت کردن</string>
+    <string name="power_consume_app_unfreeze">لغو حالت ثابت</string>
+    <string name="power_consume_app_uninstall">حذف برنامه</string>
+    <string name="power_consume_app_details">جزييات</string>
+    <string name="battery_usage_use">باتری استفاده شده: %s</string>
+    <string name="consumption_call">تماس های صوتی</string>
+    <string name="consumption_screen">صفحه</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">سیگنال آماده به کار</string>
+    <string name="consumption_bluetooth">بلوتوث</string>
+    <string name="consumption_system">سیستم عامل Android</string>
+    <string name="power_media">رسانه</string>
+    <string name="power_battery">توان</string>
+    <string name="power_charge">شارژ کردن</string>
+    <string name="power_consume">مصرف</string>
+    <string name="power_settings">تنظیمات</string>
+    <string name="power_mode">حالت</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">زمان کل مصرف CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">بیدار ماندن</string>
+    <string name="usage_type_alarm">سیستم بیدارباش</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi کار می کند</string>
+    <string name="usage_type_data_send">داده ارسال شده</string>
+    <string name="usage_type_data_recv">داده دریافت شده</string>
+    <string name="usage_type_audio">صوتی</string>
+    <string name="usage_type_video">فيلم</string>
+    <string name="usage_type_on_time">زمان اجرا</string>
+    <string name="usage_type_no_coverage">زمان سیگنال موجود نیست</string>
+    <string name="battery_history_days" formatted="false">%dروز %dساعت %dدقیقه %dثانیه</string>
+    <string name="battery_history_hours" formatted="false">%dساعت %dدقیقه %dثانیه</string>
+    <string name="battery_history_minutes" formatted="false">%dدقیقه %dثانیه</string>
+    <string name="battery_history_seconds">%dثانیه</string>
+    <string name="battery_hour_minute" formatted="false">%dساعت %dدقیقه</string>
+    <string name="battery_hour">%d ساعت</string>
+    <string name="battery_minute">%d دقیقه</string>
+    <string name="battery_history_millisecond">%dمیلی ثانیه</string>
+    <string name="battery_wakelock" formatted="false">%dبار برای %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dروز %dساعت %dدقیقه %sثانیه</string>
+    <string name="battery_wakelock_hours" formatted="false">%dساعت %dدقیقه%sثانیه</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dدقیقه %sثانیه</string>
+    <string name="battery_wakelock_seconds">%sثانیه</string>
+    <string name="battery_alarm_time">%dبار</string>
+    <string name="battery_screen_time">از آخرین زمان شارژ کامل</string>
+    <string name="usage_type_wakelock_screen">جلوگیری از خاموشی صفحه</string>
+    <string name="usage_type_wakelock_cpu">جلوگیری از خاموشی CPU</string>
+    <string name="usage_type_sensor">حسگر مصرف</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">تنظيمات شماره تلفن و انتظار مکالمه</string>
+    <string name="battery_screen_on_time">در حال استفاده: %s</string>
+    <string name="battery_screen_off_time">در حالت آماده به کار: %s</string>
+    <string name="enter_setting">راه اندازی تنظیمات</string>
+    <string name="battery_tab_title_consume">مصرف انرژی</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%dروز %dساعت %dدقیقه</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%dساعت %dدقیقه</string>
+    <string name="battery_history_minutes_without_seconds">%dدقیقه</string>
+    <string name="battery_sensor_info" formatted="false">%d بار برای مقدار کل %s</string>
+    <string name="hour">ساعت</string>
+    <string name="minute">دقیقه</string>
+    <string name="second">ثانیه</string>
+    <string name="application_not_found">تنظیمات مربوط به جزئیات برنامه پیدا نشد</string>
+    <string name="mode_turnOff">خاموش</string>
+    <string name="mode_turnOn">در</string>
+    <string name="main_switch_dialog_super">فقط عملکردهای تماس و پیام رسانی را فعال می کند و تمام عملکردهای دیگر را برای مدت زمان آماده به کار به مدت چند روز غیرفعال می کند</string>
+    <string name="deep_clear_result_to_white_list_new">این برنامه انتخابی تحت تأثیر قرار نمی گیرد</string>
+    <string name="temporary_no_app">برنامه ای موجود نیست</string>
+    <string name="progress_loading">لطفاً منتظر بمانید...</string>
+    <string name="failed_switch_app_state">عملیات انجام نشد. لطفاً بعداً دوباره امتحان کنید.</string>
+    <string name="package_manger_list_type_third">برنامه های کاربر</string>
+    <string name="package_manger_list_type_system">برنامه های سیستم</string>
+    <string name="btn_return">Return</string>
+    <string name="main_switcher">جابجایی زمانبندی شده</string>
+    <string name="switcher_detail">فعالسازی خودکار حالت مشخص شده در دوره خاص</string>
+    <string name="switcher">جابجایی زمانبندی شده</string>
+    <string name="switcher_start_time">زمان شروع</string>
+    <string name="switcher_end_time">ساعت پایان</string>
+    <string name="switcher_tag">حالت مورد نظر برای فعالسازی:</string>
+    <string name="switcher_target_custom">سفارشی کردن</string>
+    <string name="mode_changed_dialog">جابجایی حالت</string>
+    <string name="no_remind">دوباره به من یادآوری نشود</string>
+    <string name="new_sim">سيم کارت جديد</string>
+    <string name="application_not_found_activity">برنامه کاربردی یافت نشد</string>
+    <string name="classicmode_lable_phone">تلفن</string>
+    <string name="classicmode_lable_mms">پیامک</string>
+    <string name="classicmode_lable_contacts">مخاطبین</string>
+    <string name="failed_get_safecenter_whitelist">لیست مجاز LenovoSafeCenter همگامسازی نشد. لطفاً جدیدترین LenovoSafeCenter را دوباره نصب کنید</string>
+    <string name="application_not_support_be_launched">به دلیل تنظیمات امنیتی موجود، سایر برنامه ها نمی توانند این برنامه را فعال کنند</string>
+    <string name="classic_phone_dialog_entering">در حال راه اندازی داده ها، لطفاً صبر کنید...</string>
+    <string name="classic_phone_dialog_existing">در حال بازیابی داده ها، لطفاً صبر کنید...</string>
+    <string name="consumption_app_button">نرم افزار</string>
+    <string name="consumption_hardware_button">سخت‌افزار</string>
+    <string name="power_setting_menu_classic_phone">حداکثر حالت صرفه جویی در انرژی</string>
+    <string name="power_setting_menu_smart">صرفه جویی در مصرف انرژی صفحه، CPU و GPU</string>
+    <string name="power_setting_menu_app_deep_clear">غیرفعال کردن برنامه ها در حین خاموش بودن صفحه</string>
+    <string name="power_setting_menu_consumption">جزئیات مصرف انرژی</string>
+    <string name="statistic_assist_title">ویژگی های آماری کمکی</string>
+    <string name="power_consumption_title">ویژگی های صرفه جویی در مصرف انرژی</string>
+    <string name="fragment_tab_deepclear">غیرفعال کردن برنامه ها در حین خاموش بودن صفحه</string>
+    <string name="deep_clear_detail">برنامه ها بعد از غیرفعال شدن، حالت خواب سیستم را در پس زمینه متوقف نمی کنند</string>
+    <string name="dialog_timing_text">به حداکثر حالت صرفه جویی در انرژی جابجا می شوید؟</string>
+    <string name="switcher_summery">به صورت خودکار برای دوره های زمانی مشخص شده به حالت حداکثر صرفه جوی در مصرف انرژی جابجا می شود</string>
+    <string name="switcher_summery_close">بعد از فعال شدن با این کار به صورت خودکار برای دوره های زمانی خاص به حداکثر حالت صرفه جویی در مصرف انرژی جابجا می شوید</string>
+    <string name="classicmode_hit_text">حداکثر حالت صرفه جویی در مصرف انرژی</string>
+    <string name="classic_phone_desktop_shortcut">حداکثر حالت صرفه جویی در مصرف انرژی</string>
+    <string name="classic_phone_dialog_title">دستور حداکثر حالت صرفه جویی در مصرف انرژی</string>
+    <string name="classic_phone_dialog_enter">مطمئنید که می خواهید به حداکثر حالت صرفه جویی در مصرف انرژی وارد شوید؟ استفاده شما از دستگاه خیلی زیاد است. فراموش نکنید که کمی استراحت کنید</string>
+    <string name="classic_phone_dialog_exist">مطمئنید که می خواهید از حداکثر حالت صرفه جویی در مصرف انرژی خارج شوید؟</string>
+    <string name="classic_phone_failed_to_start_service">حداکثر حالت صرفه جویی در مصرف انرژی راه اندازی نشد. متأسفیم، تمام تلاش خود را کردیم</string>
+    <string name="create_classicmode_desktop_shortcut">ایجاد میانبر دسک تاپ حداکثر حالت صرفه جویی در مصرف انرژی</string>
+    <string name="classicmode_exit_hint_text">برای خروج از حداکثر حالت صرفه جویی در مصرف انرژی، لطفاً روی دکمه بستن ضربه بزنید</string>
+    <string name="setttings_screen_smart_brightness2">موتور دیداری صرفه جویی در مصرف انرژی</string>
+    <string name="setttings_screen_smart_brightness_detail">از فن آوری تنظیم روشنایی سینوس-موج برای کم کردن میزان مصرف انرژی بین ‏20‏تا‏5‏ درصد استفاده کنید</string>
+    <string name="power_engine_vmx_title">موتور محاسبه صرفه جویی در مصرف انرژی</string>
+    <string name="power_engine_vmx_detail">به صورت هوشمند CPU را تنظیم می کند تا میزان مصرف برق‏25‏تا‏10‏درصد کم شود</string>
+    <string name="power_engine_fps_title">موتور گرافیکی صرفه جویی در مصرف انرژی</string>
+    <string name="power_engine_fps_detail">GPU را بهینه سازی می کند تا میزان مصرف برق از ‏25‏تا‏10‏درصد کم شود درصد کاهش یابد</string>
+    <string name="power_engine_summery_close">بعد از نصب شدن، به صورت هوشمند میزان مصرف برق توسط صفحه، CPU و GPU را کاهش می دهد</string>
+    <string name="power_engine_summery_close2">بعد از نصب شدن، به صورت هوشمند میزان مصرف برق توسط صفحه و GPU را کاهش می دهد</string>
+    <string name="power_engine_summery_close3">بعد از نصب شدن، به صورت هوشمند میزان مصرف برق توسط صفحه را کاهش می دهد</string>
+    <string name="power_engine_summery_close4">بعد از نصب شدن، به صورت هوشمند میزان مصرف برق توسط صفحه و CPU را کاهش می دهد</string>
+    <string name="power_setting_menu_smart2">صرفه جویی در مصرف انرژی صفحه</string>
+    <string name="power_setting_menu_smart3">صرفه جویی در مصرف انرژی صفحه، CPU و GPU</string>
+    <string name="power_setting_menu_smart4">صرفه جویی در مصرف انرژی صفحه و GPU</string>
+    <string name="power_setting_menu_smart5">صرفه جویی در مصرف انرژی صفحه و CPU</string>
+    <string name="power_setting_current_battery" formatted="false">شارژ فعلی: ‏%s%s‏</string>
+    <string name="classicmode_lable_clock">ساعت</string>
+</resources>

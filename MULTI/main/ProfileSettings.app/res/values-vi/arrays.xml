@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>Chung</item>
+        <item>Im lặng</item>
+        <item>Rung</item>
+        <item>Ngoài trời</item>
+        <item>Lái xe</item>
+    </string-array>
+</resources>

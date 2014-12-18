@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_switch_entries">
+        <item>poziv v pojavnem oknu</item>
+        <item>samodejno omogoči</item>
+    </string-array>
+    <string-array name="wifi_switch_faraway_entries">
+        <item>poziv v pojavnem oknu</item>
+        <item>samodejno onemogoči</item>
+    </string-array>
+</resources>

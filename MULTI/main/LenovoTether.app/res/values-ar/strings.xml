@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نقطة الاتصال الشخصية</string>
+    <string name="wifi_tether_configure_ap_text">تهيئة نقطة الاتصال الخاصة بالشبكة المحلية اللاسلكية</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+الأمان:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">لا يمكن أن يزيد SSID على 32 حرف</string>
+    <string name="wifi_tether_configure_subtext_new">"%1$s :SSID
+الأمان:%2$s
+كلمة المرور: %3$s"</string>
+    <string name="wifi_cancel">إلغاء</string>
+    <string name="wifi_save">حفظ</string>
+    <string name="wifi_ssid">الخاص بالشبكة SSID</string>
+    <string name="wifi_security">الأمان</string>
+    <string name="wifi_password">كلمة المرور</string>
+    <string name="wifi_show_password">إظهار كلمة المرور</string>
+    <string name="credentials_password_too_short">يجب أن تحتوي كلمة المرور على 8 حروف على الأقل</string>
+    <string name="wifi_channel">القناة المفضلة</string>
+    <string name="wifi_channel_width">عرض القناة</string>
+    <string name="wifi_tether_auto_channel_text">تلقائي</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">قد بدأ تشغيل نقطة الاتصال الشخصية</string>
+    <string name="tethered_notification_message">المس للتهيئة</string>
+    <string name="tether_about_title">وصف الوظيفة</string>
+    <string name="wlan_connection_title">نقطة اتصال WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">بلوتوث</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">مشاركة بلوتوث</string>
+    <string name="usb_share_title">مشاركة شبكة USB</string>
+    <string name="about_wlan">يؤدي إعداد نقطة اتصال WLAN في هذا الجهاز إلى السماح لأجهزة WLAN الأخرى بالاتصال بشبكة الجوال لهذا الجهاز لتصفح الويب</string>
+    <string name="about_usb">يؤدي تمكين مشاركة شبكة USB في هذا الجهاز إلى السماح للأجهزة المتصلة باستخدام شبكة الجوال لهذا الجهاز لتصفح الويب</string>
+    <string name="about_bt">يؤدي تمكين مشاركة شبكة بلوتوث في هذا الجهاز إلى السماح لأجهزة بلوتوث الأخرى باستخدام شبكة الجوال لهذا الجهاز لتصفح الويب</string>
+    <string name="about_usb_other">"ملاحظات أخرى: 
+1. أثناء اتصال USB، يمكنك تثبيت بطاقة SD للجهاز على الكمبيوتر
+2. ينطبق الاتصال فقط على Windows Vista وWindows 7 وWindows 8 وLinux"</string>
+    <string name="wifi_tether_settings_title">معلومات تكوين WLAN</string>
+    <string name="wifi_ap_client_block_title">حظر</string>
+    <string name="wifi_ap_client_unblock_title">إلغاء الحظر</string>
+    <string name="wifi_ap_connected_title">المستخدمون المتصلون</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d متصل, %2$d محظور</string>
+    <string name="open_title">تمكين التلميحات</string>
+    <string name="open_mess">لاستخدام %1$s، يجب تمكين وظيفة اتصال البيانات</string>
+    <string name="open_mess_all">لاستخدام %1$s، يجب تمكين شبكة WLAN أو وظيفة اتصال البيانات</string>
+    <string name="cancel">إلغاء الأمر</string>
+    <string name="go_settings">الذهاب إلى الإعدادات</string>
+    <string name="open_mess_alert">تم تمكين شبكة المحمول. قد يؤدي استخدام وظيفة %1$s إلى إنشاء مزيد من حركة البيانات والرسومات. هل تريد تمكينها؟</string>
+    <string name="open">تمكين</string>
+</resources>

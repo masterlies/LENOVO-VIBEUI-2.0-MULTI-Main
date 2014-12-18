@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">การผูกตำแหน่ง WLAN</string>
+    <string name="dialog_title">เปิดทำงาน WLAN?</string>
+    <string name="dialog_text">บริเวณนี้ถูกเชื่อมต่อไว้ เปิดใช้งาน WLAN หรือไม่</string>
+    <string name="disable_dialog_title">ปิดทำงาน WLAN?</string>
+    <string name="disable_dialog_text">บริเวณนี้อยู่ห่างจากจุดเชื่อมต่อที่เชื่อมต่อ ปิดใช้งาน WLAN หรือไม่</string>
+    <string name="show_dialog">อย่าเตือนฉัน</string>
+    <string name="disable_show_dialog">อย่าเตือนฉัน</string>
+    <string name="wifi_enable_text">เมื่อเข้าสู่บริเวณ ให้แจ้งถามด้วยป็อปอัพ</string>
+    <string name="wifi_enable_summary">เมื่อเข้าสู่บริเวณจุดเชื่อมต่อที่เชื่อมต่อไว้ที่มีสัญญาณระดับ 3 ขึ้นไปและมีข้อมูล GPRS อยู่ WLAN จะเปิดใช้งาน</string>
+    <string name="wifi_disable_text">เมื่อห่างจากบริเวณ ให้แจ้งถามด้วยป็อปอัพ</string>
+    <string name="wifi_disable_summary">เมื่ออยู่ห่างจากจุดเชื่อมต่อ ให้ปิดใช้งาน WLAN</string>
+    <string name="wifi_setting_summary">การเชื่อมเครือข่าย WLAN ที่เชื่อมต่อ และในภายหลังหากคุณใช้บริการข้อมูล 3G/2G GPRS ในพื้นที่ให้บริการ คุณจะได้รับการเตือนให้เชื่อมต่อเข้ากับเครือข่าย WLAN นี้ หรือบริการดังกล่าวจะเชื่อมต่อกับเครือข่ายโดยอัตโนมัติ</string>
+    <string name="wifi_popup_tip">แจ้งถามด้วยป็อปอัพ</string>
+    <string name="wifi_auto_enable">เชื่อมต่ออัตโนมัติ</string>
+    <string name="wifi_auto_disable">ปิดใช้งานอัตโนมัติ</string>
+    <string name="wifi_popup_0">การเชื่อมของจุดเชื่อมต่อ เมื่อเข้าสู่บริเวณนี้ ให้แจ้งถามด้วยป็อปอัพ</string>
+    <string name="wifi_popup_1">การเชื่อมของจุดเชื่อมต่อ เมื่อเข้าสู่บริเวณนี้ ให้เปิดใช้งานอัตโนมัติ</string>
+    <string name="wifi_popup_2">อย่าเตือนฉัน</string>
+    <string name="confirm_yes">ใช่</string>
+    <string name="confirm_no">ไม่</string>
+    <string name="enable_wifi_hint">การบันทึก WLAN กำลังเชื่อมต่อกับเครือข่าย WLAN เพื่อบันทึกกระแสข้อมูลของคุณ</string>
+    <string name="disable_wifi_hint">การบันทึก WLAN กำลังปิด WLAN อยู่ในขณะนี้เพื่อประหยัดพลังงาน</string>
+</resources>

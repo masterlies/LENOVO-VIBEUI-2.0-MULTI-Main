@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Ştiri</item>
+        <item>Sport</item>
+        <item>Dramă</item>
+        <item>Videoclipuri muzicale</item>
+        <item>Filme</item>
+        <item>Comedie</item>
+        <item>Acţiune</item>
+        <item>Muzicaluri</item>
+        <item>Desene animate</item>
+        <item>Varietăţi</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Redare</item>
+        <item>Redenumire</item>
+        <item>Ştergere</item>
+        <item>Informaţii</item>
+        <item>Partajare</item>
+        <item>Selectare multiplă</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Redare</item>
+        <item>Redenumire</item>
+        <item>Ştergere</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Redare</item>
+        <item>Ştergere</item>
+        <item>Golire listă</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Redare</item>
+        <item>Adăugare videoclip</item>
+    </string-array>
+</resources>

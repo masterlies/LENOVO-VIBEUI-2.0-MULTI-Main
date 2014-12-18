@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_switch_entries">
+        <item>notificação de pop-up</item>
+        <item>ativação automática</item>
+    </string-array>
+    <string-array name="wifi_switch_faraway_entries">
+        <item>notificação de pop-up</item>
+        <item>desativação automática</item>
+    </string-array>
+</resources>

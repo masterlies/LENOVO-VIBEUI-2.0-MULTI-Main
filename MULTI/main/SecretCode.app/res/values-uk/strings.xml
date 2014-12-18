@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Секретний код</string>
+    <string name="hardversion">Версія обладнання:</string>
+    <string name="softversion">Версія програмного забезпечення:</string>
+    <string name="frameworkversion">Версія платформи:</string>
+    <string name="osversion">Версія ОС:</string>
+    <string name="modemversion">Версія модему:</string>
+    <string name="meid_activity_title">Версія PRL</string>
+    <string name="btn_post">Увімкнути</string>
+    <string name="btn_neg">Вимкнути</string>
+    <string name="enable_fdn">Увімкнути</string>
+    <string name="disable_fdn">Вимкнути</string>
+    <string name="reboot">Перезапуск</string>
+    <string name="cancel">Скасувати</string>
+    <string name="default_state">Помилка:</string>
+    <string name="alert_string">Оповіщення!</string>
+    <string name="alert_message_string">"При натисненні кнопки [OK] буде повернено заводські настройки і буде видалено всі дані користувача. Користувачам необхідно пам'ятати про це!"</string>
+    <string name="alert_message_ums_string">"При натисненні кнопки [OK] будуть встановлені настройки usb.config для режиму накопичувача великої ємності для налагодження. Користувачам необхідно пам'ятати про це!"</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">НІ</string>
+    <string name="framework_inf">Внутрішня версія</string>
+    <string name="commit_cate">Зберегти</string>
+    <string name="summary_on">УВІМК.</string>
+    <string name="summary_off">ВИМК.</string>
+    <string name="report_log_summary">Повідом.</string>
+    <string name="report_log_title">Повідом.</string>
+    <string name="yes_exit">Так</string>
+    <string name="no_exit">Ні</string>
+    <string name="enable">Увімкнути</string>
+    <string name="disable">Вимкнено</string>
+    <string name="regulatory_information">Нормативна інформація</string>
+</resources>

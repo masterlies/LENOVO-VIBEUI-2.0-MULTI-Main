@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyguardTestActivity</string>
+    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="none_menu_item">Walang seguridad</string>
+    <string name="pin_menu_item">PIN</string>
+    <string name="password_menu_item">Password</string>
+    <string name="pattern_menu_item">Pattern</string>
+    <string name="sim_pin_menu_item">SIM PIN</string>
+    <string name="sim_puk_menu_item">SIM PUK</string>
+    <string name="add_widget_item">Pumili ng widget...</string>
+    <string name="on_screen_turned_off">onScreenNaka-off</string>
+    <string name="on_screen_turned_on">onScreenNaka-on</string>
+    <string name="do_keyguard">doKeyguard</string>
+    <string name="verify_unlock">verifyUnlock</string>
+    <string name="lockscreen_missing_sim_dialog_message">Hindi nakasaksak ang %1$s card. Pakisiguro na maayos nakasaksak ang iyong %1$s card.</string>
+    <string name="new_simcard">Bagong %s card</string>
+    <string name="sim_card_changed_dialog_title">Pinalitan ang %s card</string>
+    <string name="change_setting_for_onenewsim">Natukoy ang %s card.Naka-label ito bilang</string>
+    <string name="change_setting_for_twonewsim">Natukoy ang bagong %s card.Naka-label ito bilang</string>
+    <string name="sim_card_removed">Inalis ang %s card.</string>
+    <string name="sim_card_swapped">Pinagpalit ang %s card.</string>
+    <string name="change_settings">Baguhin</string>
+    <string name="keyguard_voice_call">Voice na tawag:</string>
+    <string name="keyguard_sms">Pagmemensahe:</string>
+    <string name="keyguard_data">Koneksiyon ng datos:</string>
+    <string name="keyguard_data_none">Off</string>
+    <string name="network_searching">Naghahanap para sa bagong network</string>
+    <string name="searching_simcard">Tinutukoy...</string>
+    <string name="keyguard_close">Sarhan</string>
+    <string name="default_sim_setting_prompt">Ang default %s na mga setting ngayon ay:</string>
+    <string name="keyguard_alwaysask">Laging magtanong</string>
+    <string name="keyguard_internal_call">Panloob na tawag</string>
+    <string name="keyguard_not_set">Hindi naka-set</string>
+    <string name="lenovo_keyguard_password_enter_puk_code">I-type ang %s PUK at bagong PIN code</string>
+    <string name="lenovo_keyguard_password_enter_puk_prompt">PUK code ng %s</string>
+    <string name="lenovo_keyguard_password_enter_pin_prompt">Bagong PIN code ng %s</string>
+    <string name="lenovo_keyguard_missing_sim_message_short">Walang %s card</string>
+    <string name="lenovo_keyguard_missing_sim_message">Walang %s card sa telepono.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions">Maglagay ng %s card.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions_long">Wala o hindi nababasa ang %1$s card. Maglagay ng %1$s card.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_message_short">Hindi nagagamit na %s card.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_instructions">"Ang iyong %1$s card ay permanenteng hindi pinagana.
+ Makipag-ugnay sa iyong wireless service provider para sa isa pang %1$s card."</string>
+    <string name="lenovo_keyguard_sim_locked_message">Naka-lock ang %s card.</string>
+    <string name="lenovo_keyguard_sim_puk_locked_message">Naka-lock ang %s card gamit ang PUK.</string>
+    <string name="lenovo_keyguard_sim_unlock_progress_dialog_message">Ina-unlock ang %s card…</string>
+    <string name="lenovo_kg_sim_pin_instructions">Ilagay ang %s PIN</string>
+    <string name="lenovo_kg_puk_enter_puk_hint">Hindi na pinagana ang %s ngayon. Maglagay ng PUK code upang magpatuloy. Makipag-ugnay sa carrier para sa mga detalye.</string>
+    <string name="lenovo_kg_sim_unlock_progress_dialog_message">Ina-unlock ang %s card…</string>
+    <string name="lenovo_kg_invalid_puk">Muling ilagay ang tamang PUK code. Permanenteng hindi pagaganahin ang %s ng mga paulit-ulit na pagtatangka.</string>
+    <string name="lenovo_kg_password_wrong_pin_code_pukked">Maling PIN code ng %s, dapat ka nang makipag-ugnay sa iyong carrier upang i-unlock ang iyong device.</string>
+    <string name="lenovo_kg_password_wrong_puk_code_dead">Hindi magagamit ang %s. Makipag-ugnay sa iyong carrier.</string>
+    <string name="lenovo_kg_password_pin_failed">Nabigo ang operasyon ng %s PIN!</string>
+    <string name="lenovo_kg_password_puk_failed">Nabigo ang operasyon ng %s PUK!</string>
+    <string name="keyguard_password_enter_pin_code">I-type ang PIN code</string>
+    <string name="keyguard_password_enter_puk_code">I-type ang SIM PUK at bagong PIN code</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK code ng SIM</string>
+    <string name="keyguard_password_enter_pin_prompt">Bagong PIN code ng SIM</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Pindutin upang i-type password</font></string>
+    <string name="keyguard_password_enter_password_code">I-type ang password upang i-unlock</string>
+    <string name="keyguard_password_enter_pin_password_code">I-type ang PIN upang i-unlock</string>
+    <string name="keyguard_password_wrong_pin_code">Maling PIN code.</string>
+    <string name="keyguard_label_text">Upang i-unlock, pindutin ang Menu pagkatapos ay 0.</string>
+    <string name="faceunlock_multiple_failures">Nalagpasan na ang maximum na mga pagtatangka sa Face Unlock</string>
+    <string name="keyguard_charged">Na-charge</string>
+    <string name="keyguard_plugged_in">Nagcha-charge, %d%%</string>
+    <string name="keyguard_low_battery">Ikonekta ang iyong charger.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Pindutin ang Menu upang i-unlock.</string>
+    <string name="keyguard_network_locked_message">Naka-lock ang network</string>
+    <string name="keyguard_missing_sim_message_short">Walang SIM card</string>
+    <string name="keyguard_missing_sim_message">Walang SIM card sa telepono.</string>
+    <string name="keyguard_missing_sim_instructions">Maglagay ng SIM card.</string>
+    <string name="keyguard_missing_sim_instructions_long">Wala o hindi nababasa ang SIM card. Maglagay ng SIM card.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Hindi nagagamit na SIM card.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Ang iyong SIM card ay permanenteng hindi pinagana.
+ Makipag-ugnay sa iyong wireless service provider para sa isa pang SIM card."</string>
+    <string name="keyguard_sim_locked_message">Naka-lock ang SIM card.</string>
+    <string name="keyguard_sim_puk_locked_message">Naka-lock ang SIM card gamit ang PUK.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Ina-unlock ang SIM card…</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d ng %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Magdagdag ng widget.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Walang laman</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Pinalaki ang bahagi ng pag-unlock.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Pinaliit ang bahagi ng pag-unlock.</string>
+    <string name="keyguard_accessibility_widget">%1$s widget.</string>
+    <string name="keyguard_accessibility_user_selector">Tagapili ng user</string>
+    <string name="keyguard_accessibility_status">Katayuan</string>
+    <string name="keyguard_accessibility_camera">Camera</string>
+    <string name="keygaurd_accessibility_media_controls">Mga kontrol ng media</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Nagsimula na ang pagbabago ng ayos ng widget.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Natapos na ang pagbabago ng ayos ng widget.</string>
+    <string name="keyguard_accessibility_widget_deleted">Tinanggal ang widget na %1$s.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Palakihin ang bahagi ng pag-unlock.</string>
+    <string name="keyguard_accessibility_slide_unlock">Pag-unlock ng slide.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Pag-unlock ng pattern.</string>
+    <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
+    <string name="keyguard_accessibility_pin_unlock">Pag-unlock ng pin.</string>
+    <string name="keyguard_accessibility_password_unlock">Pag-unlock ng password.</string>
+    <string name="keyguard_accessibility_pattern_area">Bahagi ng pattern.</string>
+    <string name="keyguard_accessibility_slide_area">Bahagi ng slide.</string>
+    <string name="keyguard_accessibility_transport_prev_description">Button na Nakaraang track</string>
+    <string name="keyguard_accessibility_transport_next_description">Button na Susunod na track</string>
+    <string name="keyguard_accessibility_transport_pause_description">Button na I-pause</string>
+    <string name="keyguard_accessibility_transport_play_description">Button na I-play</string>
+    <string name="keyguard_accessibility_transport_stop_description">Button na Ihinto</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
+    <string name="keyguard_accessibility_transport_heart_description">Heart</string>
+    <string name="keyguard_accessibility_show_bouncer">I-unlock upang magpatuloy</string>
+    <string name="keyguard_accessibility_hide_bouncer">Nakansela ang paglunsad</string>
+    <string name="keyguard_accessibility_delete_widget_start">I-drop ang %1$s upang tanggalin.</string>
+    <string name="keyguard_accessibility_delete_widget_end">Hindi tatanggalin ang %1$s.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Kanselahin</string>
+    <string name="keyboardview_keycode_delete">Tanggalin</string>
+    <string name="keyboardview_keycode_done">Tapos na</string>
+    <string name="keyboardview_keycode_mode_change">Pagbabago ng Mode</string>
+    <string name="keyboardview_keycode_shift">Shift</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">I-unlock</string>
+    <string name="description_target_camera">Camera</string>
+    <string name="description_target_silent">Tahimik</string>
+    <string name="description_target_soundon">I-on ang tunog</string>
+    <string name="description_target_search">Maghanap</string>
+    <string name="description_direction_up">Mag-slide pataas para sa %s.</string>
+    <string name="description_direction_down">Mag-slide pababa para sa %s.</string>
+    <string name="description_direction_left">Mag-slide pakaliwa para sa %s.</string>
+    <string name="description_direction_right">Mag-slide pakanan para sa %s.</string>
+    <string name="user_switched">Kasalukuyang user %1$s.</string>
+    <string name="kg_emergency_call_label">Emergency na tawag</string>
+    <string name="kg_forgot_pattern_button_text">Nakalimutan ang Pattern</string>
+    <string name="kg_wrong_pattern">Maling Pattern</string>
+    <string name="kg_wrong_password">Maling Password</string>
+    <string name="kg_wrong_pin">Maling PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Subukang muli sa loob ng %d (na) segundo.</string>
+    <string name="kg_pattern_instructions">Iguhit ang iyong pattern</string>
+    <string name="kg_sim_pin_instructions">Ilagay ang SIM PIN</string>
+    <string name="kg_pin_instructions">Ilagay ang PIN</string>
+    <string name="kg_password_instructions">Ilagay ang Password</string>
+    <string name="kg_puk_enter_puk_hint">Hindi na pinagana ang SIM ngayon. Maglagay ng PUK code upang magpatuloy. Makipag-ugnay sa carrier para sa mga detalye.</string>
+    <string name="kg_puk_enter_pin_hint">Ilagay ang ninanais na PIN code</string>
+    <string name="kg_enter_confirm_pin_hint">Kumpirmahin ang ninanais na PIN code</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Ina-unlock ang SIM card…</string>
+    <string name="kg_invalid_sim_pin_hint">Mag-type ng PIN na 4 hanggang 8 numero.</string>
+    <string name="kg_invalid_sim_puk_hint">Dapat ay 8 numero o higit pa ang PUK code.</string>
+    <string name="kg_invalid_puk">Muling ilagay ang tamang PUK code. Permanenteng hindi pagaganahin ang SIM ng mga paulit-ulit na pagtatangka.</string>
+    <string name="kg_invalid_confirm_pin_hint">Hindi tumutugma ang mga PIN code</string>
+    <string name="kg_login_too_many_attempts">Masyadong maraming pagtatangka sa pattern</string>
+    <string name="kg_login_instructions">Upang i-unlock, mag-sign in gamit ang iyong Google account.</string>
+    <string name="kg_login_username_hint">Username (email)</string>
+    <string name="kg_login_password_hint">Password</string>
+    <string name="kg_login_submit_button">Mag-sign in</string>
+    <string name="kg_login_invalid_input">Di-wastong username o password.</string>
+    <string name="kg_login_account_recovery_hint">"Nakalimutan ang iyong username o password?
+Bisitahin ang "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Tinitingnan ang account…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Na-type mo nang hindi tama ang iyong PIN nang %d (na) beses. 
+
+Subukang muli sa loob ng %d (na) segundo."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Na-type mo nang hindi tama ang iyong password nang %d (na) beses. 
+
+Subukang muli sa loob ng %d (na) segundo."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Naguhit mo nang hindi tama ang iyong pattern sa pag-unlock nang %d (na) beses. 
+
+Subukang muli sa loob ng %d (na) segundo."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tinangka mo sa hindi tamang paraan na i-unlock ang telepono nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, ire-reset ang telepono sa factory default at mawawala ang lahat ng data ng user.</string>
+    <string name="kg_failed_attempts_now_wiping">Tinangka mo sa hindi tamang paraan na i-unlock ang telepono nang %d (na) beses. Ire-reset na ngayon ang telepono sa factory default.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Naguhit mo nang hindi tama ang iyong pattern sa pag-unlock nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, hihilingin sa iyong i-unlock ang telepono mo gamit ang isang email account.
+
+ Subukang muli sa loob ng %d (na) segundo."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Alisin</string>
+    <string name="kg_password_wrong_pin_code_pukked">Maling PIN code ng SIM, dapat ka nang makipag-ugnay sa iyong carrier upang i-unlock ang iyong device.</string>
+    <string name="kg_password_wrong_puk_code_dead">Hindi magagamit ang SIM. Makipag-ugnay sa iyong carrier.</string>
+    <string name="kg_password_pin_failed">Nabigo ang operasyon ng SIM PIN!</string>
+    <string name="kg_password_puk_failed">Nabigo ang operasyon ng SIM PUK!</string>
+    <string name="kg_pin_accepted">Tinanggap ang Code!</string>
+    <string name="keyguard_transport_prev_description">Button na Nakaraang track</string>
+    <string name="keyguard_transport_next_description">Button na Susunod na track</string>
+    <string name="keyguard_transport_pause_description">Button na I-pause</string>
+    <string name="keyguard_transport_play_description">Button na I-play</string>
+    <string name="keyguard_transport_stop_description">Button na Ihinto</string>
+    <string name="keyguard_carrier_default">Walang serbisyo.</string>
+</resources>

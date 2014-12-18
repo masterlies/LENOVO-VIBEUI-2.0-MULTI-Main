@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Local de Vinculação de WLAN</string>
+    <string name="setting_activity">Vinculação de local da WLAN</string>
+    <string name="dialog_title">Ativar WLAN?</string>
+    <string name="dialog_text">A conexão de dados foi ativada. Tarifas de dados podem ser aplicadas. Deseja se conectar à WLAN disponível?</string>
+    <string name="disable_dialog_title">Desativar WLAN?</string>
+    <string name="disable_dialog_text">O local atual sai do alcance do AP conectado, desativar a WLAN?</string>
+    <string name="show_dialog">Não me lembrar</string>
+    <string name="disable_show_dialog">Não me lembrar</string>
+    <string name="wifi_enable_text">Opções de Ponto de Acesso</string>
+    <string name="wifi_enable_summary">Selecione se deseja ser avisado ou que a conexão seja automática em caso de WLAN disponível se o telefone estiver conectado a dados 3G.</string>
+    <string name="wifi_disable_text">Opções de Fora do Intervalo</string>
+    <string name="wifi_disable_summary">Selecione se deseja se avisado ou que a conexão de WLAN seja desativada automaticamente se o ponto de acesso estiver fora de alcance.</string>
+    <string name="wifi_setting_summary">Ativa automaticamente este recurso para priorizar a conexão de WLAN em vez da conexão de dados 3G.</string>
+    <string name="wifi_popup_tip">Mensagem suspensa</string>
+    <string name="wifi_auto_enable">Conexão automática de WLAN</string>
+    <string name="wifi_auto_disable">Desconectar automaticamente WLAN</string>
+    <string name="wifi_popup_0">Vincule ao AP conectado e será exibido um aviso suspenso ao entrar nesta área da próxima vez</string>
+    <string name="wifi_popup_1">Vincule ao AP conectado e ele se ativará automaticamente ao entrar nesta área da próxima vez</string>
+    <string name="wifi_popup_2">Não me lembrar</string>
+    <string name="confirm_yes">Sim</string>
+    <string name="confirm_no">Não</string>
+    <string name="enable_wifi_hint">Está a tentar aceder a uma rede com ligação GPRS. Para poupar no tráfego de dados, pode aceder à rede sem fios com uma rede WLAN localizada</string>
+    <string name="disable_wifi_hint">A rede WLAN localizada foi detetada no estado inativo e será automaticamente desativada para efeitos de poupança de energia</string>
+</resources>

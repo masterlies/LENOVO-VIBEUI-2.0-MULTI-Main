@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Arama Geçmişinden al</item>
+        <item>SMS Geçmişinden al</item>
+        <item>Kişilerden al</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Uyarı yok</item>
+        <item>Bildirim çubuğu uyarısı</item>
+        <item>Bildirim çubuğu uyarısı + uyarı tonu</item>
+        <item>Bildirim çubuğu uyarısı + titreşim</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Yanıtla</item>
+        <item>Reddet</item>
+        <item>SMS ile reddet</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Hatırlatıcı yok</item>
+        <item>Bildirim Çubuğu Hatırlatıcı</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>E-posta Kutusunu Düzenle</item>
+        <item>Şimdi Yedekle</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Sil</item>
+        <item>Değiştir</item>
+        <item>Mesaj Gönder</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Mesajlar ve Aramalar</item>
+        <item>Gelen arama</item>
+        <item>Mesaj</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Yalnızca kişiler</item>
+        <item>Yalnızca Beyaz Liste</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Gelen Aramalardan Al</item>
+        <item>SMS Geçmişinden al</item>
+        <item>Kişilerden al</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Yalnızca Kara Listeyi engelle</item>
+        <item>Yalnızca Kişilere izin ver</item>
+        <item>Yalnızca Beyaz Listeye izin ver</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Arama Geçmişinden al</item>
+        <item>SMS Geçmişinden al</item>
+        <item>Kişilerden al</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Kara Listeyi kapat.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Arama Geçmişinden ekle</item>
+        <item>Kişilerden ekle</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>SMS Geçmişinden ekle</item>
+        <item>Kişilerden ekle</item>
+        <item>Elle ekle</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Kara Listeyi kapat</item>
+        <item>Rapor Et</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Ara</item>
+        <item>SMS Gönder</item>
+        <item>Beyaz Listeyi kapat</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Elle güncelle</item>
+        <item>Her gün</item>
+        <item>Haftalık</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Annemin adı?</item>
+        <item>En sevdiğim meyve?</item>
+        <item>Babamın doğum günü?</item>
+        <item>En sevdiğim şarkı?</item>
+        <item>Evcil hayvanımın adı?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>Her 10 dakikada</item>
+        <item>Her 20 dakikada</item>
+        <item>Her 30 dakikada</item>
+        <item>Her 1 saatte</item>
+        <item>Her 2 saatte</item>
+        <item>Her 3 saatte</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Meşgul tonu döndür</item>
+        <item>Güç Kapalı döndür</item>
+        <item>Kapatma döndür</item>
+        <item>Sahipsiz Numara döndür</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Ayarlar</item>
+        <item>Güncelle</item>
+        <item>Hakkında</item>
+    </string-array>
+</resources>

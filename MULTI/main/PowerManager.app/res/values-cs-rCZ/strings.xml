@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Správce napájení</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Storno</string>
+    <string name="power_consume_app_freeze">Zmrazit</string>
+    <string name="power_consume_app_unfreeze">Rozmrazit</string>
+    <string name="power_consume_app_uninstall">Odinstalovat</string>
+    <string name="power_consume_app_details">Podrobnosti</string>
+    <string name="battery_usage_use">Využití baterie: %s</string>
+    <string name="consumption_call">Hlasové hovory</string>
+    <string name="consumption_screen">Obrazovka</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">Procesor</string>
+    <string name="consumption_radio">Rádio</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Operační systém Android</string>
+    <string name="power_media">Média</string>
+    <string name="power_battery">Napájení</string>
+    <string name="power_charge">Nabíjení</string>
+    <string name="power_consume">Využití</string>
+    <string name="power_settings">Nastavení</string>
+    <string name="power_mode">Režim</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Čas celkové spotřeby energie procesoru</string>
+    <string name="usage_type_cpu_foreground">Procesor</string>
+    <string name="usage_type_wake_lock">Vždy zapnuto</string>
+    <string name="usage_type_alarm">Vzbudit systém</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Síť Wi-Fi funguje.</string>
+    <string name="usage_type_data_send">Odeslaná data</string>
+    <string name="usage_type_data_recv">Přijatá data</string>
+    <string name="usage_type_audio">Zvuk</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Čas spuštění</string>
+    <string name="usage_type_no_coverage">Doba bez signálu</string>
+    <string name="battery_history_days" formatted="false">%d d %d h %d m %d s</string>
+    <string name="battery_history_hours" formatted="false">%d h %d m %d s</string>
+    <string name="battery_history_minutes" formatted="false">%d m %d s</string>
+    <string name="battery_history_seconds">%d s</string>
+    <string name="battery_hour_minute" formatted="false">%d h %d m</string>
+    <string name="battery_hour">%d hod</string>
+    <string name="battery_minute">%d min</string>
+    <string name="battery_wakelock" formatted="false">%dkrát za %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d d %d h %d m %s s</string>
+    <string name="battery_wakelock_hours" formatted="false">%d h %d m %s s</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d m %s s</string>
+    <string name="battery_wakelock_seconds">%s s</string>
+    <string name="battery_alarm_time">%dkrát</string>
+    <string name="battery_screen_time">Od posledního plného nabití</string>
+    <string name="usage_type_wakelock_screen">Zabránit spánku obrazovky</string>
+    <string name="usage_type_wakelock_cpu">Zabránit spánku procesoru</string>
+    <string name="usage_type_sensor">Snímač využití</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Ostatní</string>
+    <string name="battery_screen_on_time">V režimu používání: %s</string>
+    <string name="battery_screen_off_time">V pohotovostním režimu: %s</string>
+    <string name="enter_setting">Spustit nastavení</string>
+    <string name="battery_tab_title_consume">Spotřeba energie</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d d %d h %d m</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d h %d m</string>
+    <string name="battery_history_minutes_without_seconds">%d m</string>
+    <string name="battery_sensor_info" formatted="false">%dkrát z celkem %s</string>
+    <string name="hour">h</string>
+    <string name="minute">m</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Nastavení podrobností o aplikaci nelze najít.</string>
+    <string name="mode_turnOff">Vypnuto</string>
+    <string name="mode_turnOn">Zapnuto</string>
+    <string name="main_switch_dialog_super">Povolí pouze volání a zprávy a zakáže všechny ostatní funkce, čímž pohotovostní dobu prodlouží na několik dní.</string>
+    <string name="deep_clear_result_to_white_list_new">Vybraná aplikace nebude ovlivněna</string>
+    <string name="temporary_no_app">Žádná aplikace</string>
+    <string name="progress_loading">Čekejte…</string>
+    <string name="failed_switch_app_state">Operace se nezdařila. Opakujte akci později.</string>
+    <string name="package_manger_list_type_third">Uživatelské aplikace</string>
+    <string name="package_manger_list_type_system">Systémové aplikace</string>
+    <string name="btn_return">Návrat</string>
+    <string name="main_switcher">Časované přepnutí</string>
+    <string name="switcher_detail">Automaticky povolit vybraný režim ve stanovené době</string>
+    <string name="switcher">Časované přepnutí</string>
+    <string name="switcher_start_time">Čas zahájení</string>
+    <string name="switcher_end_time">Čas ukončení</string>
+    <string name="switcher_tag">Povoleno pro toto období</string>
+    <string name="switcher_target_custom">Přizpůsobit</string>
+    <string name="mode_changed_dialog">Přepnutí režimu</string>
+    <string name="no_remind">Nezobrazovat výzvu</string>
+    <string name="new_sim">Nová karta SIM</string>
+    <string name="application_not_found_activity">Aplikace nebyla nalezena.</string>
+    <string name="classicmode_lable_phone">Tel.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Kontakty</string>
+    <string name="failed_get_safecenter_whitelist">Synchronizace seznamu povolených položek střediska LenovoSafeCenter se nezdařila. Znovu nainstalujte nejnovější verzi střediska LenovoSafeCenter.</string>
+    <string name="application_not_support_be_launched">Nastavení zabezpečení brání jiným aplikacím tuto aplikaci povolit.</string>
+    <string name="classic_phone_dialog_entering">Inicializace dat, Čekejte…</string>
+    <string name="classic_phone_dialog_existing">Obnovování dat, Čekejte…</string>
+    <string name="consumption_app_button">Software</string>
+    <string name="consumption_hardware_button">Hardware</string>
+    <string name="power_setting_menu_classic_phone">Režim maximální úspory energie</string>
+    <string name="power_setting_menu_smart">Úsporný režim obrazovky, procesoru a grafického jádra</string>
+    <string name="power_setting_menu_app_deep_clear">Při vypnutí obrazovky zamknout aplikace</string>
+    <string name="power_setting_menu_consumption">Informace o spotřebě energie</string>
+    <string name="statistic_assist_title">Pomocné statistické funkce</string>
+    <string name="power_consumption_title">Funkce úspory energie</string>
+    <string name="fragment_tab_deepclear">Při vypnutí obrazovky zamknout aplikace</string>
+    <string name="deep_clear_detail">Uzamčené aplikace na pozadí nebudou přerušovat režim spánku telefonu.</string>
+    <string name="dialog_timing_text">Přepínat do režimu maximální úspory energie?</string>
+    <string name="switcher_summery">Po uvedené době automaticky přepne do režimu maximální úspory.</string>
+    <string name="switcher_summery_close">Je-li tato volba povolena, dojde po uplynutí určeného času automaticky k přepnutí do režimu maximální úspory.</string>
+    <string name="classicmode_hit_text">Maximální úspora energie</string>
+    <string name="classic_phone_desktop_shortcut">Maximální úspora energie</string>
+    <string name="classic_phone_dialog_title">Výzva režimu maximální úspory energie</string>
+    <string name="classic_phone_dialog_enter">Skutečně chcete zapnout režim maximální úspory? Jste příliš pracovití. Nezapomeňte si udělat přestávku.</string>
+    <string name="classic_phone_dialog_exist">Opravdu chcete ukončit režim maximální úspory?</string>
+    <string name="classic_phone_failed_to_start_service">Režim maximální úspory energie se nepodařilo aktivovat. Udělali jsme, co bylo v našich silách.</string>
+    <string name="create_classicmode_desktop_shortcut">Vytvořit zástupce režimu maximální úspory na ploše</string>
+    <string name="classicmode_exit_hint_text">Chcete-li režim maximální úspory ukončit, klepněte na tlačítko Zavřít.</string>
+    <string name="setttings_screen_smart_brightness2">Obrazové jádro pro úsporu energie</string>
+    <string name="setttings_screen_smart_brightness_detail">Pomocí technologie sinusového nastavení jasu snižovat spotřebu o 5–20 %.</string>
+    <string name="power_engine_vmx_title">Výpočetní jádro pro úsporu energie</string>
+    <string name="power_engine_vmx_detail">Inteligentně nastavuje systém CPU pro snížení spotřeby energie o 10–25 %.</string>
+    <string name="power_engine_fps_title">Grafické jádro pro úsporu energie</string>
+    <string name="power_engine_fps_detail">Optimalizuje grafické jádro s cílem snížit spotřebu energie o 10–25 %.</string>
+    <string name="power_engine_summery_close">Je-li povoleno, inteligentně omezuje spotřebu energie obrazovkou, procesorem a grafickým jádrem.</string>
+    <string name="power_engine_summery_close2">Je-li povoleno, inteligentně omezuje spotřebu energie obrazovkou a grafickým jádrem.</string>
+    <string name="power_engine_summery_close3">Je-li povoleno, inteligentně omezuje spotřebu energie obrazovkou.</string>
+    <string name="power_engine_summery_close4">Je-li povoleno, inteligentně omezuje spotřebu energie obrazovkou a procesorem.</string>
+    <string name="power_setting_menu_smart2">Úsporný režim obrazovky</string>
+    <string name="power_setting_menu_smart3">Úsporný režim obrazovky, procesoru a grafického jádra</string>
+    <string name="power_setting_menu_smart4">Úsporný režim obrazovky a grafického jádra</string>
+    <string name="power_setting_menu_smart5">Úsporný režim obrazovky a procesoru</string>
+    <string name="power_setting_current_battery" formatted="false">Aktuální nabití: %s%s</string>
+    <string name="classicmode_lable_clock">Hodiny</string>
+</resources>

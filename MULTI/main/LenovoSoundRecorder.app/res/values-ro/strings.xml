@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">înregistratorul</string>
+    <string name="left_timer_format" formatted="false">Timp rămas: %02d„h”%02dm</string>
+    <string name="recording">Se înregistrează %1$s</string>
+    <string name="label_quality">Selectare calitate înregistrare</string>
+    <string name="remain_time">Timp rămas</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Revocare</string>
+    <string name="audio_db_artist_name">Artist de înregistrare</string>
+    <string name="audio_db_album_name">Înregistrări</string>
+    <string name="audio_db_playlist_name">Înregistrări</string>
+    <string name="exit_tip">Doriţi să părăsiţi înregistratorul?</string>
+    <string name="error_zero_audio">Imposibil de înregistrat conţinutul audio cu o durată de 0 secunde.</string>
+    <string name="error_busy_in_call">Terminaţi apelul, apoi utilizaţi înregistratorul!</string>
+    <string name="error_no_space">Spaţiu insuficient. Imposibil de înregistrat.</string>
+    <string name="error_sdcard_access">Imposibil de accesat cardul SD</string>
+    <string name="error_internal">Înregistratorul este în curs de rulare. Închideţi-l mai întâi!</string>
+    <string name="error_mediadb_new_record">Imposibil de salvat conţinutul audio înregistrat</string>
+    <string name="error_app_unsupported">Format neacceptat</string>
+    <string name="error_insert_sd_card">Introduceţi un card SD</string>
+    <string name="error_storage_is_full">Spaţiul de stocare este plin</string>
+    <string name="error_max_length">S-a atins durata maximă</string>
+    <string name="contextmenu_item_delete">Ştergere</string>
+    <string name="contextmenu_item_rename">Redenumire</string>
+    <string name="contextmenu_item_send_title">Trimitere</string>
+    <string name="contextmenu_item_setasringtone">Ton de apel</string>
+    <string name="label_setringtone_success">Înregistrarea \"%1$s\" a fost setată ca ton de apel</string>
+    <string name="setringtone_fail">Nu este necesară setarea tonului de apel în modul vibraţie sau silenţios</string>
+    <string name="del_selfile_tip">Sunteți sigur că doriți să ștergeți fișierele audio înregistrate?</string>
+    <string name="label_delete_success">Şters cu succes!</string>
+    <string name="input_toolong">Prea multe caractere introduse</string>
+    <string name="file_name_exist">Ne pare rău, numele fişierului nu poate fi repetat</string>
+    <string name="empty_len">Numele fişierului nu poate fi necompletat.</string>
+    <string name="namebad">Numele fişierului conţine caractere ilegale: \\ : ? * > \" | / etc.</string>
+    <string name="delete_tip">Ştergere înregistrare</string>
+    <string name="not_select">Nu aţi selectat nicio opţiune</string>
+    <string name="am_file">%1$s:%2$s am</string>
+    <string name="pm_file">%1$s:%2$s pm</string>
+    <string name="selected_number_of">%1$s selectat(e)</string>
+    <string name="saved_file_reminder">Fişierul este salvat ca „%1$s”</string>
+    <string name="delete_recorded">Ștergere fișiere de înregistrare</string>
+    <string name="delete_muti_msg">Se şterge. Vă rugăm, aşteptaţi...</string>
+    <string name="rename_record_file">Redenumire fişier</string>
+    <string name="soundrecorder_list">Înregistrări</string>
+    <string name="callrecorder_list">Înregistrări apeluri</string>
+    <string name="mediarecorder_list">Înregistrări media</string>
+    <string name="high_quality">Mod interviu (nivel ridicat)</string>
+    <string name="medium_quality">Mod conversaţie (nivel mediu)</string>
+    <string name="low_quality">Mod interacţiune (nivel scăzut)</string>
+    <string name="exit_record_play">Opriţi înregistrarea înainte de redare</string>
+    <string name="exit_play_edit">Opriţi redarea înainte de editare</string>
+    <string name="exit_playOrRecord_delete">Opriţi redarea sau înregistrarea înainte de a intra în modul de ştergere a lotului</string>
+    <string name="exit_toast">Faceţi clic din nou pentru a părăsi aplicaţia</string>
+    <string name="playlist_text">Listă de înregistrări</string>
+    <string name="fileDir_not_exist">Calea selectată pentru fişierul audio nu există!</string>
+</resources>

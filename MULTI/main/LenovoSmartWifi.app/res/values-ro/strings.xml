@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WlanBindingLocation</string>
+    <string name="setting_activity">Funcţie WLAN de asociere a locaţiei</string>
+    <string name="dialog_title">Activaţi WLAN?</string>
+    <string name="dialog_text">Ac. loc. s-a conectat la pct. de acces，activaţi WLAN？</string>
+    <string name="disable_dialog_title">Dezactivaţi WLAN?</string>
+    <string name="disable_dialog_text">Ac. loc. e departe de loc. pct. de acces conectat，dezact. WLAN？</string>
+    <string name="show_dialog">Nu doresc să mi se reamintească</string>
+    <string name="disable_show_dialog">Nu doresc să mi se reamintească</string>
+    <string name="wifi_enable_text">Accesare locaţie, mesaj pop-up</string>
+    <string name="wifi_enable_summary">Când acces. loc. pct. de acces conectat cu niv. de semnal 3 sau sup. şi dispuneţi de date GPRS，activ. con. WLAN</string>
+    <string name="wifi_disable_text">Locaţie îndepărtată, mesaj pop-up</string>
+    <string name="wifi_disable_summary">Când sunteţi departe de loc. pct. de acces conectat，dezact. WLAN</string>
+    <string name="wifi_setting_summary">Accesaţi reţeaua WLAN conectată, şi, ulterior, dacă utiliz. serviciul. de date 3G/2G GPRS în zona de acop. aferentă, vi se va ream. să vă conectaţi la ac. reţ. WLAN sau se va conecta autom. la ac. reţea</string>
+    <string name="wifi_popup_tip">mesaj pop-up</string>
+    <string name="wifi_auto_enable">Conectare automată</string>
+    <string name="wifi_auto_disable">Dezactivare automată</string>
+    <string name="wifi_popup_0">Legătură la pct. de acces conectat. Când accesaţi această locaţie, apare mesajul</string>
+    <string name="wifi_popup_1">Leg. la pct. de acces conectat. Când accesaţi ac. loc., se activ. autom.</string>
+    <string name="wifi_popup_2">Nu doresc să mi se reamintească</string>
+    <string name="confirm_yes">Da</string>
+    <string name="confirm_no">Nu</string>
+    <string name="enable_wifi_hint">Înreg. WLAN se conect. acum la reţeaua WLAN pentru a salva fluxul de date</string>
+    <string name="disable_wifi_hint">Înreg. WLAN dezact. acum con. WLAN pt. ec. de energie</string>
+</resources>

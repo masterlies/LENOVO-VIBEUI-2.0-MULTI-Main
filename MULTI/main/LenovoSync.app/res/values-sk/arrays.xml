@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Čaká sa</item>
+        <item>Zálohuje sa</item>
+        <item>Zálohované</item>
+        <item>Chyba</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Zrušené</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Čaká sa</item>
+        <item>Preberá sa</item>
+        <item>Odinštalovať</item>
+        <item>Chyba</item>
+        <item>Aktualizovať</item>
+        <item>Nainštalované</item>
+        <item>Zrušené</item>
+        <item>Inštaluje sa</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Zmeniť názov albumu</item>
+        <item>Odstrániť album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit je bezplatná mobilná aplikácia, ale operátori účtujú poplatky za prenos údajov v sieti.</item>
+        <item>Áno, tu sú.</item>
+        <item>SYNCit ukladá údaje používateľa na úrovni šifrovania bankingu na internete. Uchováva vaše osobné údaje a informácie v bezpečí pred prienikmi.</item>
+        <item>SYNCit bude automaticky zlučovať duplicitné kontakty v telefóne.</item>
+        <item>Aplikáciu môžete použiť, ak je v telefóne jeden z nasledujúcich systémov: Android, iOS, Symbian, prípadne podporujúci Javu. Môžete vyhľadať patričnú verziu, ktorú použiť.</item>
+        <item>Áno, podporuje systémy Symbian, iOS, Android a platformu Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Platia sa za SYNCit poplatky?</item>
+        <item>Je SYNCit a Android Backup rovnaký softvér?</item>
+        <item>Je SYNCit bezpečné? Nebude zneužité moje telefónne číslo alebo odcudzené moje zálohované údaje?</item>
+        <item>Prečo sa po zálohovaní znížil počet mojich kontaktov?</item>
+        <item>Môj telefón nie je značky Lenovo, môžem aplikáciu SYNCit použiť?</item>
+        <item>Podporuje SYNCit ďalšie platformy?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontakty</item>
+        <item>Správy</item>
+        <item>Záznamy hovorov</item>
+    </string-array>
+</resources>

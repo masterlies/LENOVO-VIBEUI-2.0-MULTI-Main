@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabadora</string>
+    <string name="left_timer_format" formatted="false">Tiempo restante: %02dh %02dm</string>
+    <string name="recording">Grabando %1$s</string>
+    <string name="label_quality">Seleccionar calidad de la grabación</string>
+    <string name="remain_time">Tiempo restante</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="audio_db_artist_name">Tus grabaciones</string>
+    <string name="audio_db_album_name">Grabaciones</string>
+    <string name="audio_db_playlist_name">Mis grabaciones</string>
+    <string name="exit_tip">¿Desea salir de la grabadora?</string>
+    <string name="error_zero_audio">No es posible grabar audio de 0 segundos de longitud.</string>
+    <string name="error_busy_in_call">Por favor, cuelgue y luego usar la grabadora!</string>
+    <string name="error_no_space">No hay espacio libre suficiente, no se puede grabar.</string>
+    <string name="error_sdcard_access">No fue posible acceder a la tarjeta SD</string>
+    <string name="error_internal">La grabadora está en ejecución, ciérrela primero.</string>
+    <string name="error_mediadb_new_record">No fue posible guardar el audio grabado</string>
+    <string name="error_app_unsupported">Formato sin soporte</string>
+    <string name="error_insert_sd_card">Inserte una tarjeta SD</string>
+    <string name="error_storage_is_full">El almacenamiento está lleno</string>
+    <string name="error_max_length">Se alcanzó longitud máxima</string>
+    <string name="contextmenu_item_delete">Eliminar</string>
+    <string name="contextmenu_item_rename">Renombrar</string>
+    <string name="contextmenu_item_send_title">Enviar</string>
+    <string name="contextmenu_item_setasringtone">Establecer...</string>
+    <string name="label_setringtone_success">La grabación \"%1$s\" se estableció como tono de timbre</string>
+    <string name="setringtone_fail">No es necesario establecer un tono de timbre en modalidad vibrar o modalidad silenciosa</string>
+    <string name="del_selfile_tip">¿Está seguro de que desea eliminar el archivo de audio?</string>
+    <string name="label_delete_success">Eliminado satisfactoriamente.</string>
+    <string name="input_toolong">Se ingresaron demasiados caracteres</string>
+    <string name="file_name_exist">Lo sentimos, no es posible repetir el nombre de archivo</string>
+    <string name="empty_len">El nombre de archivo no puede estar en blanco.</string>
+    <string name="namebad">El nombre del archivo contiene caracteres ilegal: \\ : ? * > \" | / etc.</string>
+    <string name="delete_tip">Suprimir grabación</string>
+    <string name="not_select">No seleccionó ninguna opción</string>
+    <string name="am_file">%1$s:%2$s am</string>
+    <string name="pm_file">%1$s:%2$s pm</string>
+    <string name="selected_number_of">Seleccionado(s): %1$s</string>
+    <string name="saved_file_reminder">El archivo se guardó como \"%1$s\"</string>
+    <string name="delete_recorded">Eliminar archivo de grabación</string>
+    <string name="delete_muti_msg">Eliminando, espere...</string>
+    <string name="rename_record_file">Renombrar archivo</string>
+    <string name="soundrecorder_list">Grabaciones</string>
+    <string name="callrecorder_list">Grabaciones de llamadas</string>
+    <string name="mediarecorder_list">Grabaciones de medios</string>
+    <string name="high_quality">Modalidad de entrevista (alta)</string>
+    <string name="medium_quality">Modalidad de conversación (media)</string>
+    <string name="low_quality">Modalidad de interacción (baja)</string>
+    <string name="exit_record_play">Deje de grabar antes de reproducir</string>
+    <string name="exit_play_edit">Deje de reproducir antes de editar</string>
+    <string name="exit_playOrRecord_delete">Deje de reproducir o grabar antes de ingresar a la modalidad de eliminación de lotes</string>
+    <string name="exit_toast">Haga clic nuevamente para salir de la aplicación</string>
+    <string name="playlist_text">Lista de grabación</string>
+    <string name="fileDir_not_exist">¡La ruta seleccionada para el archivo de audio no existe!</string>
+</resources>

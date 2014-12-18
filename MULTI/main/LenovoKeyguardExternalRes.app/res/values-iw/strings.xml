@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">כשל מסך נעילה. המסך יעבור למצב אבטחה. אנא המתינו לאתחול מסך הנעילה...</string>
+</resources>

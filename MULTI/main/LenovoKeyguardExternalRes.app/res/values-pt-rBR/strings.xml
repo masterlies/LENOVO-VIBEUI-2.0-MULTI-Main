@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">Falha da tela de bloqueio. A tela entrará no modo de segurança. Aguarde a reinicialização da tela de bloqueio...</string>
+</resources>

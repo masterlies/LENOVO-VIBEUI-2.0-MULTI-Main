@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>ወዲያውኑ</item>
+        <item>5 ሰከንዶች</item>
+        <item>15 ሰከንዶች</item>
+        <item>30 ሰከንዶች</item>
+        <item>1 ደቂቃ</item>
+        <item>2 ደቂቃዎች</item>
+        <item>5 ደቂቃዎች</item>
+        <item>10 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+    </string-array>
+</resources>

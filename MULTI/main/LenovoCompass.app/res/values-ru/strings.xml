@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Запрос</string>
+    <string name="Ok">ОК</string>
+    <string name="Cancel">Отмена</string>
+    <string name="app_name">Компас</string>
+    <string name="calibrate">Калибровка</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="calibrate_success">Калибровка завершена</string>
+    <string name="ignore">Игнорировать</string>
+    <string name="cannot_get_location">Невозможно получить информацию о местоположении.</string>
+    <string name="location_north">Сев. шир.</string>
+    <string name="location_south">Юж. шир.</string>
+    <string name="location_east">Вост. долг.</string>
+    <string name="location_west">Зап. долг.</string>
+    <string name="direction_north">С</string>
+    <string name="direction_south">Ю</string>
+    <string name="direction_east">В</string>
+    <string name="direction_west">З</string>
+    <string name="direction_east_north">С-В</string>
+    <string name="direction_east_south">Ю-В</string>
+    <string name="direction_west_north">С-З</string>
+    <string name="direction_west_south">Ю-З</string>
+    <string name="Tips">Так как поблизости от вас могут быть электромагнитные помехи, выполните фигуру, указанную на рисунке выше несколько раз для калибровки датчика.</string>
+    <string name="Warn">Поблизости могут быть электромагнитные помехи</string>
+    <string name="click_to_location">Коснитесь для получения геоданных</string>
+    <string name="warn_message">Разрешить использование геоданных, определяемых через GPS или беспроводные сети?</string>
+    <string name="no_warn_later">Больше не показывать</string>
+    <string name="start_calibration">Потрясите телефон для калибровки компаса</string>
+    <string name="no_location_server">Служба определения местоположения выключена</string>
+    <string name="DoNotSHowAgain">Больше не показывать</string>
+</resources>

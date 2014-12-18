@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sync_interval_entries">
+        <item>なし</item>
+        <item>3 時間</item>
+        <item>6 時間</item>
+        <item>12 時間</item>
+        <item>1 日 1 回</item>
+    </string-array>
+    <string-array name="sync_interval_values">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>24</item>
+    </string-array>
+</resources>

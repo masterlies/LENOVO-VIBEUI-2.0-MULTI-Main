@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диспетчер питания</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="power_consume_app_freeze">Остановить</string>
+    <string name="power_consume_app_unfreeze">Освободить</string>
+    <string name="power_consume_app_uninstall">Удалить</string>
+    <string name="power_consume_app_details">Сведения</string>
+    <string name="battery_usage_use">Разряжается: %s</string>
+    <string name="consumption_call">Голосовые вызовы</string>
+    <string name="consumption_screen">Экран</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">Процессор</string>
+    <string name="consumption_radio">Радиомодули</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">ОС Android</string>
+    <string name="power_media">Мультимедиа</string>
+    <string name="power_battery">Питание</string>
+    <string name="power_charge">Зарядка</string>
+    <string name="power_consume">Расход</string>
+    <string name="power_settings">Настройки</string>
+    <string name="power_mode">Режимы работы</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">ЦП:</string>
+    <string name="usage_type_cpu_foreground">ЦП</string>
+    <string name="usage_type_wake_lock">Активный режим</string>
+    <string name="usage_type_alarm">Система пробуждения</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Использование Wi-Fi</string>
+    <string name="usage_type_data_send">Отправлено</string>
+    <string name="usage_type_data_recv">Получено</string>
+    <string name="usage_type_audio">Звук</string>
+    <string name="usage_type_video">Видео</string>
+    <string name="usage_type_on_time">Время работы</string>
+    <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
+    <string name="battery_history_days" formatted="false">%d дн. %d час. %d мин. %d сек.</string>
+    <string name="battery_history_hours" formatted="false">%d час. %d мин. %d сек.</string>
+    <string name="battery_history_minutes" formatted="false">%d мин. %d сек.</string>
+    <string name="battery_history_seconds">%d сек.</string>
+    <string name="battery_hour_minute" formatted="false">%d час. %d мин.</string>
+    <string name="battery_hour">%d час.</string>
+    <string name="battery_minute">%d мин.</string>
+    <string name="battery_history_millisecond">%d мс.</string>
+    <string name="battery_wakelock" formatted="false">%d раз(а) за %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d дн. %d час. %d мин. %s сек.</string>
+    <string name="battery_wakelock_hours" formatted="false">%d дн. %d мин. %s сек.</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d мин. %s сек.</string>
+    <string name="battery_wakelock_seconds">%s сек.</string>
+    <string name="battery_alarm_time">%d раз(а)</string>
+    <string name="battery_screen_time">С последней полной зарядки</string>
+    <string name="usage_type_wakelock_screen">Предотвращение перехода экрана в спящий режим</string>
+    <string name="usage_type_wakelock_cpu">Предотвращение перехода ЦП в спящий режим</string>
+    <string name="usage_type_sensor">Частота использования</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Прочее</string>
+    <string name="battery_screen_on_time">Разряжается: %s</string>
+    <string name="battery_screen_off_time">Ожидание: %s</string>
+    <string name="enter_setting">Параметры</string>
+    <string name="battery_tab_title_consume">Энергопотребление</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d дн. %d час. %d мин.</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d час. %d мин.</string>
+    <string name="battery_history_minutes_without_seconds">%d мин.</string>
+    <string name="battery_sensor_info" formatted="false">%d раз(а) по %s</string>
+    <string name="hour">час.</string>
+    <string name="minute">мин.</string>
+    <string name="second">сек.</string>
+    <string name="application_not_found">Не удалось найти сведений о приложении</string>
+    <string name="mode_turnOff">Откл.</string>
+    <string name="mode_turnOn">Вкл.</string>
+    <string name="main_switch_dialog_super">Только вызовы и SMS-сообщения, остальные функции отключены</string>
+    <string name="deep_clear_result_to_white_list_new">Выбранное приложение не будет затронуто</string>
+    <string name="temporary_no_app">Нет приложения</string>
+    <string name="progress_loading">Подождите…</string>
+    <string name="failed_switch_app_state">Не удалось выполнить операцию. Повторите попытку позже</string>
+    <string name="package_manger_list_type_third">Пользовательские приложения</string>
+    <string name="package_manger_list_type_system">Системные приложения</string>
+    <string name="btn_return">Назад</string>
+    <string name="main_switcher">Переключение по времени</string>
+    <string name="switcher_detail">Автовключение режима работы по времени</string>
+    <string name="switcher">Переключение по времени</string>
+    <string name="switcher_start_time">Вкл.</string>
+    <string name="switcher_end_time">Откл.</string>
+    <string name="switcher_tag">Режим:</string>
+    <string name="switcher_target_custom">Пользовател.</string>
+    <string name="mode_changed_dialog">Переключение режима</string>
+    <string name="no_remind">Не показывать</string>
+    <string name="new_sim">Новая SIM</string>
+    <string name="application_not_found_activity">Это приложение не обнаружено</string>
+    <string name="classicmode_lable_phone">Тел.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Контакты</string>
+    <string name="failed_get_safecenter_whitelist">Не удалось синхронизировать белый список Lenovo Security. Переустановите последнюю версию Lenovo Security</string>
+    <string name="application_not_support_be_launched">Другие приложения могут запрещать работу этого приложения из-за настроек безопасности</string>
+    <string name="classic_phone_dialog_entering">Инициализация данных. Подождите…</string>
+    <string name="classic_phone_dialog_existing">Восстановление данных. Подождите…</string>
+    <string name="consumption_app_button">Программы</string>
+    <string name="consumption_hardware_button">Оборудование</string>
+    <string name="power_setting_menu_classic_phone">Экстренный режим</string>
+    <string name="power_setting_menu_smart">Энергосбережение экрана, ЦП и графического процессора</string>
+    <string name="power_setting_menu_app_deep_clear">Отключение приложений в спящем режиме</string>
+    <string name="power_setting_menu_consumption">Расход энергии</string>
+    <string name="statistic_assist_title">Дополнительные функции</string>
+    <string name="power_consumption_title">Функции энергосбережения</string>
+    <string name="fragment_tab_deepclear">Отключение приложений в спящем режиме</string>
+    <string name="deep_clear_detail">Отключенные приложения не потребляют энергии, когда устройство переходит в спящий режим</string>
+    <string name="dialog_timing_text">Переключить в экстренный режим (режим максимального энергосбережения)?</string>
+    <string name="switcher_summery">Автоматическое переключение в экстренный режим по расписанию</string>
+    <string name="switcher_summery_close">Данная функция позволяет переключать режимы работы устройства по расписанию</string>
+    <string name="classicmode_hit_text">Экстренный режим</string>
+    <string name="classic_phone_desktop_shortcut">Экстренный режим</string>
+    <string name="classic_phone_dialog_title">Активация экстренного режима</string>
+    <string name="classic_phone_dialog_enter">Устройство будет переведено в режим максимального энергосбережения. Активировать экстренный режим?</string>
+    <string name="classic_phone_dialog_exist">Выйти из экстренного режима?</string>
+    <string name="classic_phone_failed_to_start_service">Не удалось включить экстренный режим</string>
+    <string name="create_classicmode_desktop_shortcut">Создать на рабочем столе ярлык экстренного режима</string>
+    <string name="classicmode_exit_hint_text">Для выхода из экстренного режима энергосбережения коснитесь кнопки закрытия</string>
+    <string name="setttings_screen_smart_brightness2">Экономия энергии за счет яркости подсветки экрана</string>
+    <string name="setttings_screen_smart_brightness_detail">Снижает энергопотребление на 5-20%</string>
+    <string name="power_engine_vmx_title">Механизм сбережения энергии для вычислительной системы</string>
+    <string name="power_engine_vmx_detail">Интеллектуальная настройка ЦП для снижения потребления энергии на 10–25%</string>
+    <string name="power_engine_fps_title">Экономия энергии за счет видеоускорителя</string>
+    <string name="power_engine_fps_detail">Оптимизация работы графического процессора снижает потребление энергии на 10-25%</string>
+    <string name="power_engine_summery_close">После включения этой функции энергопотребление экрана, ЦП и графического процессора уменьшается интеллектуально</string>
+    <string name="power_engine_summery_close2">Эта опция снижает энергопотребление экрана и графического процессора</string>
+    <string name="power_engine_summery_close3">После включения этой функции энергопотребление экрана уменьшается интеллектуальным образом</string>
+    <string name="power_engine_summery_close4">Эта опция интеллектуально снижает энергопотребление экрана и графического процессора</string>
+    <string name="power_setting_menu_smart2">Энергосбережение экрана</string>
+    <string name="power_setting_menu_smart3">Энергосбережение экрана, ЦП и графического процессора</string>
+    <string name="power_setting_menu_smart4">Смарт-экономия для экрана и графического процессора</string>
+    <string name="power_setting_menu_smart5">Энергосбережение экрана и ЦП</string>
+    <string name="power_setting_current_battery" formatted="false">Заряд: %s%s</string>
+    <string name="classicmode_lable_clock">Часы</string>
+</resources>

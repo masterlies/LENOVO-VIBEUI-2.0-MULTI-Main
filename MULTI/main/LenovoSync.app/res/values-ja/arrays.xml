@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>待機中</item>
+        <item>バックアップ中</item>
+        <item>バックアップ済</item>
+        <item>エラー</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>キャンセルしました</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>待機中</item>
+        <item>ダウンロード中</item>
+        <item>アンインストール</item>
+        <item>エラー</item>
+        <item>アップデート</item>
+        <item>インストール完了</item>
+        <item>キャンセルしました</item>
+        <item>インストール中</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>アルバム名の変更</item>
+        <item>アルバムの削除</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>"デフォルトパスワード: 登録完了後、Lenovo からパスワードを記載した SMS を受け取ります。長い時間が経っても受信しない場合は、セキュリティアプリ (360 Safe Guard) などで SMS をブロックしていないか確認してください。それでも SMS を受信しない、またはメッセージを紛失した場合は、「パスワードの取得」を参照してください。  
+
+ パスワードの変更: コンピュータから http://cloud.lenovo.com にアクセスしてパスワードを変更します。  
+
+ パスワードの取得: 左上隅にある「その他」のボタンをタップして、[アカウントの設定] と入力します。 すでにログインしている場合は、ログアウトしてください。 [パスワードを忘れた場合] が表示されたら、指示に従います。"</item>
+        <item>SYNCit は携帯用無料アプリです。ただし、そのダウンロードおよび使用においては、プロバイダがネットワーク使用料を請求する場合があります。</item>
+        <item>スマートバックアップおよびリカバリは、ローカルとクラウドの整合性を保ち、連絡先データの損失を防ぎます。</item>
+        <item>連絡先の同期処理において、SYNCit は名前および番号が同じ連絡先を自動的に統合します。連絡先データを損失したと思っても心配はいりません。</item>
+        <item>PC から http://cloud.lenovo.com にアクセスし、バックアップデータの削除、編集、追加などの管理操作が行えます。</item>
+        <item>データの転送および保管のプロセスにおいて、SYNCit はオンラインバンキングレベルの暗号化を適用して個人情報の漏洩を防止しています。</item>
+        <item>間違って連絡先を削除したとき、 連絡先の同期を実施している場合は、SYNCit の [ごみ箱] から取得できます。回復が完了したら、連絡先を同期して損失を防ぎます。</item>
+        <item>Android 2.2、iOS5、Symbian 以上、または java に対応している場合は、利用可能なバージョンが携帯で利用できます。</item>
+        <item>SYNCit はクロスプラットフォームをサポートしています。また、Android、Symbian、iPhone、およびその他の java 対応携帯電話に適用できます。</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>アカウント用のデフォルトパスワードは何ですか？ パスワードはどうやって変更しますか？ パスワードを忘れた場合はどのように取得しますか？</item>
+        <item>SYNCit は無料ですか？</item>
+        <item>連絡先の同期とは何ですか？</item>
+        <item>連絡先を同期すると、ローカルの連絡先を失うのはどうしてですか？</item>
+        <item>データをバックアップするための管理操作 (削除など) はどのように実施しますか？</item>
+        <item>SYNCit は安全ですか？ アカウントやバックアップデータは盗まれませんか？</item>
+        <item>誤って連絡先を削除した場合はどのように取得できますか？</item>
+        <item>SYNCit は Lenovo 携帯専用ですか？</item>
+        <item>SYNCit はクロスプラットフォームをサポートしていますか？</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>連絡先</item>
+        <item>メッセージ</item>
+        <item>通話記録</item>
+    </string-array>
+</resources>

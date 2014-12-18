@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GizliKod</string>
+    <string name="hardversion">Donanım sürümü:</string>
+    <string name="softversion">Yazılım sürümü:</string>
+    <string name="frameworkversion">Çerçeve sürümü:</string>
+    <string name="osversion">İşletim Sistemi sürümü:</string>
+    <string name="modemversion">Modem sürümü:</string>
+    <string name="meid_activity_title">PRL Sürümü</string>
+    <string name="disable_fdn_activity_title">Fdn Ayarı</string>
+    <string name="tv_text">"Başlangıç FDN ayarları.
+(Etkinleştir/Devre Dışı Bırak)"</string>
+    <string name="btn_post">Etkinleştir</string>
+    <string name="btn_neg">Devre dışı bırak</string>
+    <string name="enable_fdn">Etkinleştir</string>
+    <string name="disable_fdn">Devre dışı bırak</string>
+    <string name="reboot_device_title">Cihazı yeniden başlat</string>
+    <string name="reboot_device_message_pre_on">SS Hizmeti etkinleştirildi</string>
+    <string name="reboot_device_message_pre_off">SS Hizmeti devre dışı bırakıldı</string>
+    <string name="reboot_device_message_post">(Yeniden Başlatma Gerekir!!!)</string>
+    <string name="reboot">Yeniden başlat</string>
+    <string name="cancel">İptal</string>
+    <string name="default_state">Hata:</string>
+    <string name="cur_state">Mevcut SS Hizmetinin Durumu:</string>
+    <string name="alert_string">Uyarı!</string>
+    <string name="alert_message_string">[OK] tuşuna basıldığında fabrika ayarlarına geri dönülür ve tüm kullanıcı verileri silinir; normal kullanıcıların dikkatli olması önerilir!</string>
+    <string name="alert_message_ums_string">[OK] tuşuna basıldığında hata ayıklama için usb.config, mass_storage moduna geçirilir; normal kullanıcıların dikkatli olması önerilir!</string>
+    <string name="alert_ok">Tamam</string>
+    <string name="alert_no">Hayır</string>
+    <string name="framework_inf">İç Sürüm</string>
+    <string name="commit_cate">Kaydet</string>
+    <string name="summary_on">AÇIK</string>
+    <string name="summary_off">KAPALI</string>
+    <string name="report_log_summary">Bildir</string>
+    <string name="report_log_title">Bildir</string>
+    <string name="yes_exit">Evet</string>
+    <string name="no_exit">Hayır</string>
+    <string name="enable">Etkinleştir</string>
+    <string name="disable">Disabled (Devre dışı)</string>
+    <string name="regulatory_information">Düzenleme bilgileri</string>
+</resources>

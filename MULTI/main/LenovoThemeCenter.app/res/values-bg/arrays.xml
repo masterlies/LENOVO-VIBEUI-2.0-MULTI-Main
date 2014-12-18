@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>екран при заключване</item>
+        <item>стартираща програма</item>
+        <item>икони</item>
+        <item>тапет</item>
+        <item>системен език на потребителския интерфейс</item>
+        <item>ideafriend</item>
+        <item>екран за обаждания</item>
+        <item>системен изпълним модул</item>
+        <item>стартиране/изключване</item>
+        <item>шрифт</item>
+    </string-array>
+</resources>

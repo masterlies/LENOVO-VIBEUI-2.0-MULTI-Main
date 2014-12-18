@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Správca napájania</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="power_consume_app_freeze">Zmraziť</string>
+    <string name="power_consume_app_unfreeze">Rozmraziť</string>
+    <string name="power_consume_app_uninstall">Odinštalovať</string>
+    <string name="power_consume_app_details">Podrobnosti</string>
+    <string name="battery_usage_use">Používanie batérie: %s</string>
+    <string name="consumption_call">Hlasové hovory</string>
+    <string name="consumption_screen">Obrazovka</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">Procesor</string>
+    <string name="consumption_radio">Pohotovostný režim siete</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">OS Android</string>
+    <string name="power_media">Médiá</string>
+    <string name="power_battery">Napájanie</string>
+    <string name="power_charge">Nabíjanie</string>
+    <string name="power_consume">Používanie</string>
+    <string name="power_settings">Nastavenia</string>
+    <string name="power_mode">Režim</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Celkový čas využitia procesora</string>
+    <string name="usage_type_cpu_foreground">Procesor</string>
+    <string name="usage_type_wake_lock">Nezamykať obrazovku</string>
+    <string name="usage_type_alarm">Prebudenie systému</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi funguje</string>
+    <string name="usage_type_data_send">Odoslané údaje</string>
+    <string name="usage_type_data_recv">Prijaté údaje</string>
+    <string name="usage_type_audio">Zvuk</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Čas spustenia</string>
+    <string name="usage_type_no_coverage">Čas bez signálu</string>
+    <string name="battery_history_days" formatted="false">%d d %d hod. %d min. %d s</string>
+    <string name="battery_history_hours" formatted="false">%d hod. %d min. %d s</string>
+    <string name="battery_history_minutes" formatted="false">%d min. %d s</string>
+    <string name="battery_history_seconds">%d s</string>
+    <string name="battery_hour_minute" formatted="false">%d hod. %d min.</string>
+    <string name="battery_hour">%d hod.</string>
+    <string name="battery_minute">%d min.</string>
+    <string name="battery_history_millisecond">%d ms</string>
+    <string name="battery_wakelock" formatted="false">%d-krát v dĺžke %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d d %d hod. %d min. %s s</string>
+    <string name="battery_wakelock_hours" formatted="false">%d hod. %d min. %s s</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d min. %s s</string>
+    <string name="battery_wakelock_seconds">%s s</string>
+    <string name="battery_alarm_time">%d-krát</string>
+    <string name="battery_screen_time">Od posledného plného nabitia</string>
+    <string name="usage_type_wakelock_screen">Zabrániť uspatiu obrazovky</string>
+    <string name="usage_type_wakelock_cpu">Zabrániť uspatiu procesora</string>
+    <string name="usage_type_sensor">Snímač používania</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Iné</string>
+    <string name="battery_screen_on_time">Používané: %s</string>
+    <string name="battery_screen_off_time">V pohotovostnom režime: %s</string>
+    <string name="enter_setting">Zobraziť nastavenia</string>
+    <string name="battery_tab_title_consume">Spotreba energie</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d d %d hod. %d min.</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d hod. %d min.</string>
+    <string name="battery_history_minutes_without_seconds">%d min.</string>
+    <string name="battery_sensor_info" formatted="false">%d-krát v dĺžke spolu %s</string>
+    <string name="hour">h</string>
+    <string name="minute">min.</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Nepodarilo sa nájsť podrobné nastavenia aplikácie</string>
+    <string name="mode_turnOff">Vypnuté</string>
+    <string name="mode_turnOn">Zapnuté</string>
+    <string name="main_switch_dialog_super">Zapnú sa len funkcie hovorov a správ a vypnú sa všetky ostatné funkcie, aby bola výdrž v pohotovostnom režime niekoľko dní</string>
+    <string name="deep_clear_result_to_white_list_new">Na vybratú aplikáciu to nebude mať vplyv</string>
+    <string name="temporary_no_app">Žiadna aplikácia</string>
+    <string name="progress_loading">Počkajte, prosím…</string>
+    <string name="failed_switch_app_state">Operácia zlyhala. Skúste to znova neskôr.</string>
+    <string name="package_manger_list_type_third">Používateľské aplikácie</string>
+    <string name="package_manger_list_type_system">Systémové aplikácie</string>
+    <string name="btn_return">Enter</string>
+    <string name="main_switcher">Časované prepnutie</string>
+    <string name="switcher_detail">Automatické zapnutie určeného režimu v zadanom období</string>
+    <string name="switcher">Časované prepnutie</string>
+    <string name="switcher_start_time">Čas začiatku</string>
+    <string name="switcher_end_time">Čas ukončenia</string>
+    <string name="switcher_tag">Aktivovať režim:</string>
+    <string name="switcher_target_custom">Prispôsobiť</string>
+    <string name="mode_changed_dialog">Prepnutie režimu</string>
+    <string name="no_remind">Viac nepripomínať</string>
+    <string name="new_sim">Nová karta SIM</string>
+    <string name="application_not_found_activity">Aplikácia nebola nájdená</string>
+    <string name="classicmode_lable_phone">Tel.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Kontakty</string>
+    <string name="failed_get_safecenter_whitelist">Nepodarilo sa synchronizovať bielu listinu aplikácie LenovoSafeCenter. Preinštalujte najnovšiu verziu aplikácie LenovoSafeCenter.</string>
+    <string name="application_not_support_be_launched">Iné aplikácie nemôžu zapnúť túto aplikáciu z dôvodu nastavení zabezpečenia</string>
+    <string name="classic_phone_dialog_entering">Inicializujú sa údaje, počkajte, prosím…</string>
+    <string name="classic_phone_dialog_existing">Obnovujú sa údaje, počkajte, prosím…</string>
+    <string name="consumption_app_button">Softvér</string>
+    <string name="consumption_hardware_button">Hardvér</string>
+    <string name="power_setting_menu_classic_phone">Režim max. šetriča energie</string>
+    <string name="power_setting_menu_smart">Šetrič energie – obrazovka, procesor a procesor GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Pri vypnutej obrazovke vypnúť aplikácie</string>
+    <string name="power_setting_menu_consumption">Podrobnosti o spotrebe energie</string>
+    <string name="statistic_assist_title">Pomocné štatistické funkcie</string>
+    <string name="power_consumption_title">Funkcie šetriča energie</string>
+    <string name="fragment_tab_deepclear">Pri vypnutej obrazovke vypnúť aplikácie</string>
+    <string name="deep_clear_detail">Po vypnutí aplikácie neprerušujú režim spánku systému na pozadí</string>
+    <string name="dialog_timing_text">Prepnúť do režimu maximálneho šetriča energie?</string>
+    <string name="switcher_summery">Automatické prepnutie do režimu maximálneho šetriča energie v určených časových obdobiach</string>
+    <string name="switcher_summery_close">Keď túto funkciu zapnete, v určených časových obdobiach vykoná automatické prepnutie do režimu maximálneho šetriča energie</string>
+    <string name="classicmode_hit_text">Maximálny šetrič energie</string>
+    <string name="classic_phone_desktop_shortcut">Maximálny šetrič energie</string>
+    <string name="classic_phone_dialog_title">Výzva max. šetriča energie</string>
+    <string name="classic_phone_dialog_enter">Naozaj chcete zapnúť maximálneho šetriča energie? Ste príliš pracovití. Nezabudnite si urobiť prestávku.</string>
+    <string name="classic_phone_dialog_exist">Naozaj chcete vypnúť maximálny šetrič energie?</string>
+    <string name="classic_phone_failed_to_start_service">Nepodarilo sa spustiť maximálneho šetriča energie. Ľutujeme.</string>
+    <string name="create_classicmode_desktop_shortcut">Vytvoriť odkaz na maximálneho šetriča energie na pracovnej ploche</string>
+    <string name="classicmode_exit_hint_text">Ak chcete vypnúť maximálneho šetriča energie, ťuknite na tlačidlo zatvorenia</string>
+    <string name="setttings_screen_smart_brightness2">Zobrazovanie s úsporou energie</string>
+    <string name="setttings_screen_smart_brightness_detail">Technológia úpravy jasu pomocou sínusovej vlny zníži spotrebu energie o 5 – 20 %</string>
+    <string name="power_engine_vmx_title">Výpočty s úsporou energie</string>
+    <string name="power_engine_vmx_detail">Inteligentné nastavovanie procesora zníži spotrebu energie o 10 – 25 %</string>
+    <string name="power_engine_fps_title">Grafika s úsporou energie</string>
+    <string name="power_engine_fps_detail">Optimalizácia procesora GPU zníži spotrebu energie o 10 – 25 %</string>
+    <string name="power_engine_summery_close">Po zapnutí bude inteligentne znižovať spotrebu energie obrazovkou, procesorom a procesorom GPU</string>
+    <string name="power_engine_summery_close2">Po zapnutí bude inteligentne znižovať spotrebu energie obrazovky a procesora GPU</string>
+    <string name="power_engine_summery_close3">Po zapnutí bude inteligentne znižovať spotrebu energie obrazovkou</string>
+    <string name="power_engine_summery_close4">Po zapnutí bude inteligentne znižovať spotrebu energie obrazovkou a procesorom</string>
+    <string name="power_setting_menu_smart2">Šetrič energie – obrazovka</string>
+    <string name="power_setting_menu_smart3">Šetrič energie – obrazovka, procesor a procesor GPU</string>
+    <string name="power_setting_menu_smart4">Šetrič energie – obrazovka a procesor GPU</string>
+    <string name="power_setting_menu_smart5">Šetrič energie – obrazovka a procesor</string>
+    <string name="power_setting_current_battery" formatted="false">Aktuálne nabitie: %s%s</string>
+    <string name="classicmode_lable_clock">Hodiny</string>
+</resources>

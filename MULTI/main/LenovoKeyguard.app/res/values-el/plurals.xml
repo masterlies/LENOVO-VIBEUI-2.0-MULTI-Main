@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Ο κωδ. πρόσβασης πρέπει να περιλαμβάνει τουλάχ. %d γράμ.</item>
+        <item quantity="one">Ο κωδ. πρόσβασης πρέπει να περιλαμβάνει τουλάχ. 1 γράμμα.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d πεζά γράμ.</item>
+        <item quantity="one">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. 1 πεζό γράμ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d κεφ. γράμ.</item>
+        <item quantity="one">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. 1 κεφ. γράμ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d αριθμ.</item>
+        <item quantity="one">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. 1 αριθ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d ειδικά σύμβ.</item>
+        <item quantity="one">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. 1 ειδικό σύμβ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d μη αλφαβ. χαρακτ.</item>
+        <item quantity="one">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. 1 μη αλφαβ. χαρακ.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Εσφαλμένος κωδικός PIN κάρτας %1$s. Απομένουν %2$d προσπάθειες.</item>
+        <item quantity="one">Εσφαλμένος κωδικός PIN κάρτας %1$s. Απομένει άλλη %2$d προσπάθεια. Στη συνέχεια, θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Εσφαλμένος κωδικός PUK κάρτας %1$s. Απομένουν %2$d προσπάθειες προτού δεν είναι πλέον δυνατή η χρήση της κάρτας %1$s.</item>
+        <item quantity="one">Εσφαλμένος κωδικός PUK κάρτας %1$s. Απομένει άλλη %2$d προσπάθεια προτού δεν είναι πλέον δυνατή η χρήση της κάρτας %1$s.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Εσφαλμένος κωδικός PIN κάρτας SIM. Απομένουν %d προσπάθειες.</item>
+        <item quantity="one">Εσφαλμένος κωδικός PIN κάρτας SIM. Απομένει άλλη %d προσπάθεια. Στη συνέχεια, θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Εσφαλμένος κωδικός PUK κάρτας SIM. Απομένουν %d προσπάθειες προτού δεν είναι πλέον δυνατή η χρήση της κάρτας SIM.</item>
+        <item quantity="one">Εσφαλμένος κωδικός PUK κάρτας SIM. Απομένει άλλη %d προσπάθεια προτού δεν είναι πλέον δυνατή η χρήση της κάρτας SIM.</item>
+    </plurals>
+</resources>

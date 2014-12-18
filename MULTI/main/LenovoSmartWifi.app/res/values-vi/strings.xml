@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vị trí kết nối WLAN</string>
+    <string name="setting_activity">Liên kết WLAN</string>
+    <string name="dialog_title">Bật WLAN?</string>
+    <string name="dialog_text">Vị trí này đã là điểm truy cập được kết nối，bật WLAN？</string>
+    <string name="disable_dialog_title">Tắt WLAN?</string>
+    <string name="disable_dialog_text">Vị trí này cách xa vị trí của điểm truy cập được kết nối, tắt WLAN?</string>
+    <string name="show_dialog">Đừng nhắc tôi nữa</string>
+    <string name="disable_show_dialog">Đừng nhắc tôi nữa</string>
+    <string name="wifi_enable_text">Vào vị trí, cửa sổ bật lên nhắc</string>
+    <string name="wifi_enable_summary">Khi vào vị trí của điểm truy cập được kết nối có mức tín hiệu 3 trở lên và có dữ liệu GRPS, bật WLAN</string>
+    <string name="wifi_disable_text">Xa vị trí, cửa sổ bật lên nhắc</string>
+    <string name="wifi_disable_summary">Khi ở vị trí của điểm truy cập đã kết nối，tắt WLAN</string>
+    <string name="wifi_setting_summary">Gắn kết mạng WLAN đã kết nối, sau đó nếu bạn sử dụng dịch vụ dữ liệu GPRS 3G/2G sau này trong vùng phủ sóng của nó, thì bạn sẽ được nhắc kết nối mạng WLAN này hoặc sẽ tự động kết nối với mạng này</string>
+    <string name="wifi_popup_tip">Cửa sổ bật lên nhắc</string>
+    <string name="wifi_auto_enable">Tự động kết nối</string>
+    <string name="wifi_auto_disable">Tự động tắt</string>
+    <string name="wifi_popup_0">Gắn kết điểm truy cập đã kết nối. Khi vào vị trí này, cửa sổ bật lên nhắc</string>
+    <string name="wifi_popup_1">Gắn kết điểm truy cập đã kết nối. Khi vào vị trí này, tự động bật</string>
+    <string name="wifi_popup_2">Đừng nhắc tôi nữa</string>
+    <string name="confirm_yes">Có</string>
+    <string name="confirm_no">Không</string>
+    <string name="enable_wifi_hint">Tính năng Ghi WLAN sẽ kết nối với mạng WLAN ngay bây giờ để lưu luồng dữ liệu của bạn</string>
+    <string name="disable_wifi_hint">Tính năng Ghi WLAN sẽ tắt WLAN ngay bây giờ để tiết kiệm điện năng</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Laukiama</item>
+        <item>Kuriama atsarginė kopija</item>
+        <item>Sukurta atsarginė kopija</item>
+        <item>Klaida</item>
+        <item>Gerai</item>
+        <item>Gerai</item>
+        <item>Atšaukta</item>
+        <item>Gerai</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Laukiama</item>
+        <item>Atsisiunčiama</item>
+        <item>Išdiegti</item>
+        <item>Klaida</item>
+        <item>Naujinti</item>
+        <item>Įdiegta</item>
+        <item>Atšaukta</item>
+        <item>Diegiama</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Keisti albumo pavadinimą</item>
+        <item>Ištrinti albumą</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit yra nemokama mobili programa, bet operatoriai gali apmokestinti už tinklo srauto sąnaudas, kai ja naudojamasi.</item>
+        <item>Taip.</item>
+        <item>SYNCit saugo vartotojo informaciją tokiu šifravimo lygiu kaip ir internetinės bankininkystės. Asmeniniai duomenys ir informacija neabejotinai apsaugoti nuo nutekėjimo.</item>
+        <item>SYNCit automatiškai sujungs dubliuotus kontaktus telefone.</item>
+        <item>Savaime suprantama, kad galite, jei jūsų telefono sistema yra viena iš šių: „Android“, iOS, „Symbian“ arba yra su „Java“ (galite rasti atitinkamą versiją, kai norėsite naudoti).</item>
+        <item>Taip, ji veikia su „Symbian“, iOS, „Android“ ir „Java“ platforma.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Ar SYNCit mokama?</item>
+        <item>Ar SYNCit ir „Android Backup“ ta pati programinė įranga?</item>
+        <item>Ar SYNCit saugu? Ar ji nepavogs mano telefono numerio arba atsarginių kopijų duomenų?</item>
+        <item>Kodėl sumažėja kontaktų, kai sukuriama atsarginė kopija?</item>
+        <item>Ar vis tiek galiu naudoti SYNCit, nors telefonas nėra pagamintas „Lenovo“ įmonės?</item>
+        <item>Ar SYNCit pritaikyta kitoms platformoms?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontaktai</item>
+        <item>Pranešimai</item>
+        <item>Skambučių registrai</item>
+    </string-array>
+</resources>

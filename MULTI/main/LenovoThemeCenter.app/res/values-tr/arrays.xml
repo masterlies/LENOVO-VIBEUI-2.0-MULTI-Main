@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>kilit ekranı</item>
+        <item>başlatıcı</item>
+        <item>simgeler</item>
+        <item>duvar kağıdı</item>
+        <item>sistemArabirimi</item>
+        <item>ideafriend</item>
+        <item>aramaEkranı</item>
+        <item>sistemwidget</item>
+        <item>önyükleme kapatma</item>
+        <item>yazıTipi</item>
+    </string-array>
+</resources>

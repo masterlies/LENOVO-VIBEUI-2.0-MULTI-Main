@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Postavke pisača</string>
+    <string name="print_button">Ispis</string>
+    <string name="save_button">Spremi</string>
+    <string name="label_destination">Odredište</string>
+    <string name="label_copies">Kopije</string>
+    <string name="label_paper_size">Veličina papira</string>
+    <string name="label_color">U boji</string>
+    <string name="label_orientation">Orijentacija</string>
+    <string name="label_pages">Stranice (%1$s)</string>
+    <string name="pages_range_example">npr. 1 – 5,8,11 – 13</string>
+    <string name="print_preview">Pregled ispisa</string>
+    <string name="install_for_print_preview">Instaliraj PDF preglednik za pregled</string>
+    <string name="printing_app_crashed">Srušila se aplikacija za ispis</string>
+    <string name="page_count_unknown">Stranice</string>
+    <string name="generating_print_job">Generiranje zadatka ispisa</string>
+    <string name="save_as_pdf">Spremi kao PDF</string>
+    <string name="all_printers">Svi pisači…</string>
+    <string name="print_dialog">Dijaloški okvir za ispis</string>
+    <string name="search">Pretraživanje</string>
+    <string name="all_printers_label">Svi pisači</string>
+    <string name="add_print_service_label">Dodaj uslugu</string>
+    <string name="print_search_box_shown_utterance">Okvir za pretraživanje prikazan je</string>
+    <string name="print_search_box_hidden_utterance">Okvir za pretraživanje skriven je</string>
+    <string name="print_add_printer">Dodaj pisač</string>
+    <string name="print_select_printer">Odaberite pisač</string>
+    <string name="print_forget_printer">Zaboravite pisač</string>
+    <string name="choose_print_service">Odaberite uslugu ispisa</string>
+    <string name="print_searching_for_printers">Traženje pisača</string>
+    <string name="print_no_printers">Nije pronađen nijedan pisač</string>
+    <string name="printing_notification_title_template">Ispisivanje %1$s</string>
+    <string name="cancelling_notification_title_template">Otkazivanje zadatka %1$s</string>
+    <string name="failed_notification_title_template">Pogreška pisača %1$s</string>
+    <string name="blocked_notification_title_template">Pisač je blokirao %1$s</string>
+    <string name="cancel">Odustani</string>
+    <string name="restart">Ponovo pokreni</string>
+    <string name="no_connection_to_printer">Nema veze s pisačem</string>
+    <string name="reason_unknown">nepoznato</string>
+    <string name="printer_unavailable">%1$s – zadatak nije dostupan</string>
+    <string name="print_error_default_message">Zadatak ispisa nije generiran</string>
+</resources>

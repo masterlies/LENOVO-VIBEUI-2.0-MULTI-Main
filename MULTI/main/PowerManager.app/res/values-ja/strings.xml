@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">電源管理</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="power_consume_app_freeze">固定</string>
+    <string name="power_consume_app_unfreeze">固定の解除</string>
+    <string name="power_consume_app_uninstall">アンインストール</string>
+    <string name="power_consume_app_details">詳細情報</string>
+    <string name="battery_usage_use">バッテリー使用量: %s</string>
+    <string name="consumption_call">音声通話</string>
+    <string name="consumption_screen">画面</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">無線</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">メディア</string>
+    <string name="power_battery">電源</string>
+    <string name="power_charge">充電中</string>
+    <string name="power_consume">ご使用方法</string>
+    <string name="power_settings">設定</string>
+    <string name="power_mode">モード</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">CPU 総消費時間</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">スリープモードにしない</string>
+    <string name="usage_type_alarm">ウェイクアップ</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi が動作しています</string>
+    <string name="usage_type_data_send">送信されたデータ</string>
+    <string name="usage_type_data_recv">受信したデータ</string>
+    <string name="usage_type_audio">音声</string>
+    <string name="usage_type_video">動画</string>
+    <string name="usage_type_on_time">実行時間</string>
+    <string name="usage_type_no_coverage">信号のない時間</string>
+    <string name="battery_history_days" formatted="false">%d 日 %d 時間 %d 分 %d 秒</string>
+    <string name="battery_history_hours" formatted="false">%d 時間 %d 分 %d 秒</string>
+    <string name="battery_history_minutes" formatted="false">%d 分 %d 秒</string>
+    <string name="battery_history_seconds">%d 秒</string>
+    <string name="battery_hour_minute" formatted="false">%d 時間 %d 分</string>
+    <string name="battery_hour">%d 時間</string>
+    <string name="battery_minute">%d 分</string>
+    <string name="battery_wakelock" formatted="false">%d回 で %s</string>
+    <string name="battery_wakelock_days" formatted="false">%d 日 %d 時 %d 分 %s 秒</string>
+    <string name="battery_wakelock_hours" formatted="false">%d 時 %d 分 %s 秒</string>
+    <string name="battery_wakelock_minutes" formatted="false">%d 分 %s 秒</string>
+    <string name="battery_wakelock_seconds">%s 秒</string>
+    <string name="battery_alarm_time">%d 回</string>
+    <string name="battery_screen_time">前回のフル充電から</string>
+    <string name="usage_type_wakelock_screen">画面がスリープ状態にならないようにする</string>
+    <string name="usage_type_wakelock_cpu">CPU がスリープ状態にならないようにする</string>
+    <string name="usage_type_sensor">センサーの使用状況</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">その他</string>
+    <string name="battery_screen_on_time">使用時: %s</string>
+    <string name="battery_screen_off_time">スタンバイ時: %s</string>
+    <string name="enter_setting">設定の起動</string>
+    <string name="battery_tab_title_consume">電力消費</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d 日、%d 時間、%d 分</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d 時間 %d 分</string>
+    <string name="battery_history_minutes_without_seconds">%d 分</string>
+    <string name="battery_sensor_info" formatted="false">合計 %d 回 で%s</string>
+    <string name="hour">h</string>
+    <string name="minute">分</string>
+    <string name="second">s</string>
+    <string name="application_not_found">アプリケーションの詳細な設定が見つかりませんでした</string>
+    <string name="mode_turnOff">オフ</string>
+    <string name="mode_turnOn">オン</string>
+    <string name="main_switch_dialog_super">発信とメッセージング機能のみを有効にして、スタンバイ時間である数日間の間は他のすべての機能を無効にします</string>
+    <string name="deep_clear_result_to_white_list_new">選択したアプリは影響を受けません</string>
+    <string name="temporary_no_app">アプリケーションはありません</string>
+    <string name="progress_loading">お待ちください…</string>
+    <string name="failed_switch_app_state">操作に失敗しました。負荷が高い状態です。後でやり直してください</string>
+    <string name="package_manger_list_type_third">ユーザー・アプリケーション</string>
+    <string name="package_manger_list_type_system">システム・アプリケーション</string>
+    <string name="btn_return">戻る</string>
+    <string name="main_switcher">時限スイッチ</string>
+    <string name="switcher_detail">指定時間内に指定したモードを自動的に有効にします</string>
+    <string name="switcher">時限スイッチ</string>
+    <string name="switcher_start_time">開始時刻</string>
+    <string name="switcher_end_time">終了時刻</string>
+    <string name="switcher_tag">この期間中有効にする</string>
+    <string name="switcher_target_custom">カスタマイズ</string>
+    <string name="mode_changed_dialog">モードの切り替え</string>
+    <string name="no_remind">プロンプトを表示しない</string>
+    <string name="new_sim">新規 SIM</string>
+    <string name="application_not_found_activity">アプリケーションが見つかりません</string>
+    <string name="classicmode_lable_phone">電話番号</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">連絡先</string>
+    <string name="failed_get_safecenter_whitelist">Lenovo セーフ・センターのホワイトリストとの同期失敗最新の Lenovo セーフ・センターを再インストールして下さい</string>
+    <string name="application_not_support_be_launched">セキュリティー設定により他のアプリでこのアプリを有効にできません</string>
+    <string name="classic_phone_dialog_entering">データを初期化中です。お待ちください…</string>
+    <string name="classic_phone_dialog_existing">データ復元中です。お待ちください…</string>
+    <string name="consumption_app_button">ソフトウェア</string>
+    <string name="consumption_hardware_button">ハードウェア</string>
+    <string name="power_setting_menu_classic_phone">最大省電力モード</string>
+    <string name="power_setting_menu_smart">画面、CPU および グラフィックエンジン の省電力</string>
+    <string name="power_setting_menu_app_deep_clear">画面がオフの時アプリを無効にする</string>
+    <string name="power_setting_menu_consumption">電力消費詳細</string>
+    <string name="statistic_assist_title">補助統計機能</string>
+    <string name="power_consumption_title">省電力機能</string>
+    <string name="fragment_tab_deepclear">画面がオフの時アプリを無効にする</string>
+    <string name="deep_clear_detail">スリープモード時にアプリのバックグランドでの動作を無効にします</string>
+    <string name="dialog_timing_text">最大省電力モードに切り替えますか?</string>
+    <string name="switcher_summery">指定した時間がたつと自動的に最大省電力モードに切り替えます</string>
+    <string name="switcher_summery_close">有効にすると指定した時間がたつと自動的に最大省電力モードに切り替えます。</string>
+    <string name="classicmode_hit_text">最大省電力</string>
+    <string name="classic_phone_desktop_shortcut">最大省電力</string>
+    <string name="classic_phone_dialog_title">最大省電力プロンプト</string>
+    <string name="classic_phone_dialog_enter">最大省電力モードにしてよろしいですか? 長時間使用しています。休憩をとってください。</string>
+    <string name="classic_phone_dialog_exist">最大省電力を終了してもよろしいですか?</string>
+    <string name="classic_phone_failed_to_start_service">最大省電力を起動しようとしましたが、起動できませんでした</string>
+    <string name="create_classicmode_desktop_shortcut">最大省電力のデスクトップ・ショートカットの作成</string>
+    <string name="classicmode_exit_hint_text">最大省電力を終了するには、「閉じる」ボタンをタップしてください</string>
+    <string name="setttings_screen_smart_brightness2">省電力画像エンジン</string>
+    <string name="setttings_screen_smart_brightness_detail">正弦波明るさ調整技術を使用して電力消費を 5 ～ 20% 低減する</string>
+    <string name="power_engine_vmx_title">省電力計算エンジン</string>
+    <string name="power_engine_vmx_detail">CPU をインテリジェントに調整して電力消費を 10 ～ 25% 低減します</string>
+    <string name="power_engine_fps_title">省電力グラフィックス・エンジン</string>
+    <string name="power_engine_fps_detail">GPU を最適化して電力消費を 10 ～ 25% 低減します</string>
+    <string name="power_engine_summery_close">有効にすると画面、CPU および GPU の電力消費をインテリジェントに低減します。</string>
+    <string name="power_engine_summery_close2">有効にすると画面および GPU の電力消費をインテリジェントに低減します。</string>
+    <string name="power_engine_summery_close3">有効にすると画面の電力消費をインテリジェントに低減します。</string>
+    <string name="power_engine_summery_close4">有効にすると画面および CPU の電力消費をインテリジェントに低減します。</string>
+    <string name="power_setting_menu_smart2">画面の省電力</string>
+    <string name="power_setting_menu_smart3">画面、CPU および グラフィックエンジン の省電力</string>
+    <string name="power_setting_menu_smart4">画面および グラフィックエンジン の省電力</string>
+    <string name="power_setting_menu_smart5">画面および CPU の省電力</string>
+    <string name="power_setting_current_battery" formatted="false">現在の充電%s%s</string>
+    <string name="classicmode_lable_clock">時計</string>
+</resources>

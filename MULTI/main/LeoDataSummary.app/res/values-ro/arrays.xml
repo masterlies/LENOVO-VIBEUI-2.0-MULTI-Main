@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Redus</item>
+        <item>Implicit</item>
+        <item>Luminos</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Implicit</item>
+        <item>Ridicat</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Rece</item>
+        <item>Implicit</item>
+        <item>Cald</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Implicit</item>
+        <item>Claritate</item>
+    </string-array>
+</resources>

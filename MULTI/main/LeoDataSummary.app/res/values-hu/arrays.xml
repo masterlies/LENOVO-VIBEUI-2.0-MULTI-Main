@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Lágy</item>
+        <item>Alapértelmezett</item>
+        <item>Fényes</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Alapértelmezett</item>
+        <item>Magasság</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Király</item>
+        <item>Alapértelmezett</item>
+        <item>Meleg</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Alapértelmezett</item>
+        <item>Élesítés</item>
+    </string-array>
+</resources>

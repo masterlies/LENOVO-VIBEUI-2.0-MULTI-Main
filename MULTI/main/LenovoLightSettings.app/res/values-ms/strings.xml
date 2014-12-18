@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Cahaya</string>
+    <string name="breath_settings">Tetapan Nafas</string>
+    <string name="breath_delay">Kitaran Nafas</string>
+    <string name="breath_delay_info">Kurang kelewatan ditetapkan, lebih banyak kuasa akan digunakan</string>
+    <string name="light_switch_settings">Tetapan Cahaya</string>
+    <string name="coming_call">Panggilan Masuk</string>
+    <string name="miss_call">Panggilan Terlepas</string>
+    <string name="unread_msg">Mesej Belum Dibaca</string>
+    <string name="battery_low_msg">Mesej Bateri Lemah</string>
+    <string name="other_app_notify">Lain-lain</string>
+    <string name="music_play">Muzik</string>
+    <string name="screen_on">Skrin Hidup</string>
+    <string name="screen_off">Skrin Mati</string>
+    <string name="power_on_off">Kuasa Hidup Mati</string>
+    <string name="charging">Mengecas</string>
+    <string name="low_battery">Bateri Lemah</string>
+    <string name="color_settings">Tetapan Warna</string>
+    <string name="color_settings_info">Tetapan warna setiap cahaya</string>
+    <string name="color_coming_call">Warna Cahaya Panggil Masuk</string>
+    <string name="color_miss_call">Warna Cahaya Panggil Terlepas</string>
+    <string name="color_unread_msg">Warna Cahaya Mesej Belum Dibaca</string>
+    <string name="color_music">Warna Cahaya Muzik</string>
+    <string name="color_screen_on">Warna Cahaya Skrin Hidup</string>
+    <string name="color_screen_off">Warna Cahaya Skrin Mati</string>
+    <string name="light_show">Papar Cahaya</string>
+    <string name="light_show_info">Papar cahaya sedang dimainkan</string>
+    <string name="stop">Berhenti</string>
+    <string name="closed">ditutup</string>
+    <string name="open">buka</string>
+    <string name="multiselect_alert_info">Memerlukan sekurang-kurangnya satu warna!</string>
+</resources>

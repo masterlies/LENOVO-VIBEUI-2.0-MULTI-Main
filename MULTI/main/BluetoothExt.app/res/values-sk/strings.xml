@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Súprava handsfree do auta</string>
+    <string name="bluetooth_remember_choice">Vždy povoliť</string>
+    <string name="dun_notif_ticker">Požiadavka DUN rozhrania Bluetooth</string>
+    <string name="dun_notif_title">Požiadavka na kľúč pre DUN v rámci relácie</string>
+    <string name="dun_notif_message">K zariadeniu „%1$s“ sa pripojíte dotykom.</string>
+    <string name="dun_acceptance_timeout_message">Časový limit na prijatie súboru so zariadením „%1$s“ vypršal</string>
+    <string name="bluetooth_dun_request">Požiadavka DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s žiada o použitie DUN. Umožniť prístup k zariadeniu %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s žiada o prístup k priečinkom vášho telefónu. Umožniť prístup k zariadeniu %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Prístup k priečinku telefónu</string>
+    <string name="ftp_session_key_dialog_title">Zadajte kľúč relácie pre zariadenie %1$s</string>
+    <string name="ftp_session_key_dialog_header">Požaduje sa kľúč relácie Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Časový limit na prijatie súboru so zariadením „%1$s“ vypršal</string>
+    <string name="ftp_authentication_timeout_message">Časový limit na zadanie kľúča relácie pre %1$s vypršal</string>
+    <string name="ftp_notif_ticker">Žiadosť o pripojenie zariadenia Bluetooth</string>
+    <string name="ftp_notif_title">Požiadavka na kľúč pre FTP v rámci relácie</string>
+    <string name="ftp_notif_message">K zariadeniu „%1$s“ sa pripojíte dotykom.</string>
+    <string name="ftp_notif_active_session">Aktívna relácia FTP rozhrania Bluetooth</string>
+    <string name="ftp_notif_connected">Prístup k prenosu súborov pre zariadenie \"%1$s\" cez rozhranie Bluetooth.</string>
+    <string name="bluetooth_ftp_request">Požiadavka FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s žiada o prístup k vaším súborom a priečinkom. Umožniť prístup k zariadeniu %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s žiada o prístup k priečinkom vášho telefónu. Umožniť prístup k zariadeniu %2$s?</string>
+    <string name="map_acceptance_dialog_header">Prístup k priečinku telefónu</string>
+    <string name="map_session_key_dialog_title">Zadajte kľúč relácie pre zariadenie %1$s</string>
+    <string name="map_session_key_dialog_header">Požaduje sa kľúč relácie Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Časový limit na prijatie súboru so zariadením „%1$s“ vypršal</string>
+    <string name="map_authentication_timeout_message">Časový limit na zadanie kľúča relácie pre %1$s vypršal</string>
+    <string name="map_notif_ticker">Žiadosť o pripojenie zariadenia Bluetooth</string>
+    <string name="map_notif_active_session">Aktívna relácia Bluetooth MAP</string>
+    <string name="map_notif_connected">Prístup k správam zariadenia \"%1$s\" cez rozhranie Bluetooth.</string>
+    <string name="map_notif_title">Požiadavka na kľúč pre MAP v rámci relácie</string>
+    <string name="map_notif_message">K zariadeniu „%1$s“ sa pripojíte dotykom.</string>
+    <string name="map_alert_conn_failed_message">Spojenie Bluetooth MAP zlyhalo.</string>
+    <string name="bluetooth_mas_request">„Požiadavka na prístup k správam“</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s žiada o prístup k vašim správam. Umožniť prístup k zariadeniu %2$s?</string>
+    <string name="sap_notif_ticker">Požiadavka na prístup ku karte SIM prostredníctvom rozhrania Bluetooth</string>
+    <string name="sap_notif_title">Požiadavka na kľúč pre SAP v rámci relácie</string>
+    <string name="sap_notif_message">K zariadeniu „%1$s“ sa pripojíte dotykom.</string>
+    <string name="sap_acceptance_timeout_message">Časový limit na prijatie súboru so zariadením „%1$s“ vypršal</string>
+    <string name="bluetooth_sap_request">Požiadavka SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s chce vstúpiť do vašej karty SIM. Povoliť prístup na %2$s?</string>
+</resources>

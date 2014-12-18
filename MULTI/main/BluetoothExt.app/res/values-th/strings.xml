@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">อุปกรณ์ในรถยนต์</string>
+    <string name="bluetooth_remember_choice">อนุญาตทุกครั้ง</string>
+    <string name="dun_notif_ticker">คำขอ บลูทูธ DUN</string>
+    <string name="dun_notif_title">คำขอคีย์เซสชันสำหรับ DUN</string>
+    <string name="dun_notif_message">แตะเพื่อเชื่อมต่อกับ \" %1$s\"</string>
+    <string name="dun_acceptance_timeout_message">หมดเวลาที่จะยอมรับการเชื่อมต่อกับ %1$s</string>
+    <string name="bluetooth_dun_request">คำขอ DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s ต้องการใช้ DUN ให้การเข้าถึงกับ %2$s หรือไม่</string>
+    <string name="ftp_acceptance_dialog_title">%1$s ต้องการเข้าถึงโฟลเดอร์ของโทรศัพท์คุณ ให้การเข้าถึงกับ %2$s หรือไม่</string>
+    <string name="ftp_acceptance_dialog_header">เข้าถึงโฟลเดอร์ของโทรศัพท์</string>
+    <string name="ftp_session_key_dialog_title">พิมพ์เซสชันคีย์ของ %1$s</string>
+    <string name="ftp_session_key_dialog_header">ต้องใช้เซสชันคีย์ของบลูทูธ</string>
+    <string name="ftp_acceptance_timeout_message">หมดเวลายอมรับการเชื่อมต่อกับ %1$s</string>
+    <string name="ftp_authentication_timeout_message">หมดเวลาป้อนเซสชันคีย์ด้วย %1$s</string>
+    <string name="ftp_notif_ticker">คำขอการเชื่อมต่อ บลูทูธ</string>
+    <string name="ftp_notif_title">คำขอคีย์เซสชันสำหรับ FTP</string>
+    <string name="ftp_notif_message">แตะเพื่อเชื่อมต่อกับ \" %1$s\"</string>
+    <string name="ftp_notif_active_session">แอคทีฟเซสชัน บลูทูธ FTP</string>
+    <string name="ftp_notif_connected">การเข้าถึงการถ่ายโอนไฟล์ บลูทูธ ที่ \"%1$s\"</string>
+    <string name="bluetooth_ftp_request">คำขอของ FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s ต้องการเข้าใช้งานไฟล์และโฟลเดอร์ของคุณ ให้การเข้าถึงกับ %2$s หรือไม่</string>
+    <string name="map_acceptance_dialog_title">%1$s ต้องการเข้าถึงโฟลเดอร์ของโทรศัพท์คุณ ให้การเข้าถึงกับ %2$s หรือไม่</string>
+    <string name="map_acceptance_dialog_header">เข้าถึงโฟลเดอร์ของโทรศัพท์</string>
+    <string name="map_session_key_dialog_title">พิมพ์เซสชันคีย์ของ %1$s</string>
+    <string name="map_session_key_dialog_header">ต้องใช้เซสชันคีย์ของบลูทูธ</string>
+    <string name="map_acceptance_timeout_message">หมดเวลายอมรับการเชื่อมต่อกับ %1$s</string>
+    <string name="map_authentication_timeout_message">หมดเวลาป้อนเซสชันคีย์ด้วย %1$s</string>
+    <string name="map_notif_ticker">คำขอการเชื่อมต่อ บลูทูธ</string>
+    <string name="map_notif_active_session">แอคทีฟเซสชัน บลูทูธ MAP</string>
+    <string name="map_notif_connected">การเข้าถึงข้อความ บลูทูธ ที่ \"%1$s\"</string>
+    <string name="map_notif_title">คำขอคีย์เซสชันสำหรับ MAP</string>
+    <string name="map_notif_message">แตะเพื่อเชื่อมต่อกับ \" %1$s\"</string>
+    <string name="map_alert_conn_failed_message">การเชื่อมต่อ บลูทูธ MAP ล้มเหลว</string>
+    <string name="bluetooth_mas_request">คำขอการเข้าถึงข้อความ</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s ต้องการเข้าถึงข้อความของคุณ ให้การเข้าถึงกับ %2$s หรือไม่</string>
+    <string name="sap_notif_ticker">คำขอการเข้าถึง บลูทูธ SIM</string>
+    <string name="sap_notif_title">คำขอคีย์เซสชันสำหรับ SAP</string>
+    <string name="sap_notif_message">แตะเพื่อเชื่อมต่อกับ \" %1$s\"</string>
+    <string name="sap_acceptance_timeout_message">หมดเวลายอมรับการเชื่อมต่อกับ %1$s</string>
+    <string name="bluetooth_sap_request">คำขอ SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s ต้องการเข้าใช้งาน SIM ของคุณ ให้การเข้าถึงกับ %2$s หรือไม่</string>
+</resources>

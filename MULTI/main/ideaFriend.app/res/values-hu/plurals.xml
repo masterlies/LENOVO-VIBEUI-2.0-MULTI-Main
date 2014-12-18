@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d telefonszámmal rendelkező partner</item>
+        <item quantity="one">1 telefonszámmal rendelkező partner</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d partner</item>
+        <item quantity="one">1 partner</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d található</item>
+        <item quantity="one">1 található</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d található</item>
+        <item quantity="one">1 található</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">egyesítve %0$d forrásból</item>
+        <item quantity="one">nem egyesített</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d csoport</item>
+        <item quantity="one">1 csoport</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d %2$s típusú személy</item>
+        <item quantity="one">%1$d %2$s típusú személy</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d személy</item>
+        <item quantity="one">%1$d személy</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d hangüzenet</item>
+        <item quantity="one">Hangüzenet</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d hívásnapló-bejegyzés</item>
+        <item quantity="one">1 hívásnapló-bejegyzés</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Partnerek keresése | Összesen %d partner</item>
+        <item quantity="one">Partnerek keresése | Összesen 1 partner</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s beszélgetés törölve lesz</item>
+        <item quantity="one">1 beszélgetés törölve lesz</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d olvasatlan üzenet.</item>
+        <item quantity="one">%d olvasatlan üzenet.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s mperc</item>
+        <item quantity="one">%s mperc</item>
+        <item quantity="few">%s mperc</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s találat \"%2$s\" keresésekor</item>
+        <item quantity="one">%1$s találat \"%2$s\" keresésekor</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s személy</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">%d olvasási visszaigazolás küldése</item>
+        <item quantity="one">%d olvasási visszaigazolás küldése</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d kijelölve</item>
+        <item quantity="one">%d kijelölve</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">%1$s beszélgetés megjelölése olvasottként</item>
+        <item quantity="one">1 beszélgetés megjelölése olvasottként</item>
+    </plurals>
+</resources>

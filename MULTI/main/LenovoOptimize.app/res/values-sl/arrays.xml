@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Privzeti načini vnosa</item>
+        <item>Privzeta aplikacija za namizje</item>
+        <item>Privzeta internetna aplikacija</item>
+        <item>Privzeta aplikacija za klicanje</item>
+        <item>Privzeta aplikacija za sporočila SMS</item>
+        <item>Privzeta aplikacija za e-pošto</item>
+        <item>Privzeti pregledovalnik slik</item>
+        <item>Privzeta aplikacija za fotografiranje</item>
+        <item>Privzeta aplikacija ogled videoposnetkov</item>
+        <item>Privzeta aplikacija ogled videoposnetkov v spletu</item>
+        <item>Privzeta aplikacija za poslušanje glasbe</item>
+        <item>Privzeta aplikacija poslušanje glasbe prek spleta</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Zagonska naprava</item>
+        <item>V telefonu</item>
+        <item>Prejemanje SMS</item>
+        <item>Omrežna povezava opreme</item>
+        <item>Namestitev programske opreme</item>
+        <item>Odklepanje črnega zaslona</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Sistem priporočil</item>
+        <item>Vsili namestitev v telefon</item>
+        <item>Vsili namestitev na privzeto pomnilniško kartico</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Vklop</item>
+        <item>Internetna povezava</item>
+        <item>Klic</item>
+        <item>SMS</item>
+        <item>Preberi stike</item>
+        <item>Pridobi lokacijo</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pristupna točka</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguriraj WLAN pristupnu točku</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Sigurnost: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID ne smije biti dulji od 32 znaka</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Sigurnost: %2$s
+Lozinka. %3$s"</string>
+    <string name="wifi_cancel">Odustani</string>
+    <string name="wifi_save">Spremi</string>
+    <string name="wifi_ssid">SSID mreže</string>
+    <string name="wifi_security">Sigurnost</string>
+    <string name="wifi_password">Lozinka</string>
+    <string name="wifi_show_password">Pokaži lozinku</string>
+    <string name="credentials_password_too_short">Lozinka mora sadržavati najmanje osam znakova.</string>
+    <string name="wifi_channel">Preferirani kanal</string>
+    <string name="wifi_channel_width">Širina kanala</string>
+    <string name="wifi_tether_auto_channel_text">Automatski</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Osobna pristupna točka omogućena</string>
+    <string name="tethered_notification_message">Dodirnite da biste konfigurirali</string>
+    <string name="tether_about_title">Pregled funkcija</string>
+    <string name="wlan_connection_title">WLAN pristupnu točku</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Zajedničko korištenje Bluetooth mreže</string>
+    <string name="usb_share_title">Zajedničko korištenje USB mreže</string>
+    <string name="about_wlan">Postavljanjem WLAN pristupne točke na ovom uređaju omogućuje se ostalim WLAN uređajima povezivanje s mobilnom mrežom ovog uređaja za surfanje internetom</string>
+    <string name="about_usb">Omogućivanjem zajedničkog korištenja USB mreže na ovom uređaju omogućuje se povezanim uređajima korištenje mobilne mreže ovog uređaja za surfanje internetom</string>
+    <string name="about_bt">Omogućivanjem Bluetooth mreže na ovom uređaju omogućuje se ostalim Bluetooth uređajima korištenje mobilne mreže ovog uređaja za surfanje internetom</string>
+    <string name="about_usb_other">"Ostale napomene:
+ 1. Za vrijeme trajanja USB veze ne možete umetnuti SD karticu uređaja u računalo 
+ 2. Veza je moguća samo u sustavima Windows Vista, Windows 7, Windows 8 i Linux"</string>
+    <string name="wifi_tether_settings_title">Informacije o konfiguraciji WLAN-a</string>
+    <string name="wifi_ap_client_block_title">Blokiraj</string>
+    <string name="wifi_ap_client_unblock_title">Deblokiraj</string>
+    <string name="wifi_ap_connected_title">Povezani korisnici</string>
+    <string name="tethered_notification_message_for_hotspot">Broj povezanih: %1$d, broj blokiranih: %2$d</string>
+    <string name="open_title">Omogući savjete</string>
+    <string name="open_mess">Da biste mogli koristiti %1$s, morate omogućiti funkciju podatkovne veze</string>
+    <string name="open_mess_all">Da biste mogli koristiti %1$s, morate omogućiti WLAN ili funkciju podatkovne veze</string>
+    <string name="cancel">Odustani</string>
+    <string name="go_settings">Idi na postavke</string>
+    <string name="cut_line">Prekini vezu</string>
+    <string name="wlan_figure">Slika WLAN-a</string>
+    <string name="open_mess_alert">Mobilna je mreža omogućena. Korištenje funkcije %1$s može uzrokovati dodatni podatkovni promet i trošak. Želite li je omogućiti?</string>
+    <string name="open">Omogući</string>
+</resources>

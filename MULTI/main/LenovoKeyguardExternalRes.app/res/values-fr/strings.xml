@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">"Échec de l'écran verrouillage. L'écran va passer en mode de sécurité. Patientez en attendant le redémarrage de l'écran de verrouillage ..."</string>
+</resources>

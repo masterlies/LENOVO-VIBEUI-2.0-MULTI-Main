@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="app_name">Κοινή χρήση λογαριασμού WLAN</string>
+    <string name="prompt">Πλησιάστε τα τηλέφωνα για να μοιραστείτε το WLAN με φίλους!</string>
+    <string name="current_wifi">Τρέχουσα σύνδεση WLAN:</string>
+    <string name="hotknot_help">Πώς μπορείτε να το μοιραστείτε: Στην τρέχουσα διασύνδεση, κρατήστε ενωμένο το επάνω μισό τμήμα και των δύο τηλεφώνων (πίσω μέρος) (μεταφορά NFC). Ακολουθήστε τις οδηγίες στην οθόνη για να μοιραστείτε το συνδεδεμένο λογαριασμό WLAN.</string>
+    <string name="title_receive">Γίνεται λήψη</string>
+    <string name="wlan_connecting">Λήψη λογαριασμού WLAN...</string>
+    <string name="title_finish">Λήφθηκε επιτυχώς</string>
+    <string name="wlan_finish">Ο λογαριασμός WLAN λήφθηκε επιτυχώς. Συνδεθείτε με το %1$s για να συνδεθείτε στο διαδίκτυο!</string>
+    <string name="send_ap_no_connected">Δεν είναι δυν. η κοιν. (δεν βρέθ. συνδ. λογ.WLAN)</string>
+    <string name="hotknot_help_note">Σημ.: Το τηλ. λήψης πρέπει να υποστ. κοινή χρήση λογ.WLAN (με καταχ. λειτ.)</string>
+    <string name="wifi_share">Κοινή χρήση WLAN</string>
+</resources>

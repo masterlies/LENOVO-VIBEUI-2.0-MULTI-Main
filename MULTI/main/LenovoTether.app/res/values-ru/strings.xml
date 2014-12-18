@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Хот-спот</string>
+    <string name="wifi_tether_configure_ap_text">Настройки точки доступа WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+Безопасность:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Длина идентификатора SSID не должна превышать 32 символа.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Безопасность: %2$s
+Пароль: %3$s"</string>
+    <string name="wifi_cancel">Отмена</string>
+    <string name="wifi_save">Сохранить</string>
+    <string name="wifi_ssid">Сетевой идентификатор SSID</string>
+    <string name="wifi_security">Безопасность</string>
+    <string name="wifi_password">Пароль</string>
+    <string name="wifi_show_password">Показать пароль</string>
+    <string name="credentials_password_too_short">Пароль должен содержать не менее 8 символов.</string>
+    <string name="wifi_channel">Preferred Channel</string>
+    <string name="wifi_channel_width">Channel Width</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Хотспотвключен</string>
+    <string name="tethered_notification_message">Коснитесь для настройки</string>
+    <string name="tether_about_title">Описание</string>
+    <string name="wlan_connection_title">точка доступа WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">точка доступа Bluetooth</string>
+    <string name="usb_share_title">интернет через USB</string>
+    <string name="about_wlan">Точка доступа WLAN позволяет другим устройствам WLAN получить доступ к сети Интернет через мобильную сеть Вашего устройства</string>
+    <string name="about_usb">Подключение через USB позволяет подключенному по USB персональному компьютеру получить доступ к сети Интернет через мобильную сеть Вашего устройства</string>
+    <string name="about_bt">Точка доступа Bluetooth позволяет другим устройствам Bluetooth получить доступ к сети Интернет через мобильную сеть или WLAN подключение Вашего устройства</string>
+    <string name="about_usb_other">"Прочие примечания. 
+ 1.При активированном общем доступе к мобильной сети через USB невозможно получить доступ к памяти телефона на ПК
+ 2.Предназначено для ПК с операционными системами Windows Vista/7/8 и Linux"</string>
+    <string name="wifi_tether_settings_title">Информация о конфигурации WLAN</string>
+    <string name="wifi_ap_client_block_title">Запретить</string>
+    <string name="wifi_ap_client_unblock_title">Разрешить</string>
+    <string name="wifi_ap_connected_title">Подключенные пользователи</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d подключено, %2$d заблокировано</string>
+    <string name="open_title">Рекомендация</string>
+    <string name="open_mess">Для использования %1$s необходимо включить мобильный Интернет</string>
+    <string name="open_mess_all">Для использования %1$s необходимо включить WLAN с доступом к Интернету или мобильный Интернет</string>
+    <string name="cancel">Отмена</string>
+    <string name="go_settings">В настройки</string>
+    <string name="open_mess_alert">Мобильный Интернет включен. Использование устройства в качестве %1$s может привести к увеличению оплаты мобильного трафика. Использовать эту функцию?</string>
+    <string name="open">Включить</string>
+    <string name="tethered_notification_message_for_hotspot_ru">Подключено: %1$d, заблокировано: %2$d</string>
+    <string name="open_mess_alert_wlan">Мобильный Интернет включен.Использование устройства в качестве точки доступа WLAN может привести к увеличению оплаты мобильного трафика.Использовать эту функцию?</string>
+    <string name="open_mess_alert_bluetooth">Мобильный Интернет включен.Использование устройства в качестве точки доступа Bluetooth может привести к увеличению оплаты мобильного трафика.Использовать эту функцию?</string>
+    <string name="open_mess_alert_usb">Мобильный Интернет включен.Использование устройства для доступа ПК к интернету через USB может привести к увеличению оплаты мобильного трафика.Использовать эту функцию?</string>
+    <string name="open_mess_wlan">Для использования точки доступа WLAN необходимо включить мобильный Интернет</string>
+    <string name="open_mess_all_bluetooth">Для использования точки доступа Bluetooth необходимо включить WLAN с доступом к Интернету или мобильный Интернет</string>
+    <string name="open_mess_all_usb">Для использования интернета через USB необходимо включить WLAN с доступом к Интернету или мобильный Интернет</string>
+</resources>

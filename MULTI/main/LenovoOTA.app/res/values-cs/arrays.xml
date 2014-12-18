@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enquire_type">
+        <item>Aktualizovat nyní</item>
+        <item>Aktualizovat za 30 minut</item>
+        <item>Aktualizovat za 6 hodin</item>
+        <item>Aktualizovat za 3 dny</item>
+        <item>Nikdy nezobrazovat dotaz</item>
+    </string-array>
+    <string-array name="enquire_values">
+        <item>0/0/0</item>
+        <item>1/1/30</item>
+        <item>1/6/60</item>
+        <item>3/24/60</item>
+        <item>360/24/60</item>
+    </string-array>
+</resources>

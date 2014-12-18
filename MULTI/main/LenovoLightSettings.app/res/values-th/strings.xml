@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">แสง</string>
+    <string name="breath_settings">การตั้งค่าจังหวะกะพริบ</string>
+    <string name="breath_delay">รอบจังหวะกะพริบ</string>
+    <string name="breath_delay_info">ยิ่งตั้งค่าหน่วงน้อยลง ยิ่งใช้พลังงานมากขึ้น</string>
+    <string name="light_switch_settings">การตั้งค่าแสง</string>
+    <string name="coming_call">สายเข้า</string>
+    <string name="miss_call">สายที่ไม่ได้รับ</string>
+    <string name="unread_msg">ข้อความที่ยังไม่อ่าน</string>
+    <string name="battery_low_msg">ข้อความแบตเตอรี่ต่ำ</string>
+    <string name="other_app_notify">อื่นๆ</string>
+    <string name="music_play">ดนตรี</string>
+    <string name="screen_on">เปิดหน้าจอ</string>
+    <string name="screen_off">ปิดหน้าจอ</string>
+    <string name="power_on_off">เปิดปิดเครื่อง</string>
+    <string name="charging">กำลังชาร์จ</string>
+    <string name="low_battery">แบตเตอรี่ต่ำ</string>
+    <string name="color_settings">การตั้งค่าสี</string>
+    <string name="color_settings_info">การตั้งค่าสีของทุกแสง</string>
+    <string name="color_coming_call">สีแสงของสายเข้า</string>
+    <string name="color_miss_call">สีแสงของสายที่พลาด</string>
+    <string name="color_unread_msg">สีแสงของข้อความที่ยังไม่อ่าน</string>
+    <string name="color_music">สีแสงของดนตรี</string>
+    <string name="color_screen_on">สีแสงของการเปิดหน้าจอ</string>
+    <string name="color_screen_off">สีแสงของการปิดหน้าจอ</string>
+    <string name="light_show">การแสดงแสง</string>
+    <string name="light_show_info">ขณะนี้กำลังเล่นการแสดงแสง</string>
+    <string name="stop">หยุด</string>
+    <string name="closed">ปิด</string>
+    <string name="open">เปิด</string>
+    <string name="multiselect_alert_info">ต้องการอย่างน้อยหนึ่งสี!</string>
+</resources>

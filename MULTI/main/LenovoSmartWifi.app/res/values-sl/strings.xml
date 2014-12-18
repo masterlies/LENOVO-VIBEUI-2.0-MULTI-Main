@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_activity">WLAN povezan z lokacijo</string>
+    <string name="dialog_title">Prenos</string>
+    <string name="dialog_text">Podatkovna povezava je omogočena. Ob prenosu podatkov se lahko pojavijo stroški. Ali želite vzpostaviti povezavo z omrežjem WLAN?</string>
+    <string name="disable_dialog_title">Onemogoči WLAN?</string>
+    <string name="disable_dialog_text">Trenutna lokacija je na voljo v območju povezave z dostopno točko, ali želite onemogočiti WLAN?</string>
+    <string name="show_dialog">Ne prikaži več</string>
+    <string name="disable_show_dialog">Ne prikaži več</string>
+    <string name="wifi_enable_text">Možnosti dostopne točke</string>
+    <string name="wifi_enable_summary">Če je vzpostavljena 3G podatkovna povezava lahko izberete vzpostavitev povezave WLAN po pozivu ali samodejno vzpostavitev povezave WLAN.</string>
+    <string name="wifi_disable_text">Možnosti izven dosega</string>
+    <string name="wifi_disable_summary">Nastavite poziv ali samodejno prekinitev povezave WLAN, če je dostopna točka izven dosega.</string>
+    <string name="wifi_setting_summary">Samodejno omogoči prednost vzpostavitve povezave z omrežjem WLAN pred podatkovno povezavo 3G.</string>
+    <string name="wifi_popup_tip">Pojavno sporočilo</string>
+    <string name="wifi_auto_enable">Samodejno poveži z WLAN</string>
+    <string name="wifi_auto_disable">Samodejna prekinitev WLAN</string>
+    <string name="wifi_popup_0">Vzpostavite povezavo z dostopno točko. Ko naslednjič vstopite v to območje se pojavi poziv za vzpostavitev povezave</string>
+    <string name="wifi_popup_1">Vzpostavite povezavo z dostopno točko. Ko naslednjič vstopite v to območje bo povezava samodejno vzpostavljena</string>
+    <string name="wifi_popup_2">Ne prikaži več</string>
+    <string name="confirm_yes">Da</string>
+    <string name="confirm_no">Ne</string>
+    <string name="enable_wifi_hint">Zaznana je vzpostavljena povezava z omrežjem prek GPRS. Za prihranek pri podatkovni povezavi, lahko povezavo vzpostavite z brezžičnim omrežjem WLAN v dosegu</string>
+    <string name="disable_wifi_hint">V stanju mirovanja je v dosegu zaznana povezava WLAN, ki bo samodejno prekinjena z namenom varčevanja z energijo</string>
+</resources>

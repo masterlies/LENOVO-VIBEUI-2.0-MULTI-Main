@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>기본값</item>
+        <item>피아노</item>
+    </string-array>
+    <string-array name="fonts_styles">
+        <item>default.ttf</item>
+        <item>BurstMyBubble.ttf</item>
+        <item>Sweet_Oklahoma.ttf</item>
+        <item>EVOLVE.ttf</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>조직</item>
+        <item>참고</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>성</item>
+        <item>전화</item>
+        <item>생일</item>
+        <item>위치</item>
+        <item>학교</item>
+        <item>회사</item>
+        <item>이메일</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>비밀 보장</item>
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>행복</item>
+        <item>슬픔</item>
+        <item>윙크</item>
+        <item>메롱</item>
+        <item>놀람</item>
+        <item>키스</item>
+        <item>소리침</item>
+        <item>멋짐</item>
+        <item>당황스럽게 웃음</item>
+        <item>실언을 함</item>
+        <item>어색함</item>
+        <item>천사</item>
+        <item>결심이 서지 않음</item>
+        <item>울음</item>
+        <item>비밀 보장</item>
+        <item>웃음</item>
+        <item>혼란스러움</item>
+        <item>하트</item>
+        <item>미침</item>
+        <item>히죽히죽 웃음</item>
+        <item>포커 페이스</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>어디에 계십니까?</item>
+        <item>무엇을 하고 계십니까?</item>
+        <item>긴급! 즉시 전화해주십시오.</item>
+        <item>죄송합니다. 지금 회의가 있습니다.</item>
+        <item>곧 전화드리겠습니다.</item>
+        <item>걱정마십시오. 괜찮습니다.</item>
+        <item>집으로 가는 길입니다.</item>
+        <item>곧 도착할 예정입니다.</item>
+        <item>꼭 오세요!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>제한된 모드</item>
+        <item>경고 모드</item>
+        <item>프리 모드</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>높음</item>
+        <item>보통</item>
+        <item>낮음</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM 알파벳</item>
+        <item>유니코드</item>
+        <item>자동</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>전화기</item>
+        <item>SIM 카드</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>장치</item>
+        <item>SIM 카드</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>시스템 글꼴 크기를 따름</item>
+        <item>작게</item>
+        <item>중간</item>
+        <item>크게</item>
+        <item>매우 크게</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>직접 전달</item>
+        <item>이름 표시</item>
+        <item>이름 및 번호 표시</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>직접 전달</item>
+        <item>발신자 이름 추가</item>
+        <item>발신자의 이름과 번호 추가</item>
+        <item>항상 묻기(자동 전달을 하는 동안 직접 전달)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>전화기</item>
+        <item>UIM 카드</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1초</item>
+        <item>2초</item>
+        <item>3초</item>
+        <item>4초</item>
+        <item>5초</item>
+        <item>6초</item>
+        <item>7초</item>
+        <item>8초</item>
+        <item>9초</item>
+        <item>10초</item>
+        <item>기타...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>항상</item>
+        <item>무음 모드에만 사용</item>
+        <item>사용하지 않음</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>날짜 기준</item>
+        <item>번호 기준</item>
+        <item>연락처 기준</item>
+    </string-array>
+</resources>

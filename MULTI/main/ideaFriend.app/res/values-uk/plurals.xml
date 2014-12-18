@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контакти(-ів) з номерами телефонів</item>
+        <item quantity="one">1 контакт із номером телефону.</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d контакти(-ів)</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Знайдено %d</item>
+        <item quantity="one">Знайдено 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">"об'єднання з %0$d джерел"</item>
+        <item quantity="one">"не об'єднано"</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d груп(-и)</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d особи (осіб) з %2$s</item>
+        <item quantity="one">%1$d особа з %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d особи (осіб)</item>
+        <item quantity="one">%1$d особа</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Голосові повідомлення</item>
+        <item quantity="one">Голосова пошта</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d журнали(-ів) викликів</item>
+        <item quantity="one">1 журнал викликів</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Пошук контактів | Усього контактів: %d</item>
+        <item quantity="one">Пошук контактів | Усього контактів: 1</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Буде видалено %1$s розмов(-и)</item>
+        <item quantity="one">Буде видалено одну розмову</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d непрочитаних повідомлень.</item>
+        <item quantity="one">%d непрочитане повідомлення.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результати(-ів) для \"%2$s\"</item>
+        <item quantity="one">%1$s результат для \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s особи (осіб)</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">надсилання %d звітів про прочитання</item>
+        <item quantity="one">надсилання %d звіту про прочитання</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d вибрано</item>
+        <item quantity="one">%d вибрано</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Позначити %1$s розмов(-и) як прочитані</item>
+        <item quantity="one">Позначити 1 розмову як прочитану</item>
+    </plurals>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">ロック画面エラー。画面はセキュリティー・モードになります。ロック画面が再起動されるまでお待ちください...</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Telef./armaz. de mensag.</string>
+    <string name="ppp_number">número_ppp</string>
+    <string name="read_only">apenas_leitura</string>
+    <string name="localized_name">nome_localizado</string>
+</resources>

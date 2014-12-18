@@ -1,0 +1,17 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+$RECYCLE.BIN/
+
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+
+Network Trash Folder
+Temporary Items
+.apdisk

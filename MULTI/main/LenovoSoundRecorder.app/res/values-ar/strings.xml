@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المسجّل</string>
+    <string name="left_timer_format" formatted="false">الوقت المتبقي: %02dساعة%02dدقيقة</string>
+    <string name="recording">%1$s جارِ التسجيل</string>
+    <string name="label_quality">تحديد جودة التسجيل</string>
+    <string name="remain_time">الوقت المتبقي</string>
+    <string name="button_ok">موافق</string>
+    <string name="button_cancel">إلغاء الأمر</string>
+    <string name="audio_db_artist_name">تسجيلاتك</string>
+    <string name="audio_db_album_name">التسجيلات</string>
+    <string name="audio_db_playlist_name">تسجيلاتي</string>
+    <string name="exit_tip">هل تريد حقًا الخروج من المسجل؟</string>
+    <string name="error_zero_audio">لا يمكن تسجيل صوت طوله 0 ثانية.</string>
+    <string name="error_busy_in_call">يرجى شنق ومن ثم استخدام مسجل</string>
+    <string name="error_no_space">مساحة خالية غير كافية، تعذر التسجيل.</string>
+    <string name="error_sdcard_access">تعذر الوصول إلى بطاقة SD</string>
+    <string name="error_internal">المسجل يعمل، الرجاء إغلاقه أولاً!</string>
+    <string name="error_mediadb_new_record">تعذر حفظ الصوت المسجل</string>
+    <string name="error_app_unsupported">تنسيق غير مدعوم</string>
+    <string name="error_insert_sd_card">الرجاء إدراج بطاقة SD</string>
+    <string name="error_storage_is_full">ذاكرة التخزين ممتلئة</string>
+    <string name="error_max_length">تم الوصول إلى أقصى طول</string>
+    <string name="contextmenu_item_delete">حذف</string>
+    <string name="contextmenu_item_rename">إعادة تسمية</string>
+    <string name="contextmenu_item_send_title">إرسال</string>
+    <string name="contextmenu_item_setasringtone">تعيين كنغمة رنين</string>
+    <string name="label_setringtone_success">تم تعيين التسجيل %1$s كنغمة رنين بنجاح</string>
+    <string name="setringtone_fail">لا داعي لضبط نغمة الرنين على وضع الاهتزاز أو الوضع الصامت</string>
+    <string name="del_selfile_tip">هل تريد بالتأكيد حذف ملف الصوت المحدد؟</string>
+    <string name="label_delete_success">تم الحذف بنجاح!</string>
+    <string name="input_toolong">تم إدخال أحرف كثيرة للغاية</string>
+    <string name="file_name_exist">عذرًا، لا يمكن تكرار اسم الملف</string>
+    <string name="empty_len">لا يمكن أن يكون اسم الملف فارغًا.</string>
+    <string name="namebad">يحتوي اسم الملف على حروف غير صالحة: / \\ : ? > | * \" إلخ</string>
+    <string name="delete_tip">حذف التسجيل</string>
+    <string name="not_select">لم تقم بتحديد أي خيار</string>
+    <string name="am_file">%1$s:%2$s ص</string>
+    <string name="pm_file">%1$s:%2$s م</string>
+    <string name="selected_number_of">تم تحديد %1$s عنصر (عناصر)</string>
+    <string name="saved_file_reminder">تم حفظ الملف باسم \"%1$s\"</string>
+    <string name="delete_recorded">حذف ملف التسجيل</string>
+    <string name="delete_muti_msg">جاري الحذف، يُرجى الانتظار...</string>
+    <string name="rename_record_file">إعادة تسمية الملف</string>
+    <string name="soundrecorder_list">التسجيلات</string>
+    <string name="callrecorder_list">تسجيلات المكالمات</string>
+    <string name="mediarecorder_list">تسجيلات الوسائط</string>
+    <string name="high_quality">وضع المقابلة (مرتفع)</string>
+    <string name="medium_quality">وضع المحادثة (متوسط)</string>
+    <string name="low_quality">وضع التفاعل (منخفض)</string>
+    <string name="exit_record_play">الرجاء إيقاف التسجيل قبل التشغيل</string>
+    <string name="exit_play_edit">الرجاء إيقاف التشغيل قبل التحرير</string>
+    <string name="exit_playOrRecord_delete">الرجاء إيقاف التشغيل أو التسجيل قبل الدخول في وضع الحذف الجماعي</string>
+    <string name="exit_toast">انقر مرة أخرى للخروج من التطبيق</string>
+    <string name="playlist_text">قائمة التسجيل</string>
+    <string name="fileDir_not_exist">المسار المحدد للملف الصوتي غير موجود!</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_off">Вимкнення</string>
+    <string name="yes">так</string>
+    <string name="no">Ні</string>
+    <string name="schedule_power_on_off_settings_title">Заплановане увімкнення та вимкнення</string>
+    <string name="schedule_power_on_off_time">Час</string>
+    <string name="schedule_power_on_off_repeat">Повторювати</string>
+    <string name="schedule_power_on_off_set">Встановити розклад увімкнення і вимкнення живлення</string>
+    <string name="schedule_power_on_set">Встановити увімкнення живлення</string>
+    <string name="schedule_power_off_set">Встановити вимкнення живлення</string>
+    <string name="enable_schpwr">Активувати</string>
+    <string name="disable_schpwr">Деактивувати</string>
+    <string name="day">1 день</string>
+    <string name="days">%s днів</string>
+    <string name="hour">1 год.</string>
+    <string name="hours">%s годин</string>
+    <string name="minute">1 хвилина</string>
+    <string name="minutes">%s хвилин</string>
+    <string name="every_day">Щодня</string>
+    <string name="never">Ніколи</string>
+    <string name="done">Готово</string>
+    <string name="revert">НАЗАД</string>
+    <string name="schpwr_shutdown_message">"Система пристрою  вимкнеться через %s секунд"</string>
+    <string name="schpwr_shutdown_message_second">"Система пристрою  вимкнеться через %s секунду"</string>
+    <string name="schpwr_power_on">Вмикати о</string>
+    <string name="schpwr_power_off">Вимикати о</string>
+    <string name="schpwr_time_invalid">Різниця між часом увімкнення та часом вимкнення має становити більше %d хвилин</string>
+    <string name="schedule_power_off_time_out_title">Прострочене повідомлення</string>
+    <string name="schedule_power_off_time_out_summary">Закінчено відключення за графіком</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ماشین حساب</string>
+    <string name="error">خطا</string>
+    <string name="advanced">پیشرفته</string>
+    <string name="clear_history">پاک کردن سابقه</string>
+    <string name="copy">کپی</string>
+    <string name="paste">جای گذاری</string>
+    <string name="only_digit">فقط می توانید شماره ها را جایگذاری کنید</string>
+    <string name="basic">اصلی</string>
+    <string name="copy_success">کپی شد</string>
+    <string name="full_input">به حداکثر مجاز ارقام رسیدید</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">الإعدادات</string>
+    <string name="app_name">مشاركة حساب WLAN</string>
+    <string name="prompt">قرّب الهواتف من بعضها لمشاركة WLAN مع الأصدقاء!</string>
+    <string name="current_wifi">اتصال WLAN الحالي:</string>
+    <string name="hotknot_help">كيفية المشاركة: في الواجهة الحالية، أمسك النصف العلوي لكلا الجهازين معًا من الخلف (نقل NFC). اتبع التعليمات التي تظهر على الشاشة لمشاركة حساب WLAN المتصل.</string>
+    <string name="title_receive">الاستلام</string>
+    <string name="wlan_connecting">يتم الآن استلام حساب WLAN...</string>
+    <string name="title_finish">تم الاستلام بنجاح</string>
+    <string name="wlan_finish">تم استلام حساب WLAN بنجاح. اتصل بـ %1$s وتصبح متصلاً بالإنترنت!</string>
+    <string name="send_ap_no_connected">تتعذر المشاركة (لم يتم العثور علىحسابWLAN)</string>
+    <string name="hotknot_help_note">ملاحظة: يجب أن يعتمد هاتف المتلقيمشاركة حسابWLAN (مع إدخال الميزة)</string>
+    <string name="wifi_share">المشاركة عبر WLAN</string>
+</resources>

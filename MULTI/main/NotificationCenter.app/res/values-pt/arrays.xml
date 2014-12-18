@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lenovo_signal_text_list">
+        <item>Força do sinal (má)</item>
+        <item>Força do sinal (fraca)</item>
+        <item>Força do sinal (média)</item>
+        <item>Força do sinal (boa)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Gráfico</item>
+        <item>Porcentagem</item>
+    </string-array>
+</resources>

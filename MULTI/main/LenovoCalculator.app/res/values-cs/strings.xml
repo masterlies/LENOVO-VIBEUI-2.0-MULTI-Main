@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string name="error">Chyba</string>
+    <string name="advanced">Rozšířená</string>
+    <string name="clear_history">Vymazat historii</string>
+    <string name="copy">Kopírovat</string>
+    <string name="paste">Vložit</string>
+    <string name="only_digit">Vložit lze pouze čísla.</string>
+    <string name="basic">Základní</string>
+    <string name="copy_success">Zkopírováno</string>
+    <string name="full_input">Již byla zadána maximální hodnota.</string>
+</resources>

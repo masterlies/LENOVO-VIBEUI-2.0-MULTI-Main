@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">Изключете светкавицата</string>
+    <string name="flashlight_notification_text">Натиснете изключване на светкавицата</string>
+</resources>

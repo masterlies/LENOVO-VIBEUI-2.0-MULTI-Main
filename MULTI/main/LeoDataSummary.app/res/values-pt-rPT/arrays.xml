@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saturation">
+        <item>Suave</item>
+        <item>Predefinido</item>
+        <item>Brilhante</item>
+    </string-array>
+    <string-array name="contrast">
+        <item>Predefinido</item>
+        <item>Altura</item>
+    </string-array>
+    <string-array name="hue">
+        <item>Fixe</item>
+        <item>Predefinido</item>
+        <item>Quente</item>
+    </string-array>
+    <string-array name="sharpen">
+        <item>Predefinido</item>
+        <item>Nítido</item>
+    </string-array>
+</resources>

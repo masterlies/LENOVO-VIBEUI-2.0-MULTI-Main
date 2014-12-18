@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Uvozi iz zgodovine klicev</item>
+        <item>Uvozi iz zgodovine sporočil SMS</item>
+        <item>Uvozi iz stikov</item>
+        <item>Dodaj ročno</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Brez opozorila</item>
+        <item>Opozorilo v vrstici z obvestili</item>
+        <item>Opozorilo v vrstici z obvestili in ton opozorila</item>
+        <item>Opozorilo v vrstici z obvestili in vibriranje</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Sprejmi</item>
+        <item>Zavrni</item>
+        <item>Zavrni klic s sporočilom SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Brez opomnika</item>
+        <item>Opomnik v vrstici z obvestili</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Uredi predal e-pošte</item>
+        <item>Varnostno kopiraj zdaj</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Izbriši</item>
+        <item>Spremeni</item>
+        <item>Pošlji sporočilo</item>
+        <item>Klic</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Sporočila in klici</item>
+        <item>Dohodni klic</item>
+        <item>Sporočilo</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Samo stiki</item>
+        <item>Samo seznam dovoljenih</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Uvozi iz dohodnih klicev</item>
+        <item>Uvozi iz zgodovine sporočil SMS</item>
+        <item>Uvozi iz stikov</item>
+        <item>Dodaj ročno</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Blokiraj samo seznam neželjenih</item>
+        <item>Dovoli samo stike</item>
+        <item>Dovoli samo seznam dovoljenih</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Uvozi iz zgodovine klicev</item>
+        <item>Uvozi iz zgodovine sporočil SMS</item>
+        <item>Uvozi iz stikov</item>
+        <item>Dodaj ročno</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Izklopite seznam nedovoljenih.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Dodaj iz zgodovine klicev</item>
+        <item>Dodaj iz stikov</item>
+        <item>Dodaj ročno</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Dodaj iz zgodovine sporočil SMS</item>
+        <item>Dodaj iz stikov</item>
+        <item>Dodaj ročno</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Izklopi seznam nedovoljenih</item>
+        <item>Poročanje</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Klic</item>
+        <item>Pošlji SMS</item>
+        <item>Izklopi seznam dovoljenih</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Ročno posodobi</item>
+        <item>Vsak dan</item>
+        <item>Tedensko</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Ime moje mame?</item>
+        <item>Moj najljubši sadež?</item>
+        <item>Očetov rojstni dan?</item>
+        <item>Moja najljubša skladba?</item>
+        <item>Ime mojega ljubljenčka?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>Vsakih 10 minut</item>
+        <item>Vsakih 20 minut</item>
+        <item>Vsakih 30 minut</item>
+        <item>Vsako uro</item>
+        <item>Vsaki 2 uri</item>
+        <item>Vsake 3 ure</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Vrni način tona zasedenosti</item>
+        <item>Vrni način izklopa</item>
+        <item>Vrni način zaustavitve</item>
+        <item>Vrni nedelujočo številko</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Nastavitve</item>
+        <item>Posodobi</item>
+        <item>O programu</item>
+    </string-array>
+</resources>

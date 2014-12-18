@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Setelan</string>
+    <string name="app_name">Bagikan akun WLAN</string>
+    <string name="prompt">Saling dekatkan ponsel untuk berbagi WLAN dengan teman!</string>
+    <string name="current_wifi">Koneksi WLAN saat ini:</string>
+    <string name="hotknot_help">Cara berbagi: Pada antarmuka saat ini, tahan separuh bagian atas dua ponsel bersamaan dan saling membelakangi (transfer NFC). Ikuti petunjuk pada layar untuk berbagi akun WLAN yang tersambung.</string>
+    <string name="title_receive">Menerima</string>
+    <string name="wlan_connecting">Menerima akun WLAN...</string>
+    <string name="title_finish">Berhasil diterima</string>
+    <string name="wlan_finish">Akun WLAN berhasil diterima. Sambungkan ke %1$s dan Anda online!</string>
+    <string name="send_ap_no_connected">Tidak dapat dibagikan (akun WLAN yang terhubung tidak ditemukan)</string>
+    <string name="hotknot_help_note">Catatan: Ponsel penerima harus mendukung berbagi akunWLAN (dengan entri fungsi)</string>
+    <string name="wifi_share">Berbagi WLAN</string>
+</resources>

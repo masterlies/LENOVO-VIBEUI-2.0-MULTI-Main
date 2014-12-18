@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_name">
+        <item>Κάρτα 1</item>
+        <item>Κάρτα 2</item>
+        <item>Απενεργοποίηση</item>
+    </string-array>
+</resources>

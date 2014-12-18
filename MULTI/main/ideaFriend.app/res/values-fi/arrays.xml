@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>Oletus</item>
+        <item>Piano</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organisaatio</item>
+        <item>Kommentit</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Sukupuoli</item>
+        <item>Puhelin</item>
+        <item>Syntymäpäivä</item>
+        <item>Sijainti</item>
+        <item>Koulu</item>
+        <item>Yritys</item>
+        <item>Sähköposti</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Huulet ovat sinetöidyt</item>
+        <item>Mies</item>
+        <item>Nainen</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+        <item>:xx</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Iloinen</item>
+        <item>Surullinen</item>
+        <item>Silmänisku</item>
+        <item>Kieli pitkällä</item>
+        <item>Yllättynyt</item>
+        <item>Suukko</item>
+        <item>Huutaa</item>
+        <item>Cool</item>
+        <item>Raha suussa</item>
+        <item>Jalka suussa</item>
+        <item>Nolostunut</item>
+        <item>Enkeli</item>
+        <item>Päättämätön</item>
+        <item>Itkee</item>
+        <item>Huulet ovat sinetöidyt</item>
+        <item>Nauraa</item>
+        <item>Hämmentynyt</item>
+        <item>Sydän</item>
+        <item>Hullu</item>
+        <item>Virnistys</item>
+        <item>Pokerinaama</item>
+        <item>Poista</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Missä olet?</item>
+        <item>Mitä teet?</item>
+        <item>Kiire! Soita heti.</item>
+        <item>Olen kokouksessa.</item>
+        <item>Soitan pian.</item>
+        <item>Älä huolehdi, olen kunnossa.</item>
+        <item>Olen kotimatkalla.</item>
+        <item>Tulen pian.</item>
+        <item>Olet kalkkis, jos et tule.</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Rajoitettu tila</item>
+        <item>Varoitustila</item>
+        <item>Vapaa tila</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Korkea</item>
+        <item>Keskitaso</item>
+        <item>Matala</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM-aakkoset</item>
+        <item>Automaattinen</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Puhelin</item>
+        <item>Uusi SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Laite</item>
+        <item>Uusi SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Oletus</item>
+        <item>Pieni</item>
+        <item>Keskitaso</item>
+        <item>Suuri</item>
+        <item>Erittäin suuri</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Välitä suoraan</item>
+        <item>Lisää lähettäjän nimi</item>
+        <item>Lisää lähettäjän nimi ja numero</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Välitä suoraan</item>
+        <item>Lisää lähettäjän nimi</item>
+        <item>Lisää lähettäjän nimi ja numero</item>
+        <item>Kysy aina (välitä suoraan, kun automaattinen välitys on käytössä)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Puhelin</item>
+        <item>UIM-kortti</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunti</item>
+        <item>Muut…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Aina</item>
+        <item>Vain äänettömässä tilassa</item>
+        <item>Ei koskaan</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+    <string-array name="callog_display_style_value">
+        <item>Päiväyksen mukaan</item>
+        <item>Numeron mukaan</item>
+        <item>Yhteystiedon mukaan</item>
+    </string-array>
+</resources>

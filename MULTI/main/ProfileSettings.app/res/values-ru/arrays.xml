@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>Стандарт</item>
+        <item>Без звука</item>
+        <item>Вибрация</item>
+        <item>На улице</item>
+        <item>За рулем</item>
+    </string-array>
+</resources>

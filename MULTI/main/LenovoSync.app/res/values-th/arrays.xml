@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>กำลังรอ</item>
+        <item>กำลังสำรองข้อมูล</item>
+        <item>สำรองข้อมูลแล้ว</item>
+        <item>ข้อผิดพลาด</item>
+        <item>ตกลง</item>
+        <item>ตกลง</item>
+        <item>ยกเลิกแล้ว</item>
+        <item>ตกลง</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>กำลังรอ</item>
+        <item>กำลังดาวน์โหลด</item>
+        <item>ถอนการติดตั้ง</item>
+        <item>ข้อผิดพลาด</item>
+        <item>อัปเดต</item>
+        <item>ติดตั้งแล้ว</item>
+        <item>ยกเลิกแล้ว</item>
+        <item>กำลังติดตั้ง</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>เปลี่ยนชื่ออัลบั้ม</item>
+        <item>ลบอัลบั้ม</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>ซิงค์อิทเป็นแอปฟรีบนมือถือ แต่ผู้ให้บริการเครือข่ายอาจคิดค่าบริการรับส่งข้อมูลผ่านเครือข่าย ที่เกิดจากการโหลดและการใช้งาน</item>
+        <item>ใช่</item>
+        <item>ซิงค์อิทจัดเก็บข้อมูลของผู้ใช้ด้วยวิธีการเข้ารหัสลับ ที่มีระดับความปลอดภัยเช่นเดียวกับการทำธุรกรรม ธนาคารทางออนไลน์ ดังนั้นจึงสามารถรักษา ความปลอดภัยของข้อมูลส่วนบุคคล และจะไม่มีข้อมูลรั่วไหลอย่างเด็ดขาด</item>
+        <item>ซิงค์อิทจะผส่านรวมรายชื่อที่ซ้ำกันใน โทรศัพท์ของคุณโดยอัตโนมัติ</item>
+        <item>และแน่นอนว่าคุณสามารถทำได้ ถ้าระบบปฏิบัติการของโทรศัพท์ของคุณคือระบบต่อไปนี้: Android, iOS, Symbian หรือ Java ที่รองรับ คุณสามารถค้นหาเวอร์ชันที่ตรงกัน เพื่อใช้งานได้</item>
+        <item>แอปนี้รองรับแพลตฟอร์ม Symbian , iOS, Android และ Java</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>ซิงค์อิทคิดค่าใช้บริการหรือไม่</item>
+        <item>ซิงค์อิทและการสำรองข้อมูลของแอนดรอยด์เป็นซอฟต์แวร์เดียวกันหรือไม่</item>
+        <item>ซิงค์อิทปลอดภัยหรือไม่ แอปจะขโมยหมายเลขโทรศัพท์ของฉันหรือข้อมูลสำรองของฉันหรือไม่</item>
+        <item>เหตุใดรายชื่อของฉันจึงลดน้อยลงหลังจากที่สำรองข้อมูลแล้ว</item>
+        <item>โทรศัพท์ของฉันไม่ใช่ของเลโนโวฉันจะสามารถใช้งานซิงค์อิทได้หรือไม่</item>
+        <item>ซิงค์อิทรองรับแพลตฟอร์มอื่นหรือไม่</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>รายชื่อ</item>
+        <item>ข้อความ</item>
+        <item>บันทึกการโทร</item>
+    </string-array>
+</resources>

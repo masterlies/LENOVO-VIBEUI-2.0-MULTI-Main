@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdeaFriendSecreteCode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Seting</string>
+    <string name="meid_activity_title">Versi PRL</string>
+    <string name="disable_dfn_activity_title">Seting FDN</string>
+    <string name="tv_text">"Seting FDN Permulaan.
+(Dayakan/Nyahdayakan)"</string>
+    <string name="btn_post">Dayakan</string>
+    <string name="btn_neg">Nyahdayakan</string>
+    <string name="enable">Dayakan</string>
+    <string name="disable">Nyahdayakan</string>
+    <string name="reboot_device_title">Mulakan semula peranti</string>
+    <string name="reboot_device_message_pre_on">Perkhidmatan SS didayakan</string>
+    <string name="reboot_device_message_pre_off">Perkhidmatan SS dinyahdayakan</string>
+    <string name="reboot_device_message_post">(Perlu Dimulakan Semula!!!)</string>
+    <string name="reboot">Mula semula</string>
+    <string name="cancel">Batal</string>
+    <string name="default_state">Ralat</string>
+    <string name="cur_state">Keadaan Perkhidmatan SS Semasa:</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perakam</string>
+    <string name="left_timer_format" formatted="false">Baki masa: %02dj%02dm</string>
+    <string name="recording">Merakam %1$s</string>
+    <string name="label_quality">Pilih kualiti rakaman</string>
+    <string name="remain_time">Baki masa</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Batal</string>
+    <string name="audio_db_artist_name">Rakaman anda</string>
+    <string name="audio_db_album_name">Rakaman</string>
+    <string name="audio_db_playlist_name">Rakaman saya</string>
+    <string name="exit_tip">Adakah anda benar-benar ingin keluar daripada perakam?</string>
+    <string name="error_zero_audio">Tidak boleh merakam audio sepanjang 0 saat.</string>
+    <string name="error_busy_in_call">Sila letakkan gagang telefon dan kemudian gunakan perakam!</string>
+    <string name="error_no_space">Ruang bebas tidak mencukupi, tidak boleh rakam.</string>
+    <string name="error_sdcard_access">Tidak dapat mengakses kad SD</string>
+    <string name="error_internal">Perakam sedang berjalan, sila tutupnya dahulu!</string>
+    <string name="error_mediadb_new_record">Tidak dapat menyimpan audio yang dirakam</string>
+    <string name="error_app_unsupported">Format tidak disokong</string>
+    <string name="error_insert_sd_card">Sila masukkan kad SD</string>
+    <string name="error_storage_is_full">Storan penuh</string>
+    <string name="error_max_length">Panjang maksimum dicapai</string>
+    <string name="contextmenu_item_delete">Padam</string>
+    <string name="contextmenu_item_rename">Nama semula</string>
+    <string name="contextmenu_item_send_title">Hantar</string>
+    <string name="contextmenu_item_setasringtone">Nada dering</string>
+    <string name="label_setringtone_success">Rakaman \"%1$s\" telah berjaya ditetapkan sebagai nada dering</string>
+    <string name="setringtone_fail">Tidak perlu menetapkan Nada Dering dalam mod getaran atau senyap</string>
+    <string name="del_selfile_tip">Adakah anda pasti ingin memadamkan fail audio yang dipilih?</string>
+    <string name="label_delete_success">Berjaya dipadam!</string>
+    <string name="input_toolong">Terlalu banyak aksara dimasukkan</string>
+    <string name="file_name_exist">Maaf, nama fail tidak boleh diulang</string>
+    <string name="empty_len">Nama fail tidak boleh kosong.</string>
+    <string name="namebad">Nama fail mengandungi aksara tidak sah: \\ : ? * > \" | / dll.</string>
+    <string name="delete_tip">Padam rakaman</string>
+    <string name="not_select">Anda tidak memilih sebarang opsyen</string>
+    <string name="am_file">%1$s:%2$s pg</string>
+    <string name="pm_file">%1$s:%2$s ptg</string>
+    <string name="selected_number_of">%1$s dipilih</string>
+    <string name="saved_file_reminder">Fail disimpan sebagai \"%1$s\"</string>
+    <string name="delete_recorded">Padam fail rakaman</string>
+    <string name="delete_muti_msg">Memadam, sila tunggu...</string>
+    <string name="rename_record_file">Namakan semula fail</string>
+    <string name="soundrecorder_list">Rakaman</string>
+    <string name="callrecorder_list">Rakaman panggilan</string>
+    <string name="mediarecorder_list">Rakaman media</string>
+    <string name="high_quality">Mod Temu Bual (Tinggi)</string>
+    <string name="medium_quality">Mod Perbualan (Sederhana)</string>
+    <string name="low_quality">Mod Interaksi (Rendah)</string>
+    <string name="exit_record_play">Sila berhenti merakam sebelum memainkan</string>
+    <string name="exit_play_edit">Sila berhenti mainkan sebelum mengedit</string>
+    <string name="exit_playOrRecord_delete">Sila hentikan main balik atau rakaman sebelum memasuki mod padam kelompok</string>
+    <string name="exit_toast">Klik sekali lagi untuk keluar daripada aplikasi</string>
+    <string name="playlist_text">Senarai rakaman</string>
+    <string name="fileDir_not_exist">Laluan yang dipilih untuk fail audio tidak wujud!</string>
+</resources>

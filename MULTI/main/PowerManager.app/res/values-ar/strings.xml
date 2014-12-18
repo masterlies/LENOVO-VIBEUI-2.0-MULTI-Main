@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إدارة الطاقة</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء الأمر</string>
+    <string name="power_consume_app_freeze">تجميد</string>
+    <string name="power_consume_app_unfreeze">إلغاء التجميد</string>
+    <string name="power_consume_app_uninstall">إزالة التثبيت</string>
+    <string name="power_consume_app_details">تفصيل</string>
+    <string name="battery_usage_use">استخدام البطارية: %s</string>
+    <string name="consumption_call">المكالمات الصوتية</string>
+    <string name="consumption_screen">الشاشة</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">وحدة المعالجة المركزية</string>
+    <string name="consumption_radio">اللاسلكي</string>
+    <string name="consumption_bluetooth">بلوتوث</string>
+    <string name="consumption_system">نظام التشغيل Android</string>
+    <string name="power_media">الوسائط</string>
+    <string name="power_battery">الطاقة</string>
+    <string name="power_charge">قيد الشحن</string>
+    <string name="power_consume">الاستخدام</string>
+    <string name="power_settings">الإعدادات</string>
+    <string name="power_mode">الوضع</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">إجمالي وقت استهلاك وحدة المعالجة المركزية</string>
+    <string name="usage_type_cpu_foreground">وحدة المعالجة المركزية</string>
+    <string name="usage_type_wake_lock">البقاء في وضع الانتباه</string>
+    <string name="usage_type_alarm">تنبيه النظام</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">‏Wi-Fi قيد التشغيل ‏</string>
+    <string name="usage_type_data_send">البيانات المرسلة</string>
+    <string name="usage_type_data_recv">البيانات المستلمة</string>
+    <string name="usage_type_audio">صوت</string>
+    <string name="usage_type_video">فيديو</string>
+    <string name="usage_type_on_time">وقت التشغيل</string>
+    <string name="usage_type_no_coverage">الوقت بلا إشارة</string>
+    <string name="battery_history_days" formatted="false">%dي %dس %dق %dث</string>
+    <string name="battery_history_hours" formatted="false">%dس %dق %dث</string>
+    <string name="battery_history_minutes" formatted="false">%dق %dث</string>
+    <string name="battery_history_seconds">%ds</string>
+    <string name="battery_hour_minute" formatted="false">%sس %sق</string>
+    <string name="battery_hour">%s س</string>
+    <string name="battery_minute">%s ق</string>
+    <string name="battery_wakelock" formatted="false">%dمرة (مرات) لـ %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dي %dس %dق %sث</string>
+    <string name="battery_wakelock_hours" formatted="false">%dس %dق %sث</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dق %sث</string>
+    <string name="battery_wakelock_seconds">%sث</string>
+    <string name="battery_alarm_time">%dمرة (مرات)</string>
+    <string name="battery_screen_time">منذ آخر شحن كامل</string>
+    <string name="usage_type_wakelock_screen">منع سكون الشاشة</string>
+    <string name="usage_type_wakelock_cpu">منع سكون CPU</string>
+    <string name="usage_type_sensor">مستشعر الاستخدام</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">أخرى</string>
+    <string name="battery_screen_on_time">مستخدم: %s</string>
+    <string name="battery_screen_off_time">في وضع الاستعداد: %s</string>
+    <string name="enter_setting">تشغيل الإعدادات</string>
+    <string name="battery_tab_title_consume">استهلاك الطاقة</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d أيام و%d ساعات و%d دقائق</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d ساعات و%d دقائق</string>
+    <string name="battery_history_minutes_without_seconds">%d دقائق</string>
+    <string name="battery_sensor_info" formatted="false">%d مرة (مرات) لإجمالي من %s</string>
+    <string name="hour">س</string>
+    <string name="minute">ق</string>
+    <string name="second">ث</string>
+    <string name="application_not_found">فشل العثور على إعدادات تفاصيل التطبيق</string>
+    <string name="mode_turnOff">إيقاف</string>
+    <string name="mode_turnOn">تشغيل</string>
+    <string name="main_switch_dialog_super">يقوم بتمكين وظيفتي الاتصال والمراسلة فقط، وتعطيل جميع الوظائف الأخرى لفترة استعداد تصل إلى عدة أيام</string>
+    <string name="deep_clear_result_to_white_list_new">لن يتأثر التطبيق المحدد</string>
+    <string name="temporary_no_app">لا يوجد تطبيق</string>
+    <string name="progress_loading">الرجاء الانتظار…</string>
+    <string name="failed_switch_app_state">عذرًا، فشلت العملية، أنت تعمل كثيرًا. الرجاء إعادة المحاولة لاحقًا</string>
+    <string name="package_manger_list_type_third">تطبيقات المستخدم</string>
+    <string name="package_manger_list_type_system">تطبيقات النظام</string>
+    <string name="btn_return">عودة</string>
+    <string name="main_switcher">التبديل الموقوت</string>
+    <string name="switcher_detail">يقوم بتمكين الوضع المحدد تلقائيًا خلال الفترة المحددة</string>
+    <string name="switcher">التبديل الموقوت</string>
+    <string name="switcher_start_time">وقت البدء</string>
+    <string name="switcher_end_time">وقت الانتهاء</string>
+    <string name="switcher_tag">ممكن لهذه الفترة</string>
+    <string name="switcher_target_custom">تخصيص</string>
+    <string name="mode_changed_dialog">تبديل الوضع</string>
+    <string name="no_remind">عدتم تذكري مرة اخرى</string>
+    <string name="new_sim">بطاقة SIM جديدة</string>
+    <string name="application_not_found_activity">لم يتم العثور على هذا التطبيق</string>
+    <string name="classicmode_lable_phone">الهاتف</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">جهات الاتصال</string>
+    <string name="failed_get_safecenter_whitelist">فشلت مزامنة القائمة البيضاء لمركز أمان Lenovo. يُرجى إعادة تثبيت أحدث إصدار من مركز أمان Lenovo.</string>
+    <string name="application_not_support_be_launched">يتعذّر على التطبيقات الأخرى تمكين هذا التطبيق بسبب إعدادات الأمان</string>
+    <string name="classic_phone_dialog_entering">جارٍ تهيئة البيانات. الرجاء الانتظار…</string>
+    <string name="classic_phone_dialog_existing">جارٍ استعادة البيانات. الرجاء الانتظار…</string>
+    <string name="consumption_app_button">البرامج</string>
+    <string name="consumption_hardware_button">الأجهزة</string>
+    <string name="power_setting_menu_classic_phone">وضع موفر الطاقة‬ الأساسي</string>
+    <string name="power_setting_menu_smart">موفر طاقة الشاشة، ووحدة المعالجة المركزية، ووحدة معالجة الرسومات</string>
+    <string name="power_setting_menu_app_deep_clear">تعطيل التطبيقات عندما تكون الشاشة متوقفة عن التشغيل</string>
+    <string name="power_setting_menu_consumption">تفاصيل استهلاك الطاقة</string>
+    <string name="statistic_assist_title">ميزات إحصائية إضافية</string>
+    <string name="power_consumption_title">ميزات موفر الطاقة</string>
+    <string name="fragment_tab_deepclear">تعطيل التطبيقات عندما تكون الشاشة متوقفة عن التشغيل</string>
+    <string name="deep_clear_detail">لن تقاطع التطبيقات، بعد تعطيلها، وضع سكون الهاتف في الخلفية.</string>
+    <string name="dialog_timing_text">هل تريد التبديل إلى وضع موفر الطاقة‬ الأساسي؟</string>
+    <string name="switcher_summery">التبديل تلقائيًا إلى وضع موفر الطاقة الأساسي للفترات الزمنية المعينة</string>
+    <string name="switcher_summery_close">سيؤدي التمكين إلى التبديل تلقائيًا إلى وضع موفر الطاقة الأساسي للفترات الزمنية المعينة</string>
+    <string name="classicmode_hit_text">موفر الطاقة‬ الأساسي</string>
+    <string name="classic_phone_desktop_shortcut">موفر الطاقة‬ الأساسي</string>
+    <string name="classic_phone_dialog_title">مطالبة موفر الطاقة‬ الأساسي</string>
+    <string name="classic_phone_dialog_enter">هل تريد بالتأكيد الدخول في وضع موفر الطاقة الأساسي؟ أنت دؤوب للغاية. تذكر أن تأخذ فترة استراحة</string>
+    <string name="classic_phone_dialog_exist">هل تريد بالتأكيد الخروج من وضع توفير الطاقة الأساسي؟</string>
+    <string name="classic_phone_failed_to_start_service">فشل تشغيل موفر الطاقة‬ الأساسي؟ نأسف، لقد بذلنا قصارى جهدنا</string>
+    <string name="create_classicmode_desktop_shortcut">إنشاء اختصار سطح المكتب لموفر الطاقة الأساسي</string>
+    <string name="classicmode_exit_hint_text">للخروج من موفر الطاقة الأساسي، يُرجى الضغط على الزر \"إغلاق\"</string>
+    <string name="setttings_screen_smart_brightness2">محرك الرؤية لتوفير الطاقة</string>
+    <string name="setttings_screen_smart_brightness_detail">استخدم تقنية الموجة الجيبية لضبط السطوع‬ لتخفيف استهلاك الطاقة بنسبة تتراوح من ‏20%‏ إلى‏5‏</string>
+    <string name="power_engine_vmx_title">محرك الحوسبة لتوفير الطاقة</string>
+    <string name="power_engine_vmx_detail">ضبط وحدة المعالجة المركزية بطريقة ذكية لتخفيف استهلاك الطاقة بنسبة تتراوح من ‏20%‏إلى ‏10‏</string>
+    <string name="power_engine_fps_title">محرك الرسومات لتوفير الطاقة</string>
+    <string name="power_engine_fps_detail">تحسين وحدة معالجة الرسومات بطريقة ذكية لتخفيف استهلاك الطاقة بنسبة تتراوح من ‏20%‏إلى ‏10 ‏</string>
+    <string name="power_engine_summery_close">سيؤدي التمكين إلى تخفيف استهلاك طاقة الشاشة ووحدة المعالجة المركزية ووحدة معالجة الرسومات بطريقة ذكية</string>
+    <string name="power_engine_summery_close2">سيؤدي التمكين إلى تخفيف استهلاك طاقة الشاشة ووحدة معالجة الرسومات بطريقة ذكية</string>
+    <string name="power_engine_summery_close3">سيؤدي التمكين إلى تخفيف استهلاك طاقة الشاشة بطريقة ذكية</string>
+    <string name="power_engine_summery_close4">سيؤدي التمكين إلى تخفيف استهلاك طاقة الشاشة ووحدة المعالجة المركزية بطريقة ذكية</string>
+    <string name="power_setting_menu_smart2">موفر طاقة الشاشة</string>
+    <string name="power_setting_menu_smart3">موفر طاقة الشاشة، ووحدة المعالجة المركزية، ووحدة معالجة الرسومات</string>
+    <string name="power_setting_menu_smart4">موفر طاقة الشاشة ووحدة معالجة الرسومات</string>
+    <string name="power_setting_menu_smart5">موفر طاقة الشاشة ووحدة المعالجة المركزية</string>
+    <string name="power_setting_current_battery" formatted="false">الشحنة الحالية: ‏%s%s‏</string>
+    <string name="classicmode_lable_clock">الساعة</string>
+</resources>

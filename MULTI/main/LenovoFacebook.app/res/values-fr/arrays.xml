@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sync_interval_entries">
+        <item>Aucun</item>
+        <item>3 heures</item>
+        <item>6 heures</item>
+        <item>12 heures</item>
+        <item>Une fois par jour</item>
+    </string-array>
+    <string-array name="sync_interval_values">
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>24</item>
+    </string-array>
+</resources>

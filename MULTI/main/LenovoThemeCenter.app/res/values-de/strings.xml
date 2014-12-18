@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_about">Info</string>
+    <string name="lenovo_about_update">Upgrade</string>
+    <string name="lenovo_about_update_now">Entscheiden Sie sich jetzt für ein Upgrade!</string>
+    <string name="lenovo_about_versoin">Neue Version verfügbar</string>
+    <string name="lenovo_about_qqgroup">QQ-Gruppe</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">E-Mail-Adresse</string>
+    <string name="lenovo_about_unsupport">Derzeit nicht unterstützt. Bitte warten.</string>
+    <string name="ab_version_introduction">Einführung in die Funktionen</string>
+    <string name="ab_contacts">Kontaktart</string>
+    <string name="ab_feedback">Feedback</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">WLAN aktivieren!</string>
+    <string name="SUS_MSG_LATESTVERSION">Die Version ist aktuell.</string>
+    <string name="SUS_MSG_NOTFOUND">Keine Aktualisierungen.</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Netzwerk nicht verfügbar.</string>
+    <string name="SUS_MSG_WARNING_PENDING">Das Update wird ausgeführt.</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download abgeschlossen.</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Fehler bei Update. Versuchen Sie es erneut.</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Eingabeaufforderung nicht anzeigen</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Eingabeaufforderung, wenn neue Version gefunden wurde</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Speicherplatz nicht ausreichend.</string>
+    <string name="SUS_VERSIONUPDATE">Neue Version verfügbar.</string>
+    <string name="SUS_UPDATEDESC">Beschreibung:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Name:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Größe:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN für Download empfohlen.</string>
+    <string name="SUS_UPDATE">Aktualisieren</string>
+    <string name="SUS_CANCEL">Später</string>
+    <string name="SUS_DOWNLOAD_TITLE">IdeaFriend wird heruntergeladen.</string>
+    <string name="SUS_CANCELBUTTON">Abbruch</string>
+    <string name="SUS_NOTIFICATION_TITLE">Eingabeaufforderung</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Aktualisierung läuft... Bitte warten.</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Zeitlimitüberschreitung im Netz. Vorgang wird wiederholt...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Okay</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abbrechen</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Das Dialogfeld wird nach wenigen</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">Sekunden ausgeblendet.)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Zum Installieren bitte antippen.</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Zum Installieren bitte antippen:</string>
+    <string name="SUS_CURRENT_VERSION">Aktuelle Version</string>
+    <string name="SUS_NEW_VERSION">Neueste Version</string>
+    <string name="SUS_FIND_NEW_VERSION">Neue Version für Sie verfügbar</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">APK installieren.</string>
+</resources>

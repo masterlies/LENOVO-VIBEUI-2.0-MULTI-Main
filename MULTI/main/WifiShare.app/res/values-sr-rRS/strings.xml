@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Podešavanja</string>
+    <string name="prompt">%s pokušava da napravi VPN vezu.</string>
+    <string name="current_wifi">Trenutna WLAN veza:</string>
+    <string name="hotknot_help">Kako da podelite: U trenutnom interfejsu, približite gornji deo dva telefona tako da im se poleđine dodiruju (NFC prenos). Pratite uputstva na ekranu da biste podelili povezani WLAN nalog.</string>
+    <string name="title_receive">U toku je prijem</string>
+    <string name="wlan_connecting">Prijem WLAN naloga...</string>
+    <string name="title_finish">Uspešno primljeno</string>
+    <string name="wlan_finish">WLAN nalog uspešno primljen. Povežite se na %1$s i bićete na mreži!</string>
+    <string name="send_ap_no_connected">Nije moguće podeliti (povezani WLAN nalog nije pronađen)</string>
+    <string name="hotknot_help_note">Napomena: Odredišni telefon mora da podržava deljenje WLAN naloga (sa unosom funkcija)</string>
+    <string name="wifi_share">Deljenje WLAN mreže</string>
+</resources>

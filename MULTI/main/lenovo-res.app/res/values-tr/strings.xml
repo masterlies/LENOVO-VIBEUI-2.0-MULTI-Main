@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dlg_use_ipo_confirm">Hızlı açılma</string>
+    <string name="dlg_ipo_confirm_warning">Hızlı açılma kipinde sistem tamamen kapanmaz, kartlara zarar verebileceği için bu durumdayken lütfen SIM kartını veya bellek kartını çıkartmayın.</string>
+    <string name="storage_sd_card">dış depolama</string>
+    <string name="storage_usb">USB depolama birimi</string>
+    <string name="storage_phone">yerleşik depolama</string>
+    <string name="storage_external_usb">Harici USB depolama birimi</string>
+    <string name="ext_storage_internal_notification_title">İç Depolama Alanı Hazırlanıyor</string>
+    <string name="ext_storage_external_notification_title">Dış Depolama Hazırlanıyor</string>
+    <string name="global_actions_toggle_open_airplane_mode_confirm">Uçuş modu etkinleştirilecek</string>
+    <string name="usb_notification_title">USB Bağlantı Ayarları</string>
+    <string name="usb_notification_content">Usb bağlantı kipini ve adb hata ayıklamayı seçin.</string>
+    <string name="default_string">Varsayılan</string>
+    <string name="capital_on">AÇIK</string>
+    <string name="capital_off">KAPALI</string>
+    <string name="kg_forgot_password_button_text">Şifremi Unuttum</string>
+    <string name="msg_shutdown_habit_guess">"Yakın zaman içinde cihazı üç defa kapattınız. 
+Planlanmış cihaz açma-kapatma ayarlarına gitmek ister misiniz?"</string>
+    <string name="global_action_reboot">Yeniden başlat</string>
+    <string name="reboot_confirm_title">Yeniden başlat</string>
+    <string name="reboot_confirm_msg">El cihazınız yeniden başlatılacak</string>
+    <string name="reboot_dialog_msg">"^1 saniye sonra kapatmak için güç tuşuna basın. 
+Kapatmanın ardından yeniden yüklenmesi için 2 saniye daha basmaya devam edin"</string>
+    <string name="silent_mode_silent">Sessiz</string>
+    <string name="silent_mode_vibrate">Titreşim</string>
+    <string name="silent_mode_normal">Genel</string>
+    <string name="silent_mode_outdoor">Dış mekan</string>
+    <string name="powerOnWarning_alarm_msg">Sonraki AlarmSaati: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Sonraki Açılış: %1$s</string>
+    <string name="qreboot_confirm_title">Hızlı yeniden başlatma</string>
+    <string name="qreboot_confirm_msg">Hızlı yeniden başlatma işlemi yapıldığında yalnızca uygulama işlemi sıfırlanır. Sistemle ilgili sorunlar yaşıyorsanız standart yeniden başlatma işlemini öneririz.</string>
+    <string name="long_back_exit_info">çık</string>
+    <string name="prevent_misoperation_title">Yanlış kullanın önleme kipi</string>
+    <string name="prevent_misoperation_message">Üst ekranın önünü kapatmayın</string>
+    <string name="prevent_misoperation_quit_hint">Çıkmaya zorla: \"Geri\" + \"Ses Açma\" tuşuna basarak</string>
+    <string name="captive_portal_dialog_title">Kablosuz ağda oturum açın</string>
+    <string name="captive_portal_dialog_message">İnternete erişmeden önce mevcut WLAN ağı için oturum açmak gerekiyor, lütfen önce oturum açın</string>
+    <string name="captive_portal_dialog_button">Oturum aç</string>
+    <string name="volume_icon_description_ringer">Zil Sesi</string>
+    <string name="volume_icon_description_bluetooth">Bluetooth</string>
+    <string name="volume_icon_description_incall">Çağrı</string>
+    <string name="volume_alarm">Uyarı</string>
+    <string name="volume_fm">Zil sesi FM</string>
+    <string name="volume_matv">Mobil TV</string>
+    <string name="volume_icon_description_media">Medya</string>
+    <string name="volume_icon_description_notification">Bildirimler</string>
+    <string name="not_support_too_long_string">Çok uzun dizi arama desteklenmiyor</string>
+    <string name="turn_on_mobile_data_warning">"Veri bağlantısını açın, cep telefonu bir miktar GPRS verisi kullanacak. 
+Ücretler operatör tarafından belirlenir. Açmak istediğinize emin misiniz?"</string>
+    <string name="next_time_no_warning">Bir sonraki sefer uyarma.</string>
+    <string name="turn_on_data">Aç</string>
+    <string name="turn_off_data">Kapat</string>
+    <string name="keyguard_password_waring_dlg_title">Yanlış parola</string>
+    <string name="keyguard_password_attempts_warning" formatted="false">Telefonu açma kilidini %d defa yanlış girdiniz. %d yanlış girişten sonra, telefon fabrika ayarlarına dönecek ve bütün kullanıcı verileri silinecek.</string>
+    <string name="keyguard_password_waring_dlg_remind">"Lütfen lenovo olarak girin ve devam etmek için TAMAM'ı tıklatın."</string>
+    <string name="keyguard_password_dlg_input_err">Giriş hatası, lütfen tekrar deneyin</string>
+    <string name="zzz_wifi_display_bt_hdmi_off_wfd_on">Kablosuz ekranı açtığınızda Bluetooth kapanır. Devam etmek istiyor musunuz?</string>
+    <string name="invalid_wlan_dialog_title">WLAN</string>
+    <string name="invalid_wlan_dialog_message">İnternet bağlantısında bazı sorunlar var, lütfen mevcut WLAN ağını kontrol edin veya başka bir WLAN ağına bağlanın</string>
+    <string name="invalid_wlan_dialog_button">Diğer WLAN ağına bağlan</string>
+    <string name="popup_menu_find">Bul</string>
+    <string name="confirm_dialog_title">Onayla</string>
+    <string name="wifi_display_and_wifi_are_turned_on">Kablosuz gösterim ve WLAN açık.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>lockscreen</item>
+        <item>spúšťač</item>
+        <item>ikony</item>
+        <item>tapeta</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>callscreen</item>
+        <item>systemwidget</item>
+        <item>bootshut</item>
+        <item>písmo</item>
+    </string-array>
+</resources>

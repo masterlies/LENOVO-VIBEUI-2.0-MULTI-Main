@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Info</string>
+    <string name="Ok">U redu</string>
+    <string name="Cancel">Odustani</string>
+    <string name="app_name">Kompas</string>
+    <string name="calibrate">Kalibracija</string>
+    <string name="latitude">Geografska dužina</string>
+    <string name="longitude">Geografska širina</string>
+    <string name="calibrate_success">Kalibracija je dovršena</string>
+    <string name="ignore">Zanemari</string>
+    <string name="cannot_get_location">Dohvaćanje lokacije nije moguće.</string>
+    <string name="location_north">SL</string>
+    <string name="location_south">NL</string>
+    <string name="location_east">IL</string>
+    <string name="location_west">ZL</string>
+    <string name="direction_north">S</string>
+    <string name="direction_south">J</string>
+    <string name="direction_east">I</string>
+    <string name="direction_west">Z</string>
+    <string name="direction_east_north">SI</string>
+    <string name="direction_east_south">JI</string>
+    <string name="direction_west_north">SZ</string>
+    <string name="direction_west_south">JZ</string>
+    <string name="Tips">Magnetsko polje u blizini ometa rad. Držite telefon i mašite s njime u obliku 8 kao na prethodnoj slici. Ovaj će se dijaloški okvir automatski zatvoriti nakon uspješne kalibracije.</string>
+    <string name="Warn">U blizini možda postoji magnetsko polje koje ometa rad</string>
+    <string name="click_to_location">Kliknite da biste dobili GPS položaj</string>
+    <string name="warn_message">Želite li omogućiti da se informacije o trenutnom položaju preuzimaju s GPS-a ili mreže?</string>
+    <string name="no_warn_later">Ne prikazuj to više</string>
+    <string name="start_calibration">Zatresite telefon da biste ga kalibrirali</string>
+    <string name="no_location_server">Usluga lociranja je onemogućena</string>
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>وارد کردن از تاریخچه تماس</item>
+        <item>وارد کردن از تاریخچه SMS</item>
+        <item>وارد کردن از مخاطبین</item>
+        <item>افزودن به طور دستی</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>بدون هشدار</item>
+        <item>هشدار نوار اعلان</item>
+        <item>هشدار نوار اعلان + آهنگ هشدار</item>
+        <item>هشدار نوار اعلان + لرزش</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>پاسخ</item>
+        <item>رد کردن</item>
+        <item>رد کردن تماس با SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>بدون یادآور</item>
+        <item>یادآور نوار اعلان</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>ویرایش صندوق پستی</item>
+        <item>اکنون تهیه نسخه پشتیبان</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>حذف</item>
+        <item>تغییر</item>
+        <item>ارسال پیام</item>
+        <item>تماس</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>پیام ها و تماس ها</item>
+        <item>تماس ورودی</item>
+        <item>پیام</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>فقط مخاطبین</item>
+        <item>فقط لیست سفید</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>وارد کردن از تماس های ورودی</item>
+        <item>وارد کردن از تاریخچه SMS</item>
+        <item>وارد کردن از مخاطبین</item>
+        <item>افزودن به طور دستی</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>فقط مسدود کردن لیست سیاه</item>
+        <item>فقط اجازه به مخاطبین</item>
+        <item>فقط اجازه به لیست سفید</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>وارد کردن از تاریخچه تماس</item>
+        <item>وارد کردن از تاریخچه SMS</item>
+        <item>وارد کردن از مخاطبین</item>
+        <item>افزودن به طور دستی</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>لیست سیاه را خاموش کنید.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>افزودن از تاریخچه تماس</item>
+        <item>افزودن از مخاطبین</item>
+        <item>افزودن به طور دستی</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>افزودن از تاریخچه SMS</item>
+        <item>افزودن از مخاطبین</item>
+        <item>افزودن به طور دستی</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>لیست سیاه را خاموش کنید</item>
+        <item>گزارش</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>تماس</item>
+        <item>ارسال SMS</item>
+        <item>لیست سفید را خاموش کنید</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>به روزرسانی دستی</item>
+        <item>هر روز</item>
+        <item>هفتگی</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>نام مادر من؟</item>
+        <item>میوه مورد علاقه من؟</item>
+        <item>تاریخ تولد پدر من؟</item>
+        <item>آهنگ مورد علاقه من؟</item>
+        <item>نام حیوان خانگی من؟</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>هر 10 دقیقه</item>
+        <item>هر 20 دقیقه</item>
+        <item>هر 30 دقیقه</item>
+        <item>هر 1 ساعت</item>
+        <item>هر 2 ساعت</item>
+        <item>هر 3 ساعت</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>بازگشت به آهنگ مشغول</item>
+        <item>بازگشت به حالت خاموش</item>
+        <item>بازگشت به حالت خاموش</item>
+        <item>بازگشت به شماره خالی</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>تنظیمات</item>
+        <item>به روزرسانی</item>
+        <item>درباره</item>
+    </string-array>
+</resources>

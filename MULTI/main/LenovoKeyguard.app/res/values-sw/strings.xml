@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyguardTestActivity</string>
+    <string name="secure_app_name">UnifiedCamera</string>
+    <string name="none_menu_item">Hakuna usalama</string>
+    <string name="pin_menu_item">PIN</string>
+    <string name="password_menu_item">Nenosiri</string>
+    <string name="pattern_menu_item">Ruwaza</string>
+    <string name="sim_pin_menu_item">PIN ya SIM</string>
+    <string name="sim_puk_menu_item">PUK ya SIM</string>
+    <string name="add_widget_item">Chagua wijeti...</string>
+    <string name="on_screen_turned_off">onScreenTurnedOff</string>
+    <string name="on_screen_turned_on">onScreenTurnedOn</string>
+    <string name="do_keyguard">doKeyguard</string>
+    <string name="verify_unlock">verifyUnlock</string>
+    <string name="lenovo_keyguard_password_enter_puk_code">Chapa PUK ya %s na msimbo mpya wa PIN</string>
+    <string name="lenovo_keyguard_password_enter_puk_prompt">Msimbo wa PUK ya %s</string>
+    <string name="lenovo_keyguard_password_enter_pin_prompt">Msimbo mpya wa PIN ya %s</string>
+    <string name="lenovo_keyguard_missing_sim_message_short">Hakuna %s kadi</string>
+    <string name="lenovo_keyguard_missing_sim_message">Hakuna %s kadi kwenye simu.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions">Ingiza %s kadi.</string>
+    <string name="lenovo_keyguard_missing_sim_instructions_long">%1$s kadi haiko au haisomeki. Ingiza %1$s kadi.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_message_short">%s kadi isiyotumika.</string>
+    <string name="lenovo_keyguard_permanent_disabled_sim_instructions">"%1$s kadi yako imefungwa kabisa.
+ Wasiliana na mtoa huduma wako wa pasi waya ili upate %1$s kadi nyingine."</string>
+    <string name="lenovo_keyguard_sim_locked_message">%s kadi imefungwa.</string>
+    <string name="lenovo_keyguard_sim_puk_locked_message">%s kadi imefungwa na PUK.</string>
+    <string name="lenovo_keyguard_sim_unlock_progress_dialog_message">Inafungua %s kadi...</string>
+    <string name="lenovo_kg_sim_pin_instructions">Ingiza PIN ya %s</string>
+    <string name="lenovo_kg_puk_enter_puk_hint">%s sasa imelemazwa. Ingiza msimbo wa PUK ili kuendelea. Wasiliana na mtoa huduma kwa maelezo.</string>
+    <string name="lenovo_kg_sim_unlock_progress_dialog_message">Inafungua %s kadi...</string>
+    <string name="lenovo_kg_invalid_puk">Ingiza upya msimbo sahihi wa PUK. Majaribio yanayorudiwa yatalemaza %s kabisa.</string>
+    <string name="lenovo_kg_password_wrong_pin_code_pukked">Msimbo wa PIN ya %s usiosahihi sasa lazima uwasiliane na mtoa huduma wako ili ufungue kifaa chako.</string>
+    <string name="lenovo_kg_password_wrong_puk_code_dead">%s haiwezi kutumika. Wasiliana na mtoa huduma wako.</string>
+    <string name="lenovo_kg_password_pin_failed">Utendakazi wa PIN ya %s umeshindwa!</string>
+    <string name="lenovo_kg_password_puk_failed">Utendakazi wa PUK ya %s umeshindwa!</string>
+    <string name="keyguard_password_enter_pin_code">Ingiza msimbo wa PIN</string>
+    <string name="keyguard_password_enter_puk_code">Chapa PUK ya SIM na msimbo mpya wa PIN</string>
+    <string name="keyguard_password_enter_puk_prompt">Msimbo wa PUK ya SIM</string>
+    <string name="keyguard_password_enter_pin_prompt">Msimbo mpya wa PIN ya SIM</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Gusa kuingiza nenosiri </font></string>
+    <string name="keyguard_password_enter_password_code">Charaza nenosiri ili kufungua</string>
+    <string name="keyguard_password_enter_pin_password_code">Ingiza PIN ili kufungua</string>
+    <string name="keyguard_password_wrong_pin_code">Msimbo wa PIN usio sahihi.</string>
+    <string name="keyguard_label_text">Ili kufungua, bofya Menyu kisha 0.</string>
+    <string name="faceunlock_multiple_failures">Majaribio ya Juu ya Kufungua Uso yamezidishwa</string>
+    <string name="keyguard_charged">Imechajiwa</string>
+    <string name="keyguard_plugged_in">Inachaji, %d%%</string>
+    <string name="keyguard_low_battery">Unganisha chaja yako.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Bonyeza Menyu ili kufungua.</string>
+    <string name="keyguard_network_locked_message">Mtandao umefungwa</string>
+    <string name="keyguard_missing_sim_message_short">Hakuna SIM kadi</string>
+    <string name="keyguard_missing_sim_message">Hakuna SIM kadi kwenye simu.</string>
+    <string name="keyguard_missing_sim_instructions">Ingiza SIM kadi.</string>
+    <string name="keyguard_missing_sim_instructions_long">SIM kadi haiko au haisomeki. Ingiza SIM kadi.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">SIM kadi isiyotumika.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM kadi yako imefungwa kabisa.
+ Wasiliana na mtoa huduma wako wa pasi waya ili upate SIM kadi nyingine."</string>
+    <string name="keyguard_sim_locked_message">SIM kadi imefungwa.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM kadi imefungwa na PUK.</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Inafungua SIM kadi...</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Wiji %2$d ya %3$d.</string>
+    <string name="keyguard_accessibility_add_widget">Ongeza wiji</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Tupu</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Eneo la kufungua limepanuliwa.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Eneo la kufungua limekunjwa.</string>
+    <string name="keyguard_accessibility_widget">%1$s ya wiji.</string>
+    <string name="keyguard_accessibility_user_selector">Kiteuzi cha mtumiaji</string>
+    <string name="keyguard_accessibility_status">Hali</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
+    <string name="keygaurd_accessibility_media_controls">Vidhibiti vya media</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Upangaji upya wa wiji umeanza.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Upangaji upya wa wiji umekamilika.</string>
+    <string name="keyguard_accessibility_widget_deleted">Wiji %1$s imefutwa.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Panua eneo la kufungua.</string>
+    <string name="keyguard_accessibility_slide_unlock">Kufungua slaidi.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Kufungua kwa ruwaza.</string>
+    <string name="keyguard_accessibility_face_unlock">Kufungua kwa uso.</string>
+    <string name="keyguard_accessibility_pin_unlock">Kufungua kwa PIN.</string>
+    <string name="keyguard_accessibility_password_unlock">Kufungua kwa nenosiri.</string>
+    <string name="keyguard_accessibility_pattern_area">Eneo la ruwaza.</string>
+    <string name="keyguard_accessibility_slide_area">Eneo la slaidi.</string>
+    <string name="keyguard_accessibility_transport_prev_description">Kitufe cha wimbo uliotangulia</string>
+    <string name="keyguard_accessibility_transport_next_description">Kitufe cha wimbo unaofuata</string>
+    <string name="keyguard_accessibility_transport_pause_description">Kitufe cha kusitisha</string>
+    <string name="keyguard_accessibility_transport_play_description">Kitufe cha kucheza</string>
+    <string name="keyguard_accessibility_transport_stop_description">Kitufe cha kusitisha</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Bomba</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Si bomba</string>
+    <string name="keyguard_accessibility_transport_heart_description">Moyo</string>
+    <string name="keyguard_accessibility_show_bouncer">Fungua ili uendelee</string>
+    <string name="keyguard_accessibility_hide_bouncer">Uzinduzi umeghairiwa</string>
+    <string name="keyguard_accessibility_delete_widget_start">Dondosha %1$s ili ufute.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s haitafutwa.</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="keyboardview_keycode_alt">Alt</string>
+    <string name="keyboardview_keycode_cancel">Ghairi</string>
+    <string name="keyboardview_keycode_delete">Futa</string>
+    <string name="keyboardview_keycode_done">Nimemaliza</string>
+    <string name="keyboardview_keycode_mode_change">Modi ya mabadiliko</string>
+    <string name="keyboardview_keycode_shift">Songa</string>
+    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="description_target_unlock">Fungua</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Kimya</string>
+    <string name="description_target_soundon">Sauti imewashwa</string>
+    <string name="description_target_search">Tafuta</string>
+    <string name="description_direction_up">Sogeza juu kwa %s .</string>
+    <string name="description_direction_down">Sogeza chini kwa %s.</string>
+    <string name="description_direction_left">Sogeza kushoto kwa %s .</string>
+    <string name="description_direction_right">Sogeza kulika kwa %s .</string>
+    <string name="user_switched">Mtumiaji wa sasa %1$s.</string>
+    <string name="kg_emergency_call_label">Simu ya dharura</string>
+    <string name="kg_forgot_pattern_button_text">Umesahau Ruwaza</string>
+    <string name="kg_wrong_pattern">Mchoro Usio sahihi</string>
+    <string name="kg_wrong_password">Nenosiri Lisilo sahihi</string>
+    <string name="kg_wrong_pin">PIN isiyo sahihi</string>
+    <string name="kg_too_many_failed_attempts_countdown">Jaribu tena baada ya sekunde %d.</string>
+    <string name="kg_pattern_instructions">Chora ruwaza yako</string>
+    <string name="kg_sim_pin_instructions">Ingiza PIN ya SIM</string>
+    <string name="kg_pin_instructions">Ingiza PIN</string>
+    <string name="kg_password_instructions">Ingiza Nenosiri</string>
+    <string name="kg_puk_enter_puk_hint">SIM sasa imelemazwa. Ingiza msimbo wa PUK ili kuendelea. Wasiliana na mtoa huduma kwa maelezo.</string>
+    <string name="kg_puk_enter_pin_hint">Ingiza msimbo wa PIN unaopendelewa</string>
+    <string name="kg_enter_confirm_pin_hint">Thibitisha msimbo wa PIN unaopendelewa</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Inafungua SIM kadi...</string>
+    <string name="kg_invalid_sim_pin_hint">Charaza PIN iliyo na tarakimu kati ya 4 na 8.</string>
+    <string name="kg_invalid_sim_puk_hint">Msimbo wa PUK unafaa kuwa na nambari 8 au zaidi.</string>
+    <string name="kg_invalid_puk">Ingiza upya msimbo sahihi wa PUK. Majaribio yanayorudiwa yatalemaza SIM kabisa.</string>
+    <string name="kg_invalid_confirm_pin_hint">Misimbo ya PIN haifanani</string>
+    <string name="kg_login_too_many_attempts">Majaribio mengi mno ya mchoro</string>
+    <string name="kg_login_instructions">Ili kufungua, ingia kwa Akaunti yako ya Google.</string>
+    <string name="kg_login_username_hint">Jina la mtumiaji (barua pepe)</string>
+    <string name="kg_login_password_hint">Nenosiri</string>
+    <string name="kg_login_submit_button">Ingia</string>
+    <string name="kg_login_invalid_input">Jina la mtumiaji au nenosiri batili.</string>
+    <string name="kg_login_account_recovery_hint">"Je, umesahau jina lako la mtumiaji au nenosiri?
+Tembela "<b>Bgoogle.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Inakagua akaunti…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Umeingiza nenosiri lako kwa makosa mara %d. 
+
+ Jaribu tena baada ya sekunde %d."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Umeingiza nenosiri lako kwa makosa mara %d. 
+
+ Jaribu tena baada ya sekunde %d."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Umechora ruwaza yako ya kufunga kwa makosa mara %d. 
+
+ Jaribu tena baada ya sekunde %d."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Umejaribu kufungua simu kwa njia isiyo sahihi mara %d. Baada ya majaribio %d zaidi yasiyofaulu, simu itarejeshwa katika mfumo chaguo-msingi ilivyotoka kiwandani na data yote ya mtumiaji itapotea.</string>
+    <string name="kg_failed_attempts_now_wiping">"Umejaribu kufungua simu kwa njia isiyo sahihi mara %d. Sasa simu  itarejeshwa katika mfumo chaguo-msingi ilivyotoka kiwandani."</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Umekosea kuchora mchoro wako wa kufungua mara %d. Baada ya majaribio %d yasiyofaulu, utaombwa kufungua simu yako kwa kutumia akaunti ya barua pepe.
+
+ Jaribu tena baada ya sekunde %d."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Ondoa</string>
+    <string name="kg_password_wrong_pin_code_pukked">Msimbo wa PIN ya SIM usiosahihi sasa lazima uwasiliane na mtoa huduma wako ili ufungue kifaa chako.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM haiwezi kutumika. Wasiliana na mtoa huduma wako.</string>
+    <string name="kg_password_pin_failed">Utendakazi wa PIN ya SIM umeshindwa!</string>
+    <string name="kg_password_puk_failed">Utendakazi wa PUK ya SIM umeshindwa!</string>
+    <string name="kg_pin_accepted">Msimbo Umekubaliwa!</string>
+    <string name="keyguard_transport_prev_description">Kitufe cha wimbo wa awali</string>
+    <string name="keyguard_transport_next_description">Kitufe cha wimbo unaofuata</string>
+    <string name="keyguard_transport_pause_description">Kitufe cha kusitisha</string>
+    <string name="keyguard_transport_play_description">Kitufe cha kucheza</string>
+    <string name="keyguard_transport_stop_description">Kitufe cha kusimamisha</string>
+    <string name="keyguard_carrier_default">Hakuna huduma.</string>
+</resources>

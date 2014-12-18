@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Pengaktifan ini ditetapkan untuk kurang dari 1 menit dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan untuk %1$s dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan selama %2$s dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan untuk %1$s dan %2$s dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan selama %3$s dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan untuk %1$s dan %3$s dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan selama %2$s dan %3$s dari sekarang.</item>
+        <item>Pengaktifan ini ditetapkan untuk %1$s, %2$s, dan %3$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan kurang dari 1 menit dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan untuk %1$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan selama %2$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan untuk %1$s dan %2$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan selama %3$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan untuk %1$s dan %3$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan selama %2$s dan %3$s dari sekarang.</item>
+        <item>Penonaktifan ini ditetapkan untuk %1$s, %2$s, dan %3$s dari sekarang.</item>
+    </string-array>
+</resources>

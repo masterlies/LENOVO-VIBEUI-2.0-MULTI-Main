@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>فوری</item>
+        <item>۵ ثانیه</item>
+        <item>۱۵ ثانیه</item>
+        <item>۳۰ ثانیه</item>
+        <item>۱ دقیقه</item>
+        <item>۲ دقیقه</item>
+        <item>۵ دقیقه</item>
+        <item>۱۰ دقیقه</item>
+        <item>۳۰ دقیقه</item>
+    </string-array>
+</resources>

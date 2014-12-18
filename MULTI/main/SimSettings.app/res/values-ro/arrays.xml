@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_show_type_array">
+        <item>Primele 4 cifre</item>
+        <item>Ultimele 4 cifre</item>
+        <item>Nu afișați</item>
+    </string-array>
+    <string-array name="show_roaming_tips_entries">
+        <item>O dată</item>
+        <item>Întotdeauna</item>
+        <item>Niciodată</item>
+    </string-array>
+</resources>

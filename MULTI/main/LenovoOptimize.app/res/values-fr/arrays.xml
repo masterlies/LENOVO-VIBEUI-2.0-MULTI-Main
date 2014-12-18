@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Méthodes de saisie par défaut</item>
+        <item>Logiciel de bureau par défaut</item>
+        <item>Logiciel Internet par défaut</item>
+        <item>"Logiciel d'accès à distance par défaut"</item>
+        <item>Logiciel SMS par défaut</item>
+        <item>Logiciel de messagerie électronique par défaut</item>
+        <item>Visionneuse de photos par défaut</item>
+        <item>"Logiciel d'appareil photo par défaut"</item>
+        <item>Logiciel vidéo par défaut</item>
+        <item>Logiciel vidéo en ligne par défaut</item>
+        <item>Logiciel audio par défaut</item>
+        <item>Logiciel audio en ligne par défaut</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>"Démarrer l'appareil"</item>
+        <item>Au téléphone</item>
+        <item>Réception de SMS</item>
+        <item>"Mise en réseau de l'équipement"</item>
+        <item>Installation du logiciel</item>
+        <item>Déverrouillage écran noir</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Recommandations système</item>
+        <item>"Forcer l'installation sur le téléphone"</item>
+        <item>"Forcer l'installation sur la carte mémoire par défaut"</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>S. tens.</item>
+        <item>Connexion Internet</item>
+        <item>Appeler</item>
+        <item>SMS</item>
+        <item>"Lire le carnet d'adresses"</item>
+        <item>"Obtenir l'emplacement"</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

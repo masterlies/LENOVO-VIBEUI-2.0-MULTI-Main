@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ระบบจัดการพลังงาน</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="power_consume_app_freeze">หยุดการทำงาน</string>
+    <string name="power_consume_app_unfreeze">เลิกหยุดการทำงาน</string>
+    <string name="power_consume_app_uninstall">ถอนการติดตั้ง</string>
+    <string name="power_consume_app_details">รายละเอียด</string>
+    <string name="battery_usage_use">ใช้แบตเตอรี่ไป: %s</string>
+    <string name="consumption_call">การโทรด้วยเสียง</string>
+    <string name="consumption_screen">หน้าจอ</string>
+    <string name="consumption_wlan">Wi-Fi</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">วิทยุ</string>
+    <string name="consumption_bluetooth">บลูทูธ</string>
+    <string name="consumption_system">ระบบปฏิบัติการ Android</string>
+    <string name="power_media">สื่อ</string>
+    <string name="power_battery">พลังงาน</string>
+    <string name="power_charge">กำลังชาร์จ</string>
+    <string name="power_consume">การใช้งาน</string>
+    <string name="power_settings">การตั้งค่า</string>
+    <string name="power_mode">โหมด</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">เวลาทั้งหมดในการใช้พลังงานของ CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">เปิดหน้าจอค้างไว้</string>
+    <string name="usage_type_alarm">ระบบการปลุก</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi ทำงานอยู่</string>
+    <string name="usage_type_data_send">ข้อมูลที่ส่ง</string>
+    <string name="usage_type_data_recv">ข้อมูลที่ได้รับ</string>
+    <string name="usage_type_audio">เสียง</string>
+    <string name="usage_type_video">วิดีโอ</string>
+    <string name="usage_type_on_time">เวลาการใช้งาน</string>
+    <string name="usage_type_no_coverage">เวลาที่ไม่มีสัญญาณ</string>
+    <string name="battery_history_days" formatted="false">%dวัน %dชม. %dนาที %dวินาที</string>
+    <string name="battery_history_hours" formatted="false">%dชม. %dนาที %dวินาที</string>
+    <string name="battery_history_minutes" formatted="false">%dนาที %dวินาที</string>
+    <string name="battery_history_seconds">%dวินาที</string>
+    <string name="battery_hour_minute" formatted="false">%dชม. %dนาที</string>
+    <string name="battery_hour">%d ชั่วโมง</string>
+    <string name="battery_minute">%d นาที</string>
+    <string name="battery_wakelock" formatted="false">%dครั้งสำหรับ%s</string>
+    <string name="battery_wakelock_days" formatted="false">%dวัน %dชม. %dนาที %sวินาที</string>
+    <string name="battery_wakelock_hours" formatted="false">%dชม. %dนาที %sวินาที</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dนาที %sวินาที</string>
+    <string name="battery_wakelock_seconds">%sวินาที</string>
+    <string name="battery_alarm_time">%dครั้ง</string>
+    <string name="battery_screen_time">ตั้งแต่การชาร์จจนเต็มครั้งล่าสุด</string>
+    <string name="usage_type_wakelock_screen">ป้องกันหน้าจอเข้าสู่โหมดสลีป</string>
+    <string name="usage_type_wakelock_cpu">ป้องกัน CPU เข้าสู่โหมดสลีป</string>
+    <string name="usage_type_sensor">การใช้เซ็นเซอร์</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">อื่นๆ</string>
+    <string name="battery_screen_on_time">ใช้งาน %s</string>
+    <string name="battery_screen_off_time">สแตนด์บาย %s</string>
+    <string name="enter_setting">การตั้งค่าการเปิดใช้</string>
+    <string name="battery_tab_title_consume">การใช้พลังงาน</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d วัน %d ชั่วโมงและ %d นาที</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d ชั่วโมงและ %d นาที</string>
+    <string name="battery_history_minutes_without_seconds">%d นาที</string>
+    <string name="battery_sensor_info" formatted="false">%d ครั้งจากทั้งหมด %s ครั้ง</string>
+    <string name="hour">ชม.</string>
+    <string name="minute">นาที</string>
+    <string name="second">วินาที</string>
+    <string name="application_not_found">ไม่พบรายละเอียดการตั้งค่าแอ็พพลิเคชัน</string>
+    <string name="mode_turnOff">ปิด</string>
+    <string name="mode_turnOn">เปิด</string>
+    <string name="main_switch_dialog_super">"เปิดใช้งานเฉพาะฟังก์ชันการโทรและ
+การส่งข้อความเท่านั้น และปิดใช้งานฟังก์ชันอื่นทั้งหมดเพื่อให้มี
+เวลาสแตนด์บายได้หลายวัน"</string>
+    <string name="deep_clear_result_to_white_list_new">แอ็พที่เลือกจะไม่มีผล</string>
+    <string name="temporary_no_app">ไม่มีแอ็พพลิเคชัน</string>
+    <string name="progress_loading">โปรดรอสักครู่…</string>
+    <string name="failed_switch_app_state">ขออภัย ดำเนินการไม่สำเร็จ คุณใช้งานหนักมาก โปรดลองใหม่ภายหลัง</string>
+    <string name="package_manger_list_type_third">แอ็พพลิเคชันผู้ใช้</string>
+    <string name="package_manger_list_type_system">แอ็พพลิเคชันระบบ</string>
+    <string name="btn_return">ย้อนกลับ</string>
+    <string name="main_switcher">สวิตช์ตั้งเวลา</string>
+    <string name="switcher_detail">เปิดใช้งานโหมดที่ระบุภายในช่วงเวลาที่ระบุโดยอัตโนมัติ</string>
+    <string name="switcher">สวิตช์ตั้งเวลา</string>
+    <string name="switcher_start_time">เวลาเริ่มต้น</string>
+    <string name="switcher_end_time">เวลาสิ้นสุด</string>
+    <string name="switcher_tag">เปิดใช้งานสำหรับช่วงเวลานี้</string>
+    <string name="switcher_target_custom">กำหนดเอง</string>
+    <string name="mode_changed_dialog">เปลี่ยนโหมด</string>
+    <string name="no_remind">ไม่ต้องแจ้งถาม</string>
+    <string name="new_sim">SIM ใหม่</string>
+    <string name="application_not_found_activity">ไม่พบแอปพลิเคชั่นนี้</string>
+    <string name="classicmode_lable_phone">โทรศัพท์</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">ผู้ติดต่อ</string>
+    <string name="failed_get_safecenter_whitelist">ซิงโครไนซ์รายชื่อที่อนุญาตจาก LenovoSafeCenter ไม่สำเร็จ โปรดติดตั้ง LenovoSafeCenter รุ่นล่าสุดอีกครั้ง</string>
+    <string name="application_not_support_be_launched">แอ็พอื่นๆ ไม่สามารถเปิดใช้งานแอ็พนี้เนื่องจากการตั้งค่าความปลอดภัย</string>
+    <string name="classic_phone_dialog_entering">กำลังเริ่มใช้งานข้อมูล โปรดรอสักครู่…</string>
+    <string name="classic_phone_dialog_existing">กำลังเรียกคืนข้อมูล โปรดรอสักครู่…</string>
+    <string name="consumption_app_button">ซอฟต์แวร์</string>
+    <string name="consumption_hardware_button">ฮาร์ดแวร์</string>
+    <string name="power_setting_menu_classic_phone">โหมดประหยัดพลังงานขั้นสูง</string>
+    <string name="power_setting_menu_smart">ประหยัดพลังงานสำหรับหน้าจอ CPU และ GPU</string>
+    <string name="power_setting_menu_app_deep_clear">ปิดใช้งานแอ็พเมื่อปิดหน้าจอ</string>
+    <string name="power_setting_menu_consumption">รายละเอียดการใช้พลังงาน</string>
+    <string name="statistic_assist_title">คุณสมบัติเสริมเชิงสถิติ</string>
+    <string name="power_consumption_title">คุณสมบัติการประหยัดพลังงาน</string>
+    <string name="fragment_tab_deepclear">ปิดใช้งานแอ็พเมื่อปิดหน้าจอ</string>
+    <string name="deep_clear_detail">หลังจากปิดใช้งานแล้ว แอ็พจะไม่หยุดการทำงานของโหมดสลีปของ โทรศัพท์ซึ่งทำงานอยู่เบื้องหลัง</string>
+    <string name="dialog_timing_text">เปลี่ยนเป็นโหมดประหยัดพลังงานขั้นสูง หรือไม่</string>
+    <string name="switcher_summery">เปลี่ยนเป็นโหมดประหยัดพลังงานขั้นสูงโดยอัตโนมัติเป็นระยะเวลาตามที่ระบุ</string>
+    <string name="switcher_summery_close">หลังจากเปิดใช้งานแล้ว ระบบจะเปลี่ยนเป็นโหมดประหยัดพลังงานขั้นสูง โดยอัตโนมัติเป็นระยะเวลาตามที่ระบุ</string>
+    <string name="classicmode_hit_text">การประหยัดพลังงานขั้นสูง</string>
+    <string name="classic_phone_desktop_shortcut">การประหยัดพลังงานขั้นสูง</string>
+    <string name="classic_phone_dialog_title">ข้อความเตือนการประหยัดพลังงานขั้นสูง</string>
+    <string name="classic_phone_dialog_enter">คุณแน่ใจหรือไม่ว่าต้องการเข้าสู่โหมดประหยัดพลังงานขั้นสูง คุณขยันเกินไปแล้ว อย่าลืมพักบ้าง</string>
+    <string name="classic_phone_dialog_exist">คุณแน่ใจหรือไม่ว่าต้องการออกจากโหมด ประหยัดพลังงานขั้นสูง</string>
+    <string name="classic_phone_failed_to_start_service">เริ่มต้นโหมดประหยัดพลังงานขั้นสูงไม่สำเร็จ ขออภัย เราดำเนินการอย่างสุดความสามารถแล้ว</string>
+    <string name="create_classicmode_desktop_shortcut">สร้างทางลัดเดสก์ท็อปโหมดประหยัดพลังงานขั้นสูง</string>
+    <string name="classicmode_exit_hint_text">หากต้องการออกจากโหมดประหยัดพลังงานขั้นสูง โปรดแตะปุ่มปิด</string>
+    <string name="setttings_screen_smart_brightness2">โปรแกรมประหยัดพลังงานจากการแสดงผล</string>
+    <string name="setttings_screen_smart_brightness_detail">ใช้เทคโนโลยีการปรับความสว่างแบบคลื่นไซน์เพื่อลดการใช้ พลังงานลง 5–20%</string>
+    <string name="power_engine_vmx_title">โปรแกรมประหยัดพลังงานจากการคำนวณ</string>
+    <string name="power_engine_vmx_detail">ปรับระบบ CPU อย่างชาญฉลาดเพื่อลดการใช้พลังงานลง 10–25%</string>
+    <string name="power_engine_fps_title">โปรแกรมประหยัดพลังงานจากกราฟิก</string>
+    <string name="power_engine_fps_detail">ใช้งาน GPU อย่างเต็มประสิทธิภาพเพื่อลดการใช้พลังงานลง 10–25%</string>
+    <string name="power_engine_summery_close">หลังจากเปิดใช้งาน ระบบจะลดการใช้พลังงานของหน้าจอ CPU และ GPU อย่างชาญฉลาด</string>
+    <string name="power_engine_summery_close2">หลังจากเปิดใช้งาน ระบบจะลดการใช้พลังงานของหน้าจอและ GPU อย่างชาญฉลาด</string>
+    <string name="power_engine_summery_close3">หลังจากเปิดใช้งาน ระบบจะลดการใช้พลังงานของหน้าจออย่างชาญฉลาด</string>
+    <string name="power_engine_summery_close4">หลังจากเปิดใช้งาน ระบบจะลดการใช้พลังงานของหน้าจอและ CPU อย่างชาญฉลาด</string>
+    <string name="power_setting_menu_smart2">ประหยัดพลังงานสำหรับหน้าจอ</string>
+    <string name="power_setting_menu_smart3">ประหยัดพลังงานสำหรับหน้าจอ CPU และ GPU</string>
+    <string name="power_setting_menu_smart4">ประหยัดพลังงานสำหรับหน้าจอและ GPU</string>
+    <string name="power_setting_menu_smart5">ประหยัดพลังงานสำหรับหน้าจอและ CPU</string>
+    <string name="power_setting_current_battery" formatted="false">ประจุกระแสไฟ: %s%s</string>
+    <string name="classicmode_lable_clock">นาฬิกา</string>
+</resources>

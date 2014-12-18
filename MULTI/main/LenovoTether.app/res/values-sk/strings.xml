@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prístupový bod siete Wifi</string>
+    <string name="wifi_tether_configure_ap_text">Konfigurovať prístupový bod siete WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID: %1$s
+Zabezpečenie: %2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Identifikátor SSID nesmie byť dlhší ako 32 znakov</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Zabezpečenie: %2$s
+Heslo: %3$s"</string>
+    <string name="wifi_cancel">Zrušiť</string>
+    <string name="wifi_save">Uložiť</string>
+    <string name="wifi_ssid">SSID identifikátor siete</string>
+    <string name="wifi_security">Zabezpečenie</string>
+    <string name="wifi_password">Heslo</string>
+    <string name="wifi_show_password">Zobraziť heslo</string>
+    <string name="credentials_password_too_short">Heslo musí obsahovať najmenej 8 znakov.</string>
+    <string name="wifi_channel">Preferovaný kanál</string>
+    <string name="wifi_channel_width">Šírka kanála</string>
+    <string name="wifi_tether_auto_channel_text">Automaticky</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Osobný prístupový bod zapnutý</string>
+    <string name="tethered_notification_message">Dotknite sa na konfigurovanie</string>
+    <string name="tether_about_title">Predstavenie funkcií</string>
+    <string name="wlan_connection_title">Prístupový bod siete WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Sieťové zdieľanie Bluetooth</string>
+    <string name="usb_share_title">Sieťové zdieľanie USB</string>
+    <string name="about_wlan">Nastavenie prístupového bodu siete WLAN v tomto zariadení umožní ostatným zariadeniam v sieti WLAN pripojiť sa k mobilnej sieti tohto zariadenia a surfovať po webe</string>
+    <string name="about_usb">Zapnutie sieťového zdieľania USB v tomto zariadení umožní pripojeným zariadeniam používať mobilnú sieť tohto zariadenia na surfovanie po webe</string>
+    <string name="about_bt">Zapnutie sieťového zdieľania Bluetooth v tomto zariadení umožní ostatným zariadeniam Bluetooth používať mobilnú sieť tohto zariadenia na surfovanie po webe</string>
+    <string name="about_usb_other">"Ďalšie poznámky:
+ 1. Počas pripojenia cez sieťové zdieľanie USB nemôžete nainštalovať kartu SD z tohto zariadenia v počítači. 
+ 2. Pripojenie je možné len v systémoch Windows Vista, Windows 7, Windows 8 a Linux."</string>
+    <string name="wifi_tether_settings_title">Informácie o konfigurácii siete WLAN</string>
+    <string name="wifi_ap_client_block_title">Zablokovať</string>
+    <string name="wifi_ap_client_unblock_title">Odblokovať</string>
+    <string name="wifi_ap_connected_title">Pripojení používatelia</string>
+    <string name="tethered_notification_message_for_hotspot">Pripojení: %1$d, blokovaní: %2$d</string>
+    <string name="open_title">Zapnúť tipy</string>
+    <string name="open_mess">Ak chcete použiť %1$s, musíte zapnúť mobilné dátové pripojenie</string>
+    <string name="open_mess_all">Ak chcete použiť %1$s, musíte zapnúť pripojenie k sieti Wi-Fi alebo mobilné dátové pripojenie</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="go_settings">Prejsť na nastavenia</string>
+    <string name="cut_line">Vystrihnúť riadok</string>
+    <string name="wlan_figure">Obrázok siete WLAN</string>
+    <string name="open_mess_alert">Je zapnutá mobilná sieť. Používanie funkcie %1$s môže spôsobiť zvýšenie prenosu údajov a poplatkov. Chcete ju zapnúť?</string>
+    <string name="open">Zapnúť</string>
+</resources>

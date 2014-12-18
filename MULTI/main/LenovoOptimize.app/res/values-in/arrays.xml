@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Metode input default</item>
+        <item>Perangkat lunak desktop default</item>
+        <item>Perangkat lunak Internet default</item>
+        <item>Perangkat lunak dial-up default</item>
+        <item>Perangkat lunak SMS default</item>
+        <item>Perangkat lunak Email default</item>
+        <item>Penampil gambar default</item>
+        <item>Perangkat lunak kamera default</item>
+        <item>Perangkat lunak video default</item>
+        <item>Perangkat lunak Video online default</item>
+        <item>Perangkat lunak audio default</item>
+        <item>Perangkat lunak Audio online default</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Boot perangkat</item>
+        <item>Di ponsel</item>
+        <item>Penerimaan SMS</item>
+        <item>Jaringan Peralatan</item>
+        <item>Instalasi Perangkat Lunak</item>
+        <item>Pembukaan penguncian layar hitam</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Rekomendasi sistem</item>
+        <item>Paksa Instal di ponsel</item>
+        <item>Paksa Instal di kartu memori default</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Aktif</item>
+        <item>Koneksi internet</item>
+        <item>Panggil</item>
+        <item>Kirim SMS</item>
+        <item>Baca buku alamat</item>
+        <item>Dapatkan lokasi</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

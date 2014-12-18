@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Haberler</item>
+        <item>Spor</item>
+        <item>Dram</item>
+        <item>Klip</item>
+        <item>Film</item>
+        <item>Komedi</item>
+        <item>Aksiyon</item>
+        <item>Müzikal</item>
+        <item>Animasyon</item>
+        <item>Çeşitli</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Yürüt</item>
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+        <item>Bilgi</item>
+        <item>Paylaş</item>
+        <item>Çoklu Seçim</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Yürüt</item>
+        <item>Yeniden adlandır</item>
+        <item>Sil</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Yürüt</item>
+        <item>Sil</item>
+        <item>Listeyi Temizle</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Yürüt</item>
+        <item>Bu videoyu ekle</item>
+    </string-array>
+</resources>

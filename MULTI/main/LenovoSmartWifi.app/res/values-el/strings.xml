@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Σύνδεση εντοπισμού WLAN</string>
+    <string name="setting_activity">Σύνδεση εντοπισμού WLAN</string>
+    <string name="dialog_title">Να ενεργοποιηθεί το WLAN;</string>
+    <string name="dialog_text">Αυτή η θέση έχει συνδεδεμ. ΑΡ， ενεργοπ. του WLAN;</string>
+    <string name="disable_dialog_title">Να απενεργοποιηθεί το WLAN;</string>
+    <string name="disable_dialog_text">Αυτή η θέση είναι απομακρ. από τη θέση του συνδεδεμ. ΑΡ，απενεργοπ. του WLAN;</string>
+    <string name="show_dialog">Να μην γίνει υπενθύμιση</string>
+    <string name="disable_show_dialog">Να μην γίνει υπενθύμιση</string>
+    <string name="wifi_enable_text">Εισαγ. θέσης, αναδυόμ. ερώτηση</string>
+    <string name="wifi_enable_summary">Κατά την εισαγ. θέσης του συνδ. ΑΡ με επίπ. σήματος 3 ή υψηλ. και δεδ. GRSP , ενεργοπ. WLAN</string>
+    <string name="wifi_disable_text">Απομακρυσ. θέση, αναδυόμ. ερώτηση</string>
+    <string name="wifi_disable_summary">Κατά την απομακρ.θέση του συνδεδ.ΑΡ，απενεργοπ.το WLAN</string>
+    <string name="wifi_setting_summary">Σύνδ. συνδεδ. δικτύου WLAN και αργότερα εάν χρησιμ. υπηρ. δεδομ. GPRS 3G/2G στην περ. κάλυψης, θα λάβετε υπενθύμ. για συνδ. σε αυτό το δίκτυο WLAN ή θα συνδ. αυτόμ. σε αυτό το δίκτυο</string>
+    <string name="wifi_popup_tip">Αναδυόμ.ερώτηση</string>
+    <string name="wifi_auto_enable">Αυτόματη σύνδεση</string>
+    <string name="wifi_auto_disable">Αυτόμ. απενεργοπ.</string>
+    <string name="wifi_popup_0">Σύνδεση συνδεδ.ΑΡ. Στην εισαγ.αυτής της θέσης εμφ.αναδυόμ.ερωτ.</string>
+    <string name="wifi_popup_1">Σύνδεση συνδεδ. ΑΡ. Στην εισαγ.αυτής της θέσης, αυτόμ. ενεργοπ.</string>
+    <string name="wifi_popup_2">Να μην γίνει υπενθύμιση</string>
+    <string name="confirm_yes">Ναι</string>
+    <string name="confirm_no">Οχι</string>
+    <string name="enable_wifi_hint">Η εγγρ. WLAN συνδ. σε δίκτυο WLAN για αποθήκ. της ροής δεδομ.</string>
+    <string name="disable_wifi_hint">Η εγγρ. WLAN απενεργ. τη σύνδ. WLAN για εξοικ. ενέργειας</string>
+</resources>

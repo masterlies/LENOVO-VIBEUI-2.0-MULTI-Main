@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 s</item>
+        <item>6 s</item>
+        <item>9 s</item>
+    </string-array>
+    <string-array name="network_speed_refresh_time_interval_value">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>Jelerősség (rossz)</item>
+        <item>Jelerősség (gyenge)</item>
+        <item>Jelerősség (közepes)</item>
+        <item>Jelerősség (erős)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Grafikus</item>
+        <item>Százalék</item>
+    </string-array>
+    <string-array name="battery_style_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

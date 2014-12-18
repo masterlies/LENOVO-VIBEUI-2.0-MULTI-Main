@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заключване с един клавиш</string>
+    <string name="get_screen_lock_admin">Извикайте админ. за закл. на екрана на устройството</string>
+</resources>

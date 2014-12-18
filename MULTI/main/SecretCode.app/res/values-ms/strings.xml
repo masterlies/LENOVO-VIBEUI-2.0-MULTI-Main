@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kod Rahsia</string>
+    <string name="hardversion">Versi perkakasan:</string>
+    <string name="softversion">Versi perisian:</string>
+    <string name="frameworkversion">Versi rangka kerja:</string>
+    <string name="osversion">Versi OS:</string>
+    <string name="modemversion">Versi modem:</string>
+    <string name="meid_activity_title">Versi PRL</string>
+    <string name="btn_post">Dayakan</string>
+    <string name="btn_neg">Nyahdayakan</string>
+    <string name="enable_fdn">Dayakan</string>
+    <string name="disable_fdn">Nyahdayakan</string>
+    <string name="reboot">Mulakan semula</string>
+    <string name="cancel">Batal</string>
+    <string name="default_state">Ralat:</string>
+    <string name="alert_string">Amaran!</string>
+    <string name="alert_message_string">Menekan kekunci [OK] akan kembali semula ke seting kilang dan mengosongkan semua data pengguna, disyorkan supaya pengguna biasa berhati-hati!</string>
+    <string name="alert_message_ums_string">Menekan kekunci [OK] akan menetapkan usb.config kepada mod mass_storage untuk nyahpepijat, disyorkan supaya pengguna biasa berhati-hati!</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_no">TIDAK</string>
+    <string name="framework_inf">Versi Dalaman</string>
+    <string name="commit_cate">Simpan</string>
+    <string name="summary_on">HIDUP</string>
+    <string name="summary_off">MATIKAN</string>
+    <string name="report_log_summary">Laporkan</string>
+    <string name="report_log_title">Laporkan</string>
+    <string name="yes_exit">Ya</string>
+    <string name="no_exit">Tidak</string>
+    <string name="enable">Dayakan</string>
+    <string name="disable">Dilumpuhkan</string>
+    <string name="regulatory_information">Maklumat kawal selia</string>
+</resources>

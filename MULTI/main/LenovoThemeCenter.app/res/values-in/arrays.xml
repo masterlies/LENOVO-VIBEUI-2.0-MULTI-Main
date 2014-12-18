@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>layarkunci</item>
+        <item>peluncur</item>
+        <item>ikon</item>
+        <item>wallpaper</item>
+        <item>uisistem</item>
+        <item>ideafriend</item>
+        <item>layarpanggil</item>
+        <item>widgetsistem</item>
+        <item>bootshut</item>
+        <item>font</item>
+    </string-array>
+</resources>

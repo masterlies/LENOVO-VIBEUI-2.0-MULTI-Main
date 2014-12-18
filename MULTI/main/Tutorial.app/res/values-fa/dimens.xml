@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vibefeature_text3_width">68.0dip</dimen>
+    <dimen name="percent_marginright">7.0dip</dimen>
+    <dimen name="percent_marginrighta">7.0dip</dimen>
+</resources>

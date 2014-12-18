@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Valores</string>
+    <string name="app_name">Compartir cuenta WLAN</string>
+    <string name="prompt">Ponga los teléfonos juntos para compartir WLAN con sus amigos.</string>
+    <string name="current_wifi">Conexión WLAN actual:</string>
+    <string name="hotknot_help">Cómo compartir: En la interfaz actual, mantenga juntas las mitades superiores de dos teléfonos espalda con espalda (transferencia NFC). Siga las instrucciones que aparecen en pantalla para compartir la cuenta WLAN conectada.</string>
+    <string name="title_receive">Recibiendo</string>
+    <string name="wlan_connecting">Recibiendo cuenta WLAN...</string>
+    <string name="title_finish">Recibido correctamente</string>
+    <string name="wlan_finish">Cuenta WLAN recibida correctamente. ¡Conéctese a %1$s estará en línea!</string>
+    <string name="send_ap_no_connected">No se puede compartir (cuenta WLAN conectadano encontrada)</string>
+    <string name="hotknot_help_note">Nota: El teléfono receptor debe ser compatible concompartición de cuentaWLAN(con entrada de función)</string>
+    <string name="wifi_share">Uso compartido de WLAN</string>
+</resources>

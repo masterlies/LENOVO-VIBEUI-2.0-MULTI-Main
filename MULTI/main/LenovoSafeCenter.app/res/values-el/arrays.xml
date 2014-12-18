@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Εισαγωγή από Ιστορικό Κλήσεων</item>
+        <item>Εισαγωγή από Ιστορικό SMS</item>
+        <item>Εισαγωγή από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Κανένας συναγερμός</item>
+        <item>Συναγερμός μπάρας Ειδοποίησης</item>
+        <item>Συναγερμός μπάρας + τόνος Ειδοποίησης</item>
+        <item>Συναγερμός μπάρας Ειδοποίησης + δόνηση</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Απάντηση</item>
+        <item>Απόρριψη</item>
+        <item>Απόρριψη κλήσης με SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Καμία υπενθύμιση</item>
+        <item>Υπενθύμιση Μπάρας Ειδοποίησης</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Επεξεργασία Θυρίδας Email</item>
+        <item>Αντίγραφο Ασφαλείας Τώρα</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Διαγραφή</item>
+        <item>Αλλαγή</item>
+        <item>ΑΠοστολή Μηνύματος</item>
+        <item>Κλήση</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Μηνύματα και Κλήσεις</item>
+        <item>Εισερχόμενη κλήση</item>
+        <item>Μήνυμα</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Επαφές μόνο</item>
+        <item>ΛευκήΛίστα μόνο</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Εισαγωγή από τις Εισερχόμενες Κλήσεις</item>
+        <item>Εισαγωγή από Ιστορικό SMS</item>
+        <item>Εισαγωγή από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Φραγή ΜαύρηςΛίστας μόνο</item>
+        <item>Επιτρέπονται Επαφές μόνο</item>
+        <item>Επιτρέπεται ΛευκήΛίστα μόνο</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Εισαγωγή από Ιστορικό Κλήσεων</item>
+        <item>Εισαγωγή από Ιστορικό SMS</item>
+        <item>Εισαγωγή από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Κλείστε τη ΜαύρηΛίστα.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Προσθήκη από Ιστορικό Κλήσεων</item>
+        <item>Προσθήκη από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Προσθήκη από Ιστορικό SMS</item>
+        <item>Προσθήκη από Επαφές</item>
+        <item>Προσθήκη χειροκίνητα</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Κλείστε τη ΜαύρηΛίστα.</item>
+        <item>Αναφορά</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Κλήση</item>
+        <item>Αποστολή SMS</item>
+        <item>Κλείστε τη ΜαύρηΛίστα.</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Χειροκίνητη ενημέρωση</item>
+        <item>Καθημερινά</item>
+        <item>Εβδομαδιαία</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Το όνομα της μητέρας μου;</item>
+        <item>Το αγαπημένο μου φρούτο;</item>
+        <item>Τα γενέθλια του πατέρα μου;</item>
+        <item>Το αγαπημένο μου τραγούδι;</item>
+        <item>Το όνομα του κατοικίδιού μου;</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>Κάθε 10 λεπτά</item>
+        <item>Κάθε 20 λεπτά</item>
+        <item>Κάθε 30 λεπτά</item>
+        <item>Κάθε 1 ώρα</item>
+        <item>Κάθε 2 ώρες</item>
+        <item>Κάθε 3 ώρες</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Επιστροφή τόνου κατειλλημένου</item>
+        <item>Επιστροφή Κλειστή</item>
+        <item>Επιστροφή Τερματισμός</item>
+        <item>Επιστροφή Κενού Αριθμού</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Ρυθμίσεις</item>
+        <item>Ενημέρωση</item>
+        <item>Σχετικά</item>
+    </string-array>
+</resources>

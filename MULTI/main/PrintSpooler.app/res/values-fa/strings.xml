@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">هماهنگ‌کننده چاپ</string>
+    <string name="advanced_settings_button">تنظیمات چاپگر</string>
+    <string name="print_button">چاپ</string>
+    <string name="save_button">ذخیره</string>
+    <string name="label_destination">مقصد</string>
+    <string name="label_copies">کپی‌ها</string>
+    <string name="label_paper_size">اندازه کاغذ</string>
+    <string name="label_color">رنگی</string>
+    <string name="label_orientation">جهت</string>
+    <string name="label_pages">صفحات (%1$s)</string>
+    <string name="pages_range_example">‏‏‎مثلاً ۱—۵،‏۹،۷—۱۰</string>
+    <string name="print_preview">پیش‌نمایش چاپ</string>
+    <string name="install_for_print_preview">‏نصب نمایشگر PDF برای پیش‌نمایش</string>
+    <string name="printing_app_crashed">برنامه چاپ خراب شد</string>
+    <string name="page_count_unknown">صفحات</string>
+    <string name="generating_print_job">در حال ایجاد کار چاپ</string>
+    <string name="save_as_pdf">‏ذخیره به‌عنوان PDF</string>
+    <string name="all_printers">همه چاپگرها...</string>
+    <string name="print_dialog">چاپ گفتگو</string>
+    <string name="search">جستجو</string>
+    <string name="all_printers_label">همه چاپگرها</string>
+    <string name="add_print_service_label">افزودن سرویس</string>
+    <string name="print_search_box_shown_utterance">کادر جستجو نمایان شد</string>
+    <string name="print_search_box_hidden_utterance">کادر جستجو پنهان شد</string>
+    <string name="print_add_printer">افزودن چاپگر</string>
+    <string name="print_select_printer">انتخاب چاپگر</string>
+    <string name="print_forget_printer">فراموش کردن چاپگر</string>
+    <string name="choose_print_service">انتخاب سرویس چاپ</string>
+    <string name="print_searching_for_printers">در حال جستجو برای چاپگرها</string>
+    <string name="print_no_printers">هیچ چاپگری یافت نشد</string>
+    <string name="printing_notification_title_template">در حال چاپ %1$s</string>
+    <string name="cancelling_notification_title_template">در حال لغو %1$s</string>
+    <string name="failed_notification_title_template">خطای چاپگر %1$s</string>
+    <string name="blocked_notification_title_template">چاپگر، کار %1$s را مسدود کرد</string>
+    <string name="cancel">لغو</string>
+    <string name="restart">راه‌اندازی مجدد</string>
+    <string name="no_connection_to_printer">اتصال با چاپگر برقرار نیست</string>
+    <string name="reason_unknown">نامعلوم</string>
+    <string name="printer_unavailable">%1$s - در دسترس نیست</string>
+    <string name="print_error_default_message">کار چاپ ایجاد نشد</string>
+</resources>

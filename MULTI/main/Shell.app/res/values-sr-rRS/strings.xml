@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Izveštaj o grešci je snimljen</string>
+    <string name="bugreport_finished_text">Dodirnite da biste delili izveštaj o grešci</string>
+    <string name="bugreport_confirm">Izveštaji o greškama sadrže podatke iz različitih sistemskih datoteka evidencije, uključujući lične i privatne podatke. Delite izveštaje o greškama samo sa aplikacijama i ljudima u koje imate poverenja.</string>
+    <string name="bugreport_confirm_repeat">Prikaži ovu poruku sledeći put</string>
+</resources>

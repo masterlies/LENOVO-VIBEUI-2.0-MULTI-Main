@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Upakovani program za instalaciju</string>
+    <string name="next">Sledeće</string>
+    <string name="install">Instaliraj</string>
+    <string name="done">Gotovo</string>
+    <string name="security_settings_desc">Dozvoli da ova aplikacija:</string>
+    <string name="cancel">Otkaži</string>
+    <string name="unknown">Nepoznato</string>
+    <string name="installing">Instaliranje...</string>
+    <string name="install_done">Aplikacija je instalirana.</string>
+    <string name="install_confirm_question">Želite li da instalirate ovu aplikaciju? Imaće pristup sledećem:</string>
+    <string name="install_confirm_question_no_perms">Želite li da instalirate ovu aplikaciju? Ne zahteva poseban pristup.</string>
+    <string name="install_confirm_question_update">Želite li da instalirate ažuriranje za ovu postojeću aplikaciju? Postojeći podaci neće biti izgubljeni. Ažurirana aplikacija imaće pristup sledećem:</string>
+    <string name="install_confirm_question_update_system">Želite li da instalirate ažuriranje za ovu ugrađenu aplikaciju? Postojeći podaci neće biti izgubljeni. Ažurirana aplikacija će imati pristup sledećem:</string>
+    <string name="install_confirm_question_update_no_perms">Da li želite da instalirate ažuriranje ove postojeće aplikacije? Postojeći podaci neće biti izgubljeni. Nije potreban poseban pristup.</string>
+    <string name="install_confirm_question_update_system_no_perms">Da li želite da instalirate ažuriranje ove ugrađene aplikacije? Postojeći podaci neće biti izgubljeni. Nije potreban poseban pristup.</string>
+    <string name="install_failed">Aplikacija nije instalirana.</string>
+    <string name="install_failed_invalid_apk">Izgleda da je paket oštećen.</string>
+    <string name="install_failed_inconsistent_certificates">Već je instaliran paket sa istim imenom i sukobljenim potpisom.</string>
+    <string name="install_failed_older_sdk">Paket funkcioniše samo na novijim verzijama Android-a.</string>
+    <string name="install_failed_cpu_abi_incompatible">Ova aplikacija nije kompatibilna sa telefonom.</string>
+    <string name="install_failed_file_not_found">Navedeni paket je izbrisan pre nego što je instalacija završena.</string>
+    <string name="install_failed_verify_failed">Paket nije prošao verifikaciju i ne može da se instalira.</string>
+    <string name="install_failed_verify_timeout">Vreme je isteklo pri pokušaju da se verifikuje paket. Pokušajte ponovo da ga instalirate kasnije.</string>
+    <string name="install_failed_msg">Nije moguće instalirati aplikaciju %1$s na telefon.</string>
+    <string name="launch">Otvori</string>
+    <string name="unknown_apps_dlg_title">Instaliranje je blokirano</string>
+    <string name="unknown_apps_dlg_text">Iz bezbednosnih razloga na telefonu je blokirana instalacija aplikacija sa nepoznatih izvora.</string>
+    <string name="ok">Potvrdi</string>
+    <string name="settings">Podešavanja</string>
+    <string name="allow_source_dlg_title">Novi izvor za aplikacije</string>
+    <string name="allow_source_dlg_text">"%1$s želi da instalira druge aplikacije.
+
+Želite li to da dozvolite sada i u budućnosti?"</string>
+    <string name="manage_applications">Upravljanje aplikacijama</string>
+    <string name="dlg_app_replacement_title">Želite li da zamenite aplikaciju?</string>
+    <string name="dlg_app_replacement_statement">"Aplikacija koju instalirate zameniće drugu aplikaciju.
+
+Svi prethodni korisnički podaci biće sačuvani."</string>
+    <string name="dlg_sys_app_replacement_statement">"Ovo je sistemska aplikacija.
+
+Svi prethodni korisnički podaci biće sačuvani."</string>
+    <string name="out_of_space_dlg_title">Nema više mesta</string>
+    <string name="out_of_space_dlg_text">Nije moguće instalirati aplikaciju %1$s. Oslobodite dodatni prostor i pokušajte ponovo.</string>
+    <string name="dlg_ok">Potvrdi</string>
+    <string name="app_not_found_dlg_title">Aplikacija nije pronađena</string>
+    <string name="app_not_found_dlg_text">Aplikacija nije pronađena na listi instaliranih aplikacija.</string>
+    <string name="uninstall_application_title">Deinstaliranje aplikacije</string>
+    <string name="uninstall_update_title">Deinstaliranje ažuriranja</string>
+    <string name="uninstall_activity_text">%1$s je deo sledeće aplikacije:</string>
+    <string name="uninstall_application_text">Da li želite da deinstalirate ovu aplikaciju?</string>
+    <string name="uninstall_application_text_all_users">Da li želite da deinstalirate ovu aplikaciju za <b>sve</b> korisnike? Aplikacija i podaci koji se na nju odnose biće uklonjeni za <b>sve</b> korisnike ovog uređaja.</string>
+    <string name="uninstall_update_text">Da li želite da zamenite ovu aplikaciju fabričkom verzijom?</string>
+    <string name="uninstalling">Deinstaliranje...</string>
+    <string name="uninstall_done">Deinstaliranje je završeno.</string>
+    <string name="uninstall_failed">Deinstaliranje nije uspelo.</string>
+    <string name="uninstall_failed_device_policy_manager">Nije moguće deinstalirati zato što je ovaj paket aktivan administrator uređaja.</string>
+    <string name="manage_device_administrators">Upravljaj administratorima uređaja</string>
+    <string name="uninstall_failed_msg">Nije moguće deinstalirati aplikaciju %1$s.</string>
+    <string name="Parse_error_dlg_title">Greška prilikom raščlanjivanja</string>
+    <string name="Parse_error_dlg_text">Došlo je do problema pri raščlanjivanju paketa.</string>
+    <string name="newPerms">Novo</string>
+    <string name="allPerms">Sve</string>
+    <string name="privacyPerms">Privatnost</string>
+    <string name="devicePerms">Pristup uređaju</string>
+    <string name="no_new_perms">Ovo ažuriranje ne zahteva nove dozvole.</string>
+    <string name="grant_confirm_question">Da li želite da odobrite sledeće dozvole? Odobrićete pristup za:</string>
+</resources>

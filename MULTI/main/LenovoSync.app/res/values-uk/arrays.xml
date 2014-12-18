@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Очікування</item>
+        <item>Резервне копіювання</item>
+        <item>Скопійовано</item>
+        <item>Помилка</item>
+        <item>ОК</item>
+        <item>ОК</item>
+        <item>Скасовано</item>
+        <item>ОК</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Очікування</item>
+        <item>Завантаження</item>
+        <item>Видалити</item>
+        <item>Помилка</item>
+        <item>Оновити</item>
+        <item>Установлено</item>
+        <item>Скасовано</item>
+        <item>Інсталяція</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Змінити назву альбому</item>
+        <item>Видалити альбом</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit — це безкоштовний мобільний застосунок. Але оператори стягуватимуть плату за спожитий під час користування й завантаження мережний трафік</item>
+        <item>Так.</item>
+        <item>Програма SYNCit для надійного зберігання відомостей про користувачів застосовує механізми шифрування подібні до тих, що використовуються в інтернет-банкінгу. Вона безперечно гарантує недоторканість особистих даних та інформації й унеможливлює їх виток.</item>
+        <item>Програма SYNCit автоматично об’єднає контакти, що дублюються у вашому телефоні.</item>
+        <item>Звичайно, так. Якщо на вашому телефоні встановлена одна з перелічених нижче систем: Android, iOS, Symbian або підтримка Java, ви знайдете необхідну версію програми.</item>
+        <item>Так, вона підтримує операційні системи Symbian, iOS, Android та платформу Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Чи треба платити за SYNCit?</item>
+        <item>Чи є SYNCit і Android Backup однаковими програмами?</item>
+        <item>Наскільки безпечна програма SYNCit? Чи можливе неправомірне використання мого телефонного номеру або резервних даних?</item>
+        <item>Чому після резервного копіювання кількість контактів скоротилася?</item>
+        <item>У мене телефон іншого виробника. Чи можу я скористатися службою SYNCit?</item>
+        <item>Чи підтримує SYNCit інші платформи?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Контакти</item>
+        <item>Повідомлення</item>
+        <item>Журнали дзвінків</item>
+    </string-array>
+</resources>

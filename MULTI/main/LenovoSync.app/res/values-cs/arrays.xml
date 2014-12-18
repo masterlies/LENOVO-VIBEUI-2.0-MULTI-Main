@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Čekání</item>
+        <item>Zálohování</item>
+        <item>Zálohováno</item>
+        <item>Chyba</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Zrušeno</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Čekání</item>
+        <item>Stahování</item>
+        <item>Odinstalovat</item>
+        <item>Chyba</item>
+        <item>Aktualizace</item>
+        <item>Nainstalováno</item>
+        <item>Zrušeno</item>
+        <item>Instalace</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Změnit název alba</item>
+        <item>Odstranit album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit je bezplatná mobilní aplikace, ale využití sítě ze strany aplikace bude zpoplatněno operátory.</item>
+        <item>Ano.</item>
+        <item>SYNCit ukládá informace uživatele s šifrováním srovnatelným s online bankovními systémy. Rozhodně dokáže zamezit úniku osobních dat a informací.</item>
+        <item>SYNCit automaticky sloučí duplicitní kontakty v telefonu.</item>
+        <item>Samozřejmě můžete, pokud váš telefon používá jeden z následujících systémů: Android, iOS, Symbian nebo systém podporující jazyk Java (můžete si vybrat vhodnou verzi).</item>
+        <item>Ano, podporuje platformy Symbian, iOS, Android a Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Je aplikace SYNCit zpoplatněna?</item>
+        <item>Jsou SYNCit a Android Backup stejný software?</item>
+        <item>Je aplikace SYNCit bezpečná? Odcizí moje telefonní číslo nebo zálohovaná data?</item>
+        <item>Proč se po zálohování zmenší počet kontaktů?</item>
+        <item>Můj telefon není značky Lenovo, mohu přesto aplikaci SYNCit používat?</item>
+        <item>Podporuje aplikace SYNCit jiné platformy?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontakty</item>
+        <item>Zprávy</item>
+        <item>Protokoly hovorů</item>
+    </string-array>
+</resources>

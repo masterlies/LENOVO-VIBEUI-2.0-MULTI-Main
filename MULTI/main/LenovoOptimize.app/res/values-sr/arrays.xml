@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Podrazumevane metode unosa</item>
+        <item>Podrazumevani softver za stoni računar</item>
+        <item>Podrazumevani softver za Internet</item>
+        <item>Podrazumevani softver za pozivnu vezu</item>
+        <item>Podrazumevani softver za SMS</item>
+        <item>Podrazumevani softver za elektronsku poštu</item>
+        <item>Podrazumevani pregledač slika</item>
+        <item>Podrazumevani softver za kameru</item>
+        <item>Podrazumevani softver za video zapise</item>
+        <item>Podrazumevani softver za video zapise na internetu</item>
+        <item>Podrazumevani softver za audio zapise</item>
+        <item>Podrazumevani softver za audio zapise na internetu</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Uređaj za pokretanje</item>
+        <item>Na telefonu</item>
+        <item>Prijem SMS poruka</item>
+        <item>Umrežavanje Opreme</item>
+        <item>Instalacija softvera</item>
+        <item>Otključavanje crnog ekrana</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Preporuke za sistem</item>
+        <item>Forsirana instalacija na telefon</item>
+        <item>Forsirana instalacija na podrazumevanu memorijsku karticu</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Uključivanje</item>
+        <item>Internet veza</item>
+        <item>Poziv</item>
+        <item>SMS</item>
+        <item>Pročitaj adresar</item>
+        <item>Preuzmi lokaciju</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

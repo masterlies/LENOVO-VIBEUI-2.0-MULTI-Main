@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Program za instaliranje sertifikata</string>
+    <string name="pick_file_title">Izbor sertifikata</string>
+    <string name="pkcs12_password_dialog_title">Izdvajanje sertifikata</string>
+    <string name="extracting_pkcs12">Izdvajanje...</string>
+    <string name="pkcs12_file_password_dialog_title">Izdvajanje iz datoteke %s</string>
+    <string name="name_credential_dialog_title">Imenovanje sertifikata</string>
+    <string name="credential_name">Naziv sertifikata:</string>
+    <string name="credential_password">Unesite lozinku da biste izdvojili sertifikate.</string>
+    <string name="credential_info">Paket obuhvata:</string>
+    <string name="p12_description">Sertifikati u PKCS12 skladištu za ključ.</string>
+    <string name="one_userkey">ključ za jednog korisnika</string>
+    <string name="one_usercrt">sertifikat za jednog korisnika</string>
+    <string name="one_cacrt">jedan CA sertifikat</string>
+    <string name="n_cacrts">%d CA sertifikati</string>
+    <string name="password_error">Unesite tačnu lozinku.</string>
+    <string name="password_empty_error">Unesite lozinku.</string>
+    <string name="name_empty_error">Unesite ime.</string>
+    <string name="name_char_error">Unesite ime sastavljeno samo od slova i brojeva.</string>
+    <string name="storage_error">Nije moguće sačuvati sertifikat. Dodirnite Potvrdi da biste pokušali ponovo.</string>
+    <string name="unable_to_save_cert">Nije moguće sačuvati sertifikat. Skladište akreditiva nije omogućeno ili nije pravilno pokrenuto.</string>
+    <string name="cert_not_saved">Sertifikat nije instaliran.</string>
+    <string name="no_cert_to_saved">Nema sertifikata za instaliranje.</string>
+    <string name="invalid_cert">Sertifikat je nevažeći.</string>
+    <string name="cert_is_added">%s je instaliran.</string>
+    <string name="cert_too_large_error">Instalacija nije moguća jer je sertifikat prevelik.</string>
+    <string name="cert_missing_error">Instalacija nije moguća jer nije moguće pronaći datoteku sertifikata.</string>
+    <string name="cert_read_error">Instalacija nije moguća jer nije moguće čitati datoteku sertifikata.</string>
+    <string name="no_cert_file_found">U USB memoriji nije pronađena nijedna datoteka sa sertifikatom.</string>
+    <string name="sdcard_not_present">USB memorija nije dostupna.</string>
+    <string name="only_primary_user_allowed">Samo vlasnik ovog uređaja može da instalira sertifikate.</string>
+    <string name="credential_usage_label">Korišćenje akreditiva:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profile_title_list">
+        <item>ทั่วไป</item>
+        <item>ปิดเสียง</item>
+        <item>สั่นเตือน</item>
+        <item>กลางแจ้ง</item>
+        <item>กำลังขับรถ</item>
+    </string-array>
+</resources>

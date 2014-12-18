@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Информация</string>
+    <string name="Ok">ОК</string>
+    <string name="Cancel">Отказ</string>
+    <string name="app_name">Компас</string>
+    <string name="calibrate">Калибриране</string>
+    <string name="latitude">Географска ширина</string>
+    <string name="longitude">Географска дължина</string>
+    <string name="calibrate_success">Калибрирането е завършено</string>
+    <string name="ignore">Игнориране</string>
+    <string name="cannot_get_location">Неуспешно извличане на местоположението.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">Възможно е в близост да действат магнитни смущения – хванете телефона и опишете с него фигура във формата на \"8\", както е показано на изображението по-горе. Диалоговият прозорец ще се затвори автоматично, ако калибрирането е успешно.</string>
+    <string name="Warn">Възможно е в близост да действат магнитни смущения</string>
+    <string name="click_to_location">Щракнете за извличане на GPS местоположение</string>
+    <string name="warn_message">Разрешаване на придобиването на информация за текущото местоположение чрез GPS или мрежовото местоположение?</string>
+    <string name="no_warn_later">Не показвай това повече</string>
+    <string name="start_calibration">Разклатете телефона за калибриране</string>
+    <string name="no_location_server">Услугата за местоположение е забранена</string>
+    <string name="no_location">--</string>
+    <string name="DoNotSHowAgain">Не показвай повече</string>
+</resources>

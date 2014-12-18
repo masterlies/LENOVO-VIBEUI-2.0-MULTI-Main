@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>ล็อคหน้าจอ</item>
+        <item>Launcher</item>
+        <item>ไอคอน</item>
+        <item>ภาพพื้นหลัง</item>
+        <item>systemui</item>
+        <item>ideafriend</item>
+        <item>callscreen</item>
+        <item>วิดเจ็ตของระบบ</item>
+        <item>bootshut</item>
+        <item>แบบอักษร</item>
+    </string-array>
+</resources>

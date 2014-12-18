@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">प्रिंट स्पूलर</string>
+    <string name="advanced_settings_button">प्रिंटर सेटिंग</string>
+    <string name="print_button">प्रिंट करें</string>
+    <string name="save_button">सहेजें</string>
+    <string name="label_destination">गंतव्य</string>
+    <string name="label_copies">प्रतियां</string>
+    <string name="label_paper_size">कागज़ का आकार</string>
+    <string name="label_color">रंग</string>
+    <string name="label_orientation">अभिविन्‍यास</string>
+    <string name="label_pages">पृष्‍ठ (%1$s)</string>
+    <string name="pages_range_example">उदा. 1—5,8,11—13</string>
+    <string name="print_preview">प्रिंट पूर्वावलोकन</string>
+    <string name="install_for_print_preview">पूर्वावलोकन के लिए PDF व्यूअर इंस्टॉल करें</string>
+    <string name="printing_app_crashed">प्रिंटिंग एप्लिकेशन क्रैश हो गया</string>
+    <string name="page_count_unknown">पृष्ठ</string>
+    <string name="generating_print_job">प्रिंट कार्य जनरेट हो रहा है</string>
+    <string name="save_as_pdf">PDF के रूप में सहेजें</string>
+    <string name="all_printers">सभी प्रिंटर...</string>
+    <string name="print_dialog">प्रिंट संवाद</string>
+    <string name="search">खोजें</string>
+    <string name="all_printers_label">सभी प्रिंटर</string>
+    <string name="add_print_service_label">सेवा जोड़ें</string>
+    <string name="print_search_box_shown_utterance">खोज बॉक्स प्रदर्शित है</string>
+    <string name="print_search_box_hidden_utterance">खोज बॉक्स छिपा हुआ है</string>
+    <string name="print_add_printer">प्रिंटर जोड़ें</string>
+    <string name="print_select_printer">प्रिंटर चुनें</string>
+    <string name="print_forget_printer">प्रिंटर को भूल जाएं</string>
+    <string name="choose_print_service">प्रिंट सेवा चुनें</string>
+    <string name="print_searching_for_printers">प्रिंटर खोज रहा है</string>
+    <string name="print_no_printers">कोई प्रिंटर नहीं मिले</string>
+    <string name="printing_notification_title_template">%1$s प्रिंट हो रहा है</string>
+    <string name="cancelling_notification_title_template">%1$s रद्द हो रहा है</string>
+    <string name="failed_notification_title_template">प्रिंटर त्रुटि %1$s</string>
+    <string name="blocked_notification_title_template">प्रिंटर अवरोधित %1$s</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="restart">पुन: आरंभ करें</string>
+    <string name="no_connection_to_printer">प्रिंटर के लिए कोई कनेक्शन नहीं</string>
+    <string name="reason_unknown">अज्ञात</string>
+    <string name="printer_unavailable">%1$s – अनुपलब्ध</string>
+    <string name="print_error_default_message">प्रिंट कार्य जनरेट नहीं किया जा सका</string>
+</resources>

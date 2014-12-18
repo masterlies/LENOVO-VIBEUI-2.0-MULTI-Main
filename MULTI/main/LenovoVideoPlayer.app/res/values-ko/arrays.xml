@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>뉴스</item>
+        <item>스포츠</item>
+        <item>드라마</item>
+        <item>뮤직 비디오</item>
+        <item>영화</item>
+        <item>코미디</item>
+        <item>액션</item>
+        <item>뮤지컬</item>
+        <item>만화</item>
+        <item>버라이어티</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>재생</item>
+        <item>이름 바꾸기</item>
+        <item>삭제</item>
+        <item>정보</item>
+        <item>공유</item>
+        <item>다중 선택</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>재생</item>
+        <item>이름 바꾸기</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>재생</item>
+        <item>삭제</item>
+        <item>목록 지우기</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>재생</item>
+        <item>이 비디오 추가</item>
+    </string-array>
+</resources>

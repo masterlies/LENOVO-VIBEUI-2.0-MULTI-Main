@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Импорт из журнала вызовов</item>
+        <item>Импорт из журнала SMS</item>
+        <item>Импорт из контактов</item>
+        <item>Доб. вручную</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Без предупреждения</item>
+        <item>В панели уведомлений</item>
+        <item>В панели уведомлений с мелодией</item>
+        <item>В панели уведомлений с вибрацией</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Ответить</item>
+        <item>Отклонить</item>
+        <item>Отклонить вызов с помощью SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Без напоминания</item>
+        <item>Напоминание панели уведомлений</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Изм. почт. ящик</item>
+        <item>Выполнить резервное копир.</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Удалить</item>
+        <item>Изменить</item>
+        <item>Отпр. сообщ.</item>
+        <item>Вызов</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Сообщения и вызовы</item>
+        <item>Входящий вызов</item>
+        <item>Сообщение</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Только контакты</item>
+        <item>Только белый список</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Импорт из журнала вызовов</item>
+        <item>Импорт из журнала SMS</item>
+        <item>Импорт из контактов</item>
+        <item>Доб. вручную</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Блокировать черный список</item>
+        <item>Разрешить только контакты</item>
+        <item>Разрешить только белый список</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Импорт из журнала вызовов</item>
+        <item>Импорт из журнала SMS</item>
+        <item>Импорт из контактов</item>
+        <item>Доб. вручную</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Откл. черн. список.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Доб. из журнала вызовов</item>
+        <item>Доб. из контактов</item>
+        <item>Доб. вручную</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Доб. из журнала SMS</item>
+        <item>Доб. из контактов</item>
+        <item>Доб. вручную</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Откл. черн. список</item>
+        <item>Отчет</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Вызов</item>
+        <item>SMS</item>
+        <item>Откл. бел. список</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Обновить вручную</item>
+        <item>Ежедневно</item>
+        <item>Еженедельно</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>Имя моей мамы?</item>
+        <item>Мой любимый фрукт?</item>
+        <item>День рожденья моего папы?</item>
+        <item>Моя любимая песня?</item>
+        <item>Имя моего питомца?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>Каждые 10 минут</item>
+        <item>Каждые 20 минут</item>
+        <item>Каждые 30 минут</item>
+        <item>Каждый 1 час</item>
+        <item>Каждые 2 часа</item>
+        <item>Каждые 3 часа</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Возврат к сигналу занятости</item>
+        <item>Возврат к отключению питания</item>
+        <item>Возврат к завершению работы</item>
+        <item>Возврат к вакантному номеру</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Настр.</item>
+        <item>Обновить</item>
+        <item>О программе</item>
+    </string-array>
+</resources>

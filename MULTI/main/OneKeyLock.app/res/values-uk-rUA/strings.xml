@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блокування</string>
+    <string name="get_screen_lock_admin">Отримати права адміністратора пристрою для налаштування блокування екрана</string>
+</resources>

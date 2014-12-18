@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultname">Avtokomplet</string>
+    <string name="bluetooth_remember_choice">Vedno dovoli</string>
+    <string name="dun_notif_ticker">Zahteva za DUN prek Bluetooth</string>
+    <string name="dun_notif_title">Zahteva za ključ seje za DUN</string>
+    <string name="dun_notif_message">Dotaknite se za povezavo z napravo »%1$sE«</string>
+    <string name="dun_acceptance_timeout_message">Iztekla se je časovna omejitev za sprejem povezave z »%1$s«</string>
+    <string name="bluetooth_dun_request">Zahteva DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s želi uporabljati DUN. Omogoči dostop do %2$s?</string>
+    <string name="ftp_acceptance_dialog_title">%1$s želi pridobiti dostop do map v vašem telefonu. Omogoči dostop do %2$s?</string>
+    <string name="ftp_acceptance_dialog_header">Dostop do mape v telefonu</string>
+    <string name="ftp_session_key_dialog_title">Vnesite ključ seje za %1$s</string>
+    <string name="ftp_session_key_dialog_header">Zahtevan je ključ seje Bluetooth</string>
+    <string name="ftp_acceptance_timeout_message">Iztekla se je časovna omejitev za sprejem povezave z »%1$s«</string>
+    <string name="ftp_authentication_timeout_message">Iztekla se je časovna omejitev za ključ seje vnosa %1$s</string>
+    <string name="ftp_notif_ticker">Zahteva za povezavo Bluetooth</string>
+    <string name="ftp_notif_title">Zahteva za ključ seje za FTP</string>
+    <string name="ftp_notif_message">Dotaknite se za povezavo z napravo »%1$sE«</string>
+    <string name="ftp_notif_active_session">Aktivna seja FTP prek Bluetooth</string>
+    <string name="ftp_notif_connected">Dostop za prenos datotek prek Bluetooth do \"%1$s\".</string>
+    <string name="bluetooth_ftp_request">Zahteva za FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s želi pridobiti dostop do vaših datotek in map. Omogoči dostop do %2$s?</string>
+    <string name="map_acceptance_dialog_title">%1$s želi pridobiti dostop do map v vašem telefonu. Omogoči dostop do %2$s?</string>
+    <string name="map_acceptance_dialog_header">Dostop do mape v telefonu</string>
+    <string name="map_session_key_dialog_title">Vnesite ključ seje za %1$s</string>
+    <string name="map_session_key_dialog_header">Zahtevan je ključ seje Bluetooth</string>
+    <string name="map_acceptance_timeout_message">Iztekla se je časovna omejitev za sprejem povezave z »%1$s«</string>
+    <string name="map_authentication_timeout_message">Iztekla se je časovna omejitev za ključ seje vnosa %1$s</string>
+    <string name="map_notif_ticker">Zahteva za povezavo Bluetooth</string>
+    <string name="map_notif_active_session">Aktivna seja MAP prek Bluetooth</string>
+    <string name="map_notif_connected">Dostop do sporočil prek Bluetooth za \"%1$s\".</string>
+    <string name="map_notif_title">Zahteva za ključ seje za MAP</string>
+    <string name="map_notif_message">Dotaknite se za povezavo z napravo »%1$sE«</string>
+    <string name="map_alert_conn_failed_message">Povezave Bluetooth MAP ni uspela.</string>
+    <string name="bluetooth_mas_request">Zahteva za dostop do sporočil</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s želi pridobiti dostop do vaših sporočil. Omogoči dostop do %2$s?</string>
+    <string name="sap_notif_ticker">Zahteva za dostop do SIM prek Bluetooth</string>
+    <string name="sap_notif_title">Zahteva za ključ seje za SAP</string>
+    <string name="sap_notif_message">Dotaknite se za povezavo z napravo »%1$sE«</string>
+    <string name="sap_acceptance_timeout_message">Iztekla se je časovna omejitev za sprejem povezave z »%1$s«</string>
+    <string name="bluetooth_sap_request">zahteva SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše kartice SIM. Ali dovolim dostop do %2$s?</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>Екран блокування</item>
+        <item>Панель запуску</item>
+        <item>Значки</item>
+        <item>Шпалери</item>
+        <item>Системний інтерфейс</item>
+        <item>ideafriend</item>
+        <item>Екран викликів</item>
+        <item>Системний віджет</item>
+        <item>Завантаження та вимкнення</item>
+        <item>Шрифт</item>
+    </string-array>
+</resources>

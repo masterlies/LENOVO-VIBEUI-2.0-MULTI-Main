@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Teléfono/Almacenamiento de mensajes</string>
+    <string name="ppp_number">ppp_number</string>
+    <string name="read_only">read_only</string>
+    <string name="localized_name">localized_name</string>
+    <string name="v_mccmnc">v_mccmnc</string>
+</resources>

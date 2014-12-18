@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="previewname">
+        <item>zaključavanje zaslona</item>
+        <item>pokretanje</item>
+        <item>ikone</item>
+        <item>pozadina</item>
+        <item>korisničko sučelje sustava</item>
+        <item>ideafriend</item>
+        <item>zaslon za pozivanje</item>
+        <item>sistemski widget</item>
+        <item>bootshut</item>
+        <item>font</item>
+    </string-array>
+</resources>

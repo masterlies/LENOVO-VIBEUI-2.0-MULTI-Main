@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Esperando</item>
+        <item>Realizando copia de seguridad</item>
+        <item>Copia de seguridad realizada</item>
+        <item>Error</item>
+        <item>Aceptar</item>
+        <item>Aceptar</item>
+        <item>Cancelado</item>
+        <item>Aceptar</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Esperando</item>
+        <item>Descargando</item>
+        <item>Desinstalar</item>
+        <item>Error</item>
+        <item>Actualizar</item>
+        <item>Instalado</item>
+        <item>Cancelado</item>
+        <item>Instalando</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Cambiar nombre de álbum</item>
+        <item>Eliminar álbum</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit es una aplicación de móvil gratuita. Pero el coste del tráfico de red producido al cargarla y usarla será cargado por su operador.</item>
+        <item>Sí, lo son.</item>
+        <item>SYNCit almacena la información del usuario en forma de cifrado como el de la banca online. Puede mantener los datos personales y la información seguros, sin posibilidad de filtraciones.</item>
+        <item>SYNCit combinará automáticamente los contactos duplicados en el teléfono.</item>
+        <item>Por su puesto que puede. Si el sistema del teléfono es uno de los siguientes: Android, iOS, Symbian o admite java, puede buscar la versión coincidente que usar.</item>
+        <item>Sí, es compatible con Symbian, iOS, Android y la plataforma Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>¿Cuesta dinero SYNCit?</item>
+        <item>¿Son SYNCit y Android Backup el mismo software?</item>
+        <item>¿Es seguro SYNCit? ¿Robará mi número de teléfono o mis datos de copia de seguridad?</item>
+        <item>¿Por qué se reducen mis contactos después de la copia de seguridad?</item>
+        <item>Mi teléfono no está fabricado por Lenovo. ¿Puedo usar SYNCit?</item>
+        <item>¿Es compatible SYNCit con otras plataformas?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Contactos</item>
+        <item>Mensajes</item>
+        <item>Reg llamadas</item>
+    </string-array>
+</resources>

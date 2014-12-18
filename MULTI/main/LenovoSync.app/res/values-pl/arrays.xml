@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Oczekiwanie</item>
+        <item>Archiwizowanie</item>
+        <item>Zarchiwizowano</item>
+        <item>Błąd</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Anulowano</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Oczekiwanie</item>
+        <item>Pobieranie</item>
+        <item>Odinstaluj</item>
+        <item>Błąd</item>
+        <item>Aktualizuj</item>
+        <item>Zainstalowano</item>
+        <item>Anulowano</item>
+        <item>Instalowanie</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Zmień nazwę albumu</item>
+        <item>Usuń album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit to bezpłatna aplikacja na urządzenia przenośne. Jednak korzystanie z niej generuje transmisję danych, za którą operatorzy mogą naliczać opłaty.</item>
+        <item>Tak, to prawda.</item>
+        <item>Aplikacja SYNCit przechowuje dane użytkowników zaszyfrowane z poziomem bezpieczeństwa odpowiadającym bankowym transakcjom online. Może ona z pewnością ustrzec prywatne dane użytkowników przed wyciekiem.</item>
+        <item>SYNCit automatycznie scali zduplikowane kontakty w telefonie.</item>
+        <item>Oczywiście, że tak, o ile w telefonie działa jeden z następujących systemów operacyjnych: Android, iOS, Symbian albo telefon obsługuje aplikacje Java (podane są informacje o wymaganej wersji).</item>
+        <item>Tak, aplikacja obsługuje platformy Symbian, iOS, Android oraz Java.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Czy SYNCit jest płatna?</item>
+        <item>Czy SYNCit i Android Backup to te same aplikacje?</item>
+        <item>Czy aplikacja SYNCit jest bezpieczna? Czy ktoś może przejąć mój numer telefonu lub moje zarchiwizowane dane?</item>
+        <item>Dlaczego po archiwizacji maleje liczba kontaktów?</item>
+        <item>Mój telefon nie jest firmy Lenovo, czy mogę korzystać z aplikacji SYNCit?</item>
+        <item>Czy SYNCit obsługuje inne platformy?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontakty</item>
+        <item>Wiadomości</item>
+        <item>Rejestry połączeń</item>
+    </string-array>
+</resources>

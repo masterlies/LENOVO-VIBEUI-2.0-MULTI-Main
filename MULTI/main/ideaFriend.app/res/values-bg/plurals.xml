@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контакта с телефонни номера</item>
+        <item quantity="one">1 контакт с телефонен номер</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d открити</item>
+        <item quantity="one">1 открит</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d открити</item>
+        <item quantity="one">1 открит</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">обединен от %0$d източника</item>
+        <item quantity="one">не е обединен</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d групи</item>
+        <item quantity="one">1 група</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d човека от %2$s</item>
+        <item quantity="one">%1$d човек от %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d човека</item>
+        <item quantity="one">%1$d човек</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d гласови съобщения</item>
+        <item quantity="one">Гласова поща</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">%d регистъра на обаждания</item>
+        <item quantity="one">1 регистър на обаждания</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">Търсене на контакти | Общо %d контакта</item>
+        <item quantity="one">Търсене на контакти | Общо 1 контакт</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s разговора ще се изтрият</item>
+        <item quantity="one">1 разговор ще се изтрие</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d непрочетени съобщения.</item>
+        <item quantity="one">%d непрочетено съобщение.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s резултата за \"%2$s\"</item>
+        <item quantity="one">%1$s резултат за \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s човека</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">изпращане на %d отчета за прочитане</item>
+        <item quantity="one">изпращане на %d отчет за прочитане</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d е избрано</item>
+        <item quantity="one">%d е избрано</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">Маркиране на %1$s разговора като прочетени</item>
+        <item quantity="one">Маркиране на 1 разговор като прочетен</item>
+    </plurals>
+</resources>

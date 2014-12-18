@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_effect_list">
+        <item>Vaikimisi</item>
+        <item>Klaver</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organisatsioon</item>
+        <item>Kommentaarid</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_value">
+        <item>Sugu</item>
+        <item>Telefon</item>
+        <item>Sünnipäev</item>
+        <item>Asukoht</item>
+        <item>Kool</item>
+        <item>Ettevõte</item>
+        <item>E-post</item>
+    </string-array>
+    <string-array name="infocenter_master_info_list_sex">
+        <item>Suu on suletud</item>
+        <item>Mees</item>
+        <item>Naine</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Õnnelik</item>
+        <item>Kurb</item>
+        <item>Kelmikas</item>
+        <item>Näitab keelt</item>
+        <item>Üllatunud</item>
+        <item>Suudleb</item>
+        <item>Karjub</item>
+        <item>Lahe</item>
+        <item>Rahasuu</item>
+        <item>Jalg suus</item>
+        <item>Piinlik</item>
+        <item>Ingel</item>
+        <item>Kahevahel</item>
+        <item>Nutab</item>
+        <item>Suu on suletud</item>
+        <item>Naerab</item>
+        <item>Segaduses</item>
+        <item>Süda</item>
+        <item>Vihane</item>
+        <item>Muie</item>
+        <item>Poker face</item>
+        <item>Kustuta</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Kus oled?</item>
+        <item>Millega tegeled?</item>
+        <item>Kiire! Palun helista kohe.</item>
+        <item>Kahjuks olen praegu koosolekul.</item>
+        <item>Helistan peagi tagasi.</item>
+        <item>Ära muretse! Kõik on korras.</item>
+        <item>Liigun kodu poole.</item>
+        <item>Jõuan peagi.</item>
+        <item>Tule kohale!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Piiratud režiim</item>
+        <item>Hoiatusrežiim</item>
+        <item>Tasuta režiim</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Kõrge</item>
+        <item>Keskmine</item>
+        <item>Madal</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM-tähestik</item>
+        <item>Automaatne</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>Uus SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Seade</item>
+        <item>Uus SIM</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Vaikimisi</item>
+        <item>Väike</item>
+        <item>Keskmine</item>
+        <item>Suur</item>
+        <item>Eriti suur</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Edasta otse</item>
+        <item>Lisa saatja nimi</item>
+        <item>Lisa saatja nimi ja number</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Edasta otse</item>
+        <item>Lisa saatja nimi</item>
+        <item>Lisa saatja nimi ja number</item>
+        <item>Küsi iga kord (edasta otse automaatse edastuse abil)</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Telefon</item>
+        <item>UIM-kaart</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekund</item>
+        <item>Muud…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Alati</item>
+        <item>Ainult hääletus režiimis</item>
+        <item>Mitte kunagi</item>
+    </string-array>
+    <string-array name="default_phone_group_list">
+        <item>VIP</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">Información</string>
+    <string name="Ok">Aceptar</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="app_name">Brújula</string>
+    <string name="calibrate">Calibración</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="calibrate_success">Calibración completa</string>
+    <string name="ignore">Ignorar</string>
+    <string name="cannot_get_location">No se puede obtener la ubicación.</string>
+    <string name="location_north">NL</string>
+    <string name="location_south">SL</string>
+    <string name="location_east">EL</string>
+    <string name="location_west">WL</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_east">E</string>
+    <string name="direction_west">W</string>
+    <string name="direction_east_north">NE</string>
+    <string name="direction_east_south">SE</string>
+    <string name="direction_west_north">NW</string>
+    <string name="direction_west_south">SW</string>
+    <string name="Tips">"Es posible que exista una interferencia magnética cerca, siga la imagen de arriba para girar '8' varias veces. El cuadro de diálogo se cerrará automáticamente al finalizar correctamente la calibración."</string>
+    <string name="Warn">Es posible que haya una interferencia magnética cerca</string>
+    <string name="click_to_location">Haga clic para obtener ubicación GPS</string>
+    <string name="warn_message">¿Desea permitir que se obtenga la ubicación actual mediante GPS o la red?</string>
+    <string name="no_warn_later">No volver a mostrar</string>
+    <string name="start_calibration">Agite el teléfono para calibrar la brújula</string>
+    <string name="no_location_server">El servicio de ubicación está deshabilitado</string>
+    <string name="DoNotSHowAgain">No mostrar de nuevo</string>
+</resources>

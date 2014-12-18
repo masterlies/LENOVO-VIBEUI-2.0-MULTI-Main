@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Φωνητ. Εγγραφή</string>
+    <string name="left_timer_format" formatted="false">Υπόλοιπος χρόνος: %02dωρ %02dλ</string>
+    <string name="recording">Εγγραφή %1$s</string>
+    <string name="label_quality">Επιλογή ποιότητας εγγραφής</string>
+    <string name="remain_time">Υπόλοιπη διάρκεια</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Άκυρο</string>
+    <string name="audio_db_artist_name">Καλλιτέχνης εγγραφής</string>
+    <string name="audio_db_album_name">Εγγραφές</string>
+    <string name="audio_db_playlist_name">Οι εγγραφές μου</string>
+    <string name="exit_tip">Είστε βέβαιοι ότι θέλετε να κλείσετε τον καταγραφέα;</string>
+    <string name="error_zero_audio">Δεν είναι δυνατή η εγγραφή ήχου διάρκειας 0 δευτερολέπτων.</string>
+    <string name="error_busy_in_call">Κλείστε το τηλέφωνο και μετά χρησιμοποιήστε τον καταγραφέα!</string>
+    <string name="error_no_space">Ανεπαρκής ελεύθερο χώρος, δεν είναι δυνατή η εγγραφή.</string>
+    <string name="error_sdcard_access">Δεν ήταν δυνατή η πρόσβαση στην κάρτα SD</string>
+    <string name="error_internal">Ο καταγραφέας εκτελείται, κλείστε τον πρώτα!</string>
+    <string name="error_mediadb_new_record">Δεν είναι δυνατή η αποθήκευση του εγγεγραμμένου ήχου</string>
+    <string name="error_app_unsupported">Μη υποστηριζόμενη μορφή</string>
+    <string name="error_insert_sd_card">Τοποθετήστε μια κάρτα SD</string>
+    <string name="error_storage_is_full">Ο χώρος αποθήκευσης είναι γεμάτος</string>
+    <string name="error_max_length">Υπέρβαση μέγιστης διάρκειας</string>
+    <string name="contextmenu_item_delete">Διαγραφή</string>
+    <string name="contextmenu_item_rename">Μετονομασία</string>
+    <string name="contextmenu_item_send_title">Αποστολή</string>
+    <string name="contextmenu_item_setasringtone">Ήχος κλήσης</string>
+    <string name="label_setringtone_success">Η εγγραφή \"%1$s\" ορίστηκε ως ήχος κλήσης με επιτυχία</string>
+    <string name="setringtone_fail">Δεν είναι απαραίτητος ο ορισμός ήχου κλήσης στη δόνηση ή την αθόρυβη λειτουργία</string>
+    <string name="del_selfile_tip">Είστε βέβαιοι ότι θέλετε να διαγράψετε το εγγεγραμμένο αρχείο ήχου;</string>
+    <string name="label_delete_success">Διαγράφηκε με επιτυχία!</string>
+    <string name="input_toolong">Πληκτρολογήσατε πάρα πολλούς χαρακτήρες</string>
+    <string name="file_name_exist">Λυπούμαστε, το όνομα αρχείου δεν μπορεί να προετοιμαστεί</string>
+    <string name="empty_len">Το όνομα αρχείου δεν μπορεί να είναι κενό.</string>
+    <string name="namebad">Το όνομα αρχείου περιέχει μη έγκυρους χαρακτήρες: \\ : ? * > \" | / κλπ.</string>
+    <string name="delete_tip">Διαγραφή εγγραφής</string>
+    <string name="not_select">Δεν επιλέξατε κάποιο στοιχείο</string>
+    <string name="am_file">%1$s:%2$s πμ</string>
+    <string name="pm_file">%1$s:%2$s μμ</string>
+    <string name="selected_number_of">%1$s Επιλέχθηκαν</string>
+    <string name="saved_file_reminder">Το αρχείο αποθηκεύτηκε ως \"%1$s\"</string>
+    <string name="delete_recorded">Διαγραφή αρχείου εγγραφής</string>
+    <string name="delete_muti_msg">Διαγραφή, περιμένετε...</string>
+    <string name="rename_record_file">Μετονομασία αρχείου</string>
+    <string name="soundrecorder_list">Εγγραφές</string>
+    <string name="callrecorder_list">Εγγραφές κλήσεων</string>
+    <string name="mediarecorder_list">Εγγραφές πολυμέσων</string>
+    <string name="high_quality">Λειτουργία συνέντευξης (Υψηλή)</string>
+    <string name="medium_quality">Λειτουργία συζήτησης (Μεσαία)</string>
+    <string name="low_quality">Λειτουργία διαλόγου (Χαμηλή)</string>
+    <string name="exit_record_play">Διακόψτε την εγγραφή πριν από την αναπαραγωγή</string>
+    <string name="exit_play_edit">Διακόψτε την αναπαραγωγή πριν από την επεξεργασία</string>
+    <string name="exit_playOrRecord_delete">Διακόψτε την αναπαραγωγή ή την εγγραφή προτού μεταβείτε στη λειτουργία μαζικής διαγραφής</string>
+    <string name="exit_toast">Κάντε κλικ ξανά για να κλείσετε την εφαρμογή</string>
+    <string name="playlist_text">Λίστα εγγραφής</string>
+    <string name="fileDir_not_exist">Η επιλεγμένη διαδρομή για το αρχείο ήχου δεν υπάρχει!</string>
+</resources>

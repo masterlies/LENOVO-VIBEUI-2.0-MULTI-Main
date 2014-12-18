@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Αριθμομηχανή</string>
+    <string name="error">Σφάλμα</string>
+    <string name="advanced">Για προχωρημένους</string>
+    <string name="clear_history">Εκκαθάριση ιστορικού</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="paste">Επικόλληση</string>
+    <string name="only_digit">Μπορείτε να επικολλήσετε μόνο αριθμούς</string>
+    <string name="basic">Βασικές</string>
+    <string name="copy_success">Αντιγράφηκε</string>
+    <string name="full_input">Μέγιστη τιμή που έχει ήδη εισαχθεί</string>
+</resources>

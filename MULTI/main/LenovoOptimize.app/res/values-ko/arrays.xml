@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>기본 입력 방법</item>
+        <item>기본 데스크톱 소프트웨어</item>
+        <item>기본 인터넷 소프트웨어</item>
+        <item>기본 다이얼 접속 소프트웨어</item>
+        <item>기본 SMS 소프트웨어</item>
+        <item>기본 이메일 소프트웨어</item>
+        <item>기본 사진 뷰어</item>
+        <item>기본 카메라 소프트웨어</item>
+        <item>기본 비디오 소프트웨어</item>
+        <item>기본 온라인 비디오 소프트웨어</item>
+        <item>기본 오디오 소프트웨어</item>
+        <item>기본 온라인 오디오 소프트웨어</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>부팅 장치</item>
+        <item>전화 상</item>
+        <item>SMS 수신 중</item>
+        <item>장비 네트워킹</item>
+        <item>소프트웨어 설치</item>
+        <item>검정 화면 잠금 해제</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>시스템 권장사항</item>
+        <item>전화에 강제 설치</item>
+        <item>기본 메모리 카드에 강제 설치</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>전원 켜기</item>
+        <item>인터넷 연결</item>
+        <item>통화</item>
+        <item>SMS</item>
+        <item>주소록 읽기</item>
+        <item>위치 정보 가져오기</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

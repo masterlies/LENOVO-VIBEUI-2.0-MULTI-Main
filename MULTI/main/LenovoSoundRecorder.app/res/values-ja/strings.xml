@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">レコーダー</string>
+    <string name="left_timer_format" formatted="false">残り時間: %02d 時間 %02d 分</string>
+    <string name="recording">録音中 %1$s</string>
+    <string name="label_quality">録音音質を選択</string>
+    <string name="remain_time">残り時間</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="audio_db_artist_name">録音するアーティスト</string>
+    <string name="audio_db_album_name">録音</string>
+    <string name="audio_db_playlist_name">マイ録音</string>
+    <string name="exit_tip">レコーダーを本当に終了してよろしいですか?</string>
+    <string name="error_zero_audio">オーディオの録音時間を 0 秒にすることはできません。</string>
+    <string name="error_busy_in_call">レコーダーを使用する前に電話を切るください</string>
+    <string name="error_no_space">空き容量が足りないため、録音できません。</string>
+    <string name="error_sdcard_access">SD カードにアクセスできません</string>
+    <string name="error_internal">レコーダーが実行中です。まずレコーダーを終了してください!</string>
+    <string name="error_mediadb_new_record">録音したオーディオを保存できません</string>
+    <string name="error_app_unsupported">サポートされていない形式</string>
+    <string name="error_insert_sd_card">SD カードを挿入してください</string>
+    <string name="error_storage_is_full">ストレージがいっぱいです</string>
+    <string name="error_max_length">最大長に達しました</string>
+    <string name="contextmenu_item_delete">削除</string>
+    <string name="contextmenu_item_rename">名前変更</string>
+    <string name="contextmenu_item_send_title">送信</string>
+    <string name="contextmenu_item_setasringtone">着信音に設定</string>
+    <string name="label_setringtone_success">録音 \"%1$s\" を正常に着信音に設定しました</string>
+    <string name="setringtone_fail">マナー/サイレント・モードでは着信音を設定する必要はありません</string>
+    <string name="del_selfile_tip">選択した音声ファイルを削除してもよろしいですか?</string>
+    <string name="label_delete_success">正常に削除しました!</string>
+    <string name="input_toolong">入力した文字数が多すぎます</string>
+    <string name="file_name_exist">ファイル名を繰り返すことはできません</string>
+    <string name="empty_len">ファイル名を空白にすることはできません。</string>
+    <string name="namebad">ファイル名に \\ : ? * > \" | / などの無効な文字が含まれています。</string>
+    <string name="delete_tip">録音の削除</string>
+    <string name="not_select">オプションが選択されていません</string>
+    <string name="am_file">%1$s:%2$s am</string>
+    <string name="pm_file">%1$s:%2$s pm</string>
+    <string name="selected_number_of">%1$s個の項目を選択</string>
+    <string name="saved_file_reminder">ファイルは「%1$s」という名前で保存されます</string>
+    <string name="delete_recorded">録音ファイルの削除</string>
+    <string name="delete_muti_msg">削除しています。お待ちください...</string>
+    <string name="rename_record_file">ファイル名を変更</string>
+    <string name="soundrecorder_list">録音</string>
+    <string name="callrecorder_list">通話録音</string>
+    <string name="mediarecorder_list">メディア録音</string>
+    <string name="high_quality">インタビュー・モード (高音質)</string>
+    <string name="medium_quality">会話モード (中音質)</string>
+    <string name="low_quality">インタラクション・モード (低音質)</string>
+    <string name="exit_record_play">録音を停止してから再生してください</string>
+    <string name="exit_play_edit">再生を停止してから編集してください</string>
+    <string name="exit_playOrRecord_delete">一括削除モードに移行する前に再生または録音を停止してください</string>
+    <string name="exit_toast">もう一度クリックしてアプリを終了します</string>
+    <string name="playlist_text">録音リスト</string>
+    <string name="fileDir_not_exist">音声ファイルの選択したパスが存在しません!</string>
+</resources>

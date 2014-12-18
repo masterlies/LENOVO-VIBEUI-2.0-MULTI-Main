@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Print Spooler</string>
+    <string name="advanced_settings_button">Nastavení tiskárny</string>
+    <string name="print_button">Tisk</string>
+    <string name="save_button">Uložit</string>
+    <string name="label_destination">Cíl</string>
+    <string name="label_copies">Kopie</string>
+    <string name="label_paper_size">Velikost papíru</string>
+    <string name="label_color">Barva</string>
+    <string name="label_orientation">Orientace</string>
+    <string name="label_pages">STRÁNKY (%1$s)</string>
+    <string name="pages_range_example">např. 1–5, 8, 11–13</string>
+    <string name="print_preview">Náhled tisku</string>
+    <string name="install_for_print_preview">Nainstalovat prohlížeč PDF (umožní náhled)</string>
+    <string name="printing_app_crashed">Aplikace tisku selhala</string>
+    <string name="page_count_unknown">Stránky</string>
+    <string name="generating_print_job">Generování úlohy tisku</string>
+    <string name="save_as_pdf">Uložit ve formátu PDF</string>
+    <string name="all_printers">Všechny tiskárny…</string>
+    <string name="print_dialog">Dialog tisku</string>
+    <string name="search">Hledat</string>
+    <string name="all_printers_label">Všechny tiskárny</string>
+    <string name="add_print_service_label">Přidat službu</string>
+    <string name="print_search_box_shown_utterance">Vyhledávací pole se zobrazuje</string>
+    <string name="print_search_box_hidden_utterance">Vyhledávací pole je skryto</string>
+    <string name="print_add_printer">Přidat tiskárnu</string>
+    <string name="print_select_printer">Vybrat tiskárnu</string>
+    <string name="print_forget_printer">Odstranit tiskárnu</string>
+    <string name="choose_print_service">Zvolte službu tisku</string>
+    <string name="print_searching_for_printers">Vyhledávání tiskáren</string>
+    <string name="print_no_printers">Nebyly nalezeny žádné tiskárny</string>
+    <string name="printing_notification_title_template">Tisk úlohy %1$s</string>
+    <string name="cancelling_notification_title_template">Rušení úlohy %1$s</string>
+    <string name="failed_notification_title_template">Chyba tiskárny u úlohy %1$s</string>
+    <string name="blocked_notification_title_template">Tiskárna blokuje úlohu %1$s</string>
+    <string name="cancel">Zrušit</string>
+    <string name="restart">Restartovat</string>
+    <string name="no_connection_to_printer">Nelze se připojit k tiskárně</string>
+    <string name="reason_unknown">neznámé</string>
+    <string name="printer_unavailable">%1$s – není k dispozici</string>
+    <string name="print_error_default_message">Tiskovou úlohu nelze vytvořit</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot</string>
+    <string name="wifi_tether_configure_ap_text">Configurare hotspot WLAN</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+securitate:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">SSID nu trebuie să aibă mai mult de 32 de caractere</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Securitate: %2$s
+Parolă: %3$s"</string>
+    <string name="wifi_cancel">Anulare</string>
+    <string name="wifi_save">Salvare</string>
+    <string name="wifi_ssid">SSID reţea</string>
+    <string name="wifi_security">Securitate</string>
+    <string name="wifi_password">Parolă</string>
+    <string name="wifi_show_password">Afişare parolă</string>
+    <string name="credentials_password_too_short">parola trebuie să conţină cel puţin 8 caractere.</string>
+    <string name="wifi_channel">Canal preferat</string>
+    <string name="wifi_channel_width">Lăţime canal</string>
+    <string name="wifi_tether_auto_channel_text">Automat</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Hotspot personal pornit</string>
+    <string name="tethered_notification_message">Atingeţi pentru configurare</string>
+    <string name="tether_about_title">Descrierea funcţiei</string>
+    <string name="wlan_connection_title">Hotspot WLAN</string>
+    <string name="wlan_tab_title">WLAN</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Partajare reţea Bluetooth</string>
+    <string name="usb_share_title">Partajare reţea USB</string>
+    <string name="about_wlan">Prin setarea hotspotului WLAN pe acest dispozitiv, se permite altor dispozitive WLAN să se conecteze la reţeaua mobilă a acestui dispozitiv pentru navigare pe web</string>
+    <string name="about_usb">Prin activarea partajării reţelei USB pe acest dispozitiv, se permite dispozitivelor conectate să utilizeze reţeaua mobilă a acestui dispozitiv pentru navigare pe web</string>
+    <string name="about_bt">Prin activarea partajării reţelei Bluetooth pe acest dispozitiv, se permite altor dispozitive Bluetooth să utilizeze reţeaua mobilă a acestui dispozitiv pentru navigare pe web</string>
+    <string name="about_usb_other">"Alte note: 
+ 1. În timpul conectării prin USB, nu puteţi instala cardul SD al dispozitivului pe calculator
+ 2. Conexiunea este valabilă doar pentru Windows Vista, Windows 7, Windows 8 şi Linux"</string>
+    <string name="wifi_tether_settings_title">Informaţii despre configuraţia WLAN</string>
+    <string name="wifi_ap_client_block_title">Blocaţi</string>
+    <string name="wifi_ap_client_unblock_title">Deblocare</string>
+    <string name="wifi_ap_connected_title">Utilizatori conectaţi</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d conectată, %2$d blocată</string>
+    <string name="open_title">Activare recomandări</string>
+    <string name="open_mess">Pentru a utiliza %1$s, trebuie să activaţi funcţia Conexiune de date</string>
+    <string name="open_mess_all">Pentru a utiliza %1$s, trebuie să activaţi WLAN sau funcţia Conexiune de date</string>
+    <string name="cancel">Revocare</string>
+    <string name="go_settings">Accesare setări</string>
+    <string name="open_mess_alert">Reţeaua mobilă este activată. Utilizarea funcţiei %1$s poate genera trafic de date suplimentar şi mai multe taxe. Doriţi să o activaţi?</string>
+    <string name="open">Activare</string>
+</resources>

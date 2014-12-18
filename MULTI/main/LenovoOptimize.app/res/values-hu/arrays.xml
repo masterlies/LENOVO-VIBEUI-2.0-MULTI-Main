@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>Alapértelmezett bemeneti módok</item>
+        <item>Alapértelmezett asztali gép szoftver</item>
+        <item>Alapértelmezett internet szoftver</item>
+        <item>Alapértelmezett tárcsázó szoftver</item>
+        <item>Alapértelmezett SMS szoftver</item>
+        <item>Alapértelmezett e-mail szoftver</item>
+        <item>Alapértelmezett képnézegető</item>
+        <item>Alapértelmezett kamera szoftver</item>
+        <item>Alapértelmezett videó szoftver</item>
+        <item>Alapértelmezett online videó szoftver</item>
+        <item>Alapértelmezett audió szoftver</item>
+        <item>Alapértelmezett online audió szoftver</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>Készülék indítása</item>
+        <item>A telefonon</item>
+        <item>SMS fogadása</item>
+        <item>Berendezés hálózatkezelése</item>
+        <item>Szoftvertelepítés</item>
+        <item>Fekete képernyő feloldása</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Rendszerjavaslatok</item>
+        <item>Telefonra való telepítés kényszerítése</item>
+        <item>Alapértelmezett memóriakártyára való telepítés kényszerítése</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>Tápellátásra kapcsolva</item>
+        <item>Internetkapcsolat</item>
+        <item>Hívás</item>
+        <item>SMS</item>
+        <item>Címjegyzék olvasása</item>
+        <item>Hely lekérése</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Energie-Manager</string>
+    <string name="smart_setting_icon_content">S</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="power_consume_app_freeze">Einfrieren</string>
+    <string name="power_consume_app_unfreeze">Einfrieren aufheben</string>
+    <string name="power_consume_app_uninstall">Deinstallieren</string>
+    <string name="power_consume_app_details">Einzelheiten</string>
+    <string name="battery_usage_use">Verbrauchte Akkuleistung: %s</string>
+    <string name="consumption_call">Telefonate</string>
+    <string name="consumption_screen">Bildschirm</string>
+    <string name="consumption_wlan">WLAN</string>
+    <string name="consumption_cpu">CPU</string>
+    <string name="consumption_radio">Signal-Standby</string>
+    <string name="consumption_bluetooth">Bluetooth</string>
+    <string name="consumption_system">Android OS</string>
+    <string name="power_media">Medien</string>
+    <string name="power_battery">Potenz</string>
+    <string name="power_charge">Ladevorgang</string>
+    <string name="power_consume">Verwendung</string>
+    <string name="power_settings">Einstellungen</string>
+    <string name="power_mode">Modus</string>
+    <string name="percent_mark">%</string>
+    <string name="usage_type_cpu">Gesamtverbrauchszeit CPU</string>
+    <string name="usage_type_cpu_foreground">CPU</string>
+    <string name="usage_type_wake_lock">Eingeschaltet bleiben</string>
+    <string name="usage_type_alarm">Wake-up-System</string>
+    <string name="usage_type_gps">GPS</string>
+    <string name="usage_type_wifi_running">Wi-Fi in Betrieb</string>
+    <string name="usage_type_data_send">Daten gesendet</string>
+    <string name="usage_type_data_recv">Daten empfangen</string>
+    <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_video">Video</string>
+    <string name="usage_type_on_time">Laufzeit</string>
+    <string name="usage_type_no_coverage">Keine Uhrzeit für Signale</string>
+    <string name="battery_history_days" formatted="false">%dT %dStd. %dMin. %dSek.</string>
+    <string name="battery_history_hours" formatted="false">%dStd. %dMin. %dSek.</string>
+    <string name="battery_history_minutes" formatted="false">%dMin. %dSek.</string>
+    <string name="battery_history_seconds">%dSek.</string>
+    <string name="battery_hour_minute" formatted="false">%dStd. %dMin.</string>
+    <string name="battery_hour">%d Stunde(n)</string>
+    <string name="battery_minute">%d Minute(n)</string>
+    <string name="battery_wakelock" formatted="false">%dUhrzeit(en) für %s</string>
+    <string name="battery_wakelock_days" formatted="false">%dt %dh %dm %ss</string>
+    <string name="battery_wakelock_hours" formatted="false">%dh %dm %ss</string>
+    <string name="battery_wakelock_minutes" formatted="false">%dm %ss</string>
+    <string name="battery_wakelock_seconds">%sSek.</string>
+    <string name="battery_alarm_time">%dUhrzeit(en)</string>
+    <string name="battery_screen_time">Seit der letzten vollständigen Aufladung</string>
+    <string name="usage_type_wakelock_screen">Bildschirmruhemodus verhindern</string>
+    <string name="usage_type_wakelock_cpu">CPU-Ruhemodus verhindern</string>
+    <string name="usage_type_sensor">Nutzungssensor</string>
+    <string name="consumption_percent_less">%s</string>
+    <string name="consumption_others">Andere</string>
+    <string name="battery_screen_on_time">Wird verwendet: %s</string>
+    <string name="battery_screen_off_time">Bereitschaft: %s</string>
+    <string name="enter_setting">Starteinstellungen</string>
+    <string name="battery_tab_title_consume">Energieverbrauch</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d Tage, %d Stunden und %d Minuten</string>
+    <string name="battery_history_hours_without_seconds" formatted="false">%d Stunden und %d Minuten</string>
+    <string name="battery_history_minutes_without_seconds">%d Minuten</string>
+    <string name="battery_sensor_info" formatted="false">%d Mal für insgesamt %s</string>
+    <string name="hour">h</string>
+    <string name="minute">Min</string>
+    <string name="second">s</string>
+    <string name="application_not_found">Detaileinstellungen für die Anwendung konnten nicht gefunden werden</string>
+    <string name="mode_turnOff">Aus</string>
+    <string name="mode_turnOn">An</string>
+    <string name="main_switch_dialog_super">Es werden nur Anruf- und Nachrichtenfunktionen aktiviert und alle anderen Funktionen für eine Standby-Zeit von mehreren Tagen deaktiviert.</string>
+    <string name="deep_clear_result_to_white_list_new">Die ausgewählte App ist davon nicht betroffen.</string>
+    <string name="temporary_no_app">Keine Anwendung</string>
+    <string name="progress_loading">Bitte warten…</string>
+    <string name="failed_switch_app_state">Dieser Vorgang ist leider fehlgeschlagen. Sie sind sehr fleißig. Versuchen Sie es später erneut.</string>
+    <string name="package_manger_list_type_third">Benutzeranwendungen</string>
+    <string name="package_manger_list_type_system">Systemanwendungen</string>
+    <string name="btn_return">Zurück</string>
+    <string name="main_switcher">Zeitgesteuerter Wechsel</string>
+    <string name="switcher_detail">Angegebenen Modus im angegebenen Zeitraum automatisch aktivieren</string>
+    <string name="switcher">Zeitgesteuerter Wechsel</string>
+    <string name="switcher_start_time">Startzeit</string>
+    <string name="switcher_end_time">Endzeit</string>
+    <string name="switcher_tag">Für diesen Zeitraum aktiviert</string>
+    <string name="switcher_target_custom">Anpassen</string>
+    <string name="mode_changed_dialog">Modus wechseln</string>
+    <string name="no_remind">Eingabeaufforderung nicht anzeigen</string>
+    <string name="new_sim">Neue SIM</string>
+    <string name="application_not_found_activity">App nicht gefunden</string>
+    <string name="classicmode_lable_phone">Tel.</string>
+    <string name="classicmode_lable_mms">SMS</string>
+    <string name="classicmode_lable_contacts">Kontakte</string>
+    <string name="failed_get_safecenter_whitelist">Fehler beim Synchronisieren der weißen Liste des LenovoSafeCenter. Installieren Sie erneut die aktuelle Version des LenovoSafeCenter.</string>
+    <string name="application_not_support_be_launched">Aufgrund der Sicherheitseinstellungen können andere Apps diese App nicht aktivieren.</string>
+    <string name="classic_phone_dialog_entering">Daten werden initialisiert. Bitte warten…</string>
+    <string name="classic_phone_dialog_existing">Daten werden wiederhergestellt. Bitte warten…</string>
+    <string name="consumption_app_button">Software</string>
+    <string name="consumption_hardware_button">Hardware</string>
+    <string name="power_setting_menu_classic_phone">Ultimativer Stromsparmodus</string>
+    <string name="power_setting_menu_smart">Stromsparmodus für Bildschirm, CPU und GPU</string>
+    <string name="power_setting_menu_app_deep_clear">Apps bei ausgeschaltetem Bildschirm deaktivieren</string>
+    <string name="power_setting_menu_consumption">Details zum Energieverbrauch</string>
+    <string name="statistic_assist_title">Zusätzliche Statistikfunktionen</string>
+    <string name="power_consumption_title">Stromsparfunktionen</string>
+    <string name="fragment_tab_deepclear">Apps bei ausgeschaltetem Bildschirm deaktivieren</string>
+    <string name="deep_clear_detail">Nach dem Deaktivieren werden die im Hintergrund laufenden Apps den Ruhezustand des Geräts nicht unterbrechen.</string>
+    <string name="dialog_timing_text">Zum ultimativen Stromsparmodus wechseln?</string>
+    <string name="switcher_summery">Wechselt in den festgelegten Zeiträumen automatisch zum ultimativen Stromsparmodus</string>
+    <string name="switcher_summery_close">Nach der Aktivierung wird in den festgelegten Zeiträumen automatisch zum ultimativen Stromsparmodus gewechselt.</string>
+    <string name="classicmode_hit_text">Ultimativer Stromsparmodus</string>
+    <string name="classic_phone_desktop_shortcut">Ultimativer Stromsparmodus</string>
+    <string name="classic_phone_dialog_title">Aufforderung zum ultimativen Stromsparmodus</string>
+    <string name="classic_phone_dialog_enter">Möchten Sie wirklich in den ultimativen Stromsparmodus wechseln? Sie sind zu gewissenhaft. Machen Sie auch mal eine Pause.</string>
+    <string name="classic_phone_dialog_exist">Möchten Sie den ultimativen Stromsparmodus wirklich beenden?</string>
+    <string name="classic_phone_failed_to_start_service">Fehler beim Starten des ultimativen Stromsparmodus. Es tut uns leid. Wir haben unser Bestes gegeben.</string>
+    <string name="create_classicmode_desktop_shortcut">Desktop-Kurzbefehl für den ultimativen Stromsparmodus erstellen</string>
+    <string name="classicmode_exit_hint_text">Um den ultimativen Stromsparmodus zu verlassen, betätigen Sie die Taste zum Schließen.</string>
+    <string name="setttings_screen_smart_brightness2">Energiesparendes Anzeigemodul</string>
+    <string name="setttings_screen_smart_brightness_detail">Technologie der Sinuswellen zur Helligkeitseinstellung verwenden, um den Energieverbrauch um 5–20 % zu verringern</string>
+    <string name="power_engine_vmx_title">Energiesparendes Rechenmodul</string>
+    <string name="power_engine_vmx_detail">Passt das CPU-System intelligent an, um den Energieverbrauch um 10–25 % zu verringern</string>
+    <string name="power_engine_fps_title">Energiesparendes Grafikmodul</string>
+    <string name="power_engine_fps_detail">Optimiert die GPU, um den Energieverbrauch um 10–25 % zu verringern</string>
+    <string name="power_engine_summery_close">Nach dem Aktivieren wird der Energieverbrauch bei Bildschirm, CPU und GPU intelligent reduziert.</string>
+    <string name="power_engine_summery_close2">Nach dem Aktivieren wird der Energieverbrauch bei Bildschirm und GPU intelligent reduziert.</string>
+    <string name="power_engine_summery_close3">Nach dem Aktivieren wird der Energieverbrauch beim Bildschirm intelligent reduziert.</string>
+    <string name="power_engine_summery_close4">Nach dem Aktivieren wird der Energieverbrauch bei Bildschirm und CPU intelligent reduziert.</string>
+    <string name="power_setting_menu_smart2">Stromsparmodus für Bildschirm</string>
+    <string name="power_setting_menu_smart3">Stromsparmodus für Bildschirm, CPU und GPU</string>
+    <string name="power_setting_menu_smart4">Stromsparmodus für Bildschirm und GPU</string>
+    <string name="power_setting_menu_smart5">Stromsparmodus für Bildschirm und CPU</string>
+    <string name="power_setting_current_battery" formatted="false">Aktuelle Ladung: %s%s</string>
+    <string name="classicmode_lable_clock">Uhr</string>
+</resources>

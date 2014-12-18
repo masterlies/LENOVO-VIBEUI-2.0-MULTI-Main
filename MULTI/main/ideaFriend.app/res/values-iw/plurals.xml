@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d אנשי קשר עם מספרי טלפון</item>
+        <item quantity="one">איש קשר אחד עם מספר טלפון</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d אנשי קשר</item>
+        <item quantity="one">איש קשר אחד</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">נמצאו %d</item>
+        <item quantity="one">נמצא 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">נמצאו %d</item>
+        <item quantity="one">נמצא 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">ממוזג מתוך %0$dמקורות</item>
+        <item quantity="one">לא ממוזג</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d קבוצות</item>
+        <item quantity="one">קבוצה אחת</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d אנשים מתוך %2$s</item>
+        <item quantity="one">%1$d אנשי קשר מתוך %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d אנשים</item>
+        <item quantity="one">אדם %1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d הודעות קוליות</item>
+        <item quantity="one">הודעה קולית</item>
+    </plurals>
+    <plurals name="searchFoundCalllogs">
+        <item quantity="other">נמצאו %d יומני שיחות</item>
+        <item quantity="one">נמצא יומן שיחות אחד</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">חיפוש אנשי קשר | %d אנשי קשר בסה\"כ</item>
+        <item quantity="one">חיפוש אנשי קשר | איש קשר אחד בסה\"כ</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s שיחות יימחקו.</item>
+        <item quantity="one">שיחה אחת תימחק</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d הודעות שלא נקראו.</item>
+        <item quantity="one">הודעה %d שלא נקראה.</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s שניות</item>
+        <item quantity="one">%s שניות</item>
+        <item quantity="few">%s שניות</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s תוצאות עבור 2$s\"</item>
+        <item quantity="one">תוצאה %1$s עבור 2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s אנשים</item>
+    </plurals>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">שולח %d דוחות קריאה</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">נבחר %d</item>
+    </plurals>
+    <plurals name="confirm_mark_conversation_ad_read">
+        <item quantity="other">סימון %1$s שיחות כנקראו</item>
+        <item quantity="one">סימון שיחה אחת כנקראה</item>
+    </plurals>
+</resources>

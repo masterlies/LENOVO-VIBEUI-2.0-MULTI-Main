@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Nastavenia</string>
+    <string name="prompt">Aplikácia %s sa pokúša vytvoriť pripojenie VPN.</string>
+    <string name="current_wifi">Aktuálne pripojenie WLAN:</string>
+    <string name="hotknot_help">Ako zdieľať: V aktuálnom rozhraní spolu pridržte vrchnú polovicu zadnej časti dvojice telefónov (prenos NFC). Riaďte sa pokynmi na obrazovke pre zdieľanie pripojeného účtu WLAN.</string>
+    <string name="title_receive">Prijíma sa...</string>
+    <string name="wlan_connecting">Prijíma sa účet WLAN...</string>
+    <string name="title_finish">Úspešne prijaté</string>
+    <string name="wlan_finish">Účet WLAN úspešne prijatý. Pripojte sa na %1$s a ste online!</string>
+    <string name="send_ap_no_connected">Nemožno zdieľať (pripojený účet WLAN nenájdený)</string>
+    <string name="hotknot_help_note">Poznámka: Prijímajúci telefón musí podporovať zdieľanie účtu WLAN (so vstupom funkcie)</string>
+    <string name="wifi_share">Zdieľanie WLAN</string>
+</resources>

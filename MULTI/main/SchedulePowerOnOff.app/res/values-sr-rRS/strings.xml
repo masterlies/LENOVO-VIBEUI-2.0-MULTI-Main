@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_off">Isključi</string>
+    <string name="yes">Potvrdi</string>
+    <string name="no">Otkaži</string>
+    <string name="schedule_power_on_off_settings_title">Zakaži uključivanje i isključivanje</string>
+    <string name="schedule_power_on_off_time">Vreme</string>
+    <string name="schedule_power_on_off_repeat">Ponovi</string>
+    <string name="schedule_power_on_off_set">Podesi zakazano uključivanje i isključivanje</string>
+    <string name="schedule_power_on_set">Podesi zakazano uključivanje</string>
+    <string name="schedule_power_off_set">Podesi zakazano isključivanje</string>
+    <string name="enable_schpwr">Omogući</string>
+    <string name="disable_schpwr">Onemogući</string>
+    <string name="day">1 dan</string>
+    <string name="days">%s dana</string>
+    <string name="hour">1 sat</string>
+    <string name="hours">%s sata(i)</string>
+    <string name="minute">1 minut</string>
+    <string name="minutes">%s minuta</string>
+    <string name="every_day">Svakog dana</string>
+    <string name="never">Nikad</string>
+    <string name="done">Gotovo</string>
+    <string name="revert">Vrati</string>
+    <string name="schpwr_shutdown_message">Vaš uređaj će biti isključen za %s sekunde(i)</string>
+    <string name="schpwr_shutdown_message_second">Vaš uređaj će biti isključen za %s sekunde(i)</string>
+    <string name="schpwr_power_on">uključeno</string>
+    <string name="schpwr_power_off">isključeno</string>
+    <string name="schpwr_time_invalid">Između vremena za uključivanje / isključivanje mora proteći više od %d minuta</string>
+    <string name="schedule_power_off_time_out_title">Obaveštenje o isteku vremena</string>
+    <string name="schedule_power_off_time_out_summary">Zakazano isključivanje je završeno</string>
+</resources>

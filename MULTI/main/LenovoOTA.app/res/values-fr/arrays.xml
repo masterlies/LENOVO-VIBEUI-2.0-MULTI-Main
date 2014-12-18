@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="enquire_type">
+        <item>Mettre à jour maintenant</item>
+        <item>Mettre à jour dans 30 minutes</item>
+        <item>Mettre à jour dans 6 heures</item>
+        <item>Mettre à jour dans 3 jours</item>
+        <item>Ne jamais demander</item>
+    </string-array>
+    <string-array name="enquire_values">
+        <item>0/0/0</item>
+        <item>1/1/30</item>
+        <item>1/6/60</item>
+        <item>3/24/60</item>
+        <item>360/24/60</item>
+    </string-array>
+</resources>

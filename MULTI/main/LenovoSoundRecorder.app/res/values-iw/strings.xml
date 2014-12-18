@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">רשמקול</string>
+    <string name="left_timer_format" formatted="false">הזמן שנותר: %02dש %02dד</string>
+    <string name="recording">%1$s מקליט</string>
+    <string name="label_quality">בחרו איכות הקלטה</string>
+    <string name="remain_time">הזמן שנותר:</string>
+    <string name="button_ok">אישור</string>
+    <string name="button_cancel">ביטול</string>
+    <string name="audio_db_artist_name">האמן המוקלט</string>
+    <string name="audio_db_album_name">הקלטות</string>
+    <string name="audio_db_playlist_name">ההקלטות שלי</string>
+    <string name="exit_tip">האם אתם בטוחים שברצונכם לצאת מהרשמקול?</string>
+    <string name="error_zero_audio">לא ניתן להקליט שמע באורך של 0 שניות.</string>
+    <string name="error_busy_in_call">יש לנתק ולאחר מכן להשתמש ברשמקול!</string>
+    <string name="error_no_space">אין מספיק שטח פנוי. לא ניתן להקליט.</string>
+    <string name="error_sdcard_access">לא ניתן לגשת לכרטיס SD</string>
+    <string name="error_internal">הרשמקול פועל. נא לסגור אותו תחילה!</string>
+    <string name="error_mediadb_new_record">לא ניתן לשמור את השמע שהוקלט</string>
+    <string name="error_app_unsupported">תבנית לא נתמכת</string>
+    <string name="error_insert_sd_card">חברו כרטיס SD</string>
+    <string name="error_storage_is_full">האחסון מלא</string>
+    <string name="error_max_length">הגעתם לאורך המרבי</string>
+    <string name="contextmenu_item_delete">מחיקה</string>
+    <string name="contextmenu_item_rename">שינוי שם</string>
+    <string name="contextmenu_item_send_title">שליחה</string>
+    <string name="contextmenu_item_setasringtone">הגדירו כצלצול</string>
+    <string name="label_setringtone_success">ההקלטה %1$s הוגדרה בהצלחה כצלצול</string>
+    <string name="setringtone_fail">אין צורך להגדיר צלצול במצב שקט או רטט</string>
+    <string name="del_selfile_tip">האם אתם בטוחים שברצונכם למחוק את קובץ השמע שנבחר?</string>
+    <string name="label_delete_success">נמחק בהצלחה!</string>
+    <string name="input_toolong">הוזנו תווים רבים מדי</string>
+    <string name="file_name_exist">מצטערים, לא ניתן לחזור על שם הקובץ</string>
+    <string name="empty_len">שם הקובץ אינו יכול להיות ריק.</string>
+    <string name="namebad">"שם הקובץ מכיל תווים לא חוקיים: . / \\ : ? > | * וכד'."</string>
+    <string name="delete_tip">מחקו את ההקלטה</string>
+    <string name="not_select">לא בחרתם אפשרות</string>
+    <string name="am_file">%1$s:%2$s בבוקר</string>
+    <string name="pm_file">%1$s:%2$s אחה\"צ</string>
+    <string name="selected_number_of">נבחרו %1$</string>
+    <string name="saved_file_reminder">הקובץ נשמר כ-\"%1$s\"</string>
+    <string name="delete_recorded">מחיקת קובץ ההקלטה</string>
+    <string name="delete_muti_msg">‏‫מוחק, אנא המתינו...‬</string>
+    <string name="rename_record_file">שינוי שם הקובץ</string>
+    <string name="soundrecorder_list">הקלטות</string>
+    <string name="callrecorder_list">הקלטות שיחה</string>
+    <string name="mediarecorder_list">הקלטות מדיה</string>
+    <string name="high_quality">מצב ראיון (גבוהה)</string>
+    <string name="medium_quality">מצב שיחה (בינונית)</string>
+    <string name="low_quality">מצב אינטראקציה (נמוכה)</string>
+    <string name="exit_record_play">יש לעצור את ההקלטה לפני ההפעלה</string>
+    <string name="exit_play_edit">הפסיקו את ההפעלה לפני העריכה</string>
+    <string name="exit_playOrRecord_delete">יש לעצור את ההשמעה או ההקלטה לפני המעבר למצב מחיקת פריטים מרובים</string>
+    <string name="exit_toast">לחצו שוב כדי לצאת מהיישום</string>
+    <string name="playlist_text">רשימת הקלטות</string>
+    <string name="fileDir_not_exist">הנתיב שנבחר לקובץ השמע לא קיים!</string>
+</resources>

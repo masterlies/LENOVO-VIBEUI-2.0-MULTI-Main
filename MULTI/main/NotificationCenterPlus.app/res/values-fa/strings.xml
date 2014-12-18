@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flashlight_notification_title">نور فلاش</string>
+    <string name="flashlight_notification_text">برای بستن نور فلاش اینجا را کلیک کنید</string>
+</resources>

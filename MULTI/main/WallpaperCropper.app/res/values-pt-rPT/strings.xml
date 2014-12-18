@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Recortar padrão de fundo</string>
+    <string name="wallpaper_instructions">Ajustar</string>
+    <string name="wallpaper_load_fail">Não foi possível carregar imagem como padrão de fundo</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_backup_states">
+        <item>Ootan</item>
+        <item>Varundan</item>
+        <item>Varundatud</item>
+        <item>Viga</item>
+        <item>OK</item>
+        <item>OK</item>
+        <item>Tühistatud</item>
+        <item>OK</item>
+    </string-array>
+    <string-array name="app_regain_states">
+        <item>Ootan</item>
+        <item>Allalaadimine</item>
+        <item>Eemalda</item>
+        <item>Viga</item>
+        <item>Uuenda</item>
+        <item>Installeeritud</item>
+        <item>Tühistatud</item>
+        <item>Installeerimine</item>
+    </string-array>
+    <string-array name="cloud_photo_operation_items">
+        <item>Muuda albumi nime</item>
+        <item>Kustuta album</item>
+    </string-array>
+    <string-array name="frequency_answer">
+        <item>SYNCit on tasuta mobiilirakendus, kuid operaator küsib tasu kasutatud võrguside eest.</item>
+        <item>Jah, on küll.</item>
+        <item>SYNCit salvestab kasutaja infot, rakendades internetipankade krüpteerimise taset. See ennetab täielikult isikuandmete ja turvalise info lekkimist.</item>
+        <item>SYNCit ühildab automaatselt sinu telefonis olevad kontaktide duplikaadid.</item>
+        <item>Loomulikud saad, kui sinu telefoni süsteem on üks järgnevatest: Android, iOS, Symbian või Java toega (leiad kasutamiseks sobituva versiooni).</item>
+        <item>Jah, see toetab Symbiani, iOS-i, Androidi ja Java platvormi.</item>
+    </string-array>
+    <string-array name="frequency_question">
+        <item>Kas SYNCit on tasuline?</item>
+        <item>Kas SYNCit ja Android Backup on sama tarkvara?</item>
+        <item>Kas SYNCit on turvaline? Kas see varastab minu telefoninumbri või minu varundatud andmed?</item>
+        <item>Miks minu kontaktide arv pärast varundamist väheneb?</item>
+        <item>Minu telefoni tootja pole Lenovo, kas ma saan ikkagi SYNCiti kasutada?</item>
+        <item>Kas SYNCit toetab teisi platvorme?</item>
+    </string-array>
+    <string-array name="onekeySelectorValues">
+        <item>Kontaktid</item>
+        <item>Sõnumid</item>
+        <item>Kõnelogid</item>
+    </string-array>
+</resources>

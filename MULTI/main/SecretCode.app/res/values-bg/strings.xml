@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Таен код</string>
+    <string name="hardversion">Версия на хардуера:</string>
+    <string name="softversion">Версия на софтуера:</string>
+    <string name="frameworkversion">Версия на платформата:</string>
+    <string name="osversion">Версия на операционната система:</string>
+    <string name="modemversion">Версия на модема:</string>
+    <string name="meid_activity_title">PRL версия</string>
+    <string name="disable_fdn_activity_title">Настройка на FDN</string>
+    <string name="tv_text">"Стартиране на настройките за FDN.
+(Разрешаване/забраняване)"</string>
+    <string name="btn_post">Активиране</string>
+    <string name="btn_neg">Деактивиране</string>
+    <string name="enable_fdn">Активиране</string>
+    <string name="disable_fdn">Деактивиране</string>
+    <string name="reboot_device_title">Рестартиране на устройството</string>
+    <string name="reboot_device_message_pre_on">SS услугата е разрешена</string>
+    <string name="reboot_device_message_pre_off">SS услугата е забранена</string>
+    <string name="reboot_device_message_post">(Необходимо е рестартиране!!!)</string>
+    <string name="reboot">Рестартиране</string>
+    <string name="cancel">Отказ</string>
+    <string name="default_state">Грешка:</string>
+    <string name="cur_state">Текущо състояние на SS услугата:</string>
+    <string name="alert_string">Предупреждение!</string>
+    <string name="alert_message_string">Натискането на бутона [ОК] ще възстанови фабричните настройки и ще изчисти всички потребителски данни; препоръчва се обикновените потребители да го използват с внимание!</string>
+    <string name="alert_message_ums_string">Натискането на бутона [ОК] ще настрои usb.config на режим mass_storage (масово съхранение) за отстраняване на грешки; препоръчва се обикновените потребители да го използват с внимание!</string>
+    <string name="alert_ok">ОК</string>
+    <string name="alert_no">НЕ</string>
+    <string name="framework_inf">Вътрешна версия</string>
+    <string name="commit_cate">Запазване</string>
+    <string name="summary_on">ВКЛ</string>
+    <string name="summary_off">ИЗКЛ</string>
+    <string name="report_log_summary">Подаване на сигнал</string>
+    <string name="report_log_title">Подаване на сигнал</string>
+    <string name="yes_exit">" Да"</string>
+    <string name="no_exit">Не</string>
+    <string name="enable">Разреши</string>
+    <string name="disable">Деактивирано</string>
+    <string name="regulatory_information">Регулативна информация</string>
+</resources>

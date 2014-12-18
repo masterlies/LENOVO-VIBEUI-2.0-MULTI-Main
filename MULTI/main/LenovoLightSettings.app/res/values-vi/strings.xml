@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="light">Đèn báo</string>
+    <string name="breath_settings">Cài đặt chiều rộng</string>
+    <string name="breath_delay">Vòng chiều rộng</string>
+    <string name="breath_delay_info">Đã cài ít độ trễ, sẽ tốn nhiều pin hơn</string>
+    <string name="light_switch_settings">Cài đặt đèn</string>
+    <string name="coming_call">Cuộc gọi đến</string>
+    <string name="miss_call">Cuộc gọi nhỡ</string>
+    <string name="unread_msg">Tin nhắn chưa đọc</string>
+    <string name="battery_low_msg">Pin yếu</string>
+    <string name="other_app_notify">Khác</string>
+    <string name="music_play">Nhạc</string>
+    <string name="screen_on">Màn hình bật</string>
+    <string name="screen_off">Màn hình tắt</string>
+    <string name="power_on_off">Bật/tắt nguồn</string>
+    <string name="charging">Sạc pin</string>
+    <string name="low_battery">Pin yếu</string>
+    <string name="color_settings">Cài đặt màu</string>
+    <string name="color_settings_info">C.đặt màu cho mọi đèn</string>
+    <string name="color_coming_call">Màu đèn của c.gọi đến</string>
+    <string name="color_miss_call">Màu đèn của c.gọi nhỡ</string>
+    <string name="color_unread_msg">Màu đèn của tin nhắn chưa đọc</string>
+    <string name="color_music">Màu đèn của nhạc</string>
+    <string name="color_screen_on">Màu đèn của màn hình bật</string>
+    <string name="color_screen_off">Màu đèn của màn hình tắt</string>
+    <string name="light_show">Hiển thị đèn</string>
+    <string name="light_show_info">Hiển thị đèn đang phát</string>
+    <string name="stop">Dừng</string>
+    <string name="closed">Tắt</string>
+    <string name="open">Bật</string>
+    <string name="multiselect_alert_info">Cần ít nhất một màu!</string>
+</resources>

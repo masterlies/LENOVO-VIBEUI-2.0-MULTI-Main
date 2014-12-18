@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>Tin tức</item>
+        <item>Thể thao</item>
+        <item>Kịch</item>
+        <item>Video nhạc</item>
+        <item>Phim</item>
+        <item>Hài kịch</item>
+        <item>Hành động</item>
+        <item>Nhạc kịch</item>
+        <item>Hoạt hình</item>
+        <item>Chương trình tạp kỹ</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Phát</item>
+        <item>Đổi tên</item>
+        <item>Xóa</item>
+        <item>Thông tin</item>
+        <item>Chia sẻ</item>
+        <item>Chọn Nhiều</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Phát</item>
+        <item>Đổi tên</item>
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Phát</item>
+        <item>Xóa</item>
+        <item>Xóa danh sách</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Phát</item>
+        <item>Thêm video này</item>
+    </string-array>
+</resources>

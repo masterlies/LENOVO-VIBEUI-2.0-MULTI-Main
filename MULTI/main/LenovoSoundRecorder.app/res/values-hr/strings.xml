@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snimač zvuka</string>
+    <string name="left_timer_format" formatted="false">Preostalo vremena: %02dh %02dmin</string>
+    <string name="recording">Snimanje %1$s</string>
+    <string name="label_quality">Odaberite kvalitetu snimke</string>
+    <string name="remain_time">Preostalo vrijeme</string>
+    <string name="button_ok">U redu</string>
+    <string name="button_cancel">Odustani</string>
+    <string name="audio_db_artist_name">Vaši snimci</string>
+    <string name="audio_db_album_name">Zvučni snimci</string>
+    <string name="audio_db_playlist_name">Moji snimci</string>
+    <string name="exit_tip">Želite li zatvoriti snimač?</string>
+    <string name="error_zero_audio">Nije moguće snimiti audiozapis kraći od 0 sekundi</string>
+    <string name="error_busy_in_call">Prekinite razgovor pa onda koristite snimač!</string>
+    <string name="error_no_space">Nedovoljno slobodnog prostora, nije moguće snimati.</string>
+    <string name="error_sdcard_access">Nije moguće pristupiti SD kartici.</string>
+    <string name="error_internal">Snimač je pokrenut, prvo ga zatvorite!</string>
+    <string name="error_mediadb_new_record">Nije moguće spremiti snimljeni zvuk.</string>
+    <string name="error_app_unsupported">Nepodržani format</string>
+    <string name="error_insert_sd_card">Umetnite SD karticu</string>
+    <string name="error_storage_is_full">Prostor za pohranu je pun</string>
+    <string name="error_max_length">Dosegnuta je maksimalna duljina</string>
+    <string name="contextmenu_item_delete">Izbriši</string>
+    <string name="contextmenu_item_rename">Preimenuj</string>
+    <string name="contextmenu_item_send_title">Pošalji</string>
+    <string name="contextmenu_item_setasringtone">Zvuk zvona</string>
+    <string name="label_setringtone_success">Snimka \"%1$s\" uspješno je postavljena kao melodija zvona</string>
+    <string name="setringtone_fail">Nema potrebe za postavljanjem melodije zvona kada je uređaj u načinima rada Tiho i Vibracija</string>
+    <string name="del_selfile_tip">Jeste li sigurni da želite izbrisati snimljenu audiodatoteku?</string>
+    <string name="label_delete_success">Brisanje je uspjelo!</string>
+    <string name="input_toolong">Unijeli ste previše znakova</string>
+    <string name="file_name_exist">Nije moguće ponovno koristiti isti naziv datoteke</string>
+    <string name="empty_len">Naziv datoteke ne može biti prazan.</string>
+    <string name="namebad">Naziv datoteke sadrži nedopuštene znakove : \\ : ? * > \" | / itd.</string>
+    <string name="delete_tip">Izbriši snimku</string>
+    <string name="not_select">Niste odabrali nijednu mogućnost</string>
+    <string name="am_file">%1$s : %2$s am</string>
+    <string name="pm_file">%1$s : %2$s pm</string>
+    <string name="selected_number_of">Odabrano %1$s</string>
+    <string name="saved_file_reminder">Datoteka je sačuvana kao \"%1$s\"</string>
+    <string name="delete_recorded">Izbriši snimljenu audiodatoteku</string>
+    <string name="delete_muti_msg">Brisanje, pričekajte...</string>
+    <string name="rename_record_file">Promijeni naziv snimljene audiodatoteke</string>
+    <string name="soundrecorder_list">Popis snimača zvuka</string>
+    <string name="callrecorder_list">Popis snimača poziva</string>
+    <string name="mediarecorder_list">Popis medijskog snimača</string>
+    <string name="high_quality">Način rada Intervju (Visok)</string>
+    <string name="medium_quality">Način rada Razgovor (Srednji)</string>
+    <string name="low_quality">Način rada Interakcija (Nizak)</string>
+    <string name="exit_record_play">Prije reprodukcije zaustavite snimanje</string>
+    <string name="exit_play_edit">Da biste izmijenili snimku, zaustavite reprodukciju</string>
+    <string name="exit_playOrRecord_delete">Zaustavite reprodukciju ili snimanje prije prelaska na skupno brisanje</string>
+    <string name="exit_toast">Ponovno kliknite da biste zatvorili snimač zvuka</string>
+    <string name="playlist_text">Popis snimki</string>
+    <string name="fileDir_not_exist">Odabrani put za audiodatoteku ne postoji!</string>
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="private_quick_add">
+        <item>Importar do Histórico de Chamadas</item>
+        <item>Importar do Histórico de SMS</item>
+        <item>Importar dos Contactos</item>
+        <item>Adicionar manualmente</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Sem alerta</item>
+        <item>Alerta da barra notific.</item>
+        <item>Alerta da barra notific. + toque alerta</item>
+        <item>Alerta da barra de notific. + vibração</item>
+    </string-array>
+    <string-array name="sms_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Resposta</item>
+        <item>Rejeitar</item>
+        <item>Rejeitar chamada com SMS</item>
+    </string-array>
+    <string-array name="handup_mode">
+        <item>Sem lembrete</item>
+        <item>Lembrete da barra de notificação</item>
+    </string-array>
+    <string-array name="handup_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="call_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="safe_mail_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="safe_mail">
+        <item>Editar Caixa de E-mail</item>
+        <item>Realizar cópia de segurança agora</item>
+    </string-array>
+    <string-array name="black_qucik">
+        <item>Eliminar</item>
+        <item>Alterar</item>
+        <item>Enviar mensagem</item>
+        <item>Chamada</item>
+    </string-array>
+    <string-array name="harsset_black">
+        <item>Mensagens e Chamadas</item>
+        <item>Chamada recebida</item>
+        <item>Mensagem</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Apenas Contactos</item>
+        <item>Apenas Lista branca</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Importar das Chamadas Recebidas</item>
+        <item>Importar do Histórico de SMS</item>
+        <item>Importar dos Contactos</item>
+        <item>Adicionar manualmente</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Bloquear apenas a Lista negra</item>
+        <item>Permitir apenas Contactos</item>
+        <item>Permitir apenas Lista branca</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Importar do Histórico de Chamadas</item>
+        <item>Importar do Histórico de SMS</item>
+        <item>Importar dos Contactos</item>
+        <item>Adicionar manualmente</item>
+    </string-array>
+    <string-array name="antispamhandup_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="antispamquick_operat1">
+        <item>Desligar a Lista negra.</item>
+    </string-array>
+    <string-array name="antispamquick_add">
+        <item>Adicionar do Histórico de Chamadas</item>
+        <item>Adicionar dos Contactos</item>
+        <item>Adicionar manualmente</item>
+    </string-array>
+    <string-array name="antispamquick_add1">
+        <item>Adicionar do Histórico de SMS</item>
+        <item>Adicionar dos Contactos</item>
+        <item>Adicionar manualmente</item>
+    </string-array>
+    <string-array name="antispamquick_operat2">
+        <item>Desligar a Lista negra</item>
+        <item>Reportar</item>
+    </string-array>
+    <string-array name="antispamquick_operat3">
+        <item>Chamada</item>
+        <item>Enviar SMS</item>
+        <item>Desligar a Lista branca</item>
+    </string-array>
+    <string-array name="updatevirus_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="updatevirus_mode">
+        <item>Actualização manual</item>
+        <item>Todos os dias</item>
+        <item>Semanalmente</item>
+    </string-array>
+    <string-array name="array_pwd_question">
+        <item>O nome da minha mãe?</item>
+        <item>A minha fruta favorita?</item>
+        <item>O dia de aniversário do meu pai?</item>
+        <item>A minha música favorita?</item>
+        <item>O nome do meu animal de estimação?</item>
+    </string-array>
+    <string-array name="check_time_entry">
+        <item>A cada 10 minutos</item>
+        <item>A cada 20 minutos</item>
+        <item>A cada 30 minutos</item>
+        <item>A cada 1 horas</item>
+        <item>A cada 2 horas</item>
+        <item>A cada 3 horas</item>
+    </string-array>
+    <integer-array name="check_time_entry_value">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </integer-array>
+    <string-array name="block_list_entries">
+        <item>Devolver toque de ocupado</item>
+        <item>Devolver sinal de desligado</item>
+        <item>Devolver Desligado</item>
+        <item>Devolver Número não atribuído</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Definições</item>
+        <item>Actualizar</item>
+        <item>Acerca</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Feil PIN-kode for %1$s-kortet. Du har %2$d forsøk igjen.</item>
+        <item quantity="one">Feil PIN-kode for %1$s-kortet. Du har %2$d forsøk igjen før du må kontakte operatøren din for å låse opp enheten.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Feil PUK-kode for %1$s-kortet. Du har %2$d forsøk igjen før %1$s-kortet blir permanent ubrukelig.</item>
+        <item quantity="one">Feil PUK-kode for %1$s-kortet. Du har %2$d forsøk igjen før %1$s-kortet blir permanent ubrukelig.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen.</item>
+        <item quantity="one">Feil PIN-kode for SIM-kortet. Du har %d forsøk igjen før du må kontakte operatøren din for å låse opp enheten.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Feil PUK-kode for SIM-kortet. Du har %d forsøk igjen før SIM-kortet blir permanent ubrukelig.</item>
+        <item quantity="one">Feil PUK-kode for SIM-kortet. Du har %d forsøk igjen før SIM-kortet blir permanent ubrukelig.</item>
+    </plurals>
+</resources>

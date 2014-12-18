@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 segundos</item>
+        <item>6 segundos</item>
+        <item>9 segundos</item>
+    </string-array>
+    <string-array name="lenovo_signal_text_list">
+        <item>Intensidad de la señal (mala)</item>
+        <item>Intensidad de la señal (débil)</item>
+        <item>Intensidad de la señal (moderada)</item>
+        <item>Intensidad de la señal (fuerte)</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Gráfica</item>
+        <item>Porcentaje</item>
+    </string-array>
+</resources>

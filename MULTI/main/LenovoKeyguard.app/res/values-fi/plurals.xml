@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Salasanan tulee sisältää vähintään %d kirjainta.</item>
+        <item quantity="one">Salasanan tulee sisältää vähintään yksi kirjain.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Salasanan tulee sisältää vähintään %d pientä kirjainta.</item>
+        <item quantity="one">Salasanan tulee sisältää vähintään yksi pieni kirjain.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Salasanan tulee sisältää vähintään %d isoa kirjainta.</item>
+        <item quantity="one">Salasanan tulee sisältää vähintään yksi iso kirjain.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Salasanan tulee sisältää vähintään %d numeroa.</item>
+        <item quantity="one">Salasanan tulee sisältää vähintään yksi numero.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Salasanan tulee sisältää vähintään %d erikoismerkkiä.</item>
+        <item quantity="one">Salasanan tulee sisältää vähintään yksi erikoismerkki.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Salasanan tulee sisältää vähintään %d merkkiä, jotka eivät ole kirjaimia.</item>
+        <item quantity="one">Salasanan tulee sisältää vähintään yksi merkki, joka ei ole kirjain.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_pin_code">
+        <item quantity="other">Virheellinen %1$s-kortin PIN-koodi. Sinulla on %2$d yritystä jäljellä.</item>
+        <item quantity="one">Virheellinen %1$s-kortin PIN-koodi. Sinulla on %2$d yritys jäljellä, ennen kuin sinun on otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</item>
+    </plurals>
+    <plurals name="lenovo_kg_password_wrong_puk_code">
+        <item quantity="other">Virheellinen %1$s-kortin PUK-koodi. Sinulla on %2$d yritystä jäljellä, ennen kuin %1$s-kortista tulee pysyvästi käyttökelvoton.</item>
+        <item quantity="one">Virheellinen %1$s-kortin PUK-koodi. Sinulla on %2$d yritys jäljellä, ennen kuin %1$s-kortista tulee pysyvästi käyttökelvoton.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritystä jäljellä.</item>
+        <item quantity="one">Virheellinen SIM-kortin PIN-koodi. Sinulla on %d yritys jäljellä, ennen kuin sinun on otettava yhteys operaattoriin laitteen lukituksen avaamiseksi.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Virheellinen SIM-kortin PUK-koodi. Sinulla on %d yritystä jäljellä, ennen kuin SIM-kortista tulee pysyvästi käyttökelvoton.</item>
+        <item quantity="one">Virheellinen SIM-kortin PUK-koodi. Sinulla on %d yritys jäljellä, ennen kuin SIM-kortista tulee pysyvästi käyttökelvoton.</item>
+    </plurals>
+</resources>
